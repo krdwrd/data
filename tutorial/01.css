@@ -14,7 +14,7 @@ body {
 
 #aboutPageContainer {
   position: relative;
-  width: 450px;
+  max-width: 600px;
   padding: 50px;
 }
 
