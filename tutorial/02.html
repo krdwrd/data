@@ -1,0 +1,616 @@
+<head><base href="http://www.csub.edu/itss/"/><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Information Technology Services Support</title>
+
+
+<script languange="Javascript">
+	var mTmr = "";
+	var aNames = new Array("Links","News","Helpdesk","Labs","Classrooms","RunnerID","FAQs","Policies","AboutITSS");
+	var aOffsets = new Array(0,25,50,75,100,140,165,190,215)
+	var ie4 = (document.all)?true:false;
+	var ns4 = (document.layers)?true:false;
+	var oth = !(ie4 || ns4)?true:false;
+	var notMac = (navigator.appVersion.indexOf("Mac") == -1)?true:false;
+	if (ie4) { show = "visible"; hide = "hidden"; }
+	if (ns4) { show = "show"; hide = "hide"; }
+	function redraw() {
+		if (ie4 || oth) {
+			mPosY = 137;
+// Remove the following line if headline is not used 
+			if (document.title == "Information Technology Services Support") mPosY += 72;
+			if (oth) mPosY -=25;
+			mPosX = 180 + ((parseInt((document.body.offsetWidth - 20 - 750)/2) < 10) ? 10 : parseInt((document.body.offsetWidth - 20 - 750)/2));
+			for (i=0; i<aNames.length; i++) {
+				eval(aNames[i]+".style.left = mPosX + \"px\"");
+				eval(aNames[i]+".style.top  = mPosY + "+aOffsets[i]+" + \"px\"");
+			}
+		}
+		if (ns4) {
+			mPosY = 102;
+// Remove the following line if headline is not used  (The was 102, it was change on 12/9 to match new headline)
+			if (document.title == "Information Technology Services Support") mPosY += 125;
+			mPosX = 172 + ((parseInt((window.innerWidth - 750)/2) < 0) ? 0 : parseInt((window.innerWidth - 750)/2));
+			for (i=0; i<aNames.length; i++) {
+				eval("document."+aNames[i]+".left = "+mPosX);
+				eval("document."+aNames[i]+".top  = "+(mPosY + aOffsets[i]));
+			}
+		}
+	}
+	function exile() {
+		alert("Hi");
+	}
+	function init() {
+//		document.forms[0].quickLinks.onchange = function exile() { 
+//			if (document.forms[0].quickLinks[document.forms[0].quickLinks.selectedIndex].value.indexOf("ITSS") == -1) window.open(document.forms[0].quickLinks[document.forms[0].quickLinks.selectedIndex].value, "whozits", ""); else document.location.href = document.forms[0].quickLinks[document.forms[0].quickLinks.selectedIndex].value; };
+		document.links[0].target = "new";
+		document.forms[0].target = "new";
+		if (ie4 || oth) {
+			for (i=0; i<aNames.length; i++) {
+				eval(aNames[i]+'.onmouseover = function () { clearTimeout(mTmr); }');
+				eval(aNames[i]+'.onmouseout  = function () { mTmr = setTimeout("'+aNames[i]+'.style.visibility = hide", 250); }');
+			}
+		}
+		if (ns4) {
+			for (i=0; i<aNames.length; i++) {
+				eval('document.'+aNames[i]+'.onmouseover = function () { clearTimeout(mTmr); }');
+				eval('document.'+aNames[i]+'.onmouseout  = function () { mTmr = setTimeout("document.'+aNames[i]+'.visibility = hide", 250); }');
+			}
+		}
+		redraw();
+	}
+	function showPopup(m) {
+		if (notMac) {
+			clearTimeout(mTmr);
+			if (ie4 || oth) {
+				for (i=0; i<aNames.length; i++) eval(aNames[i]+".style.visibility = hide");
+				eval(m+".style.visibility = show");
+			}
+			if (ns4) {
+				for (i=0; i<aNames.length; i++) eval("document."+aNames[i]+".visibility = hide");
+				eval("document."+m+".visibility = show");
+			}
+		}
+	}
+	function hidePopup(m) {
+		if (notMac) {
+			if (ie4 || oth) eval("mTmr = setTimeout('"+m+".style.visibility = hide', 1000)");
+			if (ns4) eval("mTmr = setTimeout('document."+m+".visibility = hide', 1000)");
+		}
+	}
+	if (ie4 || ns4 || oth) { window.onload=init; window.onresize=redraw; }
+</script>
+<style type="text/css">
+	.headertext   { font-family: Arial; font-size:  8pt; }
+	.menutext     { font-family: Arial; font-size:  9pt; font-weight: bold; text-decoration: none; color: #1346AD; }
+	.title        { font-family: Arial; font-size: 16pt; font-weight: bold; text-align: center; }
+	.heading      { font-family: Arial; font-size: 12pt; font-weight: bold; }
+	.text         { font-family: Arial; font-size:  9pt; text-align: justify; }
+	.text_na      { font-family: Arial; font-size:  9pt; }
+	.submenutitle { font-family: Arial; font-size: 10pt; font-weight: bold; color: #FFFFFF; }
+	.submenutext  { font-family: Arial; font-size:  9pt; font-weight: bold; text-decoration: none; color: #1346AD; }
+	.popupmenu    { position: absolute; left: 0px; top: 0px; visibility: hidden; }
+	.popupA       { font-family: Arial; font-size:  8pt; font-weight: bold; text-decoration: none; color: #0000FF; }
+</style></head><body background="/ITSS/backgrnd.gif">
+	<table align="center" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr><td bgcolor="#000000"><img src="/graphics/clear.gif" alt="" height="1" vspace="0"></td></tr>
+		<tr><td><script language="JAVASCRIPT" type="TEXT/JAVASCRIPT">
+
+
+function go(field) {
+	if(field.options[field.selectedIndex].value.length > 0) 
+		document.location.href=field.options[field.selectedIndex].value;
+}
+// Use with quick links
+		function go(field) {
+			if(field.options[field.selectedIndex].value.length > 0) {
+				document.location.href=field.options[field.selectedIndex].value;
+			}
+		}
+		
+	var sURL = unescape(window.location.pathname);
+	var listSites = GetCookie("csubtest");
+	if (listSites == null)	{
+		listSites="/cgi-bin/Sitemap/Sitemap.pl*A-Z Index|/academicaffairs/ *Academic Affairs - Provost|/irts/computerlabs/*Academic Computing Labs|/UnivServices/SSD/access.shtml*Accessibility Complaint Form|/Admissions/*Admission & Records|/advisingcenter/*Advising Center|http://www.csubalumni.com/v1/frontend/alumni/default.asp?*Alumni Association|/AV/*Antelope Valley Extension|/BAS/ *Business Administrative Services|http://bpa.csub.edu/*BPA|http://csubakersfield.bkstore.com/*Campus Bookstore|/cgi-bin/RunnerCal/Display/display.pl*Campus Events|/CampusMap/*Campus Map|/cdc/*Career Development Center|/Catalogs.shtml*Catalogs|http://www.calstate.edu/*Chancellor's Office|/childrenscenter/*Children's Center|https://oraweb2.csub.edu:4700/PROD/prod/schprompt_owncode.P_CrseSearch*Course Schedule|http://www.calstate.edu/BudgetCentral/index.shtml*CSU Budget Central|http://www.csumentor.edu/*CSU Mentor|/*CSUB Homepage|/EUD/ *Extended University Division (EUD)|/TLC/*Faculty TLC|/FacWebDir/*Faculty Web Directory|/FinAid/*Financial Aid & Scholarships|http://firstclass1.csub.edu/*FirstClass Web|/foodservices/*Food Services|http://www.csubfoundation.org/*Foundation|/GradStudies/*Graduate Studies|/Honors/*Honors Program|/hss/*HSS|/InfoRes/*Information Resources|/itv/*Instructional Television|/ISP/*International Students|/AV/*Lancaster Extension|/~sraczkowski/mtc/mtc.shtml*Math Tutoring Center|/InfoRes/MediaServ/about.htx*Media Services|/NSME/*NSM|/olli/*OLLI|/cms/*CMS/Peoplesoft|/ppa/*PPA|/president/*President's office (Administration)|https://oraweb2.csub.edu:4700/PROD/prod/twbkwbis.P_WWWLogin*Registration & Banner Web|/CentInst.shtml*Research, Centers and Institutes|http://www.gorunners.com/index.shtml*Roadrunner Athetics|http://runner.csub.edu/*RunnerMail|/UnivServices/SSD/*SSD-Disabilities Help|/soe/*School of Education|http://www.lib.csub.edu/*Stiern Library|/studentservices/*Student Affairs|/IRTS/Helpdesk/*Student Help Desk|/studentunion/*Student Union|/TeleCom/*Telecommunications|/tii/*Telecom (TII)|/titlev/*Title V|/webservices/*Web Services|/webct/*WebCT|";
+	}
+	if (listSites == "")	{
+		listSites="/cgi-bin/Sitemap/Sitemap.pl*A-Z Index|/academicaffairs/ *Academic Affairs - Provost|/irts/computerlabs/*Academic Computing Labs|/UnivServices/SSD/access.shtml*Accessibility Complaint Form|/Admissions/*Admission & Records|/advisingcenter/*Advising Center|http://www.csubalumni.com/v1/frontend/alumni/default.asp?*Alumni Association|/AV/*Antelope Valley Extension|/BAS/ *Business Administrative Services|http://bpa.csub.edu/*BPA|http://csubakersfield.bkstore.com/*Campus Bookstore|/cgi-bin/RunnerCal/Display/display.pl*Campus Events|/CampusMap/*Campus Map|/cdc/*Career Development Center|/Catalogs.shtml*Catalogs|http://www.calstate.edu/*Chancellor's Office|/childrenscenter/*Children's Center|https://oraweb2.csub.edu:4700/PROD/prod/schprompt_owncode.P_CrseSearch*Course Schedule|http://www.calstate.edu/BudgetCentral/index.shtml*CSU Budget Central|http://www.csumentor.edu/*CSU Mentor|/*CSUB Homepage|/EUD/ *Extended University Division (EUD)|/TLC/*Faculty TLC|/FacWebDir/*Faculty Web Directory|/FinAid/*Financial Aid & Scholarships|http://firstclass1.csub.edu/*FirstClass Web|/foodservices/*Food Services|http://www.csubfoundation.org/*Foundation|/GradStudies/*Graduate Studies|/Honors/*Honors Program|/hss/*HSS|/InfoRes/*Information Resources|/itv/*Instructional Television|/ISP/*International Students|/AV/*Lancaster Extension|/~sraczkowski/mtc/mtc.shtml*Math Tutoring Center|/InfoRes/MediaServ/about.htx*Media Services|/NSME/*NSM|/olli/*OLLI|/cms/*CMS/Peoplesoft|/ppa/*PPA|/president/*President's office (Administration)|https://oraweb2.csub.edu:4700/PROD/prod/twbkwbis.P_WWWLogin*Registration & Banner Web|/CentInst.shtml*Research, Centers and Institutes|http://www.gorunners.com/index.shtml*Roadrunner Athetics|http://runner.csub.edu/*RunnerMail|/UnivServices/SSD/*SSD-Disabilities Help|/soe/*School of Education|http://www.lib.csub.edu/*Stiern Library|/studentservices/*Student Affairs|/IRTS/Helpdesk/*Student Help Desk|/studentunion/*Student Union|/TeleCom/*Telecommunications|/tii/*Telecom (TII)|/titlev/*Title V|/webservices/*Web Services|/webct/*WebCT|";
+	}
+	var middleArray = listSites.split("|");
+	var listArray = new Array();
+	
+	
+	var counter = 0;
+	for(g=0;g<middleArray.length; g++){
+		 var tempArray = middleArray[g].split("*");
+		 listArray[counter] = tempArray[0];
+		 counter++;
+		 listArray[counter] = tempArray[1];
+		 counter++;
+	}
+		
+	var listOptions = makeList();
+	
+	function makeList()	{
+		var placeHolder= "<option></option>";
+		for (var i=0; i< listArray.length; i++)	{
+				if(i != 0) {
+					if (i % 2 == 0){
+						if(listArray[i] != ""){
+							placeHolder +='<option value="' +listArray[i]+ '">';
+						}
+					}else {
+						if(listArray[i] != null){
+							placeHolder +=' ' +listArray[i]+ '</option>';
+						}
+					}
+				}else{
+					placeHolder +='<option value="' +listArray[i]+ '">';
+				}
+			}
+	return placeHolder;
+	}
+	
+	function go(field) {
+		if(field.options[field.selectedIndex].value.length > 0) {
+			document.location.href=field.options[field.selectedIndex].value;
+		}
+	}
+		
+	function getCookieVal (offset) {
+		var endstr = document.cookie.indexOf (";", offset);
+		if (endstr == -1)	{ endstr = document.cookie.length; }
+		return unescape(document.cookie.substring(offset, endstr));
+	}
+	
+	function GetCookie (name) {
+		var arg = name + "=";
+		var alen = arg.length;
+		var clen = document.cookie.length;
+		var i = 0;
+		while (i < clen)	{
+			var j = i + alen;
+			if (document.cookie.substring(i, j) == arg)	{ return getCookieVal (j); }
+			i = document.cookie.indexOf(" ", i) + 1;
+			if (i == 0) break; 
+		}
+		return null;
+	}  
+
+
+	function popUp(URL) {
+	
+	id = "myWindow";
+	eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=750,height=650');");
+	}
+	
+
+</script>			
+  <!-- Quicklinks bar -->
+  <table topmargin="0" leftmargin="0" border="0" width="752">
+  <tbody><tr>
+ <td align="left" width="50"><a target="new" href="/"><img src="/webservices/gallery/images/csub_color.jpg" alt="CSUB" border="0"></a></td>
+	<td colspan="3" width702="" align="right">
+	<div id="newhead_top"><span class="quicklinks">
+		
+		<form target="new" method="post" action="/cgi-bin/Swish-E/swishe.pl" style="margin-bottom: 0px;">
+			<label for="quickLinks"><b>Quick Links:</b></label>
+			<select id="quickLinks" name="quickLinks" style="width: 244px;">
+			<script language="JavaScript"> <!--
+document.write(listOptions);
+			-->
+</script><option></option><option value="/cgi-bin/Sitemap/Sitemap.pl"> A-Z Index</option><option value="/academicaffairs/ "> Academic Affairs - Provost</option><option value="/irts/computerlabs/"> Academic Computing Labs</option><option value="/UnivServices/SSD/access.shtml"> Accessibility Complaint Form</option><option value="/Admissions/"> Admission &amp; Records</option><option value="/advisingcenter/"> Advising Center</option><option value="http://www.csubalumni.com/v1/frontend/alumni/default.asp?"> Alumni Association</option><option value="/AV/"> Antelope Valley Extension</option><option value="/BAS/ "> Business Administrative Services</option><option value="http://bpa.csub.edu/"> BPA</option><option value="http://csubakersfield.bkstore.com/"> Campus Bookstore</option><option value="/cgi-bin/RunnerCal/Display/display.pl"> Campus Events</option><option value="/CampusMap/"> Campus Map</option><option value="/cdc/"> Career Development Center</option><option value="/Catalogs.shtml"> Catalogs</option><option value="http://www.calstate.edu/"> Chancellor's Office</option><option value="/childrenscenter/"> Children's Center</option><option value="https://oraweb2.csub.edu:4700/PROD/prod/schprompt_owncode.P_CrseSearch"> Course Schedule</option><option value="http://www.calstate.edu/BudgetCentral/index.shtml"> CSU Budget Central</option><option value="http://www.csumentor.edu/"> CSU Mentor</option><option value="/"> CSUB Homepage</option><option value="/EUD/ "> Extended University Division (EUD)</option><option value="/TLC/"> Faculty TLC</option><option value="/FacWebDir/"> Faculty Web Directory</option><option value="/FinAid/"> Financial Aid &amp; Scholarships</option><option value="http://firstclass1.csub.edu/"> FirstClass Web</option><option value="/foodservices/"> Food Services</option><option value="http://www.csubfoundation.org/"> Foundation</option><option value="/GradStudies/"> Graduate Studies</option><option value="/Honors/"> Honors Program</option><option value="/hss/"> HSS</option><option value="/InfoRes/"> Information Resources</option><option value="/itv/"> Instructional Television</option><option value="/ISP/"> International Students</option><option value="/AV/"> Lancaster Extension</option><option value="/~sraczkowski/mtc/mtc.shtml"> Math Tutoring Center</option><option value="/InfoRes/MediaServ/about.htx"> Media Services</option><option value="/NSME/"> NSM</option><option value="/olli/"> OLLI</option><option value="/cms/"> CMS/Peoplesoft</option><option value="/ppa/"> PPA</option><option value="/president/"> President's office (Administration)</option><option value="https://oraweb2.csub.edu:4700/PROD/prod/twbkwbis.P_WWWLogin"> Registration &amp; Banner Web</option><option value="/CentInst.shtml"> Research, Centers and Institutes</option><option value="http://www.gorunners.com/index.shtml"> Roadrunner Athetics</option><option value="http://runner.csub.edu/"> RunnerMail</option><option value="/UnivServices/SSD/"> SSD-Disabilities Help</option><option value="/soe/"> School of Education</option><option value="http://www.lib.csub.edu/"> Stiern Library</option><option value="/studentservices/"> Student Affairs</option><option value="/IRTS/Helpdesk/"> Student Help Desk</option><option value="/studentunion/"> Student Union</option><option value="/TeleCom/"> Telecommunications</option><option value="/tii/"> Telecom (TII)</option><option value="/titlev/"> Title V</option><option value="/webservices/"> Web Services</option><option value="/webct/"> WebCT</option>
+</select>
+			<label for="QuickLinkGo"></label><input name="QuicklinkGo" id="QuicklinkGo" value=" Go " onclick="document.location.assign(this.form.quickLinks[quickLinks.selectedIndex].value)" type="button">
+			</form><a href="javascript:popUp('picklinks.html')" onmouseover="RollButton('quickedit','newhead_quickedit','on')" onmouseout="RollButton('quickedit','newhead_quickedit','off')">
+			<img src="/images/newhead_quickedit_off.gif" name="quickedit" alt="Edit My QuickLinks" style="margin-top: 2px; margin-right: 2px;" border="0"></a>
+			</span></div>
+			</td>
+  </tr>
+  <!-- END QUICKLINKS SECTION -->				
+
+</tbody></table></td></tr>
+		<tr><td bgcolor="#000000"><img src="/graphics/clear.gif" alt="" height="1" vspace="0"></td></tr>
+	</tbody></table>
+	<img src="/graphics/clear.gif" alt="" border="0" height="8" vspace="0"><br>
+		<table align="center" border="0" cellpadding="8" cellspacing="2" width="750">
+		<tbody><tr valign="top">
+
+			<td background="/ITSS/HeadlineBG.gif" width="37%"><p class="headertext">
+<!--			<font color="red"><b><u>Hot Topics</u></b></font><br>
+				Instructions on how to use the Windows Update Utility is now available for download in the 
+				<a class="menutext" href="http://www.csub.edu/ITSS/Helpdesk/SelfHelpDocs.htx">ITSS Self-Help Documentation</a> area. </p></td>
+-->
+<!--			<font color="red"><u>Hot Topics</u></font><br>
+				The CSUB Bookstore has arranged for CSUB Students to purchase certain Microsoft 
+				Products at substantial discounts.  For more information visit: 
+				<a class="menutext" href="http://csubakersfield.bkstore.com">Runner Bookstore</a>. </p></td>
+-->
+<!--				<font color="red"><b><u>Hot Topics</u></b></font><br>
+				RunnerID Card Fee Update.  For more information, visit: 
+				<a class="menutext" href="http://www.csub.edu/ITSS/RunnerID/fee.htx">RunnerID Card Office</a></p></td>
+-->
+<!--				<font color="red"><b><u>Hot Topics</u></b></font><br>
+				Modified saturday hours of operation for Computer Lab.  For more information, visit: 
+				<a class="menutext" href="http://www.csub.edu/ITSS/ComputerLabs">Centralized Computer Labs</a></p></td>
+-->
+				<font color="red"><b><u>Hot Topics</u></b></font><br>
+				Important updates for CSUB Macintosh users.  For more information, visit: 
+				<a class="menutext" href="http://www.csub.edu/ITSS/News.htx">News &amp; Announcements</a></p></td>
+
+<!--			<font color="red"><u>Hot Topics</u></font><br>
+				The Work at Home part of the Microsoft agreement for faculty and staff is now 
+				in place.  Please see the following page for more information. <a class="menutext" 
+				href="http://www.csub.edu/infores/MSProdDist.htx" target="_blank" 
+				style="font-size: 8pt;">More...</a></p></td>
+-->
+			<td background="/ITSS/HeadlineBG.gif" width="63%"><p class="headertext">
+				<font color="red"><b><u>Special Purchase Program</u></b></font><br>
+				CSUB has established a special purchase program with Dell, Apple and Gateway at a discounted price.  
+				For more information visit: 
+				<a class="menutext" style="font-size: 8pt;" href="/ITSS/Helpdesk/HomePurchase.htx">Personal Computer Purchase Program</a>. </p></td>
+
+<!--			<font color="red"><u>Windows/Office XP Self-Help Documentations</u></font><br>
+				Self-Training guide for Windows XP and Office XP is now available on-line
+				at <a class="menutext" style="font-size: 8pt;" href="http://www.csub.edu/ITSS/Helpdesk/
+				SelfHelpDocs.htx">ITSS's Self-Help Documentation area</a>.</p></td>
+-->
+
+<!--			<td width="22%" background="/ITSS/HeadlineBG.gif"><p class="headertext">
+				<font color="#DF0000"><b><u>Quick Links:</u></b></font><br>
+				<a class="menutext" style="font-size: 8pt;" href="http://www.csub.edu/InfoRes/CTS/QCT/">Quick Computing Topic</a><br>
+				<a class="menutext" style="font-size: 8pt;" href="/ITSS/Helpdesk/ServiceRequestForm.htx">Service Request Form</a><br>
+				<a class="menutext" style="font-size: 8pt;" href="/ITSS/Standards/Hardware/">Hardware Standards</a><br>
+				<a class="menutext" style="font-size: 8pt;" href="/ITSS/Standards/Software/">Software Standards</a><br>
+				<a class="menutext" style="font-size: 8pt;" href="/ITSS/STHD/Downloads.htx">Software Downloads</a>
+				</p></td>-->
+		</tr>
+	</tbody></table>
+	<img src="/graphics/clear.gif" alt="" height="8"><br>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr align="center">
+			<td><table background="/ITSS/Stripe.gif" border="0" cellpadding="0" cellspacing="0" width="746">
+					<tbody><tr valign="top">
+						<td align="left" width="273"><img src="/graphics/clear.gif" alt="" height="8"><br><span class="headertext">&nbsp; Information Technology Services Support</span></td>
+						<td align="center" width="200"><a href="/ITSS/"><img src="/ITSS/Logo.gif" alt="Click to go to ITSS Home" border="0"></a></td>
+						<td align="right" width="273"><img src="/graphics/clear.gif" alt="" height="8"><br><span class="headertext">Saturday, June 14, 2008 &nbsp;</span></td>
+					</tr>
+				</tbody></table></td>
+		</tr>
+	</tbody></table>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" width="750">
+		<tbody><tr valign="top">
+			<td width="189"><table border="0" cellpadding="0" cellspacing="10" width="100%">
+					<tbody><tr align="right"><td><a class="menutext" href="/ITSS/Links.htx" onmouseover='showPopup("Links")' onmouseout='hidePopup("Links")'>Quick Links</a></td></tr>
+					<tr align="right"><td><a class="menutext" href="/ITSS/News.htx" onmouseover='showPopup("News")' onmouseout='hidePopup("News")'>News &amp; Announcements</a></td></tr>
+					<tr align="right">
+					  <td><a href="/ITSS/Helpdesk/" class="menutext" onmouseover='showPopup("Helpdesk")' onmouseout='hidePopup("Helpdesk")'>Helpdesk</a></td>
+  </tr>
+					<tr align="right"><td><a class="menutext" href="/ITSS/ComputerLabs/" onmouseover='showPopup("Labs")' onmouseout='hidePopup("Labs")'>Centralized Computer Labs</a></td></tr>
+					<tr align="right"><td><a class="menutext" href="/ITSS/SmartClassrooms/" onmouseover='showPopup("Classrooms")' onmouseout='hidePopup("Classrooms")'>Smart Classroom / Computer Lab Equipment List</a></td></tr>
+					<tr align="right"><td><a class="menutext" href="/ITSS/RunnerID/" onmouseover='showPopup("RunnerID")' onmouseout='hidePopup("RunnerID")'>RunnerID Card Office</a></td></tr>
+					<tr align="right"><td><a class="menutext" href="/ITSS/FAQ/" onmouseover='showPopup("FAQs")' onmouseout='hidePopup("FAQs")'>Frequently Asked Questions</a></td></tr>
+					<tr align="right"><td><a class="menutext" href="/ITSS/PolsServs/" onmouseover='showPopup("Policies")' onmouseout='hidePopup("Policies")'>Policies &amp; Disclaimers</a></td></tr>
+					<tr align="right"><td><a class="menutext" href="/ITSS/About.htx" onmouseover='showPopup("AboutITSS")' onmouseout='hidePopup("AboutITSS")'>About ITSS</a></td></tr>
+<!--					<tr align="right"><td><a class="menutext" href="/ITSS/SSTP/" onMouseOver='showPopup("SSTP")' onMouseOut='hidePopup("SSTP")'>Student Scholar's Training<br>Program (SSTP)</a></td></tr> -->
+<!--					<tr align="right"><td><a class="menutext" href="/ITSS/CMS/" !onMouseOver='showPopup("PeopleSoft")' !onMouseOut='hidePopup("PeopleSoft")'>PeopleSoft Project (CMS)</a></td></tr> -->
+<!--					<tr align="right"><td><span class="text">Return to [ <a class="menutext" href="/ITSS/">ITSS</a> | <a class="menutext" href="/InfoRes/">IR</a> | <a class="menutext" href="/">CSUB</a> ]</span></td></tr>-->
+					<tr align="right"><td bgcolor="#808080"><img src="/graphics/clear.gif" alt="" width="1"></td></tr>
+					<tr align="right"><td><a class="menutext" href="http://runner.csub.edu">RunnerMail</a></td></tr>
+					<tr align="right"><td><a class="menutext" href="http://firstclass1.csub.edu">FirstClass Mail</a></td></tr>
+					<tr align="right"><td><a class="menutext" href="/InfoRes/MediaServ">Media Services</a></td></tr>
+					</tbody></table>
+<div style="left: 299px; top: 399px;" id="AboutITSS" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="210">
+								<tbody><tr valign="top"><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										A little history on who we are, and why our unit was formed.
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div style="left: 299px; top: 209px;" id="News" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="210">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										The latest on products, upgrades, recalls, security, safety, workshops, 
+										and other information you need for your computer and related systems.<br>
+										<a class="popupA" href="http://www.csub.edu/InfoRes/CTS/QCT/">Quick Computing Topic</a><br>										
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div style="left: 299px; top: 374px;" id="Policies" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="210">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										General acceptable use policy for computing technology that are available to CSUB...<br>
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div style="left: 299px; top: 349px;" id="FAQs" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="210">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										An excellent way to find a solution to that nagging problem before 
+										contacting the helpdesk. Gives answers to the most common questions we've 
+										had over the last several years.
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div style="left: 299px; top: 234px;" id="Helpdesk" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="251">
+							  <tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										Hours, location, and contact info, plus...<br>
+										<a class="popupA" href="/ITSS/Helpdesk/Training.htx">ITSS Training Workshop</a><br>
+										<a class="popupA" href="/ITSS/Helpdesk/SelfHelpDocs.htx">Self-Help Documentation</a><br>
+										<a class="popupA" href="/ITSS/FAQ/">Frequently Asked Questions</a><br>
+										<a class="popupA" href="/ITSS/Helpdesk/ServiceRequestForm.htx">Staff/Faculty Service Request Form</a><br>
+                                        <a class="popupA" href="/ITSS/Helpdesk/StudentServiceRequest.htx">Student Service Request Form</a><br>
+                                        <a class="popupA" href="/ITSS/Standards/Hardware/">Hardware Standards</a><br>
+										<a class="popupA" href="/ITSS/Standards/Software/">Software Standards</a><br>
+                                <a class="popupA" href="/ITSS/Helpdesk/HomePurchase.htx">Personal Computer Purchase</a><br>
+                        <a class="popupA" href="/ITSS/Helpdesk/Downloads.htx">Software Downloads</a><br>
+										</p></td>
+									<td width="5">&nbsp;</td>
+							  </tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div id="STHD" class="popupmenu"></div>
+<div style="left: 299px; top: 259px;" id="Labs" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="230">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										Hours of operation, location, and contact information, plus...<br>
+										<a class="popupA" href="/ITSS/ComputerLabs/Policies.htx">Lab Policies</a><br>
+										<!--<a class="popupA" href="/ITSS/ComputerLabs/Schedules.htx">Classroom Scheduling</a><br>-->
+<!--										<a class="popupA" href="/ITSS/ComputerLabs/PTPSystem.htx">Pay-To-Print System</a><br>
+-->										<a class="popupA" href="/ITSS/STHD/Downloads.htx">Software Downloads</a><br>
+<!--										<a class="popupA" href="/ITSS/FAQ/">Labs Frequently Asked Questions</a><br>
+-->										<a class="popupA" href="/ITSS/ComputerLabs/LabConfigs.htx">Lab Configurations / Report Problems</a><br>
+										<a class="popupA" href="/ITSS/Smartclassrooms/SoftwareRequest.htx">List of Preinstall software</a>
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div style="left: 299px; top: 284px;" id="Classrooms" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="210">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										Discover how various classrooms are equipped, or find rooms with specific 
+										equipment.<br>
+										<a class="popupA" href="/ITSS/SmartClassrooms/Searchable.htx">Searchable Listing</a><br>
+										<a class="popupA" href="/ITSS/SmartClassrooms/Printable.htx">Printable Listing</a><br>
+										<a class="popupA" href="/ITSS/SmartClassrooms/SoftwareRequest.htx">List of preinstalled software</a>
+										<a class="popupA" href="/ITSS/SmartClassrooms/SoftwareRequest.htx#RequestForm">Software Request Form</a>
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div style="left: 299px; top: 324px;" id="RunnerID" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="210">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										RunnerID Card Office <br>
+										<a class="popupA" href="/ITSS/RunnerID/ID_Card.htx">The RunnerID card</a><br>
+										<a class="popupA" href="/ITSS/RunnerID/fee.htx" style="color: rgb(255, 0, 0);">RunnerCard Fee Update</a><br>
+										<a class="popupA" href="/ITSS/RunnerID/faq.htx">Frequently Asked Questions</a><br>
+										<a class="popupA" href="/ITSS/RunnerID/policies.htx">RunnerID Policies</a><br>
+										<a class="popupA" href="/ITSS/RunnerID/badge_policies.htx">Department Badge Policies</a>
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div id="eMail" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="250">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										<a class="popupA" href="http://runner.csub.edu">RunnerMail Service for Student</a><br>
+										<a class="popupA" href="http://firstclass1.csub.edu">FirstClass Email Service for faculty / Staff</a><br>
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div style="left: 299px; top: 184px;" id="Links" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="250">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										<a class="popupA" href="http://www.csub.edu/InfoRes/CTS/QCT/">Quick Computing Topic</a><br>
+										<a class="popupA" href="/ITSS/Helpdesk/ServiceRequestForm.htx">Service Request Form</a><br>
+									  <a class="popupA" href="/ITSS/Helpdesk/Downloads.htx">Software Downloads</a><br>
+										<a class="popupA" href="/ITSS/Standards/Hardware/">Hardware Standards</a><br>
+										<a class="popupA" href="/ITSS/Standards/Software/">Software Standards</a><br>
+									  <a class="popupA" href="/ITSS/Helpdesk/HomePurchase.htx">Personal Computer Purchase Program</a><br>
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div id="SSTP" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="210">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										General information, course descriptions and materials (login required), plus...<br>
+										<a class="popupA" href="/ITSS/SSTP/Courses.htx">Course Descriptions / Materials</a><br>
+										<a class="popupA" href="/ITSS/SSTP/News.htx">News and Announcements</a><br>
+										<a class="popupA" href="/ITSS/SSTP/Employment/">Employment Opportunities</a><br>
+										<a class="popupA" href="/ITSS/SSTP/Comments.htx">Send Us Your Comments</a>
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div id="PeopleSoft" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="210">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										ITSS will be the support contact for the use of PeopleSoft, and here is 
+										where you will find information and resources to that end.
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div id="Internal" class="popupmenu">
+					<table background="/ITSS/Backgrnd.gif" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td><table background="" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
+							<tbody><tr><td><table bgcolor="#ffff99" border="0" cellpadding="0" cellspacing="0" width="210">
+								<tbody><tr><td width="5">&nbsp;</td>
+									<td valign="top"><p class="text">&gt;&nbsp;</p></td>
+									<td><p class="headertext">
+										For ITSS Staff and Student Assistants (Login Required). 
+										</p></td>
+									<td width="5">&nbsp;</td>
+								</tr></tbody></table></td>
+							</tr></tbody></table></td>
+						</tr>
+					</tbody></table>
+				</div></td>
+			<td bgcolor="#808080" width="1"><img src="/graphics/clear.gif" alt="" width="1"></td>
+			<td width="560"><table border="0" cellpadding="0" cellspacing="10" width="100%">
+					<tbody><tr>
+						<td><p class="title">Information Technology Services Support</p>
+<!--						<table border="0" cellpadding="0" cellspacing="0" align="right">
+								<tr>
+									<td align="center"><img src="/ITSS/fjollivette.gif" alt=""><br>
+										<span class="headertext">Frank J. Jollivette II<br>
+											Coordinator, ITSS</span></td>
+								</tr>
+								<tr><td><span class="text">&nbsp;</span></td></tr>
+							</table>
+-->							<p class="text">
+								Information Technology Services Support provides CSUB with desktop support 
+								(both software and hardware), maintains and oversees the campus user labs 
+								and smart classrooms, operates the campus technology helpdesk for faculty 
+								and staff, and additionally oversees operation of the student helpdesk.
+							</p>
+							<p class="text">
+								<b>ITSS Helpdesk</b>
+							</p>
+							<p class="text">
+								The ITSS Helpdesk was created to exclusively serve the needs of the faculty, staff, and studentsof CSUB. To ensure optimal desktop system performance, support is 
+								provided to address system and data access, hardware and software in desktop 
+								and laptop computers, peripherals, and palm devices. In addition, training 
+								is offered on the use of smart classrooms and campus supported software. 
+								Private lessons are available and can be scheduled through the Faculty 
+								Teaching and Learning Center.  
+                                
+                                Student consultants provide software assistance and training to currently 
+								enrolled CSUB students. Service is provided in the labs, over the phone, 
+								via e-mail, walk-ins, or by appointment.
+							</p><p class="text">
+								<b>Centralized Computer Labs</b>
+							</p>
+					  <p class="text">
+								The computer labs are divided into two areas. An open-use lab, which is 
+								available for faculty and currently enrolled students, contains both 
+								Macintosh and PC-based computers. Five other labs housed in the lower level 
+								of the Walter Stiern Library (WSL) are classrooms dedicated to computer and 
+								computer-aided instruction. The open lab (Lab A) is staffed by Lab Consultants 
+								able to assist students in most aspects of software support and print 
+								services.
+							</p>
+						</td>
+					</tr>
+				</tbody></table></td>
+		</tr>
+				<tr>
+			<script language="Javascript">
+				var today = new Date();
+				var lastMod = new Date(2008,05-1, 6,15,09,57);
+				var stale = (today-lastMod > 182.5*86400000)?true:false;
+			</script>
+			
+			<td colspan="3"><table border="0" cellpadding="0" cellspacing="10" width="100%">
+					<tbody><tr>
+						<td colspan="2"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!--								<tr>
+									<td colspan="3" bgcolor="#808080"><img src="/graphics/clear.gif" height="1" alt=""></td>
+								</tr>
+-->								<tbody><tr>
+									<td background="/ITSS/Stripe.gif"><img src="/graphics/clear.gif" alt="" align="left" height="30" hspace="0" vspace="0" width="1"><img src="/graphics/clear.gif" alt="" height="8"><br>
+										<span class="headertext">&nbsp; Copyright  2002-2005 ITSS, CSU Bakersfield. All rights reserved.</span></td>
+									<td align="center" background="/ITSS/Stripe.gif"><img src="/graphics/clear.gif" alt="" height="1"><br>
+										<span class="headertext">Updated: 
+										<script language="Javascript">
+											if (stale) document.write("<font color=\"#BF0000\">");
+											else document.write("<font color=\"#00BF00\">");
+										</script><font color="#00bf00">
+										Tue, 05-06-08, 03:09 PM</font>.</span></td>
+									<td align="right" background="/ITSS/Stripe.gif"><img src="/graphics/clear.gif" alt="" height="1"><br>
+										<span class="headertext">Comments to: <a class="menutext" style="font-size: 8pt;" href="mailto:bchen@csub.edu">ITSS Web Manager</a> &nbsp;</span></td>
+								</tr>
+							</tbody></table></td>
+					</tr>
+				</tbody></table></td>
+		</tr>
+	</tbody></table>
+</body>

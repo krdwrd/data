@@ -1,0 +1,62 @@
+/* copied from chrome://global/skin/about.css */
+
+html {
+  background: -moz-Dialog;
+}
+
+body {
+  margin: 0;
+  padding: 0 1em;
+  color: -moz-FieldText;
+  font: message-box;
+}
+
+
+#aboutPageContainer {
+  position: relative;
+  width: 450px;
+  padding: 50px;
+}
+
+.round
+{
+  margin: 4em auto;
+  border: 1px solid ThreeDShadow;
+  -moz-border-radius: 10px;
+  padding: 3em;
+  -moz-padding-start: 30px;
+  background: -moz-Field;
+}
+
+img {
+  border: 0;
+  float: left;
+  vertical-align: middle;
+  padding-right: 3em;
+}
+
+.kwbig
+{
+	font-size: 30px;
+	color: #F0F;
+}
+
+.bl
+{
+	clear: both;
+	margin-bottom: 4em;
+}
+
+.bf
+{
+    float: left;
+}
+
+.sample
+{
+    float: left;
+    padding: 10px;
+    text-align: center;
+    min-width: 100px;
+    display: block;
+}
