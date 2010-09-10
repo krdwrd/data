@@ -1,0 +1,974 @@
+<head><base href="http://ccwf.cc.utexas.edu/%7Ewarfare/Lectures/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!--This file created 4/29/98 10:41 AM by Claris Home Page version 2.0-->
+
+
+	
+		
+		<meta name="generator" content="Adobe GoLive 4"><title>Lecture Notes for Week Thirteen</title>
+		
+		<x-sas-window top="42" bottom="621" left="4" right="534"></x-sas-window>
+		<csscriptdict></csscriptdict>
+			<script><!--
+CSStopExecution = false;
+CSInit = new Array;
+function CSScriptInit() {
+idxArray = new Array;
+for(var i=0;i<CSInit.length;i++)
+	idxArray[i] = i;
+CSAction2(CSInit, idxArray);
+}
+CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+function CSNSStyl(s) { return CSFindElement(s,0); }
+function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
+	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
+	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
+		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+	return elem;
+}
+function CSButtonReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return false; // follow link
+	else return true; // follow link
+}
+CSIm = new Object();
+function CSIShow(n,i) {
+	if (document.images) {
+		if (CSIm[n]) {
+			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
+			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
+			if(i != 0)
+				self.status = CSIm[n][3];
+			else
+				self.status = " ";
+			return true;
+		}
+	}
+	return false;
+}
+function CSILoad(action) {
+	im = action[1];
+	if (document.images) {
+		CSIm[im] = new Object();
+		for (var i=2;i<5;i++) {
+			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
+			else CSIm[im][i-2] = 0;
+		}
+		CSIm[im][3] = action[5];
+	}
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+// CMP USES JSCRIPT
+
+// --></script>
+		
+		<csimport user="../../ccwf%20website.data/Components/navbar.html" occur="0" onload=""></csimport><csactiondict></csactiondict>
+		<script><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button',/*URL*/'../images/email_10.gif',/*URL*/'../images/email_10_on.gif',/*URL*/'','Send me an e-mail');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button2',/*URL*/'../images/about_10.gif',/*URL*/'../images/about_10_on.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button3',/*URL*/'../images/syllabus_10.gif',/*URL*/'../images/syllabus_10_on.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button4',/*URL*/'../images/schedule_10.gif',/*URL*/'../images/schedule_10_on.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button5',/*URL*/'../images/biblio_10.gif',/*URL*/'../images/biblio_10_on.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button6',/*URL*/'../images/subscribe_10.gif',/*URL*/'../images/subscribe_10_on.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button7',/*URL*/'../images/send_10.gif',/*URL*/'../images/send_10_on.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button8',/*URL*/'../images/links_10.gif',/*URL*/'../images/links_10_on.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button9',/*URL*/'../images/updates_10.gif',/*URL*/'../images/updates_10_on.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Cmp0070558700button10',/*URL*/'../images/rp_10.gif',/*URL*/'',/*URL*/'','');
+
+// --></script></head><body onload="CSScriptInit();" bgcolor="#ffe4c4">
+		<div align="left">
+			<b>
+			</b><table cool="" gridx="16" showgridx="" usegridx="" gridy="16" showgridy="" usegridy="" border="0" cellpadding="0" cellspacing="0" height="9466" width="589">
+				<tbody><tr cntrlrow="" height="1">
+					<td height="1" width="1"></td>
+					<td height="1" width="176"><spacer type="block" height="1" width="176"></td>
+					<td height="1" width="410"><spacer type="block" height="1" width="410"></td>
+				</tr>
+				<tr height="9463">
+					<td height="9463" width="1"><spacer type="block" height="9463" width="1"></td>
+					<td colspan="1" rowspan="1" xpos="0" align="left" height="9463" valign="top" width="176"><csobj w="161" h="421" t="Component" csref="../../ccwf%20website.data/Components/navbar.html" occur="0">
+						</csobj><table cool="" gridx="8" showgridx="" usegridx="" gridy="8" showgridy="" usegridy="" bgcolor="#f5f5f5" border="0" cellpadding="0" cellspacing="0" height="418" width="158">
+							<tbody><tr cntrlrow="" height="1">
+								<td height="1" width="1"><spacer type="block" height="1" width="1"></td>
+								<td height="1" width="6"><spacer type="block" height="1" width="6"></td>
+								<td height="1" width="2"><spacer type="block" height="1" width="2"></td>
+								<td height="1" width="11"><spacer type="block" height="1" width="11"></td>
+								<td height="1" width="1"><spacer type="block" height="1" width="1"></td>
+								<td height="1" width="4"><spacer type="block" height="1" width="4"></td>
+								<td height="1" width="6"><spacer type="block" height="1" width="6"></td>
+								<td height="1" width="1"><spacer type="block" height="1" width="1"></td>
+								<td height="1" width="3"><spacer type="block" height="1" width="3"></td>
+								<td height="1" width="2"><spacer type="block" height="1" width="2"></td>
+								<td height="1" width="14"><spacer type="block" height="1" width="14"></td>
+								<td height="1" width="2"><spacer type="block" height="1" width="2"></td>
+								<td height="1" width="5"><spacer type="block" height="1" width="5"></td>
+								<td height="1" width="5"><spacer type="block" height="1" width="5"></td>
+								<td height="1" width="93"><spacer type="block" height="1" width="93"></td>
+							</tr>
+							<tr height="8">
+								<td height="8" width="1"><spacer type="block" height="8" width="1"></td>
+								<td height="8" width="6"><spacer type="block" height="8" width="6"></td>
+								<td height="8" width="2"><spacer type="block" height="8" width="2"></td>
+								<td height="8" width="11"><spacer type="block" height="8" width="11"></td>
+								<td height="8" width="1"><spacer type="block" height="8" width="1"></td>
+								<td height="8" width="4"><spacer type="block" height="8" width="4"></td>
+								<td height="8" width="6"><spacer type="block" height="8" width="6"></td>
+								<td height="8" width="1"><spacer type="block" height="8" width="1"></td>
+								<td height="8" width="3"><spacer type="block" height="8" width="3"></td>
+								<td height="8" width="2"><spacer type="block" height="8" width="2"></td>
+								<td height="8" width="14"><spacer type="block" height="8" width="14"></td>
+								<td height="8" width="2"><spacer type="block" height="8" width="2"></td>
+								<td height="8" width="5"><spacer type="block" height="8" width="5"></td>
+								<td height="8" width="5"><spacer type="block" height="8" width="5"></td>
+								<td height="8" width="93"><spacer type="block" height="8" width="93"></td>
+							</tr>
+							<tr height="52">
+								<td height="52" width="1"><spacer type="block" height="52" width="1"></td>
+								<td height="52" width="6"><spacer type="block" height="52" width="6"></td>
+								<td height="52" width="2"><spacer type="block" height="52" width="2"></td>
+								<td height="52" width="11"><spacer type="block" height="52" width="11"></td>
+								<td colspan="11" rowspan="1" xpos="19" align="left" height="52" valign="top" width="136"><img src="../images/title_12.gif" height="43" width="117"></td>
+							</tr>
+							<tr height="64">
+								<td height="64" width="1"><spacer type="block" height="64" width="1"></td>
+								<td height="64" width="6"><spacer type="block" height="64" width="6"></td>
+								<td height="64" width="2"><spacer type="block" height="64" width="2"></td>
+								<td height="64" width="11"><spacer type="block" height="64" width="11"></td>
+								<td height="64" width="1"><spacer type="block" height="64" width="1"></td>
+								<td height="64" width="4"><spacer type="block" height="64" width="4"></td>
+								<td height="64" width="6"><spacer type="block" height="64" width="6"></td>
+								<td height="64" width="1"><spacer type="block" height="64" width="1"></td>
+								<td height="64" width="3"><spacer type="block" height="64" width="3"></td>
+								<td colspan="6" rowspan="1" xpos="34" align="left" height="64" valign="top" width="121"><img src="../images/classinfo_10.gif" height="50" width="87"></td>
+							</tr>
+							<tr height="14">
+								<td height="14" width="1"><spacer type="block" height="14" width="1"></td>
+								<td height="14" width="6"><spacer type="block" height="14" width="6"></td>
+								<td colspan="13" rowspan="1" xpos="6" align="left" height="14" valign="top" width="149"><csobj w="143" h="11" t="Button"><a href="#" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button10',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button10',0)" onclick="return CSButtonReturn()"><img src="../images/rp_10.gif" name="Cmp0070558700button10" border="0" height="11" width="143"></a></csobj></td>
+							</tr>
+							<tr height="26">
+								<td height="26" width="1"><spacer type="block" height="26" width="1"></td>
+								<td height="26" width="6"><spacer type="block" height="26" width="6"></td>
+								<td height="26" width="2"><spacer type="block" height="26" width="2"></td>
+								<td height="26" width="11"><spacer type="block" height="26" width="11"></td>
+								<td height="26" width="1"><spacer type="block" height="26" width="1"></td>
+								<td height="26" width="4"><spacer type="block" height="26" width="4"></td>
+								<td height="26" width="6"><spacer type="block" height="26" width="6"></td>
+								<td height="26" width="1"><spacer type="block" height="26" width="1"></td>
+								<td height="26" width="3"><spacer type="block" height="26" width="3"></td>
+								<td height="26" width="2"><spacer type="block" height="26" width="2"></td>
+								<td height="26" width="14"><spacer type="block" height="26" width="14"></td>
+								<td height="26" width="2"><spacer type="block" height="26" width="2"></td>
+								<td height="26" width="5"><spacer type="block" height="26" width="5"></td>
+								<td colspan="2" rowspan="1" xpos="57" align="left" height="26" valign="top" width="98"><csobj w="41" h="10" t="Button" ht="../images/email_10_on.gif"><a href="mailto:rspianka@mail.utexas.edu" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button',0)" onclick="return CSButtonReturn()"><img src="../images/email_10.gif" name="Cmp0070558700button" alt="Send me an e-mail" border="0" height="10" width="41"></a></csobj></td>
+							</tr>
+							<tr height="55">
+								<td height="55" width="1"><spacer type="block" height="55" width="1"></td>
+								<td height="55" width="6"><spacer type="block" height="55" width="6"></td>
+								<td height="55" width="2"><spacer type="block" height="55" width="2"></td>
+								<td colspan="12" rowspan="1" xpos="8" align="left" height="55" valign="top" width="147"><img src="../images/office_10.gif" height="36" width="138"></td>
+							</tr>
+							<tr height="18">
+								<td height="18" width="1"><spacer type="block" height="18" width="1"></td>
+								<td height="18" width="6"><spacer type="block" height="18" width="6"></td>
+								<td height="18" width="2"><spacer type="block" height="18" width="2"></td>
+								<td height="18" width="11"><spacer type="block" height="18" width="11"></td>
+								<td height="18" width="1"><spacer type="block" height="18" width="1"></td>
+								<td height="18" width="4"><spacer type="block" height="18" width="4"></td>
+								<td height="18" width="6"><spacer type="block" height="18" width="6"></td>
+								<td colspan="8" rowspan="1" xpos="30" align="left" height="18" valign="top" width="125"><csobj w="94" h="10" t="Button" ht="../images/about_10_on.gif"><a href="../index.html" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button2',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button2',0)" onclick="return CSButtonReturn()"><img src="../images/about_10.gif" name="Cmp0070558700button2" border="0" height="10" width="94"></a></csobj></td>
+							</tr>
+							<tr height="19">
+								<td height="19" width="1"><spacer type="block" height="19" width="1"></td>
+								<td height="19" width="6"><spacer type="block" height="19" width="6"></td>
+								<td height="19" width="2"><spacer type="block" height="19" width="2"></td>
+								<td height="19" width="11"><spacer type="block" height="19" width="11"></td>
+								<td height="19" width="1"><spacer type="block" height="19" width="1"></td>
+								<td height="19" width="4"><spacer type="block" height="19" width="4"></td>
+								<td height="19" width="6"><spacer type="block" height="19" width="6"></td>
+								<td height="19" width="1"><spacer type="block" height="19" width="1"></td>
+								<td height="19" width="3"><spacer type="block" height="19" width="3"></td>
+								<td height="19" width="2"><spacer type="block" height="19" width="2"></td>
+								<td height="19" width="14"><spacer type="block" height="19" width="14"></td>
+								<td colspan="4" rowspan="1" xpos="50" align="left" height="19" valign="top" width="105"><csobj w="54" h="10" t="Button" ht="../images/syllabus_10_on.gif"><a href="../WarSyllabus.html" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button3',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button3',0)" onclick="return CSButtonReturn()"><img src="../images/syllabus_10.gif" name="Cmp0070558700button3" border="0" height="10" width="54"></a></csobj></td>
+							</tr>
+							<tr height="20">
+								<td height="20" width="1"><spacer type="block" height="20" width="1"></td>
+								<td height="20" width="6"><spacer type="block" height="20" width="6"></td>
+								<td height="20" width="2"><spacer type="block" height="20" width="2"></td>
+								<td height="20" width="11"><spacer type="block" height="20" width="11"></td>
+								<td height="20" width="1"><spacer type="block" height="20" width="1"></td>
+								<td height="20" width="4"><spacer type="block" height="20" width="4"></td>
+								<td height="20" width="6"><spacer type="block" height="20" width="6"></td>
+								<td height="20" width="1"><spacer type="block" height="20" width="1"></td>
+								<td colspan="7" rowspan="1" xpos="31" align="left" height="20" valign="top" width="124"><csobj w="92" h="10" t="Button" ht="../images/schedule_10_on.gif"><a href="../WarSchedule.html" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button4',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button4',0)" onclick="return CSButtonReturn()"><img src="../images/schedule_10.gif" name="Cmp0070558700button4" border="0" height="10" width="92"></a></csobj></td>
+							</tr>
+							<tr height="22">
+								<td height="22" width="1"><spacer type="block" height="22" width="1"></td>
+								<td height="22" width="6"><spacer type="block" height="22" width="6"></td>
+								<td height="22" width="2"><spacer type="block" height="22" width="2"></td>
+								<td height="22" width="11"><spacer type="block" height="22" width="11"></td>
+								<td height="22" width="1"><spacer type="block" height="22" width="1"></td>
+								<td height="22" width="4"><spacer type="block" height="22" width="4"></td>
+								<td height="22" width="6"><spacer type="block" height="22" width="6"></td>
+								<td height="22" width="1"><spacer type="block" height="22" width="1"></td>
+								<td height="22" width="3"><spacer type="block" height="22" width="3"></td>
+								<td height="22" width="2"><spacer type="block" height="22" width="2"></td>
+								<td colspan="5" rowspan="1" xpos="36" align="left" height="22" valign="top" width="119"><csobj w="83" h="10" t="Button" ht="../images/biblio_10_on.gif"><a href="../WarBibliography.html" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button5',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button5',0)" onclick="return CSButtonReturn()"><img src="../images/biblio_10.gif" name="Cmp0070558700button5" border="0" height="10" width="83"></a></csobj></td>
+							</tr>
+							<tr height="32">
+								<td height="32" width="1"><spacer type="block" height="32" width="1"></td>
+								<td height="32" width="6"><spacer type="block" height="32" width="6"></td>
+								<td height="32" width="2"><spacer type="block" height="32" width="2"></td>
+								<td height="32" width="11"><spacer type="block" height="32" width="11"></td>
+								<td height="32" width="1"><spacer type="block" height="32" width="1"></td>
+								<td colspan="10" rowspan="1" xpos="20" align="left" height="32" valign="top" width="135"><csobj w="115" h="23" t="Button" ht="../images/subscribe_10_on.gif"><a href="../WarListproc.html" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button6',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button6',0)" onclick="return CSButtonReturn()"><img src="../images/subscribe_10.gif" name="Cmp0070558700button6" border="0" height="23" width="115"></a></csobj></td>
+							</tr>
+							<tr height="45">
+								<td height="45" width="1"><spacer type="block" height="45" width="1"></td>
+								<td height="45" width="6"><spacer type="block" height="45" width="6"></td>
+								<td height="45" width="2"><spacer type="block" height="45" width="2"></td>
+								<td height="45" width="11"><spacer type="block" height="45" width="11"></td>
+								<td height="45" width="1"><spacer type="block" height="45" width="1"></td>
+								<td height="45" width="4"><spacer type="block" height="45" width="4"></td>
+								<td colspan="9" rowspan="1" xpos="24" align="left" height="45" valign="top" width="131"><csobj w="106" h="36" t="Button" ht="../images/send_10_on.gif"><a href="mailto:greek-war@mcfeeley.cc.utexas.edu" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button7',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button7',0)" onclick="return CSButtonReturn()"><img src="../images/send_10.gif" name="Cmp0070558700button7" border="0" height="36" width="106"></a></csobj></td>
+							</tr>
+							<tr height="18">
+								<td height="18" width="1"><spacer type="block" height="18" width="1"></td>
+								<td height="18" width="6"><spacer type="block" height="18" width="6"></td>
+								<td height="18" width="2"><spacer type="block" height="18" width="2"></td>
+								<td height="18" width="11"><spacer type="block" height="18" width="11"></td>
+								<td height="18" width="1"><spacer type="block" height="18" width="1"></td>
+								<td height="18" width="4"><spacer type="block" height="18" width="4"></td>
+								<td height="18" width="6"><spacer type="block" height="18" width="6"></td>
+								<td height="18" width="1"><spacer type="block" height="18" width="1"></td>
+								<td height="18" width="3"><spacer type="block" height="18" width="3"></td>
+								<td height="18" width="2"><spacer type="block" height="18" width="2"></td>
+								<td height="18" width="14"><spacer type="block" height="18" width="14"></td>
+								<td height="18" width="2"><spacer type="block" height="18" width="2"></td>
+								<td height="18" width="5"><spacer type="block" height="18" width="5"></td>
+								<td height="18" width="5"><spacer type="block" height="18" width="5"></td>
+								<td colspan="1" rowspan="1" xpos="62" align="left" height="18" valign="top" width="93"><csobj w="30" h="11" t="Button" ht="../images/links_10_on.gif"><a href="../WarLinks.html" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button8',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button8',0)" onclick="return CSButtonReturn()"><img src="../images/links_10.gif" name="Cmp0070558700button8" border="0" height="11" width="30"></a></csobj></td>
+							</tr>
+							<tr height="22">
+								<td height="22" width="1"><spacer type="block" height="22" width="1"></td>
+								<td height="22" width="6"><spacer type="block" height="22" width="6"></td>
+								<td height="22" width="2"><spacer type="block" height="22" width="2"></td>
+								<td height="22" width="11"><spacer type="block" height="22" width="11"></td>
+								<td height="22" width="1"><spacer type="block" height="22" width="1"></td>
+								<td height="22" width="4"><spacer type="block" height="22" width="4"></td>
+								<td height="22" width="6"><spacer type="block" height="22" width="6"></td>
+								<td height="22" width="1"><spacer type="block" height="22" width="1"></td>
+								<td height="22" width="3"><spacer type="block" height="22" width="3"></td>
+								<td height="22" width="2"><spacer type="block" height="22" width="2"></td>
+								<td height="22" width="14"><spacer type="block" height="22" width="14"></td>
+								<td height="22" width="2"><spacer type="block" height="22" width="2"></td>
+								<td colspan="3" rowspan="1" xpos="52" align="left" height="22" valign="top" width="103"><csobj w="50" h="10" t="Button" ht="../images/updates_10_on.gif"><a href="../WarAnnounce.html" onmouseover="return CSIShow(/*CMP*/'Cmp0070558700button9',1)" onmouseout="return CSIShow(/*CMP*/'Cmp0070558700button9',0)" onclick="return CSButtonReturn()"><img src="../images/updates_10.gif" name="Cmp0070558700button9" border="0" height="10" width="50"></a></csobj></td>
+							</tr>
+						</tbody></table>
+						</td>
+					<td colspan="1" rowspan="1" xpos="176" content="" csheight="9463" align="left" height="9463" valign="top" width="410"><b><kw>Lecture Notes for Week Thirteen</kw></b>
+						<center>
+							<p><b><kw>(</kw><a href="#Monday"><kw>4/20</kw></a> <a href="#Wednesday"><kw>4/22</kw></a> <a href="#Friday"><kw>4/24</kw></a><kw>)</kw></b></p>
+						</center>
+						<p><a name="Monday"></a><kw>Monday, 4/20: Alexander the Great</kw><br>
+						</p>
+						<p><kw>Sources:</kw></p>
+						<ul>
+							<li><kw>Arrian, Diodorus Siculus, Quintus Curtius, Plutarch, Justin (Pompeius Trogus) all late
+							</kw></li><li><kw>But, based on earlier sources by contemporaries of Alexander
+							</kw><ul>
+								<li><kw>Callisthenes: nephew of Aristotle, accompanied expedition as 'official historian'
+								</kw></li><li><kw>Nearchus: admiral of Alexander's fleet from Indus to Persian gulf
+								</kw></li><li><kw>Ptolemy: one of Alexander's generals
+								</kw></li><li><kw>Aristobulus: engineer/architect on Alexander's expedition
+								</kw></li><li><kw>Cleitarchus: not part of the expedition; wrote a romantic, popular account of Alexander in the late fourth century
+							</kw></li></ul>
+							</li><li><kw>Arrian used mainly Ptolemy and Aristobulus, and himself having considerable military experience is able to understand their military details quite well and transmit them in detail
+						</kw></li></ul>
+						<p>&nbsp;</p>
+						<p><kw>Alexander's ascendancy to the throne:</kw></p>
+						<ul>
+							<li><kw>immediately faced with a number of threats:
+							</kw><ul>
+								<li><kw>Hellenic confederacy states, Thracians, Illyrians all saw in Philip's death the opportunity for shaking off the yoke of Macedonia
+								</kw></li><li><kw>Rival claimant to the throne: Philip had an infant son by the neice of his general Attalus
+							</kw></li></ul>
+							</li><li><kw>Late summer 336 moved into Greece
+							</kw><ul>
+								<li><kw>Thessalians held Tempe pass, so Alexander carved out a new pass along Mt. Ossa along the coast
+								</kw></li><li><kw>Once they were flanked, the Thessalians quickly conceded to Alexander, as did all the other states as he marched further south with his army, with no boodshed
+								</kw></li><li><kw>At Corinth, the confederates elected him general in his father's place
+							</kw></li></ul>
+							</li><li><kw>Meanwhile, Attalos, his neice, and her son (Alexander's half-brother) assasinated
+							</kw></li><li><kw>335: Alexander campaigns in Thrace and Illyria to secure Macedonia before moving into Asia
+							</kw><ul>
+								<li><kw>close calls, especially with the Illyrians, but eventually settled decisively
+							</kw></li></ul>
+							</li><li><kw>But immediately, news of new trouble in Greece arrives
+							</kw><ul>
+								<li><kw>Darius, who took the Persian throne in 336, is sending overtures and subsidies to the Greek cities in the hope of getting them to revolt, to keep Alexander busy in Europe
+								</kw></li><li><kw>Rumor of Alexander's death in Thrace (greatly exaggerated) begins to spread in Greece
+								</kw></li><li><kw>Thebans besieged the Macedonian garrison on the Kadmea
+								</kw><ul>
+									<li><kw>Athens sent material help, though no men
+									</kw></li><li><kw>other states (Elis, Aetolia, Arcadia) begin to mobilize
+								</kw></li></ul>
+								</li><li><kw>Alexander moved on Thebes around Sept. 335, took the city by storm
+								</kw><ul>
+									<li><kw>population massacred, though not under Alexander's orders -- he halted the slaughter as soon as he could
+									</kw></li><li><kw>convened the Hellenic confederacy to decide the fate of Thebes:
+									</kw><ul>
+										<li><kw>decision to level the city, sell the population into slavery
+										</kw></li><li><kw>rest of Greece, at this signal, quieted down
+									</kw></li></ul>
+								</li></ul>
+							</li></ul>
+						</li></ul>
+						<p>&nbsp;</p>
+						<p><kw>The Persian Expedition </kw><a href="Images/4.20/1_alexander_asia.jpg"><img src="Images/4.20/_1_alexander_asia.jpg" x-sas-useimagewidth="" x-sas-useimageheight="" align="bottom" height="85" width="96"></a></p>
+						<ul>
+							<li><kw>Having settled Greece, Illyria, and Thrace, Alexander is now ready to pick up where his father had left off
+							</kw></li><li><kw>Spent the winter 335-334 making military preparations and setting the affairs of Macedonia in order
+							</kw></li><li><kw>Alexander's original intent:
+							</kw><ul>
+								<li><kw>liberate cities of Asia Minor?
+								</kw></li><li><kw>Conquer all of Persia?
+							</kw></li></ul>
+							</li><li><kw>Crossed his forces from Sestos to Abydos, where Parmenio, having been sent by Philip into Asia, was still holding a bridgehead.
+							</kw></li><li><kw>Summary of forces:
+							</kw><ul>
+								<li><kw>32,000 infantry, plus ca. 8,000 already in Asia
+								</kw><ul>
+									<li><kw>included, in addition to Macedonian army, some 8,000 Balkan troops and 12,000 Greeks (5,000 of which were mercenaries)
+								</kw></li></ul>
+								</li><li><kw>5,100 cavalry
+								</kw><ul>
+									<li><kw>1,800 Macedonian, 1,800 Thessalian, 900 Thracian, 600 Greek
+								</kw></li></ul>
+								</li><li><kw>Fleet of 182 ships
+								</kw></li><li><kw>Persian satraps in Asia Minor have available ca. 20,000 cavalry plus 20,000 Greek mercenary infantry, c. 400 ships
+							</kw></li></ul>
+							</li><li><kw>Alexander's Immediate concerns:
+							</kw><ul>
+								<li><kw>fleet not big enough to deal with the Persian fleet at sea, so Alexander has to disable it by concentrating first on the coast and securing all potential Persian naval bases
+								</kw></li><li><kw>an army this large (plus ship crews totalling c. 36,000) has to be fed and paid, and their going to have to live off the land their in, so it's important for Alexander to begin his conquests rapidly
+							</kw></li></ul>
+							</li><li><kw>Visit to Troy
+						</kw></li></ul>
+						<p>&nbsp;</p>
+						<p><kw>Battle of Granicus </kw><a href="Images/4.20/2_granicus.jpg"><img src="Images/4.20/_2_granicus.jpg" x-sas-useimagewidth="" x-sas-useimageheight="" align="bottom" height="92" width="96"></a></p>
+						<ul>
+							<li><kw>Memnon, the commander of the Greek mercenaries working for Persia, wants to avoid battle with the Macedonian infantry, advocated a scorched-earth policy to deny Alexander the opportunity to support his troops
+							</kw></li><li><kw>But the Persian satraps don't want to do this, decide to meet Alexander's army
+							</kw></li><li><kw>Persians took up a position at the Granicus river, at a stteply-banked point
+							</kw></li><li><kw>Alexander, on the third day after his army had crossed the Hellespont, went forward to meet them
+							</kw><ul>
+								<li><kw>had with him 13,000 infantry and 5,000 cavalry
+								</kw></li><li><kw>scouts reported that the Persian forces were deployed along the river, with the cavalry on the bank stretching about a mile and a half, with the Greek mercenaries deployed behind them, on higher ground, in phalanx formation
+							</kw></li></ul>
+							</li><li><kw>Alexander's forces deployed from marching column into fighting formation as they approached, with cavalry on both wings of the infantry
+							</kw></li><li><kw>Alexander extended his line to avoid being outflanked by the Persians
+							</kw><ul>
+								<li><kw>Placed left half under Parmenio's command, commanded the right himself
+								</kw></li><li><kw>sent special cavalry squadron, with supporting infantry, from his center right charging into center of the Persian line
+								</kw><ul>
+									<li><kw>took heavy losses, but did its job of disrupting the Persian line, giving Alexander the opportunity he needed
+									</kw></li><li><kw>Alexnader moved in with the Companion cavlary and broke through the Persian line
+									</kw><ul>
+										<li><kw>several Persian nobles tried to kill alexander, but he and his bodyguard repelled or killed them
+									</kw></li></ul>
+									</li><li><kw>with the breaking of the Persian center, the Persian wings fell back
+								</kw></li></ul>
+								</li><li><kw>Rather than pursue Persian cavalry, Alexander concentrated on the Greek mercenaries
+								</kw><ul>
+									<li><kw>sent cavalry upon their flanks and rear, attacked their center with his infantry
+									</kw><ul>
+										<li><kw>Greek mercenaries broke immediately, but were boxed in: only 2,000 taken prisoner, most of the rest slaughtered
+									</kw></li></ul>
+								</li></ul>
+								</li><li><kw>Alexander's losses were only 150, most of them in the initial cavalry assault against the Persian center
+							</kw></li></ul>
+						</li></ul>
+						<p>&nbsp;</p>
+						<p><kw>After Granicus</kw></p>
+						<ul>
+							<li><kw>In the wake of the battle, Alexander is able to move down the coast of Ionia and liberate the Greek cities with almost no resistance
+							</kw><ul>
+								<li><kw>Sardis, the main persian center in Asia Minor, fell without a fight
+								</kw></li><li><kw>At Miletus, Persian fleet trapped Alexander's fleet in the harbor
+								</kw><ul>
+									<li><kw>Alexander siezes the water supply of the Persian fleet on the coast, forcing it to withdraw
+								</kw></li></ul>
+								</li><li><kw>in the wake of this, Alexander sent most of the fleet back to Greece, seeing it as more of a liability than an asset.
+								</kw></li><li><kw>Persians agian tried to stop Alexander's advance at Halicarnassus, but he quickly took the city by storm.
+								</kw></li><li><kw>Thus in one summer, Alexander had achieved his main alleged objectives, the liberation of the Ionian cities
+							</kw></li></ul>
+							</li><li><kw>333: Moves into central Asia Minor to secure his control over the coast
+							</kw><ul>
+								<li><kw>April: takes Gordium
+								</kw><ul>
+									<li><kw>'Gordion knot': anyone who can untie it would rule Asia; Alexander cut it
+								</kw></li></ul>
+								</li><li><kw>Meanwhile Persian resistance in the area weakend with the death of Memnon; his replacement in July 333, another pharnabazus, doesn't do a whole lot
+								</kw><ul>
+									<li><kw>it would appear that Darius is intending at this point to moblize the full Persian army and take the offensive from the heart of the Persian empire
+								</kw></li></ul>
+								</li><li><kw>By end of summer 333 Alexander has moved down into Tarsus at the 'corner' of the Mediterranean, meeting some minor resistance at the pass of the 'Cilician Gates'
+								</kw><ul>
+									<li><kw>from here he can move down the coast of Syria and into Egypt, thus rendering the Persian fleet ineffective and protecting his rear as he moves east into Mesopotamia
+								</kw></li></ul>
+								</li><li><kw>Illness delays Alexander at Tarusus in August and September
+								</kw><ul>
+									<li><kw>by mid-October, Alexander knows of Darius' mobilization in Babylon
+									</kw></li><li><kw>anxious to complete his siezure of the coast lest he get pinned in by the Persian fleet on the west and army on the east
+								</kw></li></ul>
+								</li><li><kw>Got moving again in Novermber, when he receives word that Darius is on the plains of Syria
+							</kw></li></ul>
+						</li></ul>
+						<p><b>&nbsp;</b></p>
+						<p><a name="Wednesday"></a><kw>Wednesday, 4/22:</kw></p>
+						<p><kw>The Battle of Issus </kw><a href="Images/4.20/3_issus.jpg"><img src="Images/4.20/_3_issus.jpg" x-sas-useimagewidth="" x-sas-useimageheight="" align="bottom" height="62" width="96"></a></p>
+						<ul>
+							<li><kw>After recovering from his illness, Alexander ready to continue his campaigns
+							</kw></li><li><kw>Sent Parmenio forward to occupy the Syrian gates, to the south
+							</kw><ul>
+								<li><kw>Topography of the region: Cilicia closed off on three sides by high mountain ranges
+								</kw><ul>
+									<li><kw>Taurus mountains to north and west; Alexander had come through the Taurus Cilician Gates to Tarsus
+									</kw></li><li><kw>Amanus mountain range hems in the plain around the gulf of Issus to the east and south-east, with only a few narrow passes
+									</kw></li><li><kw>Amanus range extends to the south of the plain, through which are a few good passes
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>According to Arrian, as he was mobilizing his army east of Tarsus, received word from Parmenio that Darius was encamped at Sochi, two days' march east of the Syrian gates
+							</kw><ul>
+								<li><kw>Alexnader hurried forward, hoping to engage Darius in a decisive battle
+								</kw><ul>
+									<li><kw>covered ca. 70 miles of rough terrain in two days to Alexandretta
+									</kw></li><li><kw>then recieved the report that Darius was in his rear!
+									</kw><ul>
+										<li><kw>confirmed the report with a naval reconnaisance
+									</kw></li></ul>
+								</li></ul>
+							</li></ul>
+							</li><li><kw>An alternative account (Curtius) may be more likely:
+							</kw><ul>
+								<li><kw>Alexander knew of Darius' approach even while at Tarsus, but takes a defensive, rather than offensive posture:
+								</kw><ul>
+									<li><kw>moved south of Issus, where he held a war council:
+									</kw><ul>
+										<li><kw>Parmenio advised staying put
+										</kw><ul>
+											<li><kw>wait for reenfocements from Macedonia
+											</kw></li><li><kw>better to fight within the narrow confines of the coastal plain than out in the open, since Daius will have the numerical superiority
+										</kw></li></ul>
+									</li></ul>
+									</li><li><kw>Meanwhile, Darius is advised by his Greek mercenaries to withdraw into the wide plains of Mesopotamia, where he can use his numerical advantages, but Darius is anxious for a battle before the onset of winter; when it eventually became clear that Alexander wasn't going to leave the coastal plain, he decided to try to force the issue
+									</kw><ul>
+										<li><kw>enters Cilicia, captures Issus, and marches south to the Pinarus river
+									</kw></li></ul>
+									</li><li><kw>At this point Alexander receives word of Darius' position, and confirms it
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>Persian forces:
+							</kw><ul>
+								<li><kw>reported as between 300,000 and 600,000: obviously an exaggeration; 75,000-100,000, plus 20,000 cavalry moe likely?
+							</kw></li></ul>
+							</li><li><kw>Once Alexander has confirmed Darius' presence in his rear, he hastens to deal with it
+							</kw><ul>
+								<li><kw>Marched during the night to within several miles of the Pinarus
+								</kw></li><li><kw>On the following morning, led the army forward in column, deployed into line of battle as they approached the river
+								</kw><ul>
+									<li><kw>difficult manouvers, since the plain widened as it approached the river
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>Order of battle:
+							</kw><ul>
+								<li><kw>Persians
+								</kw><ul>
+									<li><kw>deployed infantry behind a screen of light infantry and cavalry
+									</kw><ul>
+										<li><kw>ca. 20,000 Greek mercenary hoplites in the center of the line
+										</kw></li><li><kw>lighter infantry on the wings, screened by archers
+										</kw></li><li><kw>Asiaitic troops in the rear
+										</kw></li><li><kw>Strong force of light-armed troops on the left, along the foothills, in advance of his line
+										</kw></li><li><kw>banks of the river reenfoced at its more accesible points with stockades
+									</kw></li></ul>
+								</li></ul>
+								</li><li><kw>Alexander
+								</kw><ul>
+									<li><kw>Parmenio with Thessalian cavalry on the left, with archers and javelin-men behind them
+									</kw></li><li><kw>Phalanx brigades in center with the Hypaspists on the center right
+									</kw></li><li><kw>Companion cavalry on the right, with support of light-armed troops
+									</kw></li><li><kw>sent a detachment of light-armed troops to counter the threat of the Persian light-armed troops in the foothills, but the Persians withdrew at the Macedonian approach, so this squadron was able to strengthen Alexander's right during the battle
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>Tactical plans:
+							</kw><ul>
+								<li><kw>Darius probably planning to flank Alexander with his cavalry, particularly on his right, where the cavalry can use the level ground along the coastline; then wheel around to smash the Macedonian infantry in the rear
+								</kw></li><li><kw>Alexander planning to use the cavalry to break the Persian line, giving his infantry an opening
+								</kw></li><li><kw>Plans (typical of the Persians and Macedonians) were thus in a sense complimentary
+							</kw></li></ul>
+							</li><li><kw>Battle
+							</kw><ul>
+								<li><kw>Alexander moved his troops steadily forward
+								</kw></li><li><kw>when they came within range of the Persian bows, he ordered a charge
+								</kw><ul>
+									<li><kw>infantry advanced on the double
+									</kw></li><li><kw>Alexander led the Companion cavalry into the river, up the far bank, through the archers, and into the infantry on the Persian left center
+									</kw><ul>
+										<li><kw>Two rightmost battalions of the Macedonian phalanx follow Alexander, but the ramaining four battalions couldn't force their way up the banks, leaving a gap in the Macedonian line
+										</kw></li><li><kw>Darius' mercenaries rushed into the gap, struggle ensued in which 120 Macedonians fell
+										</kw><ul>
+											<li><kw>once the two battalions on the left had finished with the Persian right, they wheeled back to deal with the mercenaries and relieve the Macedonian center
+										</kw></li></ul>
+									</li></ul>
+									</li><li><kw>On the Macedonian left, Pesian cavalry had crossed the river and forced the Thessalians back
+									</kw><ul>
+										<li><kw>diffiuclt struggle: Thessalians were outnumbered, and the Persian cavalry was more heavily armoured
+										</kw></li><li><kw>but they held their positions to prevent the Persians from outflanking the line on the left
+									</kw></li></ul>
+									</li><li><kw>As Alexander and the Companions break through the Persian line, Darius takes flight, first on chariot, and then, jettisoning his weapons, on horseback
+									</kw><ul>
+										<li><kw>flight of the king and the breakup of the Persian center caused the Persian right to break off its engagement with the Thessalian cavalry
+										</kw></li><li><kw>Alexander doesn't pursue until he's relieved his own center
+									</kw></li></ul>
+								</li></ul>
+								</li><li><kw>General rout ensued
+								</kw><ul>
+									<li><kw>Persians retreating along narrow, crowded routes are easy targets for Alexander's army
+									</kw></li><li><kw>Alexander pursued Darius until darkness fell, but he gets away, although his arms are captured, as are his wife, mother, and infant son in the Persian camp
+									</kw><ul>
+										<li><kw>Darius with about 4,000 surivors manages to escape into Babylon
+										</kw></li><li><kw>most of the Greek mercenaries escaped, but not with Darius
+									</kw></li></ul>
+									</li><li><kw>Macedonians lost about 450 men, with 10 times as many wounded
+									</kw></li><li><kw>Persian losses difficult to assess
+									</kw></li><li><kw>Parmenio soon afterwards takes possesion of the Persian baggage depot in Damscus
+									</kw><ul>
+										<li><kw>this, along with the Persian camp at Issus, provides Alexander with tremendous booty
+									</kw></li></ul>
+								</li></ul>
+							</li></ul>
+						</li></ul>
+						<p>&nbsp;</p>
+						<p><kw>The Siege of Tyre</kw></p>
+						<ul>
+							<li><kw>After Issus, Alexander refused the temptation to pursue Darius east, and stayed focused on his goal of securing the Mediterranean coast
+							</kw></li><li><kw>Headed south, and the great Phonecian cities of Byblos and Sidon surrendered
+							</kw></li><li><kw>At Tyre, however, he met resistance
+							</kw><ul>
+								<li><kw>Highly fortified island city
+								</kw><ul>
+									<li><kw>circumference of ca. 3 miles
+									</kw></li><li><kw>about one and a half miles from the coast
+								</kw></li></ul>
+								</li><li><kw>Proposed neutrality rather than submission, but Alexander felt he couldn't leave such a strong naval base uncontrolled
+								</kw><ul>
+									<li><kw>ordered the army to take the city
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>January 332: army began to construct a 200-foot wide mole from the coast to the city
+							</kw><ul>
+								<li><kw>as the construction approached the city, the Tyrians started attacking with catapults from their walls and with ships
+								</kw></li><li><kw>Alexander built two 150-foot towers at the end of the mole
+								</kw><ul>
+									<li><kw>used rawhide screens to protect them from flaming arrows
+									</kw></li><li><kw>armed with catapults to return fire at the walls and harass the ships
+								</kw></li></ul>
+								</li><li><kw>Tyrians used a horse-transport ship loaded with flamable materials to burn down Alexander's towers
+								</kw></li><li><kw>Alexander had his men widen the mole so that more towers could be constructed
+								</kw></li><li><kw>At this point, Alexander is reenforced by fleets from the Phonecian cities under his control
+								</kw><ul>
+									<li><kw>with some 200 ships, he's able to blockade Tyre by sea, and protect his mole from attacks by ship
+								</kw></li></ul>
+								</li><li><kw>Began assaulting the walls directly with the ships
+								</kw><ul>
+									<li><kw>tied several ships together and anchored them up against the walls to use them as platforms for battering rams
+									</kw><ul>
+										<li><kw>Tyre sent divers underwater to cut the ropes of Alexander's anchors, so Alexander switched to chains
+										</kw></li><li><kw>Also had to tow away large boulders that the Tryians had dropped to keep Alexander's ships away from the walls
+										</kw></li><li><kw>Tyrians dropped things like hot sand and oil from the walls
+									</kw></li></ul>
+								</li></ul>
+								</li><li><kw>Eventually, after seven months of siege operations, the Macedonians managed to breach a section of the wall on the south
+								</kw><ul>
+									<li><kw>July 332 Alexander ordered an assault on the city
+									</kw><ul>
+										<li><kw>sent ships in to blockade the two harbors of Tyre, on the northeast and southeast
+										</kw></li><li><kw>attacked from the end of the mole
+										</kw></li><li><kw>sent troops in through the breach in the wall to the south
+									</kw></li></ul>
+									</li><li><kw>Took the city, killed some 8,000 Tyrians and sold 30,000 captives into slavery
+								</kw></li></ul>
+							</li></ul>
+						</li></ul>
+						<p>&nbsp;</p>
+						<p><kw>Alexander's move to Egypt</kw></p>
+						<ul>
+							<li><kw>After Tyre, Alexander continued to push down the Mediterranean coast
+							</kw><ul>
+								<li><kw>encountered resistance at Gaza
+								</kw><ul>
+									<li><kw>another siege, not as protracted
+									</kw></li><li><kw>Alexander built a huge mound along the city's walls, stormed the city
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>Moved on into Egypt, encountering no significant resistance
+							</kw><ul>
+								<li><kw>by November 332, Alexander in control of the Egyptian coast (thus securing the entire relevant seaboard), spent the winter preparing to move into Persia and challenge Darius in the heart of his empire
+								</kw><ul>
+									<li><kw>established the city of Alexandria
+									</kw></li><li><kw>visited the temple of Ammon at the Siwah Oasis in early 331
+								</kw></li></ul>
+							</li></ul>
+						</li></ul>
+						<p>&nbsp;</p>
+						<p><kw>Alexander moves East</kw></p>
+						<ul>
+							<li><kw>After wintering in Egypt, Alexander doubles back to Tyre, where he spends a few months planning the expedition into Mesopotamia
+							</kw><ul>
+								<li><kw>Since Issus, Darius has made a few attempts at diplomacy
+								</kw><ul>
+									<li><kw>offered an alliance with Alexander in return for the release of the captured members of his family
+									</kw><ul>
+										<li><kw>Alexander dismissed the offer as one only appropriate among equals, and Darius had proven to be less than Alexander
+									</kw></li></ul>
+									</li><li><kw>later, offered a huge ransom for the royal family, along with the turnover of all Persian territory west of the Euphrates, a marriage with Darius' daughter, and alliance
+									</kw><ul>
+										<li><kw>but Alexander recognized that he could get all that for himself, and that without moving east of the Euphrates and eliminating Persian power completely, he would have no secure eastern frontier
+									</kw></li></ul>
+								</li></ul>
+							</li></ul>
+							</li><li><kw>Headed northeast from Tyre, and by early August reached the Euphrates
+							</kw><ul>
+								<li><kw>here he learns that Darius was waiting with a large army outside Babylon, far to the southeast
+								</kw><ul>
+									<li><kw>But Alexander isn't going to let Darius choose the battlefield
+								</kw></li></ul>
+								</li><li><kw>continues northeast, in territory with good pasturage and produce for supply
+								</kw></li><li><kw>Darius finally gives up on his position at Babylon, moves north across the Tigris, hoping to use it as his line of defence against Alexander
+								</kw><ul>
+									<li><kw>when Alexander learned of this, he made a forced march to reach the Tigris first, crossed it north of Darius' camp
+									</kw></li><li><kw>rested a few days, then moved south until he captured an advanced Persian force, from which he learned that Darius' full army was nearby
+									</kw></li><li><kw>Paused for several more days to fortify a camp and prepare for the upcoming battle
+								</kw></li></ul>
+							</li></ul>
+						</li></ul>
+						<p>&nbsp;</p>
+						<p><a name="Friday"></a><kw>Friday, 4/24:</kw></p>
+						<p><kw>The Battle of Gaugamela </kw><a href="Images/4.24/1_gaugamela_orders.jpg"><img src="Images/4.24/_1_gaugamela_orders.jpg" x-sas-useimagewidth="" x-sas-useimageheight="" align="bottom" height="80" width="96"></a><a href="Images/4.24/2_gaugamela_movements.jpg"><img src="Images/4.24/_2_gaugamela_movements.jpg" x-sas-useimagewidth="" x-sas-useimageheight="" align="bottom" height="75" width="96"></a></p>
+						<ul>
+							<li><kw>Summer 331: Headed northeast from Tyre, and by early August reached the Euphrates
+							</kw><ul>
+								<li><kw>here he learns that Darius was waiting with a large army outside Babylon, far to the southeast
+								</kw><ul>
+									<li><kw>But Alexander isn't going to let Darius choose the battlefield
+								</kw></li></ul>
+								</li><li><kw>continues northeast, in territory with good pasturage and produce for supply
+								</kw></li><li><kw>Darius finally gives up on his position at Babylon, moves north across the Tigris, hoping to use it as his line of defence against Alexander
+								</kw><ul>
+									<li><kw>when Alexander learned of this, he made a forced march to reach the Tigris first, crossed it north of Darius' camp
+									</kw></li><li><kw>rested a few days, then moved south until he captured an advanced Persian force, from which he learned that Darius' full army was nearby
+									</kw></li><li><kw>Paused for several more days to fortify a camp and prepare for the upcoming battle
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>Darius, meanwhile, having been outmarched by Alexander's army and unable to prevent him from crossing the Tigris, is anxious to find a battlefied suitable for his forces
+							</kw><ul>
+								<li><kw>chooses a site near the village of Gaugamela, where the ground is mostly level and open
+								</kw><ul>
+									<li><kw>army leveled out any obstructions to allow war chariots to have full run of the battlefield
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>Alexander, before dawn Sept. 30 breaks camp and advnaces to a ridge from which he can observe the Persians
+							</kw><ul>
+								<li><kw>saw that he was greatly outnumbered: Darius had probably had on the order of 35,000 cavalry, and plenty of infantry, though it's impossible to say how much (Arrian's 1,000,000 clearly an exaggeration!)
+								</kw><ul>
+									<li><kw>Alexander's strength at this point around 40,000 infantry, 7,000 cavalry
+								</kw></li></ul>
+								</li><li><kw>Alexander took Parmenio's advice and avoided an immediate attack, to allow more time to survey the area more thoroughly
+								</kw></li><li><kw>Darius meanwhile keeps his troops ready for battle through the following night
+							</kw></li></ul>
+							</li><li><kw>October 1: The battle
+							</kw><ul>
+								<li><kw>Orders-of-battle
+								</kw><ul>
+									<li><kw>Persian
+									</kw><ul>
+										<li><kw>Darius in center, flanked by 2,000 Greek mercenaries, bodyguard, and royal horse-guard
+										</kw></li><li><kw>Right wing of 14,000 cavalry
+										</kw></li><li><kw>Left wing of 18,000 cavalry and 3,000 Persian infantry
+										</kw></li><li><kw>In front of the line, 200 scythe-chariots
+										</kw><ul>
+											<li><kw>also had 15 elephants with him, but they don't seem to get involved in the battle
+										</kw></li></ul>
+										</li><li><kw>Remaining infantry behind these lines
+									</kw></li></ul>
+									</li><li><kw>Macedonian
+									</kw><ul>
+										<li><kw>right wing of Companion cavalry
+										</kw><ul>
+											<li><kw>flank-guard of 1500 cavalry and 6,700 mercenary infantry, and light-armed troops to provide a flexible link with the Companions
+										</kw></li></ul>
+										</li><li><kw>in the center, the hypaspists and the 6 phalanx battallions
+										</kw></li><li><kw>left wing of Thessalian cavalry, in echelon formation
+										</kw><ul>
+											<li><kw>flank-guard of mercenary cavalry and allied Greek cavalry totalling about 1000 and 5,500 Thracian infantry
+										</kw></li></ul>
+										</li><li><kw>Second line of infantry behind the phalanx, with orders to turn about if the enemy should penetrate to the rear
+										</kw></li><li><kw>Thracian infantry posted behind battle-line to protect baggage and prisoners
+									</kw></li></ul>
+								</li></ul>
+								</li><li><kw>Tactical intentions much like Issus
+								</kw><ul>
+									<li><kw>Darius hoping to absorb Alexander's charge on the left, and destroy it if possible; on the right, he hoped to smash through the Thessalian cavalry and outflank the Macedonian phalanx
+									</kw></li><li><kw>Alexander planned to strike a decisive blow with the Companion cavalry on the right while the left held out
+								</kw></li></ul>
+								</li><li><kw>Late in the morning, Alexander gave the order to advance
+								</kw><ul>
+									<li><kw>advanced obliquely to the right, hoping to induce a Persian attack on that wing
+									</kw><ul>
+										<li><kw>also perhaps hoping to move to ground that Darius hadn't been able to level, to make chariots ineffective
+									</kw></li></ul>
+									</li><li><kw>Darius sent his cavlary units on the left to advance against Alexander's right
+									</kw><ul>
+										<li><kw>Alexander sent several squadrons ahead to meet them, and a stuggle ensued
+									</kw></li></ul>
+									</li><li><kw>Darius then sent the chariots forward, but Alexander's javelin-men were able wheel aside and disable the horses or drivers of most of them as they sped forward
+									</kw><ul>
+										<li><kw>Macedonian phalanx opened ranks to allow remaining chariots to pass through, and soldiers in the rear then ran them down
+									</kw></li></ul>
+									</li><li><kw>His 'secret weapon' having misfired, Darius orders the attack on the left
+									</kw><ul>
+										<li><kw>Parmenio was outflanked by the superior numbers of Persian infantry, and Persian units began to break through the Macedonian left-center
+									</kw></li></ul>
+									</li><li><kw>Desperate situation for Alexander's army
+									</kw><ul>
+										<li><kw>but the Persians who had broken the Macedonian line kept moving forward to try to loot the Macedonian camp, rather than wheeling around to hammer the Macedonians in the rear
+									</kw></li></ul>
+									</li><li><kw>Darius pressed on Alexander's right
+									</kw><ul>
+										<li><kw>in doing so, several Persian cavalry units moved ahead and left a gap between the Persian left cavalry and infantry
+										</kw></li><li><kw>Alexander immediately siezed the opportunity and wheeled his cavalry wedge into the gap
+										</kw></li><li><kw>broke through and turned against the center and Darius, followed by Macedonian infantry
+									</kw></li></ul>
+									</li><li><kw>Darius again panicked and took flight
+									</kw></li><li><kw>Parmenio still hard-pressed on the left: this time word of the king's flight apparently hadn't reached the entire line. So Alexander has to relieve his left rather than pursue Darius
+									</kw><ul>
+										<li><kw>The Persian center, however, did flee with the king, and Alexander had to force his way through the crowds of Persian infantry, many of whom kept their formation in retreat
+									</kw></li></ul>
+									</li><li><kw>By the time Alexander breaks through to relieve Parmenio, he had managed to force the Persian cavalry back, and the entire Persian force was routed
+									</kw></li><li><kw>Alexander again pursued Darius, but unsuccessfully
+								</kw></li></ul>
+							</li></ul>
+						</li></ul>
+						<p>&nbsp;</p>
+						<p><kw>Consequences of Gaugamela</kw></p>
+						<ul>
+							<li><kw>Alexander now supreme in the heart of the Persian empire
+							</kw><ul>
+								<li><kw>proceeds to take Babylon and Susa without resistance
+								</kw></li><li><kw>Persepolis was defended, but Alexander was able to take it, too
+								</kw><ul>
+									<li><kw>January 330 Alexander burned the King's palace at Persepolis
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>Officially, the crusade against Persia is now over
+							</kw><ul>
+								<li><kw>Alexander from this point on considers himself not the leader of the allied Greeks against Persia, but as the King of Asia
+								</kw></li><li><kw>Allowed the Greek allies to return home, though many of them stayed on as mercenaries
+							</kw></li></ul>
+							</li><li><kw>Alexander however still plans to continue his conquests
+							</kw><ul>
+								<li><kw>heads toward Ecbatana, where Darius had fled
+								</kw><ul>
+									<li><kw>Darius, however, is eventually killed by some nobles in northeastern Iran
+								</kw></li></ul>
+								</li><li><kw>From 329-327, Alexander is involved in difficult guerrilla fighting against the tribes in the exotic lands of Bactria and Sogdiana
+								</kw></li><li><kw>Also during this phase of his campaign, there is growing dissension among the ranks
+								</kw><ul>
+									<li><kw>many of Alexander's lieutenants, including Parmenio, are executed during this period
+								</kw></li></ul>
+							</li></ul>
+						</li></ul>
+						<p>&nbsp;</p>
+						<p><kw>Alexander moves into India</kw></p>
+						<ul>
+							<li><kw>By 327, Alexander has Persia firmly under his control, and decides to move eastward into India
+							</kw></li><li><kw>Crosses the Hindu Kush mountains via the Khyber Pass, crosses the Indus river
+							</kw><ul>
+								<li><kw>eventually meets concerted opposition in the Punjab, at the Hydaspes river, a tributary of the Indus, in May of 326
+							</kw></li></ul>
+							</li><li><kw>Indian King Porus (said to be some seven feet tall!) had an army of at least 30,000 infantry, 4,000 cavalry, 300 chariots, and 200 elephants
+							</kw><ul>
+								<li><kw>Alexander at this point had about 75,000 men in his total forces, but some of them are dispersed, and when he actually engaged Porus' army he had probably about 5,000 cavalry and 15,000 infantry with him.
+							</kw></li></ul>
+							</li><li><kw>Porus held a strong position on the Hydaspes to block Alexander's advance across it
+							</kw><ul>
+								<li><kw>river was deep and turbulent with the runoff of Himilayan snow
+								</kw></li><li><kw>possibility of a head-on assault by Alexander made difficult by the presence of the elephants, which frightened the horses too much for them to be carried across on rafts,
+							</kw></li></ul>
+							</li><li><kw>Instead, Alexander adopted a ruse:
+							</kw><ul>
+								<li><kw>for several nights running, he marched his cavalry up and down the banks of the river, making lots of noise, to force Porus to move his elephants to match
+								</kw></li><li><kw>eventually, Porus got tired of the chasing, and stayed in his camp
+							</kw></li></ul>
+							</li><li><kw>At that point, Alexander left his general Craterus at the original base with 5,000 troops and some cavalry, and himself moved (during the night and in the midst of a heavy rainstorm) 18 miles north.
+							</kw><ul>
+								<li><kw>circulated rumors, intended to reach Porus, that Alexander was planning to wait until the river receded before attempting to cross
+								</kw></li><li><kw>left someone in his camp wearing his insignia to make Porus think he was still at base
+							</kw></li></ul>
+							</li><li><kw>Alexander crossed the Hydaspes north of Porus' position (with difficulty) and planned to strike
+							</kw><ul>
+								<li><kw>he had left Craterus with orders to cross the river if he himself could get Porus to turn to meet him, but only if the elephants were withdrawn from the banks; if they weren't, Craterus was to wait.
+							</kw></li></ul>
+							</li><li><kw>Alexander rode ahead with his cavalry, with the infantry following some 2 miles behind
+							</kw><ul>
+								<li><kw>Porus meanwhile had learned that Alexander was trying to cross the river, and sent a squadron of 2,000 cavalry with 120 chariots to defend the banks
+								</kw></li><li><kw>They were too late, and as they came into view Alexander charged them in squadrons, eventually exhausting them and putting them to flight, capturing the chariots in the process
+							</kw></li></ul>
+							</li><li><kw>Porus decided to move his forces against Alexander, though he left a small guard with some elephants to prevent Craterus from crossing. Chose a battle site that was relatively unmuddy from the recent rain</kw><br>
+							<a href="Images/4.24/4_hydaspes.jpg"><img src="Images/4.24/_4_hydaspes.jpg" x-sas-useimagewidth="" x-sas-useimageheight="" align="bottom" height="88" width="96"></a>
+							<ul>
+								<li><kw>Orders-of-battle
+								</kw><ul>
+									<li><kw>Indian line extended about 2 miles
+									</kw><ul>
+										<li><kw>On each wing, 2,000 cavalry and 150 chariots
+										</kw></li><li><kw>infantry in the center, with elephants in front at 50-foot intervals
+									</kw></li></ul>
+									</li><li><kw>Macedonian
+									</kw><ul>
+										<li><kw>Alexander bunched his cavalry on his right, with a detachment of about 1,000 on the right
+										</kw><ul>
+											<li><kw>Alexander expected Porus to move his right cavalry to this left to meet the assault of Alexander's cavalry, in which case this squadron was to move and come in behind the Indians
+											</kw></li><li><kw>phalanx in center screened by archers
+										</kw></li></ul>
+									</li></ul>
+								</li></ul>
+								</li><li><kw>The battle
+								</kw><ul>
+									<li><kw>Alexander opened by sending forward a squadron of mounted archers on his right, to take out the Indian chariots on the left and disrupt their cavalry
+									</kw></li><li><kw>Then moved with the Companions in column to encircle and flank the Indian left, hoping to draw the Indian cavalry away from the infantry line.
+									</kw></li><li><kw>Porus brought his right cavalry across the line to support the left
+									</kw><ul>
+										<li><kw>the Macedonian cavalry squadron on the left moved in behind it to strike it in the rear
+										</kw></li><li><kw>Kept Porus from integrating the two cavalry wings before Alexander could strike
+									</kw></li></ul>
+									</li><li><kw>Along with the cavalry strike, the Macedonian infantry moved forward to prevent the elephants from interfering with Alexander's cavalry
+									</kw><ul>
+										<li><kw>skirmishers did much of the work, shooting down drivers and and piercing the elephants themselves, though the Macedonian infantry did take some trampling casualties
+									</kw></li></ul>
+									</li><li><kw>Alexander's cavalry able to drive the Indian cavalry back against the elephants, at which point chaos ensued
+									</kw><ul>
+										<li><kw>elephants, boxed in by their own cavalry, had no room to manouver, ended up trampling their own side
+									</kw></li></ul>
+									</li><li><kw>Indians soon broke and fled
+									</kw><ul>
+										<li><kw>at this point Craterus is able to cross the river, and pursued with fresh troops
+										</kw></li><li><kw>result is a substantial slaughter
+										</kw></li><li><kw>Porus himself is wounded and captured
+										</kw><ul>
+											<li><kw>according to anecdote, when he was brought before Alexander, the Macedonian king asked him how he wanted to be treated. When Porus replied, 'As a king', Alexdander was impressed and ended up befriending Porus, and keeping his kingdom intact.
+										</kw></li></ul>
+									</li></ul>
+								</li></ul>
+							</li></ul>
+						</li></ul>
+						<p>&nbsp;</p>
+						<p><kw>The Return </kw><a href="Images/4.24/route.jpg"><img src="Images/4.24/_route.jpg" x-sas-useimagewidth="" x-sas-useimageheight="" align="bottom" height="70" width="96"></a></p>
+						<ul>
+							<li><kw>After the battle, Alexander established the cities of Nicaea and Bucephala (named after his horse, which, at 30 years old, had died of exhaustion in the battle)
+							</kw></li><li><kw>Gave his troops a month of rest
+							</kw></li><li><kw>Continued east for a bit, but soon the army began to demand a return home when they had reached the Beas river, another tributary of the Indus, in summer of 326
+							</kw><ul>
+								<li><kw>exhausted by the long campaign in general
+								</kw></li><li><kw>discouraged by heat and rain
+								</kw></li><li><kw>dreading further encounters with elephants
+								</kw></li><li><kw>no idea how much further they'd be going
+								</kw><ul>
+									<li><kw>did Alexander hope to reach the ends of the earth, the Ocean, which he may have thought was nearby
+									</kw></li><li><kw>or was he planning to advance until he had a secure eastern border with no threatening opposition (possibly the Ocean)?
+								</kw></li></ul>
+							</li></ul>
+							</li><li><kw>After several days of brooding, Alexander eventually relented
+							</kw><ul>
+								<li><kw>planned to return not the way he had come, though, despite the fact that, despite the distance, he still had lines of communication all the way back to Macedonia and probably would have had a relatively easy return
+								</kw></li><li><kw>Constructed a fleet to transport the guards, Companions, archers, and some light-armed troops down the Indus, departed mid November
+								</kw><ul>
+									<li><kw>had forces of cavalry and captured elephants on either bank
+								</kw></li></ul>
+								</li><li><kw>with some campaigning along the way, reached the Indus delta July 325
+							</kw></li></ul>
+							</li><li><kw>At that point, Alexander takes part of his forces west by land, leaves the fleet to sail and meet up with him again at the head of the Persian gulf
+							</kw><ul>
+								<li><kw>fleet delayed because it hadn't understood the Indian monsoon that prevented westward navigation for several months
+								</kw></li><li><kw>Alexander's forces had a desperate time crossing the Gedrosian desert
+							</kw></li></ul>
+							</li><li><kw>In 324, he's back in the heart of Persian territory, sets about dealing with various administrative matters, trying to make arrangements to keep his vast conquests running smoothly
+							</kw><ul>
+								<li><kw>Spring of 323 he's back in Babylon
+								</kw><ul>
+									<li><kw>Planning a campaign to conquer the Arabian peninsula
+									</kw><ul>
+										<li><kw>but in late May Alexander falls ill, and on 10 June dies
+										</kw><ul>
+											<li><kw>possibly long-term effects of alcoholism
+											</kw></li><li><kw>possibly malarial fever, which might have developed into leukemia
+											</kw></li><li><kw>Rumors that Alexander had been poisoned gradually
+										</kw></li></ul>
+										</li><li><kw>Perdiccas, who by now was Alexander's senior commander, claimed that Alexander gave him his ring shortly before his death, to signify the passing on of imperial authority
+										</kw></li><li><kw>Among Alexander's reported last words:
+										</kw><ul>
+											<li><kw>when asked to whom he left his kingdom, he replied, 'to the stronges'
+											</kw></li><li><kw>also declared, as his last recorded words, that all his foremost friends would hold a great funeral contest over him
+											</kw><ul>
+												<li><kw>double-meaning of homeric-style funeral games on the occasion of a hero's death, and the struggle he expected to ensue among his officers for control of the vast new Macedonian empire.
+											</kw></li></ul>
+										</li></ul>
+									</li></ul>
+								</li></ul>
+							</li></ul>
+						</li></ul>
+						<center>
+							<p>&nbsp;</p></center>
+					</td>
+				</tr>
+			</tbody></table>
+<b>			</b></div>
+	
+
+</body>

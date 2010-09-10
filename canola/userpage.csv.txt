@@ -1,0 +1,21 @@
+bias_rating,
+bias_tag,
+count_tag,
+differ_rating,
+differ_tag,
+
+{
+    num_neg_bias_rating
+    num_neg_bias_tag
+    num_pos_bias_rating
+    num_pos_bias_tag
+    sum_neg_bias_rating
+    sum_neg_bias_tag
+    sum_pos_bias_rating
+    sum_pos_bias_tag
+}:  
+    tag vs. rating wie gehabt
+    offensichtlich: neg vs. pos und dafuer jeweils sum und num
+
+    sanity check: sum(pos)+sum(neg) -?> bias_rating,bias_tag
+    num: anzhal der betrachteten nodes pro dokument
