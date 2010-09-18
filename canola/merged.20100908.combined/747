@@ -1,0 +1,325 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://www.amconmag.com/2008/2008_03_24/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- InstanceBegin template="../../templates/pagetemplate2007.html" --><title>Into Africa</title>
+
+	
+
+		
+			
+			
+			<script language="JavaScript"><!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+
+  window.open(theURL,winName,features);
+
+}
+// -->
+		</script>
+			<link href="../../tac.css" rel="stylesheet" media="screen" type="text/css">
+			<csscriptdict import=""></csscriptdict>
+				<script src="../../GeneratedItems/CSScriptLib.js"></script><!-- #BeginHeadLocked "" -->
+			
+			
+				<script language="JavaScript"><!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+
+  window.open(theURL,winName,features);
+
+}
+// -->
+		</script>
+				<csactiondict></csactiondict>
+					<script><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'aboutus2',/*URL*/'../../images/aboutus.gif',/*URL*/'../../images/aboutus_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button2',/*URL*/'../../images/archive.gif',/*URL*/'../../images/archive_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'subscribe3',/*URL*/'../../images/subscribe.gif',/*URL*/'../../images/subscribe_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'contact3',/*URL*/'../../images/contact.gif',/*URL*/'../../images/contact_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'customer2',/*URL*/'../../images/customer.gif',/*URL*/'../../images/customer_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'blogs2',/*URL*/'../../images/blogs.gif',/*URL*/'',/*URL*/'','');
+
+// --></script><!-- #EndHeadLocked -->
+				
+			
+			<csactions></csactions>
+				<csaction name="BFA3C5A773" class="Set Image URL" type="onevent" val0="navleft" val1="../../images/navleft.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A775" class="Set Image URL" type="onevent" val0="home" val1="../../images/home-over.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A777" class="Set Image URL" type="onevent" val0="editors" val1="../../images/h_editors.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A779" class="Set Image URL" type="onevent" val0="archive" val1="../../images/archive.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A781" class="Set Image URL" type="onevent" val0="advertising" val1="../../images/renew_w.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A783" class="Set Image URL" type="onevent" val0="subscribe" val1="../../images/subscribe.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A785" class="Set Image URL" type="onevent" val0="customer" val1="../../images/customer.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A787" class="Set Image URL" type="onevent" val0="contact" val1="../../images/contact.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A789" class="Set Image URL" type="onevent" val0="navright" val1="../../images/navright.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A791" class="Set Image URL" type="onevent" val0="navleft" val1="../../images/navleft.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A793" class="Set Image URL" type="onevent" val0="home" val1="../../images/home.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A795" class="Set Image URL" type="onevent" val0="editors" val1="../../images/h_editors.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A797" class="Set Image URL" type="onevent" val0="archive" val1="../../images/archive.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A799" class="Set Image URL" type="onevent" val0="advertising" val1="../../images/renew_w.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A7101" class="Set Image URL" type="onevent" val0="subscribe" val1="../../images/subscribe.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A7103" class="Set Image URL" type="onevent" val0="customer" val1="../../images/customer.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A7105" class="Set Image URL" type="onevent" val0="contact" val1="../../images/contact.gif" urlparams="2"></csaction>
+				<csaction name="BFA3C5A7107" class="Set Image URL" type="onevent" val0="navright" val1="../../images/navright.gif" urlparams="2"></csaction>
+			
+			<csactiondict></csactiondict>
+				<script type="text/javascript"><!--
+CSAct[/*CMP*/ 'BFA3C5A773'] = new Array(CSSetImageURL,/*CMP*/ 'navleft',/*URL*/ '../../images/navleft.gif');
+CSAct[/*CMP*/ 'BFA3C5A775'] = new Array(CSSetImageURL,/*CMP*/ 'home',/*URL*/ '../../images/home-over.gif');
+CSAct[/*CMP*/ 'BFA3C5A777'] = new Array(CSSetImageURL,/*CMP*/ 'editors',/*URL*/ '../../images/h_editors.gif');
+CSAct[/*CMP*/ 'BFA3C5A779'] = new Array(CSSetImageURL,/*CMP*/ 'archive',/*URL*/ '../../images/archive.gif');
+CSAct[/*CMP*/ 'BFA3C5A781'] = new Array(CSSetImageURL,/*CMP*/ 'advertising',/*URL*/ '../../images/renew_w.gif');
+CSAct[/*CMP*/ 'BFA3C5A783'] = new Array(CSSetImageURL,/*CMP*/ 'subscribe',/*URL*/ '../../images/subscribe.gif');
+CSAct[/*CMP*/ 'BFA3C5A785'] = new Array(CSSetImageURL,/*CMP*/ 'customer',/*URL*/ '../../images/customer.gif');
+CSAct[/*CMP*/ 'BFA3C5A787'] = new Array(CSSetImageURL,/*CMP*/ 'contact',/*URL*/ '../../images/contact.gif');
+CSAct[/*CMP*/ 'BFA3C5A789'] = new Array(CSSetImageURL,/*CMP*/ 'navright',/*URL*/ '../../images/navright.gif');
+CSAct[/*CMP*/ 'BFA3C5A791'] = new Array(CSSetImageURL,/*CMP*/ 'navleft',/*URL*/ '../../images/navleft.gif');
+CSAct[/*CMP*/ 'BFA3C5A793'] = new Array(CSSetImageURL,/*CMP*/ 'home',/*URL*/ '../../images/home.gif');
+CSAct[/*CMP*/ 'BFA3C5A795'] = new Array(CSSetImageURL,/*CMP*/ 'editors',/*URL*/ '../../images/h_editors.gif');
+CSAct[/*CMP*/ 'BFA3C5A797'] = new Array(CSSetImageURL,/*CMP*/ 'archive',/*URL*/ '../../images/archive.gif');
+CSAct[/*CMP*/ 'BFA3C5A799'] = new Array(CSSetImageURL,/*CMP*/ 'advertising',/*URL*/ '../../images/renew_w.gif');
+CSAct[/*CMP*/ 'BFA3C5A7101'] = new Array(CSSetImageURL,/*CMP*/ 'subscribe',/*URL*/ '../../images/subscribe.gif');
+CSAct[/*CMP*/ 'BFA3C5A7103'] = new Array(CSSetImageURL,/*CMP*/ 'customer',/*URL*/ '../../images/customer.gif');
+CSAct[/*CMP*/ 'BFA3C5A7105'] = new Array(CSSetImageURL,/*CMP*/ 'contact',/*URL*/ '../../images/contact.gif');
+CSAct[/*CMP*/ 'BFA3C5A7107'] = new Array(CSSetImageURL,/*CMP*/ 'navright',/*URL*/ '../../images/navright.gif');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'home2',/*URL*/'../../images/home.gif',/*URL*/'../../images/home-over.gif',/*URL*/'','');
+
+// --></script></head><body leftmargin="0" topmargin="0" onload="CSScriptInit();" alink="red" bgcolor="#000066" vlink="#cc0000" link="#cc0000" marginheight="0" marginwidth="0">
+			<div align="left">
+				<a name="anchor"></a>
+				<table border="0" cellpadding="0" cellspacing="0" width="760">
+					<tbody><tr>
+						<td valign="top"><!-- #BeginEditable "Region2" --><a href="../../index.html"><img src="../../images/top1.gif" align="top" border="0" height="119"></a><!-- #EndEditable --></td>
+						<td colspan="10">
+							<table cool="cool" gridx="2" gridy="2" showgridx="showgridx" showgridy="showgridy" border="0" cellpadding="0" cellspacing="0" width="567" height="120">
+								<tbody><tr height="19">
+									<td rowspan="3" xpos="0" align="left" valign="top" width="195" height="119"><!-- #BeginEditable "Region3" --><img src="../../images/top4.gif" alt="" align="top" border="0" width="195" height="119"><!-- #EndEditable --></td>
+									<td rowspan="2" width="1" height="106"></td>
+									<td xpos="196" align="left" valign="top" width="370" height="19"><img src="../../images/top6.gif" alt="" align="top" border="0" width="370" height="19"></td>
+									<td width="1" height="19"><spacer type="block" width="1" height="19"></td>
+								</tr>
+								<tr height="87">
+									<td xpos="196" align="left" valign="top" width="370" height="87"><a href="../../ee/index.html"><img src="../../ads/topbanner.gif" alt="" align="top" border="0" width="370" height="85"></a></td>
+									<td width="1" height="87"><spacer type="block" width="1" height="87"></td>
+								</tr>
+								<tr height="13">
+									<td colspan="2" xpos="195" align="left" valign="top" width="371" height="13"><img src="../../images/top5.gif" alt="" align="top" border="0" width="370" height="15"></td>
+									<td width="1" height="13"><spacer type="block" width="1" height="13"></td>
+								</tr>
+								<tr cntrlrow="cntrlrow" height="1">
+									<td width="195" height="1"><spacer type="block" width="195" height="1"></td>
+									<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+									<td width="370" height="1"><spacer type="block" width="370" height="1"></td>
+									<td width="1" height="1"></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top"><img src="../../images/top3.gif" align="top" border="0" width="204" height="25"></td>
+						<td><img src="../../images/navleft.gif" name="navleft2" align="top" border="0" width="12" height="25"></td>
+						<td><!-- #BeginEditable "Region" --><csobj al="" w="44" h="25" t="Button" ht="../../images/home-over.gif" csover="BFA3C5A773,BFA3C5A775,BFA3C5A777,BFA3C5A779,BFA3C5A781,BFA3C5A783,BFA3C5A785,BFA3C5A787,BFA3C5A789" csout="BFA3C5A791,BFA3C5A793,BFA3C5A795,BFA3C5A797,BFA3C5A799,BFA3C5A7101,BFA3C5A7103,BFA3C5A7105,BFA3C5A7107"><a href="../../index.html" onmouseover="CSAction(new Array(/*CMP*/'BFA3C5A773',/*CMP*/'BFA3C5A775',/*CMP*/'BFA3C5A777',/*CMP*/'BFA3C5A779',/*CMP*/'BFA3C5A781',/*CMP*/'BFA3C5A783',/*CMP*/'BFA3C5A785',/*CMP*/'BFA3C5A787',/*CMP*/'BFA3C5A789'));return CSIShow(/*CMP*/'home2',1);" onmouseout="CSAction(new Array(/*CMP*/'BFA3C5A791',/*CMP*/'BFA3C5A793',/*CMP*/'BFA3C5A795',/*CMP*/'BFA3C5A797',/*CMP*/'BFA3C5A799',/*CMP*/'BFA3C5A7101',/*CMP*/'BFA3C5A7103',/*CMP*/'BFA3C5A7105',/*CMP*/'BFA3C5A7107'));return CSIShow(/*CMP*/'home2',0);" onclick="return CSButtonReturn()"><img src="../../images/home.gif" name="home2" alt="" border="0" width="44" height="25"></a></csobj><!-- #EndEditable --></td>
+						<td><csobj al="" w="70" h="25" t="Button" ht="../../images/aboutus_over.gif"><a href="../../aboutus.html" onmouseover="return CSIShow(/*CMP*/'aboutus2',1)" onmouseout="return CSIShow(/*CMP*/'aboutus2',0)" onclick="return CSButtonReturn()"><img src="../../images/aboutus.gif" name="aboutus2" alt="" border="0" width="70" height="25"></a></csobj></td>
+						<td><csobj al="" w="59" h="25" t="Button" ht="../../images/archive_over.gif"><a href="../../archive.html" onmouseover="return CSIShow(/*CMP*/'button2',1)" onmouseout="return CSIShow(/*CMP*/'button2',0)" onclick="return CSButtonReturn()"><img src="../../images/archive.gif" name="button2" alt="" border="0" width="59" height="25"></a></csobj></td>
+						<td><csobj al="" w="72" h="25" t="Button" ht="../../images/subscribe_over.gif"><a href="http://www2.starrcorp.com/acm/" target="_blank" onmouseover="return CSIShow(/*CMP*/'subscribe3',1)" onmouseout="return CSIShow(/*CMP*/'subscribe3',0)" onclick="return CSButtonReturn()"><img src="../../images/subscribe.gif" name="subscribe3" alt="" border="0" width="72" height="25"></a></csobj></td>
+						<td><csobj al="" w="81" h="25" t="Button" ht="../../images/contact_over.gif"><a href="../../contact.html" onmouseover="return CSIShow(/*CMP*/'contact3',1)" onmouseout="return CSIShow(/*CMP*/'contact3',0)" onclick="return CSButtonReturn()"><img src="../../images/contact.gif" name="contact3" alt="" border="0" width="81" height="25"></a></csobj></td>
+						<td><csobj al="" w="120" h="25" t="Button" ht="../../images/customer_over.gif"><a href="http://www2.starrcorp.com/acm/" target="_blank" onmouseover="return CSIShow(/*CMP*/'customer2',1)" onmouseout="return CSIShow(/*CMP*/'customer2',0)" onclick="return CSButtonReturn()"><img src="../../images/customer.gif" name="customer2" alt="" border="0" width="120" height="25"></a></csobj></td>
+						<td><csobj w="55" h="25" t="Button"><a href="http://www.amconmag.com/blog/" onmouseover="return CSIShow(/*CMP*/'blogs2',1)" onmouseout="return CSIShow(/*CMP*/'blogs2',0)" onclick="return CSButtonReturn()"><img src="../../images/blogs.gif" name="blogs2" border="0" width="55" height="25"></a></csobj></td>
+						<td><img src="../../images/navright.gif" name="navright2" align="top" border="0" width="52" height="25"></td>
+						<td><img src="../../images/spacer.gif" width="1" height="25"></td>
+					</tr>
+				</tbody></table>
+				<table bgcolor="white" border="0" cellpadding="0" cellspacing="0" width="769">
+					<tbody><tr height="1">
+						<td class="body" bgcolor="#000066" valign="top" width="204" height="1"></td>
+						<td class="body" colspan="3" bgcolor="#888888" valign="top" width="565" height="1"><img src="../../images/spacer.gif" border="0" width="1" height="1"></td>
+					</tr>
+					<tr height="1">
+						<td class="body" bgcolor="#000066" valign="top" width="204" height="1"></td>
+						<td class="body" colspan="3" bgcolor="#aaaaaa" valign="top" width="565" height="1"><img src="../../images/spacer.gif" border="0" width="1" height="1"></td>
+					</tr>
+					<tr height="1">
+						<td class="body" bgcolor="#000066" valign="top" width="204" height="1"></td>
+						<td class="body" colspan="3" bgcolor="#bbbbbb" valign="top" width="565" height="1"><img src="../../images/spacer.gif" border="0" width="1" height="1"></td>
+					</tr>
+					<tr height="1">
+						<td class="body" bgcolor="#000066" valign="top" width="204" height="1"></td>
+						<td class="body" colspan="3" bgcolor="#dddddd" valign="top" width="565" height="1"><img src="../../images/spacer.gif" border="0" width="1" height="1"></td>
+					</tr>
+					<tr height="5">
+						<td class="body" bgcolor="#000066" valign="top" width="204" height="5"></td>
+						<td class="body" colspan="3" bgcolor="#eeeeee" valign="top" width="565" height="5"><img src="../../images/spacer.gif" border="0" width="1" height="1"></td>
+					</tr>
+					<tr valign="top" height="15">
+						<td class="body" bgcolor="#000066" valign="top" width="204" height="15">
+							<center>
+							</center>
+						</td>
+						<td class="body" colspan="3" bgcolor="white" valign="top" width="565" height="15">
+							<div align="center">
+								<p>
+							</p>
+							</div>
+						</td>
+					</tr>
+					<tr valign="top">
+						<td class="body" bgcolor="#000066" valign="top" width="204">
+							<center>
+								<p><font color="#cccc99"><kw class="krdwrd-tag-1">Current Issue</kw></font><font color="white"><br>
+									</font><!-- #BeginEditable "Cover%20image" --><a href="index1.html"><img src="images/magcover.jpg" align="top" border="0" width="184" height="233"></a><!-- #EndEditable --><br>
+								</p>
+								<font color="#ffffcc">
+									<hr size="3" width="90%" noshade="noshade">
+								</font>
+								<center>
+									<center>
+										<center>
+											<center>
+												<div align="center">
+													<center>
+														<center>
+															<center>
+																<div align="center">
+																	<center>
+																		<center>
+																			<center>
+																				<center>
+																					<div align="center">
+																						<p><a href="http://www2.starrcorp.com/acm/"><img src="../../ads/amcon/sideoffer.gif" alt="" border="0" width="185" height="145"></a></p>
+																						<p> </p>
+																					</div>
+																				</center>
+																			</center>
+																		</center>
+																	</center>
+																</div>
+															</center>
+														</center>
+													</center>
+												</div>
+											</center>
+										</center>
+									</center>
+								</center>
+							</center>
+						</td>
+						<td bgcolor="white" valign="top" width="38"><img src="../../images/spacer.gif" border="0" width="38" height="5"></td>
+						<td bgcolor="white" valign="top" width="489"><!-- #BeginEditable "Body%20Text" -->
+								<table border="0" cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td><img src="../../images/emailfriend.gif" onmousedown="MM_openBrWindow('../../cfm/form.cfm?pagelink=' + location.href,'info','width=550,height=550')"></td>
+										<td><a href="print/coverprint.html" target="_blank"><img src="../../images/printarticle.gif" name="emailfriend4" border="0" width="87" height="13"></a></td>
+										<td></td>
+									</tr>
+								</tbody></table>
+								<p><font color="black"><span class="body"><b><kw class="krdwrd-tag-1">March 24, 2008 Issue</kw></b></span></font><span class="body"><b><br><kw class="krdwrd-tag-1">
+											Copyright © 2008 </kw><i><kw class="krdwrd-tag-1">The American Conservative</kw><br>
+												<br>
+											</i></b></span></p>
+								<p class="body2"><span class="head2"><span><kw class="krdwrd-tag-2">Into Africa</kw></span></span></p>
+								<p class="body2"><span class="head"><span><kw class="krdwrd-tag-3">Once as a colonial project, now as a moral playground, the ancient continent remains the object of Great Power maneuvering.</kw></span></span></p>
+								<p class="body"><span class="body"><i><b><kw class="krdwrd-tag-2">by John Derbyshire</kw></b></i></span></p>
+								<div align="left">
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">George W. Bush’s seven-day, five-country trip around Africa generated much surprised comment about how popular our president is over there. The leaders of the nations Bush visited beamed with pride through their photo-ops. In Tanzania, local artists had emblazoned the president’s smiling face on fabric, which was made into dresses and smocks worn by citizens lining the streets in welcome. The president of Ghana announced that a major new road is to be named “George W. Bush Motorway.” </kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Africans like our president. They like us even more. According to a Pew survey conducted shortly before Bush’s trip, eight of the top ten nations that gave America the highest approval ratings were African. (The other two were Israel and the United States. Pew apparently allowed Americans to vote for themselves.)   </kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Along with press commentary about Bush’s popularity came a corresponding quantity of sour remarks about how, with mounting domestic economic difficulties and with little to hope for during his remaining time in office, the president must have felt that he might as well escape to the embrace of people who actually like him. After the welcome banquet in Ghana, a happy Bush offered the assembled notables an illustration of the adage that white men can’t dance. He got up on the stage and commenced swinging his hips to some rhythm other than the one the band was playing. Waving his arms in the air, he grinned with pleasure. It was not pretty, but for a few minutes at least, far from domestic rancors, the president was waving, not drowning.</kw></span><span class="body"><br>
+										</span></p>
+									<p class="body"><span class="body"></span></p>
+								</div>
+								<div class="body">
+									<div align="left">
+										<p class="body" align="center"><span class="body"><img src="images/magcoverlg.jpg" alt="" border="0" width="460" height="599"></span></p>
+									</div>
+								</div>
+								<div align="left">
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Why do they like him, and us, so much? The biggest reason is the clouds of dollar bills that Bush showered on his hosts. Benin got $307 million, Tanzania $698 million, Rwanda a “bilateral investment treaty” and $100 million for troop training, Ghana $547 million, Liberia more military aid and also a million textbooks and 10,000 desks and chairs for its schools.
+									
+									
+									
+									
+									
+									</kw><p class="body"><span class="body"><kw class="krdwrd-tag-3">This is on top of “regular” aid through the U.S. Agency for International Development and single-issue programs like PEPFAR. That last is the President’s Emergency Plan for AIDS Relief, a 2003 Bush brainchild that will have cost U.S. taxpayers close to $20 billion at the upcoming five-year mark and whose funding the president is currently lobbying Congress to increase. At the nation-to-nation level, you really can buy love.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Bush has been the foreign-aid president, carrying into this area his affection for extravagant government spending, his faith in the power of cold cash—yours and mine, of course—to solve all problems and soothe all pain, if applied in sufficient quantity.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">As with so much else in Bush’s operating philosophy, the 9/11 attacks seem to have had something to do with it. After finding little to say about aid in the 2000 campaign, Bush declared his newfound commitment at a meeting of the Inter-American Development Bank in March 2002. Had he concluded that aid would be a good weapon against terrorism? It is impossible to be sure, as the president’s thought processes, here as elsewhere, defy logical analysis:</kw></span></p>
+									<blockquote>
+										<p class="body"><span class="body"><kw class="krdwrd-tag-3">Poverty doesn’t cause terrorism. Being poor doesn’t make you a murderer. Most of the plotters of September 11th were raised in comfort. Yet persistent poverty and oppression can lead to hopelessness and despair. And when governments fail to meet the most basic needs of their people, these failed states can become havens for terror.</kw></span></p>
+									</blockquote>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">So although poverty does not cause terrorism, it is important to alleviate global poverty because that will reduce terrorism. If George W. Bush were a fictional character, his author would have been Lewis Carroll. Alas, Bush is all too real.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">As Bruce Bartlett points out in </kw><em><kw class="krdwrd-tag-3">Impostor</kw></em><kw class="krdwrd-tag-3">, Bush’s faith in foreign aid presents a sorry contrast with the deep skepticism of Ronald Reagan, who told the World Bank in 1982 that poor countries needed liberty, not aid.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">It is a contrast, too, with the near universal opinion among economists that aid does more harm than good to recipient countries. There is now a paper trail on this topic stretching back 30 years to the research of British economist Peter Bauer in the 1960s and 1970s. Bauer was the originator of the apothegm that foreign aid is “a transfer of money from poor people in rich countries to rich people in poor countries.” Reagan’s attitude was likely influenced by Bauer. Margaret Thatcher’s certainly was: she raised Bauer to the British peerage in 1983, making him Lord Bauer.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">But foreign aid is a mighty establishment possessed of tremendous inertia, with thousands of bureaucratic and academic careers at stake and huge resources of First World guilt and sentimentality to draw on. The aid establishment rallied from the skepticism of the 1980s. The assistance that Bauer scoffed at was, the aid-mongers now argue, merely the wrong kind. There are better ways to do it. We must learn from our mistakes. Arthur Koestler’s imaginary Society for the Prevention of Cruelty to Dead Horses has been very active in the aid arena. The first thing that any aid official will tell you is that the principles governing foreign aid today are nothing like the old, failed policies of the 1970s. If you criticize aid on that basis, you are flogging a dead horse. These new programs are more carefully targeted, more subtle, more conditional.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">The great bundles of cash our president handed out on his Africa trip mostly represent this new, improved kind of aid. Those nine-digit numbers for Benin, Tanzania, and Ghana are all grants under Millennium Challenge Accounts, another pet project of Bush’s. The idea is that in order to qualify for a grant, a nation must meet a complicated spreadsheet of benchmarks and pledges covering quality of governance, education spending, regulation, corruption, and so on. Liberia, for example, has not met MCA standards, being too corrupt. She ranks 150 out of 179 on Transparency International’s honesty index. The ranks of the other nations on Bush’s itinerary are Benin 118, Rwanda 111, Tanzania 94, Ghana 69. (Iraq ranks 178.)</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Coming up alongside this new generation of aid technicians and apologists has been a new generation of aid critics. At the front of the pack is William Easterley, who spent 16 years doing research for the World Bank before moving to academia. His 2006 book, </kw><em><kw class="krdwrd-tag-3">The White Man’s Burden</kw></em><kw class="krdwrd-tag-3">, pooh-poohs almost all aid, including these newest, souped-up models. He quotes studies suggesting that aid decreases democracy and makes government worse. There is, says Easterly, an “aid curse” like the much commented-on “natural resource curse.” Being an aid recipient is like having oil under your territory: it frees governments from the need to tax their people. With no need to tax, there is no need to consult or seek approval.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Not even the president’s programs to combat HIV/AIDS in Africa have escaped criticism. PEPFAR has undoubtedly saved lives by making expensive retroviral drugs available, but the program comes with moral strings attached. Of the funds disbursed, one-third must to go to programs promoting sexual abstinence, and none may be spent on activities that suggest approval of prostitution.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">But abstinence education hasn’t been shown to have any effect on sexual behavior. (An extensive 2007 study by Dr. Kristen Underhill of Oxford University offers the latest confirmation of this.) Thus one-third of the PEPFAR funds are spent for no purpose other than to shore up the president’s standing with U.S. morality lobbies.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">And the prostitution bar leaves out a large pool of susceptible Africans, since prostitution is much more commonplace in Africa than in Western countries. This aspect of PEPFAR also became something of a joke when Randall Tobias, Bush’s global AIDS co-ordinator responsible for disbursing PEPFAR funds, was obliged to resign in April 2007 after his name turned up on the Rolodex of a Washington call-girl service.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">There have also been criticisms from within Africa that PEPFAR distorts and corrupts healthcare in the continent. Well-funded AIDS programs draw nurses and doctors away from more mundane work. Comments a Tanzanian observer: “It is not uncommon to find swanky air conditioned buildings with several expensive 4-wheel drives parked outside in local hospitals with dilapidated maternity beds, no water, and no medicines. As billions are spent on funding these single-minded ... projects emblazoned with U.S. flags, primary health care systems are decimated and children die needlessly from diarrhea.”</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">The HIV/AIDS issue highlights the fact that Africa has gone from being the Heart of Darkness to being the Heart of Coolness. Not that Africa herself is cool; coolness is attained via open displays of compassion for Africa. The celebrity fashion for adopting winsome African infants has been much mocked, but it is only part of a general partiality among well-heeled Westerners directed at Africa.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Steven Spielberg’s decision to pull out as artistic adviser to the Beijing Olympics was, he tells us, motivated by disgust at China’s complicity in the Darfur atrocities. If Spielberg ever scolded Chinese authorities for their atrocities in Tibet and Eastern Turkestan, I missed it. I likewise missed anything Spielberg might have had to say about the recent war in the Congo, in which the number of people killed is so large it is not known even to the nearest million. Darfur, however, is the fashionable cause of the hour, as AIDS is the chic disease.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Western dealings with Africa are in any case poisoned by guilt. For Europeans, the guilt is direct, arising from the recollection of their imperial adventures. Americans, especially unimaginative and parochial Americans like Bush, see the continent through the prism of our country’s own racial history.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Thus, after commissioning the new U.S. embassy in Kigali, the Rwandan capital, on this recent trip, Bush noticed that the traffic circle outside had no name. He therefore suggested to his Rwandan hosts that they call it Martin Luther King Circle. The Rwandans agreed, though it is entirely possible that none of them had ever heard of Martin Luther King. Left to think of a suitably American name for the circle themselves, they would most likely have opted for George Washington or Abraham Lincoln Circle—or perhaps, like the Ghanaian president naming his expressway the following day, George W. Bush Circle.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">So Kigali, in the heart of Africa, is now at one with every American city in having a Martin Luther King thoroughfare for Chris Rock to make jokes about: “My friend called me, said his car had broken down. ‘Where are you?’ I asked. He said, ‘I’m on Martin Luther King Boulevard. What should I do?’ I told him: ‘RUN!!’”</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Undoubtedly Bush, in common with many other Americans, sees Africa in guilt-ridden </kw><em><kw class="krdwrd-tag-3">noblesse oblige</kw></em><kw class="krdwrd-tag-3"> terms. Not all Africans take it kindly. Going into someone’s country and setting up a health-care system is, after all, a gross violation of that country’s sovereignty, however well intentioned. The implicit message is, as Easterley pointed out at the 2007 Davos conference, “We know more about your problems than you do.”</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Don’t Africans find this insulting? They certainly do. African blogs fume with anger at the condescension of the aid industry and its celebrity fellow-travelers. When </kw><em><kw class="krdwrd-tag-3">The Economist</kw></em><kw class="krdwrd-tag-3"> website carried several reports on Bush’s Africa trip and offered response space, one commenter wrote:</kw></span></p>
+									<blockquote>
+										<p class="body"><span class="body"><kw class="krdwrd-tag-3">As an African I am nauseated by this consistent portrayal of Africa as some basket case in dire need of benevolent charity from the West.</kw></span></p>
+										<p class="body"><span class="body"><kw class="krdwrd-tag-3">The very title of the article shows </kw><em><kw class="krdwrd-tag-3">The Economist</kw></em><kw class="krdwrd-tag-3">’s culpability in perpetuating this view of Africa as some indigent roadside beggar receiving handouts from the philanthropic white man.</kw></span></p>
+										<p class="body"><span class="body"><kw class="krdwrd-tag-3">And I say the same to Bush: go back home, and keep your charity. There’s an African saying: ‘The hand that is giving is always on top’—meaning that the giver is assuming an attitude of superiority. It is this arrogance that allows Bush to presume to dictate how AIDS aid money [is] to be spent. You don’t dictate to a free man how to spend his income.</kw></span></p>
+										<p class="body"><span class="body"><kw class="krdwrd-tag-3">Yes, Africa has problems. If the West wants to ‘help’, then it should come with an army of Wall Street bankers and venture capitalists bearing investment capital, not aid workers bringing humiliating charity.</kw></span></p>
+										<p class="body"><span class="body"><kw class="krdwrd-tag-3">If there’s no power in areas of Africa, then that’s an opportunity to invest in power plants. Make profit, spur growth, create employment. Yes, roads are bad—so invest in civil engineering projects. Make profits, spur growth, create employment.</kw></span></p>
+										<p class="body"><span class="body"><kw class="krdwrd-tag-3">China doesn’t come to Africa with supercilious charity. It comes to partner and invest. While the arrogant West sees risk, China sees opportunity. We’re done with the old story of handing out fish to Africans. We’re learning how to fish. If you want to partner with us in buying a bigger fishing boat, you’re welcome. If you want to demean us with handouts, and then tell us how to spend the money, stick it where the sun don’t shine.</kw></span></p>
+									</blockquote>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">I wonder what George W. Bush and the Lady Bountifuls of celebrity compassion would say to that person?</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Mention of China suggests another possible motive for the president’s Africa jaunt. China has been pushing into Africa very energetically and without any fuss about “benchmarks” or “performance-based allocation of assistance.” You want a power station, a highway, a dam? China will build one for you, without any meddlesome fussing about your Transparency Index rating. In return, China asks only this: let her sell you what she has to sell and buy from you what you have to sell.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">A China-Africa relationship was already established in the late Mao era, cemented by projects like the Tan-Zam railroad of the early 1970s. In the past few years, the Chinese have been building on that relationship for all they are worth, pouring investment and credit into Africa. In November 2006, they held a huge Sino-African jamboree in Beijing, attended by pretty much everybody who is anybody in Africa. The summit’s promotional billboards attracted some snide commentary, as one of the pictures of “Africans” actually featured tribesmen in Papua New Guinea. The Chinese authorities nonetheless counted the event a great success, and their endeavors in Africa are being pushed forward ever more vigorously.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Thus China’s biggest supplier of oil is now Angola, and China is Angola’s largest export market after the United States. Burkina Faso sends a third of its exports, almost all of which are cotton, to China, compared with virtually nothing in the mid-1990s. China takes over 70 percent of Sudan’s exports, compared with 10 percent in 1995. Of the 4 million cubic meters of undressed timber exported from Africa every year, 60 percent goes to Asia, almost all of that to China. Africa-China bilateral trade volume totaled $54 billion in 2006 and looks set to pass the Chinese government’s announced target of $100 billion by 2010.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Similarly, relations with Zimbabwe, which is rich in gold and platinum, have flourished since Chinese advisers designed and built Robert Mugabe’s new 25-bedroom mansion, its Chinese-style swooping roof furnished with cobalt-blue porcelain tiles. China also assisted Mugabe in his March 2005 election, providing a radio-jamming device for a military base outside the capital to prevent independent stations from broadcasting during the election campaign.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">What China brings into Africa is somewhat more problematic than what she takes out. Cheap Chinese imports, from textiles and shoes to medicines, hurt local industries; Chinese traders and storekeepers take business from local merchants. Notes </kw><em><kw class="krdwrd-tag-3">The Economist</kw></em><kw class="krdwrd-tag-3">: “Textile factories in places like South Africa, Mauritius and Nigeria have been badly hit. In tiny Lesotho, where making clothes for Europe or America is the only industry around, this has been catastrophic.” South African labor unions forced their government to negotiate quotas on Chinese textile imports.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Still, from the point of view of African elites, China’s attentions come refreshingly free of any concerns about human rights or economic transparency. Sahr Johnny, the Sierra Leonean ambassador in Beijing, noted, “They just come and do it. We don’t start to hold meetings about environmental impact assessment, human rights, bad governance and good governance. I’m not saying that’s right, I’m just saying Chinese investment is succeeding because they don’t set high benchmarks.”</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Might resource competition in Africa become “hot”? The United States, too, is keen on African commodities, especially West African oil. Could we end up fighting with the Chinese for Africa’s resources?</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">I doubt this possibility figures high on the administration’s worry list. China’s motives in Africa seem to be entirely mercantile—though to be sure, many of the Chinese companies involved are state-owned. Aside from territories in their own “near abroad,” like Tibet, the Chinese have never shown any inclination toward colonialism, and their coming demographic collapse will leave them short of manpower for such adventures. Without outright colonialism and forcible appropriation, most commodities end up on international commodity markets. Bush himself, responding to a question on this subject in Liberia, seemed puzzled by it and told the Liberians they were perfectly welcome to trade with China if they wanted to.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">To the degree that the administration has any military fears about Africa, they fit into the war on terror strategy. It is not resource competition that our policymakers see as the looming issue so much as religious competition between the continent’s 367 million Muslims and 417 million Christians.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Anxieties here are concentrated on the southern Sahara zone (including Mali, Chad, and northern Nigeria) and on the Horn of Africa. It was these concerns that prompted the recent reorganization of U.S. military operations in Africa. Until last year, most of Africa came under our European Command. The exceptions were Egypt, Sudan, Kenya, and the Horn states (Ethiopia, Somalia, Eritrea, Djibouti), which were grouped with the Middle East under Central Command, and the Indian Ocean states, including Madagascar, which were under Pacific Command.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Now the whole African continent, excepting only Egypt, is under a single African Command. AFRICOM is still looking for a home, as so far only Liberia has expressed willingness to host the organization. U.S. military operations in Africa, though, have been underway for years. We have had a joint task force 1,800-strong in Djibouti since May 2003. Company-sized units have operated in Mali and Senegal, and there are smaller units all over the place, mostly engaged in training and supply of local forces. Kenya, fearful of jihadists seeping in from Somalia and Sudan, has been especially hospitable. Hence Condoleezza Rice’s side trip to Nairobi while Bush was in Tanzania. She went to knock Kenyan heads together following the recent ethnic fighting.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">So far as the administration’s military purposes in Africa can be divined, Robert Kaplan suggested the following in a recent </kw><em><kw class="krdwrd-tag-3">Atlantic</kw></em><kw class="krdwrd-tag-3"> article:</kw></span></p>
+									<blockquote>
+										<p class="body"><span class="body"><kw class="krdwrd-tag-3">In the weeks after 9/11, many analysts (including myself) advocated for major military involvement in the Middle East rather than the pursuit of a low-hanging-fruit strategy aimed at discreetly killing select groups of Islamic terrorists here and there. Even as the quagmire in Iraq continues, the stepped-up tempo of quiet, successful operations in Africa suggests that the latter strategy may have been the better option. In any case, AFRICOM will be about picking low-hanging terrorist fruit.</kw></span></p>
+									</blockquote>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">We should hope that Kaplan is right and that the administration has no nation-building ambitions in Africa. It is of course late days for the Bush people to be contemplating anything of that kind, but a McCain presidency (“more wars!”) might gleefully pick up anything Bush has left undone, landing us with </kw><em><kw class="krdwrd-tag-3">de facto</kw></em><kw class="krdwrd-tag-3"> colonial responsibilities in Africa on top of those we have so carelessly acquired in Iraq and Afghanistan.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">While a Clinton or Obama presidency would be less likely to succumb to military follies, they would surely put us even more in thrall to the aid rackets. In Africa, in any case, the two things are connected. The dreadful Congo war was an indirect consequence of U.S. aid having propped up the disgusting Zairean dictator Mobutu Sese Seko for 30 years, and the Somali horrors of the early 1990s were in part fought over control of food aid. Africa has a way of defeating all intentions, of turning the humanitarian into the economic, the economic into the political, the political into the military. Even inaction generates issues. America’s score sheet in Africa for the Clinton years has been summed up pithily as: “One disastrous intervention [Somalia] and one disastrous non-intervention [Rwanda].” Africa’s a difficult place.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Lurking behind that observation, and behind all the condescension and moralizing about Africa, is the fraught issue of capability. Why is the place such a mess? In 1960, South Korea was poorer than Ghana. The two nations’ per capita GDPs in 2007 were $25,000 and $3,000, respectively. There are basket-case nations all over, of course—North Korea, Albania, Afghanistan—but why are there so many in Africa? Legacy of colonialism? Korea was a Japanese colony for decades prior to 1945. Legacy of slavery? The Atlantic slave trade ended in the 1830s, and in any case the coastal West African nations profited from it as middlemen, bringing slaves out from the interior and selling them to the European traders.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Some critics blame aid itself. William Easterley notes that Tanzania produces 2,400 reports for aid donors every year—a modest industry of aid paperwork. One of his chapter titles is “The Rich Have Markets, the Poor Have Bureaucrats.” It is easy enough to believe in the bureaucratizing, enterprise-stifling nature of foreign aid on the poor countries that receive it. But why are they all so poor? Robert Calderisi highlights the want of good government or, as he puts it, “The deep indifference of most African governments to the real interests of their people.” But why are their governments so bad?</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">One of the most scandalous Africa-related news stories of 2007 did not take place in Africa at all but in London, where the great geneticist and DNA co-discoverer James Watson incautiously told a journalist that he was “inherently gloomy about the prospect of Africa” because “all our social policies are based on the fact that their intelligence is the same as ours—whereas all the testing says not really.”</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">There was a predictable fuss among politicians and the commentariat, but Watson’s remark was not scientifically preposterous. Tests say the thing he said they say; none say the opposite thing. There is great variety in any human population, of course, and Africa certainly has plenty of capable people. But does it have a high enough “smart fraction” to sustain modern society?</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">There is circumstantial evidence in support of the Watson hypothesis. Populations of, or largely derived from, sub-Saharan Africa seem to generate an extraordinary quantity of misgovernment nearly everywhere. Black-governed American cities show the same political pathologies as African nations: corruption, irresponsibility, “Big Man” gangsterism. Black-governed countries far from Africa—Haiti is the star exhibit—tend to run much as African nations do, which is to say downhill.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">On the other side of the argument, it is plain that misgovernment will wreck a nation with no assistance from biology at all. The contrast between North and South Korea proves that. Nor are all black polities disaster zones. Barbados, which is 90 percent black, and black-governed, ranks 30 on the UN’s Human Development index, ahead of Hungary (35), Mexico (53), and India (128).</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">In the present state of our knowledge, we can only speculate about the capability issue, and speculation is a poor foundation for national policy. Our working assumption for the present must be that sub-Saharan African populations obey the same laws of economics and political science as societies elsewhere do. It may be that rational economics and consensual politics are not possible in Africa, but until we actually know that, it would be uncharitable to assume it.</kw></span></p>
+									<p class="body"><span class="body"><kw class="krdwrd-tag-3">Half a century after the first withdrawal of colonial power from sub-Saharan Africa, it is hard to expect anything but the worst, but we should hope for the best. Whether the condescending, aid-driven paternalism of this and undoubtedly the next administration amount to hoping for the best or whether they actually represent a tacit, possibly unconscious, acceptance of the Watson hypothesis, I leave readers to ponder.&nbsp;</kw></span>&nbsp;<font color="black"><img src="../../images/dingbat.gif" align="bottom" width="10" height="10"></font>&nbsp;</p></span><br><kw class="krdwrd-tag-3">
+											_________________________________</kw></p>
+									<p class="body"><span class="body"><em><kw class="krdwrd-tag-1">John Derbyshire is a contributing editor of </kw></em><kw class="krdwrd-tag-1">National Review </kw><em><kw class="krdwrd-tag-1">and the author of</kw></em><kw class="krdwrd-tag-1"> Unknown Quantity: A Real and Imaginary History of Algebra. </kw></span><em><span class="body"><span class="body"><font color="black"><br>
+													</font></span></span></em></p>
+								</div>
+								<table border="0" cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td><img src="../../images/emailfriend2.gif" onmousedown="MM_openBrWindow('../../cfm/form.cfm?pagelink=' + location.href,'info','width=550,height=550')"></td>
+										<td><a href="print/coverprint.html" target="_blank"><img src="../../images/printarticle1.gif" name="emailfriend2" border="0" width="134" height="19"></a></td>
+										<td><a href="#anchor"><img src="../../images/toplarge.gif" name="emailfriend3" border="0" width="34" height="19"></a></td>
+									</tr>
+								</tbody></table>
+							<!-- #EndEditable --></td>
+						<td rowspan="2" bgcolor="white" valign="top" width="38"><img src="../../images/spacer.gif" border="0" width="38" height="5"></td>
+					</tr>
+					<tr valign="top" height="20">
+						<td bgcolor="#000066" valign="top" width="204" height="20"></td>
+						<td bgcolor="white" valign="top" width="38" height="20"><img src="../../images/spacer.gif" border="0" width="38" height="5"></td>
+						<td bgcolor="white" valign="top" width="489" height="20">
+							<div align="center">
+								<br>
+							</div>
+						</td>
+					</tr>
+				</tbody></table>
+				<br>
+			</div>
+		<!-- InstanceEnd -->
+
+</body></html>

@@ -1,0 +1,2616 @@
+<head><base href="http://content.onlinejacc.org/cgi/content/full/43/8/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Differential diagnosis of cardiac masses using contrast echocardiographic perfusion imaging -- Kirkpatrick et al. 43 (8): 1412 -- Journal of the American College of Cardiology</title>
+
+
+
+
+
+
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+	<script language="JavaScript">
+	<!--
+	function startTarget(windowname,wid,hei) {
+	
+	var dotpos = windowname.indexOf(".");
+	if (dotpos > -1)
+	{
+	var tempwn = windowname.substring(0,dotpos) +
+		windowname.substring(dotpos + 1, windowname.length);
+	windowname = tempwn;
+	}
+	var sizestring = 'width=' + wid + ',height=' + hei;
+	window.open('',windowname,'scrollbars,resizable,' + sizestring + '\'');
+	}
+	// -->
+	</script><!-- has inhead tag -->
+
+
+
+
+	
+	
+		 
+	 
+	<script language="JavaScript">
+	<!--
+	if ( top != self )
+	{
+		top.location.href = unescape(window.location.pathname);
+	}
+	//-->
+	</script>
+	
+		
+	
+		<style type="text/css"><!--
+table.content_box_outer_table {
+	padding-left:10px;
+	padding-bottom:5px;
+	padding-top:0px;
+	padding-right:0px;
+	}
+
+table.content_box_outer_table_in_sidebar_frame {
+	padding-left:10px;
+	padding-bottom:0px;
+	padding-top:10px;
+	padding-right:10px;
+	}
+
+table.content_box_inner_table {
+	background-color:#f0f0f0;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	}
+
+table.content_box_pdfinframes {
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:4px;
+	}
+
+td.content_box_title_highlight {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#003399;
+	font-size:120%;
+	font-weight:bold;
+	text-align:center;
+	padding:1px;
+	vertical-align:middle;
+	}
+
+td.content_box_title {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#828282;
+	font-size:120%;
+	font-weight:bold;
+	padding:1px;
+	text-align:center;
+	vertical-align:middle;
+	}
+
+td.content_box_space_between_sections {
+	padding-top:2px;
+	}
+
+td.content_box_arrow {
+	text-align:right;
+	padding-left:5px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_item {
+	text-align:left;
+	vertical-align:top;
+	padding-left:3px;
+	padding-right:5px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_pdfinframes_citation_cell {
+	background-color:#ffffff;
+	border:1px #000000 solid;
+	padding:3px;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	text-align:left;
+	}
+
+
+font.openaccess {
+	font-weight:bold;
+	padding-left:3px;
+	padding-right:3px;
+	background-color:#ffffff;
+	}
+font.openaccess_open {
+	color:#000000;
+	}
+font.openaccess_access {
+	color:#cc0000;
+	}
+font.openaccess_oa {
+	}
+.content_box_openaccess_title {
+	text-align:center;
+	white-space:nowrap;
+	background-color:#BABABA;
+	}
+
+
+
+
+div.referrer-based-search-line {
+	font-family: arial,sans-serif;
+	font-size: 0.75em;
+	background-color: #009918;
+	padding: 3px 25px;
+	margin: 0px 4px 5px 0px;
+}
+
+div.referrer-based-search-line .search-terms{
+	font-weight: bold;
+}
+
+div.referrer-based-search-line .collection-name{
+	font-style: italic;
+}
+
+@media screen,print,handheld
+{
+    .notonscreen { display: none; }
+}
+--></style>
+
+	        
+<style type="text/css"><!--
+	@media screen,print,handheld
+{
+    .notonscreen { display: none; }
+}
+--></style><!-- ac in the head available -->
+
+
+ 
+
+		
+		
+	    <script language="javascript">
+		<!-- 
+	function popwin(url,wid,hei,fromtop,fromleft) {
+		var winPref = "channelmode=no,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=no,width=" + wid + ",height=" + hei + ",top=" + fromtop + ",left=" + fromleft;
+		window.open(url, "popwin", winPref);
+	}
+	// -->
+	</script>
+        <script type="text/javascript" src="/javascript/ajax/xmlhttprequest.js"></script>
+<script type="text/javascript" src="/javascript/ajax/utility.js"></script>
+<script type="text/javascript" src="/javascript/entrez/callback.js"></script>
+
+	
+		
+	
+
+<meta name="robots" content="nofollow">
+
+
+
+<meta name="citation_journal_title" content="Journal of the American College of Cardiology">
+<meta name="citation_publisher" content="Am Coll Cardio Found">
+
+<meta name="citation_authors" content="Kirkpatrick, James N.; Wong, Tiffany; Bednarz, James E.; Spencer, Kirk T.; Sugeng, Lissa; Ward, R. Parker; DeCara, Jeanne M.; Weinert, Lynn; Krausz, Thomas; Lang, Roberto M.">
+<meta name="citation_title" content="Differential diagnosis of cardiac masses using contrast echocardiographic perfusion imaging">
+<meta name="citation_date" content="04/21/2004">
+<meta name="citation_volume" content="43">
+<meta name="citation_issue" content="8">
+<meta name="citation_firstpage" content="1412">
+<meta name="citation_id" content="43/8/1412">
+<meta name="citation_mjid" content="jacc;43/8/1412">
+<meta name="citation_doi" content="10.1016/j.jacc.2003.09.065">
+<meta name="citation_abstract_html_url" content="http://content.onlinejacc.org/cgi/content/abstract/43/8/1412">
+<meta name="citation_fulltext_html_url" content="http://content.onlinejacc.org/cgi/content/full/43/8/1412">
+<meta name="citation_pdf_url" content="http://content.onlinejacc.org/cgi/reprint/43/8/1412.pdf">
+<meta name="citation_pmid" content="15093876">
+
+<meta name="dc.Contributor" content="Kirkpatrick, James N.">
+<meta name="dc.Contributor" content="Wong, Tiffany">
+<meta name="dc.Contributor" content="Bednarz, James E.">
+<meta name="dc.Contributor" content="Spencer, Kirk T.">
+<meta name="dc.Contributor" content="Sugeng, Lissa">
+<meta name="dc.Contributor" content="Ward, R. Parker">
+<meta name="dc.Contributor" content="DeCara, Jeanne M.">
+<meta name="dc.Contributor" content="Weinert, Lynn">
+<meta name="dc.Contributor" content="Krausz, Thomas">
+<meta name="dc.Contributor" content="Lang, Roberto M.">
+<meta name="dc.Title" content="Differential diagnosis of cardiac masses using contrast echocardiographic perfusion imaging">
+<meta name="dc.Identifier" content="10.1016/j.jacc.2003.09.065">
+<meta name="dc.Date" content="04/21/2004">
+
+<meta name="ROBOTS" content="NOARCHIVE"></head><body leftmargin="45" background="/icons/misc/branding.gif" bgcolor="#ffffff" marginwidth="45">
+	
+
+
+
+<a name="top"><!-- null --></a>
+
+
+        
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+                <td valign="bottom" nowrap="nowrap">
+                        <table border="0" cellpadding="1" cellspacing="1">
+			<tbody><tr><td>
+				<a target="_top" style="text-decoration: none;" href="/"><img alt="JACC" src="/icons/banner/title.gif" border="0" height="44" width="270"></a>
+	                        <!--#echo var="HTTP_AD_HTML_STRING_1"-->
+			</td></tr>
+			</tbody></table>
+                        
+	<table cellpadding="2" cellspacing="2" width="500">
+	<tbody><tr>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">HOME</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/subscriptions/"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">SUBSCRIPTIONS</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/current.dtl"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">CURRENT ISSUE</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/archive/"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">PAST ISSUES</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="blank" style="text-decoration: none;" href="http://www.cardiosource.com"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">CARDIOSOURCE</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/search.dtl"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">SEARCH</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/help/"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">HELP</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/cgi/feedback"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">FEEDBACK</kw></font></a></td>
+	</tr>
+	</tbody></table>
+	</td>
+                <td><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+                <td valign="bottom">
+	
+	<input name="andorexactfulltext" value="and" type="hidden"><input name="resourcetype" value="1" type="hidden"><input name="disp_type" value="" type="hidden"><input name="sortspec" value="relevance" type="hidden"><table bgcolor="#000000" border="0" cellpadding="0" cellspacing="1"><tbody><tr>
+	<form method="get" name="search" action="/cgi/search"></form><td align="center" valign="middle"> 
+		<table bgcolor="#dbdbdb" border="0" cellpadding="1" cellspacing="0"> 
+		<tbody><tr>
+			<td bgcolor="#003399"><img alt=" " src="/icons/spacer.gif" height="2" width="2"></td>
+			<td bgcolor="#003399" valign="middle" nowrap="nowrap"><strong><font color="#ffffff" face="verdana,arial,helvetica,sans-serif" size="-2"><em><kw class="krdwrd-tag-1-100">QUICK</kw></em><kw class="krdwrd-tag-1-100"> SEARCH:&nbsp;</kw></font></strong></td>
+			<td align="right" bgcolor="#003399" valign="middle" nowrap="nowrap"><a style="text-decoration: none; color: rgb(255, 255, 255);" href="/search.dtl"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">&nbsp;[advanced]</kw></font></a></td>
+			<td bgcolor="#003399"><img alt=" " src="/icons/spacer.gif" height="2" width="2"></td>
+		</tr><tr>
+			<td bgcolor="#dbdbdb"><img alt=" " src="/icons/spacer.gif" height="2" width="2"></td>
+			<td colspan="2" bgcolor="#dbdbdb">
+			<table border="0" cellpadding="0" cellspacing="0"> 
+			<tbody><tr>
+				<td align="center" valign="bottom"><input style="background-color: rgb(255, 255, 255); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; text-decoration: none; font-family: verdana,arial,helvetica; font-size: 10px; font-weight: bold; color: rgb(0, 0, 0); -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" value="Go" type="submit"></td>
+				<th colspan="2" align="left"><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefsauthor1"><kw class="krdwrd-tag-1-100">Author:</kw></label><br></font>
+					<input name="author1" id="qsintdefsauthor1" size="9" maxlength="80" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></th>
+				<th colspan="3" align="left"><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefsfulltext"><kw class="krdwrd-tag-1-100">Keyword(s):</kw></label><br></font>
+					<input name="fulltext" id="qsintdefsfulltext" size="16" maxlength="80" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></th>
+			</tr><tr>
+				<th><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefspubdate_year"><kw class="krdwrd-tag-1-100">Year:</kw></label>&nbsp;</font></th>
+				<td><input name="pubdate_year" id="qsintdefspubdate_year" size="4" maxlength="4" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></td>
+				<th align="right"><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefsvolume"><kw class="krdwrd-tag-1-100">Vol:</kw></label>&nbsp;</font></th>
+				<td><input name="volume" id="qsintdefsvolume" size="4" maxlength="10" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></td>
+				<th><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefsfirstpage"><kw class="krdwrd-tag-1-100">Page:</kw></label>&nbsp;</font></th>
+				<td><input name="firstpage" id="qsintdefsfirstpage" size="4" maxlength="10" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></td>
+			</tr> 
+			</tbody></table> </td>
+			<td bgcolor="#dbdbdb"><img alt=" " src="/icons/spacer.gif" height="2" width="2"></td>
+		</tr>
+		</tbody></table></td></tr></tbody></table> 
+	 
+	</td>
+        </tr><tr>
+                <td colspan="3"><img alt="" src="/icons/spacer.gif" height="2" width="2"><br><font face="verdana,arial,helvetica" size="-2"></font><!-- debug:  --><hr align="left" color="#000000" size="1" noshade="noshade"></td>
+        </tr>
+        </tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+		
+		
+	 
+ 
+
+
+
+
+
+
+
+
+<table>
+	<tbody><tr>
+		<td valign="top">
+			
+		 
+		</td>
+		<td valign="top">
+	<font size="-1"><kw class="krdwrd-tag-1-100">
+	 
+		
+	J Am Coll Cardiol, 2004; 43:1412-1419, doi:10.1016/j.jacc.2003.09.065</kw><br>
+	<a href="/misc/terms.dtl"><kw class="krdwrd-tag-1-100">© 2004 by the American College of Cardiology Foundation</kw></a><br>
+
+	
+	</font>
+		</td>
+	</tr>
+</tbody></table>
+
+ 
+
+
+
+ 
+	 
+		  
+			
+	
+		<table class="content_box_outer_table" align="right">
+		
+		
+			<tbody><tr>
+			<td>
+		
+	
+
+<!-- beginning of inner table -->
+	<table class="content_box_inner_table">
+<!-- citation -->
+
+	
+		
+
+
+
+
+	
+
+	
+
+	
+		
+			
+<tbody><tr><td class="content_box_title_highlight" colspan="2"><kw class="krdwrd-tag-1-100">This Article</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+				
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				
+				<strong><a href="/cgi/content/abstract/43/8/1412"><kw class="krdwrd-tag-1-100">
+				Abstract</kw></a></strong>
+				 					<img alt="Freely available" src="/icons/shared/toc/free.gif" border="0" height="7" width="32">
+				
+	
+				</td></tr>
+			
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+	
+
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+		
+	
+	
+		
+			
+
+				
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+					<strong><a href="/cgi/content/figsonly/43/8/1412"><kw class="krdwrd-tag-1-100">
+					Figures Only</kw></a></strong>
+				</td></tr>
+			
+		
+	
+
+	
+
+	
+		
+			
+		
+	
+
+	
+
+	
+	 
+
+	
+	 
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+		<strong>
+		
+		
+		
+			<a href="/cgi/reprint/43/8/1412">
+		<strong><kw class="krdwrd-tag-1-100">Full Text</kw></strong><kw class="krdwrd-tag-1-100"> (PDF)</kw></a>
+
+ 
+		
+		</strong>
+		</td></tr>
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+
+
+
+	
+	
+		
+	
+
+	
+		
+	
+
+	
+		
+
+	
+		
+		
+
+			
+
+
+	
+
+			
+
+			
+		
+	
+
+			
+	  
+	
+
+			
+
+			
+
+			
+	
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+
+	
+	
+	
+
+	
+		
+	
+
+	 
+
+	
+	
+		  
+    
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+		
+	
+		
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;saveAlert=no&amp;cited_by_criteria_resid=jacc;43/8/1412&amp;return_type=article&amp;return_url=http%3A%2F%2Fcontent.onlinejacc.org%2Fcgi%2Fcontent%2Ffull%2F43%2F8%2F1412"><kw class="krdwrd-tag-1-100">
+				Alert me when this article is cited</kw></a></strong>
+			</td></tr>
+	
+
+		
+		
+
+		
+		
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;saveAlert=no&amp;correction_criteria_value=43/8/1412&amp;return_type=article&amp;return_url=http%3A%2F%2Fcontent.onlinejacc.org%2Fcgi%2Fcontent%2Ffull%2F43%2F8%2F1412"><kw class="krdwrd-tag-1-100">
+				Alert me if a correction is posted</kw></a></strong>
+			</td></tr>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		
+	
+
+			
+			
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1-100">Services</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/mailafriend?url=http%3A%2F%2Fcontent.onlinejacc.org%2Fcgi%2Fcontent%2Ffull%2F43%2F8%2F1412&amp;title=Differential+diagnosis+of+cardiac+masses+using+contrast+echocardiographic+perfusion+imaging"><kw class="krdwrd-tag-1-100">
+				Email this article to a friend</kw></a></strong>
+			</td></tr>
+			
+			
+
+
+	
+
+	
+
+	
+
+		
+		
+
+
+
+			
+			
+			
+		
+	
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+		<strong>
+		<a href="/cgi/search?qbe=jacc;43/8/1412&amp;journalcode=jacc&amp;minscore=5000"><kw class="krdwrd-tag-1-100">
+		Similar articles in this journal</kw></a>
+		</strong>
+		</td></tr>
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=15093876&amp;link_type=MED_NBRS"><kw class="krdwrd-tag-1-100">
+				Similar articles in PubMed</kw></a></strong>
+			</td></tr>
+		
+	
+
+
+		
+
+
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/etoc"><kw class="krdwrd-tag-1-100">
+				Alert me to new issues of the journal</kw></a></strong>
+			</td></tr>
+		
+
+		
+		
+	
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+			<strong><a href="/cgi/citmgr?gca=jacc;43/8/1412"><kw class="krdwrd-tag-1-100">
+			Download to citation manager</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+
+	
+		
+	
+
+	
+
+
+
+  			
+		
+		
+		
+	
+
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+		
+
+		
+
+	
+	
+	
+		
+
+
+	
+
+	
+
+	
+
+
+	
+
+
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1-100">Citing Articles</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="#otherarticles"><kw class="krdwrd-tag-1-100">
+				Citing Articles via HighWire</kw></a></strong>
+			</td></tr>
+	
+
+
+
+	
+
+
+	
+		 
+	
+
+		
+		
+			
+		
+
+					
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://content.onlinejacc.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/43/8/1412%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLAR"><kw class="krdwrd-tag-1-100">Citing Articles via Google Scholar</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+				
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1-100">Google Scholar</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AJ.%20N.+author%3AKirkpatrick%22"><kw class="krdwrd-tag-1-100">
+							Articles by Kirkpatrick, J. N.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AR.%20M.+author%3ALang%22"><kw class="krdwrd-tag-1-100">
+							Articles by Lang, R. M.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+		
+		
+	
+	
+	
+	
+
+		
+			
+				
+					
+						
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://content.onlinejacc.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/43/8/1412%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLARRELATED"><kw class="krdwrd-tag-1-100">Search for Related Content</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+		
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1-100">PubMed</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=15093876&amp;link_type=PUBMED"><kw class="krdwrd-tag-1-100">
+				PubMed Citation</kw></a></strong>
+			</td></tr>
+		
+	
+
+	
+		
+		
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Kirkpatrick+JN&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1-100">
+							Articles by Kirkpatrick, J. N.</kw></a></strong>
+						</td></tr>
+				
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Lang+RM&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1-100">
+							Articles by Lang, R. M.</kw></a></strong>
+						</td></tr>
+				
+			
+		
+
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+	
+
+		
+			
+		
+	 
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</tbody></table>
+</td></tr></tbody></table> 
+
+
+		
+	
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+    
+	
+	
+	
+	
+		<h4><kw class="krdwrd-tag-1-70">CLINICAL RESEARCH: CARDIAC IMAGING</kw></h4>
+<h2><kw class="krdwrd-tag-2-100">
+Differential diagnosis of cardiac masses using contrast echocardiographic perfusion imaging
+</kw></h2>
+
+<font size="+1">
+<nobr><kw class="krdwrd-tag-1-70">James N. Kirkpatrick, MD</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup></nobr><kw class="krdwrd-tag-1-80">, 
+</kw><nobr><kw class="krdwrd-tag-1-70">Tiffany Wong, MD</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup></nobr><kw class="krdwrd-tag-1-80">, 
+</kw><nobr><kw class="krdwrd-tag-1-70">James E. Bednarz, BS, RDCS</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup></nobr><kw class="krdwrd-tag-1-80">, 
+</kw><nobr><kw class="krdwrd-tag-1-70">Kirk T. Spencer, MD, FACC</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup></nobr><kw class="krdwrd-tag-1-80">, 
+</kw><nobr><kw class="krdwrd-tag-1-70">Lissa Sugeng, MD</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup></nobr><kw class="krdwrd-tag-1-80">, 
+</kw><nobr><kw class="krdwrd-tag-1-70">R. Parker Ward, MD, FACC</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup></nobr><kw class="krdwrd-tag-1-80">, 
+</kw><nobr><kw class="krdwrd-tag-1-70">Jeanne M. DeCara, MD, FACC</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup></nobr><kw class="krdwrd-tag-1-80">, 
+</kw><nobr><kw class="krdwrd-tag-1-70">Lynn Weinert, BS</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup></nobr><kw class="krdwrd-tag-1-80">, 
+</kw><nobr><kw class="krdwrd-tag-1-70">Thomas Krausz, MD, FRCPath</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup></nobr><kw class="krdwrd-tag-1-50"> and 
+</kw><nobr><kw class="krdwrd-tag-1-70">Roberto M. Lang, MD, FACC</kw><sup><kw class="krdwrd-tag-1-80">*</kw></sup><sup><kw class="krdwrd-tag-1-80">,*</kw></sup></nobr>
+</font><p>
+
+<sup><kw class="krdwrd-tag-1-80">*</kw></sup><kw class="krdwrd-tag-1-80"> Adult Noninvasive Cardiac Imaging Laboratories, Section of Cardiology; and the Department of Pathology, University of Chicago, Chicago, Illinois, USA
+</kw></p><p><kw class="krdwrd-tag-1-80">
+
+Manuscript received June 23, 2003; 
+revised manuscript received August 26, 2003, 
+accepted September  9, 2003.</kw></p><p>
+<sup><kw class="krdwrd-tag-1-80">*</kw></sup> <b><kw class="krdwrd-tag-1-80">Reprint requests and correspondence:</kw></b><kw class="krdwrd-tag-1-80"> Dr. Roberto M. Lang, University of Chicago Adult Noninvasive Imaging Laboratory, 5841 South Maryland Avenue, MC 5084, Chicago, Illinois 60637, USA.</kw><sup> </sup><br><span id="em0"><a class="krdwrd-tag-1-100" href="mailto:rlang@medicine.bsd.uchicago.edu">rlang@medicine.bsd.uchicago.edu</a></span><script type="text/javascript"><!--
+ var u = "rlang", d = "medicine.bsd.uchicago.edu"; document.getElementById("em0").innerHTML = '<a href="mailto:' + u + '@' + d + '">' + u + '@' + d + '<\/a>'//--></script></p><p>
+
+
+<a name="ABS"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" height="21" hspace="5" width="10"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2-80">&nbsp;&nbsp;
+Abstract
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Top</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" height="9" hspace="5" width="11"><font color="#464c53"><kw class="krdwrd-tag-1-100">Abstract</kw></font><br>
+<a href="#SEC1"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Methods</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Results</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Discussion</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3-100">
+
+
+OBJECTIVES: We investigated the usefulness of echocardiographic contrast</kw><sup> </sup><kw class="krdwrd-tag-3-100">perfusion imaging in differentiating cardiac masses.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+BACKGROUND: Two-dimensional echocardiography is the primary diagnostic modality</kw><sup> </sup><kw class="krdwrd-tag-3-100">for cardiac masses. However, differentiation between the different</kw><sup> </sup><kw class="krdwrd-tag-3-100">types of cardiac masses may be difficult at times. We hypothesized</kw><sup> </sup><kw class="krdwrd-tag-3-100">that echocardiographic contrast perfusion imaging would differentiate</kw><sup> </sup><kw class="krdwrd-tag-3-100">the neo-vascularization of malignancies from the avascularity</kw><sup> </sup><kw class="krdwrd-tag-3-100">of thrombi and the sparse vascularity of stromal tumors.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+METHODS: Sixteen patients with cardiac masses underwent power-modulation</kw><sup> </sup><kw class="krdwrd-tag-3-100">imaging after echocardiographic intravenous contrast administration.</kw><sup> </sup><kw class="krdwrd-tag-3-100">Pixel intensities in the mass and an adjacent section of myocardium</kw><sup> </sup><kw class="krdwrd-tag-3-100">were analyzed visually and by dedicated software. All masses</kw><sup> </sup><kw class="krdwrd-tag-3-100">had a pathologic diagnosis or resolved after anticoagulation.</kw><sup> </sup><kw class="krdwrd-tag-3-100">In a subset of patients, video-intensity curves of contrast</kw><sup> </sup><kw class="krdwrd-tag-3-100">replenishment in the mass and myocardium over time were generated.</kw><sup> </sup><kw class="krdwrd-tag-3-100">The post-impulse steady-state pixel intensity (</kw><i><kw class="krdwrd-tag-3-100">A</kw></i><kw class="krdwrd-tag-3-100">) and initial</kw><sup> </sup><kw class="krdwrd-tag-3-100">rate of contrast replenishment after impulse (ß) were</kw><sup> </sup><kw class="krdwrd-tag-3-100">compared with an index of blood vessel area on pathology.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+RESULTS: In seven of 16 patients, contrast enhancement resulted in greater</kw><sup> </sup><kw class="krdwrd-tag-3-100">pixel intensity in the mass than in the adjacent myocardium.</kw><sup> </sup><kw class="krdwrd-tag-3-100">All of these masses were classified pathologically as malignant</kw><sup> </sup><kw class="krdwrd-tag-3-100">(n = 6) or benign and vascular (n = 1). Nine masses demonstrated</kw><sup> </sup><kw class="krdwrd-tag-3-100">decreased pixel intensity, compared with the myocardium, and</kw><sup> </sup><kw class="krdwrd-tag-3-100">were diagnosed pathologically as myxomas (n = 2) or thrombi</kw><sup> </sup><kw class="krdwrd-tag-3-100">(n = 5), or they resolved with anticoagulation (n = 2). For</kw><sup> </sup><kw class="krdwrd-tag-3-100">the subset of patients, ß correlated with the vessel</kw><sup> </sup><kw class="krdwrd-tag-3-100">area index (r = 0.60).</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+CONCLUSIONS: Echocardiographic contrast perfusion imaging aids in the differentiation</kw><sup> </sup><kw class="krdwrd-tag-3-100">of cardiac masses. Compared with the adjacent myocardium, malignant</kw><sup> </sup><kw class="krdwrd-tag-3-100">and vascular tumors hyper-enhanced, whereas stromal tumors and</kw><sup> </sup><kw class="krdwrd-tag-3-100">thrombi hypo-enhanced.</kw><sup> </sup></p><p>
+
+
+
+<table border="1" cellpadding="5" width="50%"><tbody><tr><td>
+<table border="0"><tbody><tr><td colspan="2">
+<strong><kw class="krdwrd-tag-1-70">Abbreviations and Acronyms</kw></strong>
+</td></tr><tr><td>&nbsp;&nbsp;<i><kw class="krdwrd-tag-1-70">A</kw></i></td><td><kw class="krdwrd-tag-1-70"> = post-impulse maximal steady-state intensity level</kw></td></tr><tr><td><kw class="krdwrd-tag-1-70">&nbsp;&nbsp;ROI</kw></td><td><kw class="krdwrd-tag-1-70"> = region of interest</kw></td></tr><tr><td><kw class="krdwrd-tag-1-70">&nbsp;&nbsp;VAI</kw></td><td><kw class="krdwrd-tag-1-70"> = vessel area index</kw></td></tr></tbody></table>
+</td></tr></tbody></table></p><p>
+</p><hr size="2" width="75%" noshade="noshade"><kw class="krdwrd-tag-3-100">Two-dimensional echocardiography is regarded as the primary</kw><sup> </sup><kw class="krdwrd-tag-3-100">diagnostic imaging technique for the evaluation of cardiac mass</kw><sup> </sup><kw class="krdwrd-tag-3-80">lesions, with a diagnostic sensitivity of 93% for transthoracic</kw><sup> </sup><kw class="krdwrd-tag-3-80">echocardiography and 97% for transesophageal echocardiography</kw><sup> </sup><a href="#BIB1"><kw class="krdwrd-tag-1-70">(1)</kw></a><kw class="krdwrd-tag-3-80">. However, differentiation be-tween different types of cardiac</kw><sup> </sup><kw class="krdwrd-tag-3-80">masses, including thrombi and benign and malignant tumors, may</kw><sup> </sup><kw class="krdwrd-tag-3-80">be difficult at times. Yet, this distinction provides important</kw><sup> </sup><kw class="krdwrd-tag-3-80">diagnostic and prognostic information and guides therapeutic</kw><sup> </sup><kw class="krdwrd-tag-3-80">decision-making.</kw><sup> </sup><p><kw class="krdwrd-tag-3-100">
+
+Microbubble contrast agents have been used with two-dimensional</kw><sup> </sup><kw class="krdwrd-tag-3-100">echocardiography to delineate the myocardium-blood interface,</kw><sup> </sup><kw class="krdwrd-tag-3-100">to define intracavitary structures, and to evaluate myocardial</kw><sup> </sup><kw class="krdwrd-tag-3-100">perfusion </kw><a href="#BIB2"><kw class="krdwrd-tag-3-80">(2–4)</kw></a><kw class="krdwrd-tag-3-100">. The development of second-generation</kw><sup> </sup><kw class="krdwrd-tag-3-100">contrast agents and new imaging techniques, such as power modulation,</kw><sup> </sup><kw class="krdwrd-tag-3-100">have greatly improved the echocardiographic ability to assess</kw><sup> </sup><kw class="krdwrd-tag-3-100">myocardial perfusion. Qualitative and quantitative methods now</kw><sup> </sup><kw class="krdwrd-tag-3-100">exist to differentiate reliably between normal, ischemic, and</kw><sup> </sup><kw class="krdwrd-tag-3-100">infarcted myocardial tissues by their level of echocardiographic</kw><sup> </sup><kw class="krdwrd-tag-3-100">contrast perfusion </kw><a href="#BIB5"><kw class="krdwrd-tag-3-80">(5,6)</kw></a><kw class="krdwrd-tag-3-100">.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+We hypothesized that perfusion imaging could also be used to</kw><sup> </sup><kw class="krdwrd-tag-3-100">help characterize the vascularity of cardiac masses. In particular,</kw><sup> </sup><kw class="krdwrd-tag-3-100">we hypothesized that enhancement with echocardiographic contrast</kw><sup> </sup><kw class="krdwrd-tag-3-100">imaging would differentiate the neo-vascularization of a malignancy</kw><sup> </sup><kw class="krdwrd-tag-3-100">or vascular tumor from the avascularity of a thrombus and the</kw><sup> </sup><kw class="krdwrd-tag-3-100">sparse vascularity of a benign stromal tumor and that the level</kw><sup> </sup><kw class="krdwrd-tag-3-100">of enhancement would correlate with the diagnosis made by the</kw><sup> </sup><kw class="krdwrd-tag-3-100">gold standards of pathologic analysis or resolution of the mass</kw><sup> </sup><kw class="krdwrd-tag-3-100">after anticoagulant therapy.</kw><sup> </sup></p><p>
+
+<a name="SEC1"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" height="21" hspace="5" width="10"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2-80">&nbsp;&nbsp;
+Methods
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">Abstract</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" height="9" hspace="5" width="11"><font color="#464c53"><kw class="krdwrd-tag-1-80">Methods</kw></font><br>
+<a href="#SEC2"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">Results</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">Discussion</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+<strong><kw class="krdwrd-tag-2-70">Patient population.</kw></strong><kw class="krdwrd-tag-3-80">&nbsp;&nbsp;
+
+Sixteen patients (12 females and 4 males; age range 19 to 84</kw><sup> </sup><kw class="krdwrd-tag-3-80">years) with intracardiac or pericardial masses underwent perfusion</kw><sup> </sup><kw class="krdwrd-tag-3-80">imaging with echocardiographic contrast at the University of</kw><sup> </sup><kw class="krdwrd-tag-3-80">Chicago's Noninvasive Imaging Laboratory from September 1999</kw><sup> </sup><kw class="krdwrd-tag-3-80">to January 2003. This study was approved by the Institutional</kw><sup> </sup><kw class="krdwrd-tag-3-80">Review Board of the University of Chicago Hospitals.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2-70">Echocardiographic imaging and analysis.</kw></strong><kw class="krdwrd-tag-3-100">&nbsp;&nbsp;
+
+After a slow intravenous push (0.6 to 1.0 ml) of Optison (Amersham</kw><sup> </sup><kw class="krdwrd-tag-3-100">Health, Princeton, New Jersey) or continuous intravenous infusion</kw><sup> </sup><kw class="krdwrd-tag-3-100">(infusion rate adjusted for optimal enhancement of the mass)</kw><sup> </sup><kw class="krdwrd-tag-3-100">of Definity (Bristol-Meyers Squibb, New York, New York), the</kw><sup> </sup><kw class="krdwrd-tag-3-100">masses were imaged using gray-scale power modulation (SONOS</kw><sup> </sup><kw class="krdwrd-tag-3-100">5500, Philips Medical Systems, Andover, Massachusetts) in either</kw><sup> </sup><kw class="krdwrd-tag-3-100">real-time or a triggered mode with a low mechanical index (0.1),</kw><sup> </sup><kw class="krdwrd-tag-3-100">and the gain and compression settings were optimized for visualization</kw><sup> </sup><kw class="krdwrd-tag-3-100">of perfusion of the mass (typically within a range of 40% to</kw><sup> </sup><kw class="krdwrd-tag-3-100">80%). The focus was set at the level of the mass. Whenever a</kw><sup> </sup><kw class="krdwrd-tag-3-100">mass demonstrated perfusion with echocardiographic contrast,</kw><sup> </sup><kw class="krdwrd-tag-3-100">an ultrasound impulse of high mechanical index (1.0 to 1.6)</kw><sup> </sup><kw class="krdwrd-tag-3-100">was transmitted for four up to 10 frames, as needed, to destroy</kw><sup> </sup><kw class="krdwrd-tag-3-100">microbubbles within the mass. This prevented the recording of</kw><sup> </sup><kw class="krdwrd-tag-3-100">"false-positive perfusion" due to a saturation artifact secondary</kw><sup> </sup><kw class="krdwrd-tag-3-100">to high gain settings. Perfusion of the mass was then confirmed</kw><sup> </sup><kw class="krdwrd-tag-3-100">by visualizing gradual contrast replenishment of the mass after</kw><sup> </sup><kw class="krdwrd-tag-3-100">the high-mechanical index impulse.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+Contrast enhancement was assessed both visually, by an experienced</kw><sup> </sup><kw class="krdwrd-tag-3-100">reader familiar with contrast perfusion imaging, and using dedicated</kw><sup> </sup><kw class="krdwrd-tag-3-100">software (Qlab, Philips Medical Systems). Because absolute pixel</kw><sup> </sup><kw class="krdwrd-tag-3-100">intensity is subject to variations in contrast infusion rates</kw><sup> </sup><kw class="krdwrd-tag-3-100">and depth of masses, the perfusion in a mass is meaningfully</kw><sup> </sup><kw class="krdwrd-tag-3-100">assessed only in relation to the perfusion in the adjacent myocardium.</kw><sup> </sup><kw class="krdwrd-tag-3-100">A discrete region of interest (ROI) was drawn both within the</kw><sup> </sup><kw class="krdwrd-tag-3-100">central part of each mass and within a section of adjacent ventricular</kw><sup> </sup><kw class="krdwrd-tag-3-100">myocardium. Care was taken not to draw ROIs in areas of the</kw><sup> </sup><kw class="krdwrd-tag-3-100">myocardium that demonstrated a lack of perfusion. The ROI locations</kw><sup> </sup><kw class="krdwrd-tag-3-100">were adjusted to correct for translational motion. The mean</kw><sup> </sup><kw class="krdwrd-tag-3-100">pixel intensities within the ROIs were measured for each frame</kw><sup> </sup><kw class="krdwrd-tag-3-100">in at least two cardiac cycles. The difference between the mean</kw><sup> </sup><kw class="krdwrd-tag-3-100">pixel intensity of the mass and that of the adjacent myocardium</kw><sup> </sup><kw class="krdwrd-tag-3-100">was computed.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+To assess the interobserver variability of the visual interpretation</kw><sup> </sup><kw class="krdwrd-tag-3-100">of mass perfusion, three blinded expert readers were asked to</kw><sup> </sup><kw class="krdwrd-tag-3-100">assess the level of contrast within the mass. Their responses</kw><sup> </sup><kw class="krdwrd-tag-3-100">were compared with those of the original reader, with a weighted</kw><sup> </sup><kw class="krdwrd-tag-3-100">kappa statistic.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+In addition, three less experienced readers with no training</kw><sup> </sup><kw class="krdwrd-tag-3-100">in contrast perfusion imaging were shown non-contrast images</kw><sup> </sup><kw class="krdwrd-tag-3-100">of each mass and diagnosed the mass as malignancy/vascular tumor,</kw><sup> </sup><kw class="krdwrd-tag-3-100">stromal tumor, or thrombus. They were then shown contrast perfusion</kw><sup> </sup><kw class="krdwrd-tag-3-100">images of each mass and again made a diagnosis. These answers</kw><sup> </sup><kw class="krdwrd-tag-3-100">were compared against the gold standard of pathologic diagnosis,</kw><sup> </sup><kw class="krdwrd-tag-3-100">and a Wilcoxon matched-pairs signed-rank test was used to assess</kw><sup> </sup><kw class="krdwrd-tag-3-100">the incremental benefit of contrast in improving diagnostic</kw><sup> </sup><kw class="krdwrd-tag-3-100">accuracy.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2-70">Pathologic correlation.</kw></strong><kw class="krdwrd-tag-3-100">&nbsp;&nbsp;
+
+The echocardiographic findings were then compared with the pathologic</kw><sup> </sup><kw class="krdwrd-tag-3-100">diagnosis for each mass (n = 14) or the results of follow-up</kw><sup> </sup><kw class="krdwrd-tag-3-100">imaging studies demonstrating resolution of the mass after anticoagulant</kw><sup> </sup><kw class="krdwrd-tag-3-100">therapy (n = 2).</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2-70">Quantitative analysis of perfusion.</kw></strong><kw class="krdwrd-tag-3-100">&nbsp;&nbsp;
+
+In a subset of seven patients, further quantitative analysis</kw><sup> </sup><kw class="krdwrd-tag-3-100">was performed. Video loops were triggered to acquire end-systolic</kw><sup> </sup><kw class="krdwrd-tag-3-100">frames. The mean pixel intensity after a high mechanical impulse</kw><sup> </sup><kw class="krdwrd-tag-3-100">was then simultaneously calculated frame by frame for both the</kw><sup> </sup><kw class="krdwrd-tag-3-100">mass and a section of adjacent myocardium and fitted with the</kw><sup> </sup><kw class="krdwrd-tag-3-100">following exponential function of time </kw><a href="#BIB7"><kw class="krdwrd-tag-3-70">(7):</kw></a> <sup> </sup><br clear="right"></p><p><table border="0" width="100%"><tbody><tr><td align="center">
+<img src="/content/vol43/issue8/fulltext/1412/fd1.gif" border="0"></td></tr></tbody></table><sup> </sup><kw class="krdwrd-tag-3-100">where </kw><i><kw class="krdwrd-tag-3-100">A</kw></i><kw class="krdwrd-tag-3-100"> reflects the post-impulse maximal steady-state intensity</kw><sup> </sup><kw class="krdwrd-tag-3-100">level (a surrogate measure for vascular volume) and ß</kw><sup> </sup><kw class="krdwrd-tag-3-100">represents the initial rate of contrast replenishment after</kw><sup> </sup><kw class="krdwrd-tag-3-100">the high-mechanical index impulse (reflecting the velocity of</kw><sup> </sup><kw class="krdwrd-tag-3-100">blood flow) </kw><a href="#BIB8"><kw class="krdwrd-tag-3-70">(8)</kw></a><kw class="krdwrd-tag-3-100">. The </kw><i><kw class="krdwrd-tag-3-100">A</kw></i><kw class="krdwrd-tag-3-100"> and ß values for each mass</kw><sup> </sup><kw class="krdwrd-tag-3-100">were subtracted from the </kw><i><kw class="krdwrd-tag-3-100">A</kw></i><kw class="krdwrd-tag-3-100"> and ß values for the section</kw><sup> </sup><kw class="krdwrd-tag-3-100">of adjacent myocardium to account for differences in contrast</kw><sup> </sup><kw class="krdwrd-tag-3-100">infusion rate and depth of mass.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+The biopsy specimens for these seven masses were stained with</kw><sup> </sup><kw class="krdwrd-tag-3-100">a variety of monoclonal antibodies directed against antigens</kw><sup> </sup><kw class="krdwrd-tag-3-100">found in the endothelium, including factors VIII, CD31, and</kw><sup> </sup><kw class="krdwrd-tag-3-100">CD34. The slide that demonstrated the clearest staining of vascular</kw><sup> </sup><kw class="krdwrd-tag-3-100">structures with the least amount of background staining was</kw><sup> </sup><kw class="krdwrd-tag-3-100">analyzed to determine a vessel area index (VAI) as follows.</kw><sup> </sup><kw class="krdwrd-tag-3-100">For each biopsy specimen, the power of magnification (either</kw><sup> </sup><kw class="krdwrd-tag-3-100">10</kw><font face="arial,helvetica"><kw class="krdwrd-tag-3-100">x</kw></font><kw class="krdwrd-tag-3-100"> or 40</kw><font face="arial,helvetica"><kw class="krdwrd-tag-3-100">x</kw></font><kw class="krdwrd-tag-3-100">) that demonstrated the best image of the vessels</kw><sup> </sup><kw class="krdwrd-tag-3-100">for accurate cross-sectional area measurement was chosen. In</kw><sup> </sup><kw class="krdwrd-tag-3-100">specimens for which the 10</kw><font face="arial,helvetica"><kw class="krdwrd-tag-3-100">x</kw></font><kw class="krdwrd-tag-3-100"> power was used, all vessels were</kw><sup> </sup><kw class="krdwrd-tag-3-100">measured in a total of 10 fields to obtain an accurate representation</kw><sup> </sup><kw class="krdwrd-tag-3-100">of the entire biopsy specimen. The 40</kw><font face="arial,helvetica"><kw class="krdwrd-tag-3-100">x</kw></font><kw class="krdwrd-tag-3-100"> power was used in the</kw><sup> </sup><kw class="krdwrd-tag-3-100">case of smaller sized vessels, and a total of 25 fields were</kw><sup> </sup><kw class="krdwrd-tag-3-100">measured. Using a dedicated software program (Leica AS LMD,</kw><sup> </sup><kw class="krdwrd-tag-3-100">version 3.1, Leica Microsystems, Bannockburn, Illinois), lines</kw><sup> </sup><kw class="krdwrd-tag-3-100">were drawn to outline the lumen of vessels in each field, and</kw><sup> </sup><kw class="krdwrd-tag-3-100">the cross-sectional area of each vessel was computed in µm</kw><sup><kw class="krdwrd-tag-3-100">2</kw></sup><kw class="krdwrd-tag-3-100">.</kw><sup> </sup><kw class="krdwrd-tag-3-100">To compare the sizes of the vessels between specimens, the diameter</kw><sup> </sup><kw class="krdwrd-tag-3-100">of greatest dimension was computed in µm using the same</kw><sup> </sup><kw class="krdwrd-tag-3-100">software program for 50 random vessels in each specimen. The</kw><sup> </sup><kw class="krdwrd-tag-3-100">average vessel diameter and range for each specimen were calculated.</kw><sup> </sup><kw class="krdwrd-tag-3-100">For each biopsy specimen, the total cross-sectional area of</kw><sup> </sup><kw class="krdwrd-tag-3-100">all vessels measured was calculated and divided by the total</kw><sup> </sup><kw class="krdwrd-tag-3-100">area covered in all the fields viewed to obtain the VAI.</kw><sup> </sup></p><p>
+
+<a name="SEC2"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" height="21" hspace="5" width="10"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2-80">&nbsp;&nbsp;
+Results
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Abstract</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Methods</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" height="9" hspace="5" width="11"><font color="#464c53"><kw class="krdwrd-tag-1-100">Results</kw></font><br>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Discussion</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+<strong><kw class="krdwrd-tag-mrgtie-50">Echocardiographic imaging and analysis.</kw></strong><kw class="krdwrd-tag-3-100">&nbsp;&nbsp;
+
+Seven masses demonstrated enhancement with echocardiographic</kw><sup> </sup><kw class="krdwrd-tag-3-100">contrast, both visually and on quantitative analysis. In each</kw><sup> </sup><kw class="krdwrd-tag-3-100">case, the mean pixel intensity over the cardiac cycle of the</kw><sup> </sup><kw class="krdwrd-tag-3-100">mass was higher than that of the adjacent myocardium. Two masses</kw><sup> </sup><kw class="krdwrd-tag-3-100">demonstrated partial and/or incomplete enhancement with contrast</kw><sup> </sup><kw class="krdwrd-tag-3-100">upon visual inspection; the mean pixel intensity was lower than</kw><sup> </sup><kw class="krdwrd-tag-3-100">that of the myocardium. Seven of the masses failed to enhance</kw><sup> </sup><kw class="krdwrd-tag-3-100">upon visual inspection and had a lower mean pixel intensity</kw><sup> </sup><kw class="krdwrd-tag-3-100">than that of the myocardium (</kw><a href="#T1"><kw class="krdwrd-tag-3-70">Table 1</kw></a><kw class="krdwrd-tag-3-100">).  The weighted kappa values</kw><sup> </sup><kw class="krdwrd-tag-3-100">for interobserver variability on visual assessment of perfusion</kw><sup> </sup><kw class="krdwrd-tag-3-100">ranged from 0.75 to 0.84.</kw><sup> </sup></p><p>
+
+<a name="T1"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<strong><kw class="krdwrd-tag-1-100">View this table:</kw></strong><br>
+<nobr><a href="/cgi/content/full/43/8/1412/T1"><kw class="krdwrd-tag-1-100">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/43/8/1412/T1" onclick="startTarget('T1', 500, 400); this.href='/cgi/content-nw/full/43/8/1412/T1'" onmouseover="window.status='View table in a separate window'; return true" target="T1"><kw class="krdwrd-tag-1-100">[in a new window]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-1-80">
+Table 1 Contrast Perfusion and Pathologic Diagnosis of Cardiac Masses</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br><kw class="krdwrd-tag-3-80">
+
+
+Contrast perfusion imaging improved the less experienced readers'</kw><sup> </sup><kw class="krdwrd-tag-3-80">accuracy in differentiating between malignancy/vascular tumor,</kw><sup> </sup><kw class="krdwrd-tag-3-80">stromal tumor, and thrombus. The total number of correct diagnoses</kw><sup> </sup><kw class="krdwrd-tag-3-80">for all three readers increased from 34 to 41 (of 48 possible)</kw><sup> </sup><kw class="krdwrd-tag-3-80">with the addition of contrast perfusion imaging. The Wilcoxon</kw><sup> </sup><kw class="krdwrd-tag-3-80">matched-pairs signed-rank test yielded a two-tailed p value</kw><sup> </sup><kw class="krdwrd-tag-3-70">of 0.06.</kw><sup> </sup><p>
+
+<strong><kw class="krdwrd-tag-2-70">Pathologic correlation.</kw></strong><kw class="krdwrd-tag-3-100">&nbsp;&nbsp;
+
+The seven patients who had cardiac masses demonstrating greater</kw><sup> </sup><kw class="krdwrd-tag-3-100">enhancement than the adjacent myocardium were diagnosed with</kw><sup> </sup><kw class="krdwrd-tag-3-100">malignant or highly vascular tumors by pathologic analysis.</kw><sup> </sup><kw class="krdwrd-tag-3-100">The two masses that enhanced partially on visual inspection</kw><sup> </sup><kw class="krdwrd-tag-3-100">were confirmed pathologically to be myxomas (n = 2). Of the</kw><sup> </sup><kw class="krdwrd-tag-3-100">seven masses that failed to enhance, five were pathologically</kw><sup> </sup><kw class="krdwrd-tag-3-100">confirmed to be thrombi at the time of cardiac surgery, whereas</kw><sup> </sup><kw class="krdwrd-tag-3-100">two resolved on anticoagulation therapy (</kw><a href="#T1"><kw class="krdwrd-tag-mrgtie-50">Table 1</kw></a><kw class="krdwrd-tag-3-80">).</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2-70">Quantitative analysis of perfusion.</kw></strong><kw class="krdwrd-tag-3-100">&nbsp;&nbsp;
+
+Video-intensity curves for contrast perfusion, echocardiographic</kw><sup> </sup><kw class="krdwrd-tag-3-100">images, and pathologic specimens for the subset of seven masses</kw><sup> </sup><kw class="krdwrd-tag-3-100">are shown in </kw><a href="#FIG1"><kw class="krdwrd-tag-mrgtie-50">Figures 1 through 5</kw></a><kw class="krdwrd-tag-3-100">.      </kw><a href="#T2"><kw class="krdwrd-tag-mrgtie-50">Table 2</kw></a><kw class="krdwrd-tag-3-100">  details pathologic</kw><sup> </sup><kw class="krdwrd-tag-3-100">diagnoses, vessel size range, pathologic VAI, and differences</kw><sup> </sup><kw class="krdwrd-tag-3-100">between the </kw><i><kw class="krdwrd-tag-3-100">A</kw></i><kw class="krdwrd-tag-3-100"> and ß values of mass and myocardium</kw><sup> </sup><kw class="krdwrd-tag-3-100">for the subset. Relative to the adjacent myocardium, malignant</kw><sup> </sup><kw class="krdwrd-tag-3-100">(n = 4) and vascular benign (n = 1) tumors demonstrated a more</kw><sup> </sup><kw class="krdwrd-tag-3-100">rapid increase in perfusion and higher steady-state perfusion:</kw><sup> </sup><kw class="krdwrd-tag-3-100">the mean difference in ß between each mass and section</kw><sup> </sup><kw class="krdwrd-tag-3-100">of adjacent myocardium (mean </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><kw class="krdwrd-tag-3-100">ß</kw><sub><kw class="krdwrd-tag-3-100">mass–myocardium</kw></sub><kw class="krdwrd-tag-3-100">)</kw><sup> </sup><kw class="krdwrd-tag-3-100">was 1.3/s (range –0.1 to 2.7), and the mean difference</kw><sup> </sup><kw class="krdwrd-tag-3-100">in </kw><i><kw class="krdwrd-tag-3-100">A</kw></i><kw class="krdwrd-tag-3-100"> between each mass and section of adjacent myocardium (mean</kw><sup> </sup><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3-100">A</kw></i><sub><kw class="krdwrd-tag-3-100">mass–myocardium</kw></sub><kw class="krdwrd-tag-3-100">) was 6.8 dB (range 4.0 to 13). The thrombi</kw><sup> </sup><kw class="krdwrd-tag-3-100">did not perfuse, as illustrated by the flat line in </kw><a href="#FIG3"><kw class="krdwrd-tag-mrgtie-50">Figure 3</kw></a><kw class="krdwrd-tag-3-100">.</kw><sup> </sup><kw class="krdwrd-tag-3-100">The correlation coefficients for </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3-100">A</kw></i><sub><kw class="krdwrd-tag-3-100">mass–myocardium</kw></sub><kw class="krdwrd-tag-3-100"> and</kw><sup> </sup><kw class="krdwrd-tag-3-100">VAI and for </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><kw class="krdwrd-tag-3-100">ß</kw><sub><kw class="krdwrd-tag-3-100">mass–myocardium</kw></sub><kw class="krdwrd-tag-3-100"> and VAI were 0.36</kw><sup> </sup><kw class="krdwrd-tag-3-100">and 0.60, respectively.</kw><sup> </sup></p><p>
+
+<a name="FIG1"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/43/8/1412/FIG1"><img src="/content/vol43/issue8/images/small/4001202.1412.gr1.gif" alt=" " border="2" height="177" hspace="10" vspace="5" width="200"></a><br>
+
+<strong><kw class="krdwrd-tag-1-100">View larger version</kw></strong><kw class="krdwrd-tag-1-100"> (99K):</kw><br>
+<nobr><a href="/cgi/content/full/43/8/1412/FIG1"><kw class="krdwrd-tag-1-100">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/43/8/1412/FIG1" onclick="startTarget('FIG1', 590, 590); this.href='/cgi/content-nw/full/43/8/1412/FIG1'" onmouseover="window.status='View figure in a separate window'; return true" target="FIG1"><kw class="krdwrd-tag-1-100">[in a new window]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-3-50">
+Figure 1 </kw><b><kw class="krdwrd-tag-3-50">(A)</kw></b><kw class="krdwrd-tag-3-50"> A mass filling the right atrium (apical five-chamber view). </kw><b><kw class="krdwrd-tag-3-50">(B)</kw></b><kw class="krdwrd-tag-3-50"> The mass hyper-enhanced with echocardiographic contrast, compared with the adjacent myocardium. </kw><b><kw class="krdwrd-tag-3-50">(C)</kw></b><kw class="krdwrd-tag-3-50"> There was no enhancement of the mass or the adjacent myocardium after a high-mechanical index impulse destroyed contrast bubbles, ruling out "false-positive perfusion" of the mass. </kw><b><kw class="krdwrd-tag-3-50">(D)</kw></b><kw class="krdwrd-tag-3-50"> The biopsy specimen diagnosis was follicular thyroid carcinoma. The blood vessels are stained with CD31 antibody. </kw><b><kw class="krdwrd-tag-3-50">(E)</kw></b><kw class="krdwrd-tag-3-50"> Perfusion curves of video intensity over time demonstrated greater values for </kw><i><kw class="krdwrd-tag-3-50">A</kw></i><kw class="krdwrd-tag-3-50"> and ß for the mass than for the adjacent myocardium.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<a name="FIG2"><!-- null --></a>
+<br clear="all"><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/43/8/1412/FIG2"><img src="/content/vol43/issue8/images/small/4001202.1412.gr2.gif" alt=" " border="2" height="171" hspace="10" vspace="5" width="200"></a><br>
+
+<strong><kw class="krdwrd-tag-1-100">View larger version</kw></strong><kw class="krdwrd-tag-1-100"> (114K):</kw><br>
+<nobr><a href="/cgi/content/full/43/8/1412/FIG2"><kw class="krdwrd-tag-1-100">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/43/8/1412/FIG2" onclick="startTarget('FIG2', 590, 577); this.href='/cgi/content-nw/full/43/8/1412/FIG2'" onmouseover="window.status='View figure in a separate window'; return true" target="FIG2"><kw class="krdwrd-tag-1-100">[in a new window]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-3-50">
+Figure 2 </kw><b><kw class="krdwrd-tag-3-50">(A)</kw></b><kw class="krdwrd-tag-3-50"> A mass adjacent to the lateral wall of the left ventricle (apical four-chamber view). </kw><b><kw class="krdwrd-tag-3-50">(B)</kw></b><kw class="krdwrd-tag-3-50"> There was hyperenhancement of the mass, relative to the adjacent myocardium. </kw><b><kw class="krdwrd-tag-3-50">(C)</kw></b><kw class="krdwrd-tag-3-50"> There was no enhancement of the mass or the adjacent myocardium after a high-mechanical index impulse destroyed microbubbles. </kw><b><kw class="krdwrd-tag-3-50">(D)</kw></b><kw class="krdwrd-tag-3-50"> A biopsy specimen stained with factor VIII antibody demonstrated extensive vascularity in a poorly differentiated adenocarcinoma. </kw><b><kw class="krdwrd-tag-3-50">(E)</kw></b><kw class="krdwrd-tag-3-50"> Perfusion curves of video intensity over time demonstrated greater values for </kw><i><kw class="krdwrd-tag-3-50">A</kw></i><kw class="krdwrd-tag-3-50"> and ß for the mass than for the adjacent myocardium.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<a name="FIG3"><!-- null --></a>
+<br clear="all"><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/43/8/1412/FIG3"><img src="/content/vol43/issue8/images/small/4001202.1412.gr3.gif" alt=" " border="2" height="174" hspace="10" vspace="5" width="200"></a><br>
+
+<strong><kw class="krdwrd-tag-1-100">View larger version</kw></strong><kw class="krdwrd-tag-1-100"> (104K):</kw><br>
+<nobr><a href="/cgi/content/full/43/8/1412/FIG3"><kw class="krdwrd-tag-1-100">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/43/8/1412/FIG3" onclick="startTarget('FIG3', 590, 582); this.href='/cgi/content-nw/full/43/8/1412/FIG3'" onmouseover="window.status='View figure in a separate window'; return true" target="FIG3"><kw class="krdwrd-tag-1-100">[in a new window]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-3-50">
+Figure 3 </kw><b><kw class="krdwrd-tag-3-50">(A)</kw></b><kw class="krdwrd-tag-3-50"> A left ventricular apical mass (apical four-chamber view). </kw><b><kw class="krdwrd-tag-3-50">(B)</kw></b><kw class="krdwrd-tag-3-50"> The mass showed no enhancement with contrast, whereas the adjacent myocardium demonstrated enhancement. </kw><b><kw class="krdwrd-tag-3-50">(C)</kw></b><kw class="krdwrd-tag-3-50"> There was no enhancement of the mass or adjacent myocardium after a high-mechanical index impulse destroyed the contrast agent. </kw><b><kw class="krdwrd-tag-3-50">(D)</kw></b><kw class="krdwrd-tag-3-50"> The surgical specimen demonstrated no staining with CD34 antibody and minimal cellularity, consistent with thrombus. </kw><b><kw class="krdwrd-tag-3-50">(E)</kw></b><kw class="krdwrd-tag-3-50"> Perfusion curves of video intensity over time demonstrated no increase in video intensity in the mass from baseline, whereas video intensity increased within the myocardium.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<a name="FIG4"><!-- null --></a>
+<br clear="all"><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/43/8/1412/FIG4"><img src="/content/vol43/issue8/images/small/4001202.1412.gr4.gif" alt=" " border="2" height="176" hspace="10" vspace="5" width="200"></a><br>
+
+<strong><kw class="krdwrd-tag-1-100">View larger version</kw></strong><kw class="krdwrd-tag-1-100"> (114K):</kw><br>
+<nobr><a href="/cgi/content/full/43/8/1412/FIG4"><kw class="krdwrd-tag-1-100">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/43/8/1412/FIG4" onclick="startTarget('FIG4', 590, 588); this.href='/cgi/content-nw/full/43/8/1412/FIG4'" onmouseover="window.status='View figure in a separate window'; return true" target="FIG4"><kw class="krdwrd-tag-1-100">[in a new window]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-3-50">
+Figure 4 </kw><b><kw class="krdwrd-tag-3-50">(A)</kw></b><kw class="krdwrd-tag-3-50"> A left ventricular apical mass (apical four-chamber view). </kw><b><kw class="krdwrd-tag-3-50">(B)</kw></b><kw class="krdwrd-tag-3-50"> The mass hyper-enhanced with contrast, relative to the adjacent myocardium. </kw><b><kw class="krdwrd-tag-3-50">(C)</kw></b><kw class="krdwrd-tag-3-50"> There was no enhancement of the mass or adjacent myocardium after a high-mechanical index impulse destroyed the contrast agent. </kw><b><kw class="krdwrd-tag-3-50">(D)</kw></b><kw class="krdwrd-tag-3-50"> The surgical specimen was diagnosed as a hemangioma with abundant, dilated, thick-walled vessels, demonstrated by staining with factor VIII antibody. </kw><b><kw class="krdwrd-tag-3-50">(E)</kw></b><kw class="krdwrd-tag-3-50"> Perfusion curves of video intensity over time demonstrated greater values for </kw><i><kw class="krdwrd-tag-3-50">A</kw></i><kw class="krdwrd-tag-3-50"> and ß for the mass than for the adjacent myocardium.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<a name="FIG5"><!-- null --></a>
+<br clear="all"><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/43/8/1412/FIG5"><img src="/content/vol43/issue8/images/small/4001202.1412.gr5.gif" alt=" " border="2" height="125" hspace="10" vspace="5" width="200"></a><br>
+
+<strong><kw class="krdwrd-tag-1-100">View larger version</kw></strong><kw class="krdwrd-tag-1-100"> (84K):</kw><br>
+<nobr><a href="/cgi/content/full/43/8/1412/FIG5"><kw class="krdwrd-tag-1-100">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/43/8/1412/FIG5" onclick="startTarget('FIG5', 590, 474); this.href='/cgi/content-nw/full/43/8/1412/FIG5'" onmouseover="window.status='View figure in a separate window'; return true" target="FIG5"><kw class="krdwrd-tag-1-100">[in a new window]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-2-50">
+Figure 5 </kw><b><kw class="krdwrd-tag-2-50">(A)</kw></b><kw class="krdwrd-tag-2-50"> A computed tomographic scan of the chest with contrast demonstrating an intracardiac mass </kw><b><kw class="krdwrd-tag-2-50">(white arrow)</kw></b><kw class="krdwrd-tag-2-50"> and a hypodense area in the lung parenchyma </kw><b><kw class="krdwrd-tag-2-50">(yellow arrow)</kw></b><kw class="krdwrd-tag-2-50">. </kw><b><kw class="krdwrd-tag-2-50">(B)</kw></b><kw class="krdwrd-tag-2-50"> Apical four-chamber view of the left ventricular (LV) apical mass </kw><b><kw class="krdwrd-tag-2-50">(white arrow)</kw></b><kw class="krdwrd-tag-2-50"> and the mass extrinsic to the LV apex </kw><b><kw class="krdwrd-tag-2-50">(yellow arrow)</kw></b><kw class="krdwrd-tag-2-50">. </kw><b><kw class="krdwrd-tag-2-50">(C)</kw></b><kw class="krdwrd-tag-2-50"> The LV apical mass failed to enhance with contrast, whereas the extrinsic mass hyper-enhanced, relative to the myocardium, and demonstrated large vascular channels </kw><b><kw class="krdwrd-tag-2-50">(yellow arrow)</kw></b><kw class="krdwrd-tag-2-50">. </kw><b><kw class="krdwrd-tag-2-50">(D)</kw></b><kw class="krdwrd-tag-2-50"> There was no enhancement of the masses or adjacent myocardium after a high-mechanical index impulse destroyed the microbubbles. </kw><b><kw class="krdwrd-tag-2-50">(E)</kw></b><kw class="krdwrd-tag-2-50"> The biopsy specimen of the extrinsic mass showed a well-differentiated adenocarcinoma with multiple vascular channels stained with CD34 antibody. Lacking pathologic correlation, the intracardiac mass was not included in the comparison of contrast perfusion with VAI and does not appear in </kw><a href="#T2"><kw class="krdwrd-tag-2-50">Table 2</kw></a><kw class="krdwrd-tag-2-50">. </kw><b><kw class="krdwrd-tag-2-50">(F)</kw></b><kw class="krdwrd-tag-2-50"> Perfusion curves of video intensity over time demonstrated greater values for </kw><i><kw class="krdwrd-tag-2-50">A</kw></i><kw class="krdwrd-tag-2-50"> and ß for the mass than for the adjacent myocardium and no increase in intensity from baseline for the intracardiac mass. The intracardiac mass was presumed to be a thrombus.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<a name="T2"><!-- null --></a>
+<br clear="all"><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<strong><kw class="krdwrd-tag-1-100">View this table:</kw></strong><br>
+<nobr><a href="/cgi/content/full/43/8/1412/T2"><kw class="krdwrd-tag-1-100">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/43/8/1412/T2" onclick="startTarget('T2', 500, 400); this.href='/cgi/content-nw/full/43/8/1412/T2'" onmouseover="window.status='View table in a separate window'; return true" target="T2"><kw class="krdwrd-tag-1-100">[in a new window]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-1-70">
+Table 2 Subset of Masses With Quantitative Echocardiographic Perfusion</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<a name="SEC3"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" height="21" hspace="5" width="10"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2-80">&nbsp;&nbsp;
+Discussion
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Abstract</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Methods</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">Results</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" height="9" hspace="5" width="11"><font color="#464c53"><kw class="krdwrd-tag-1-100">Discussion</kw></font><br>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-100">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3-100">
+
+Using contrast echocardiography, our study found qualitative</kw><sup> </sup><kw class="krdwrd-tag-3-100">and quantitative differences in the gray scale between the levels</kw><sup> </sup><kw class="krdwrd-tag-3-100">of perfusion in various types of cardiac masses and sections</kw><sup> </sup><kw class="krdwrd-tag-3-100">of adjacent myocardium. These differences were detected using</kw><sup> </sup><kw class="krdwrd-tag-3-100">power modulation and dedicated video-intensity detection software.</kw><sup> </sup><kw class="krdwrd-tag-3-100">Malignant or highly vascular tumors demonstrated greater enhancement</kw><sup> </sup><kw class="krdwrd-tag-3-100">than the adjacent myocardium. Myxomas demonstrated partial perfusion</kw><sup> </sup><kw class="krdwrd-tag-3-100">on visual inspection and quantitatively less perfusion than</kw><sup> </sup><kw class="krdwrd-tag-3-100">the myocardium. The thrombi in this study demonstrated no perfusion.</kw><sup> </sup><kw class="krdwrd-tag-3-100">With the aid of contrast, perfusion imaging identified three</kw><sup> </sup><kw class="krdwrd-tag-3-100">pericardial malignancies—an area that has traditionally</kw><sup> </sup><kw class="krdwrd-tag-3-100">been a challenge to evaluate with echocardiography. The addition</kw><sup> </sup><kw class="krdwrd-tag-3-100">of contrast perfusion to standard imaging demonstrated a trend</kw><sup> </sup><kw class="krdwrd-tag-3-100">toward improving the ability of readers without training in</kw><sup> </sup><kw class="krdwrd-tag-3-100">this technique to diagnose cardiac masses, although the number</kw><sup> </sup><kw class="krdwrd-tag-3-100">of data points likely precluded detection of a statistically</kw><sup> </sup><kw class="krdwrd-tag-3-100">significant improvement. In a subset of seven masses, the difference</kw><sup> </sup><kw class="krdwrd-tag-3-100">in the rate of increase in pixel intensity after a high mechanical</kw><sup> </sup><kw class="krdwrd-tag-3-100">impulse between the mass and adjacent myocardium (</kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><kw class="krdwrd-tag-1-70">ß</kw><sub><kw class="krdwrd-tag-mrgtie-50">mass–myocardium</kw></sub><kw class="krdwrd-tag-1-80">)</kw><sup> </sup><kw class="krdwrd-tag-3-100">demonstrated a better correlation with VAI in the pathologic</kw><sup> </sup><kw class="krdwrd-tag-3-100">specimens, as compared with the difference in the maximum steady-state</kw><sup> </sup><kw class="krdwrd-tag-3-100">pixel intensity between the mass and myocardium (</kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-1-70">A</kw></i><sub><kw class="krdwrd-tag-mrgtie-50">mass–myocardium</kw></sub><kw class="krdwrd-tag-1-80">).</kw><sup> </sup><p><kw class="krdwrd-tag-3-100">
+
+The etiology of cardiac masses presents a differential diagnosis</kw><sup> </sup><kw class="krdwrd-tag-3-100">with important prognostic and therapeutic implications. Benign</kw><sup> </sup><kw class="krdwrd-tag-3-100">tumors generally portend a good prognosis. Although malignant</kw><sup> </sup><kw class="krdwrd-tag-3-100">primary cardiac tumors, if discovered early, are potentially</kw><sup> </sup><kw class="krdwrd-tag-3-100">curable with surgical resection </kw><a href="#BIB9"><kw class="krdwrd-tag-mrgtie-50">(9)</kw></a><kw class="krdwrd-tag-3-100">, studies have consistently</kw><sup> </sup><kw class="krdwrd-tag-3-100">found a very poor prognosis and low overall rates of respectability</kw><sup> </sup><a href="#BIB10"><kw class="krdwrd-tag-mrgtie-50">(10–12)</kw></a><kw class="krdwrd-tag-3-100">. Thrombi may present with catastrophic embolization</kw><sup> </sup><kw class="krdwrd-tag-3-100">and warrant surgical removal in some cases, but they often resolve</kw><sup> </sup><kw class="krdwrd-tag-3-100">with noninvasive treatment </kw><a href="#BIB13"><kw class="krdwrd-tag-mrgtie-50">(13)</kw></a><kw class="krdwrd-tag-3-100">. Although multiple echocardiographic</kw><sup> </sup><kw class="krdwrd-tag-3-100">criteria are used to define cardiac masses </kw><a href="#BIB14"><kw class="krdwrd-tag-mrgtie-50">(14–18)</kw></a><kw class="krdwrd-tag-3-100">, there</kw><sup> </sup><kw class="krdwrd-tag-3-100">are frequent reports in the medical literature of diagnostic</kw><sup> </sup><kw class="krdwrd-tag-3-100">errors </kw><a href="#BIB19"><kw class="krdwrd-tag-mrgtie-50">(19–21)</kw></a><kw class="krdwrd-tag-3-100">. Misclassifications can lead to unfortunate</kw><sup> </sup><kw class="krdwrd-tag-3-100">outcomes from an unnecessary surgical procedure or inappropriate</kw><sup> </sup><kw class="krdwrd-tag-3-100">exposure to the risks of anticoagulation.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+Myocardial tissue is highly vascular (capillary density on the</kw><sup> </sup><kw class="krdwrd-tag-3-100">order of 2,500 to 3,000/mm</kw><sup><kw class="krdwrd-tag-3-100">3</kw></sup><kw class="krdwrd-tag-3-100">) </kw><a href="#BIB22"><kw class="krdwrd-tag-mrgtie-50">(22)</kw></a><kw class="krdwrd-tag-3-100">, but most malignancies have</kw><sup> </sup><kw class="krdwrd-tag-3-100">abnormal neo-vascularization that supplies rapidly growing tumor</kw><sup> </sup><kw class="krdwrd-tag-3-100">cells, often in the form of highly concentrated, dilated vessels,</kw><sup> </sup><kw class="krdwrd-tag-3-100">as depicted in </kw><a href="#FIG1"><kw class="krdwrd-tag-mrgtie-50">Figures 1, 2, and 5</kw></a> <a href="#BIB23"><kw class="krdwrd-tag-mrgtie-50">(23)</kw></a><kw class="krdwrd-tag-3-100">. The total blood-carrying</kw><sup> </sup><kw class="krdwrd-tag-3-100">capacity of these vessels is likely to be in excess of that</kw><sup> </sup><kw class="krdwrd-tag-3-100">of the adjacent myocardium. Stromal tumors, such as myxomas,</kw><sup> </sup><kw class="krdwrd-tag-3-100">have a poor blood supply. Thrombi are generally avascular (</kw><a href="#FIG3"><kw class="krdwrd-tag-mrgtie-50">Fig. 3</kw></a><kw class="krdwrd-tag-3-100">).</kw><sup> </sup><kw class="krdwrd-tag-3-100">Sensitive measures of tissue perfusion should therefore</kw><sup> </sup><kw class="krdwrd-tag-3-100">be able to detect differences between neo-vascularized malignant</kw><sup> </sup><kw class="krdwrd-tag-3-100">or highly vascular cardiac tumors, poorly vascularized stromal</kw><sup> </sup><kw class="krdwrd-tag-3-100">tumors, avascular thrombi, and normal myocardium.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+Contrast echocardiography to characterize myocardial perfusion</kw><sup> </sup><kw class="krdwrd-tag-3-100">has benefited in recent years from the development of new microbubble</kw><sup> </sup><kw class="krdwrd-tag-3-100">agents that can be administered intravenously at a constant</kw><sup> </sup><kw class="krdwrd-tag-3-100">rate to achieve a steady-state concentration. Application of</kw><sup> </sup><kw class="krdwrd-tag-3-100">a high-mechanical index impulse leads to increased microbubble</kw><sup> </sup><kw class="krdwrd-tag-3-100">destruction; the rate of replenishment (ß) and maximum</kw><sup> </sup><kw class="krdwrd-tag-3-100">steady-state concentration </kw><i><kw class="krdwrd-tag-3-100">(A)</kw></i><kw class="krdwrd-tag-3-100"> of microbubbles in tissue after</kw><sup> </sup><kw class="krdwrd-tag-3-100">the impulse can be measured as video intensity, reflecting the</kw><sup> </sup><kw class="krdwrd-tag-3-100">degree of blood flow </kw><a href="#BIB24"><kw class="krdwrd-tag-mrgtie-50">(24,25)</kw></a><kw class="krdwrd-tag-3-100">. The off-line use of a computer</kw><sup> </sup><kw class="krdwrd-tag-3-100">program to detect and quantify replenishment after microbubble</kw><sup> </sup><kw class="krdwrd-tag-3-100">destruction within a cardiac structure has been applied to assessment</kw><sup> </sup><kw class="krdwrd-tag-3-100">of wall motion </kw><a href="#BIB26"><kw class="krdwrd-tag-mrgtie-50">(26)</kw></a><kw class="krdwrd-tag-3-100"> and myocardial perfusion </kw><a href="#BIB27"><kw class="krdwrd-tag-mrgtie-50">(27,28)</kw></a><kw class="krdwrd-tag-3-100">. The application</kw><sup> </sup><kw class="krdwrd-tag-3-100">of such a program to evaluate perfusion within a cardiac mass</kw><sup> </sup><kw class="krdwrd-tag-3-100">versus an adjacent section of myocardium is, as far as we know,</kw><sup> </sup><kw class="krdwrd-tag-3-100">unique to this study.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+Microbubble contrast and pulse-inversion imaging of large vessels</kw><sup> </sup><kw class="krdwrd-tag-3-100">has been used to differentiate benign from malignant tumors</kw><sup> </sup><kw class="krdwrd-tag-3-100">in the liver </kw><a href="#BIB29"><kw class="krdwrd-tag-mrgtie-50">(29,30)</kw></a><kw class="krdwrd-tag-3-100">, but power-modulation imaging allows more</kw><sup> </sup><kw class="krdwrd-tag-3-100">sensitive detection of smaller vessels and a potentially improved</kw><sup> </sup><kw class="krdwrd-tag-3-100">correlation with pathologic blood vessel assessments than has</kw><sup> </sup><kw class="krdwrd-tag-3-100">previously been demonstrated </kw><a href="#BIB31"><kw class="krdwrd-tag-mrgtie-50">(31)</kw></a><kw class="krdwrd-tag-3-100">. In our subset of seven patients,</kw><sup> </sup><kw class="krdwrd-tag-3-100">we used power-modulation contrast imaging to characterize the</kw><sup> </sup><kw class="krdwrd-tag-3-100">relationships between blood vessel volume, rate of blood flow</kw><sup> </sup><kw class="krdwrd-tag-3-100">in the mass, and a pathologic measure of vessel area by comparing</kw><sup> </sup><kw class="krdwrd-tag-3-100">the differences in </kw><i><kw class="krdwrd-tag-3-100">A</kw></i><kw class="krdwrd-tag-3-100"> and ß between the mass and adjacent</kw><sup> </sup><kw class="krdwrd-tag-3-100">myocardium with VAI. </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><kw class="krdwrd-tag-3-100">ß</kw><sub><kw class="krdwrd-tag-3-100">mass–myocardium</kw></sub><kw class="krdwrd-tag-3-100"> correlated</kw><sup> </sup><kw class="krdwrd-tag-3-100">reasonably well with VAI, probably because the dilated neovessels</kw><sup> </sup><kw class="krdwrd-tag-3-100">of the malignant and highly vascular tumors in the subset filled</kw><sup> </sup><kw class="krdwrd-tag-3-100">more quickly with contrast agent than did the normal vessels</kw><sup> </sup><kw class="krdwrd-tag-3-100">of the adjacent myocardium. </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3-100">A</kw></i><sub><kw class="krdwrd-tag-3-100">mass–myocardium</kw></sub><kw class="krdwrd-tag-3-100"> did not correlate</kw><sup> </sup><kw class="krdwrd-tag-3-100">well with VAI, perhaps because the relatively small portion</kw><sup> </sup><kw class="krdwrd-tag-3-100">of a mass that is analyzed to determine VAI may not reflect</kw><sup> </sup><kw class="krdwrd-tag-3-100">the level of perfusion detected by contrast perfusion imaging.</kw><sup> </sup><kw class="krdwrd-tag-3-100">Conversely, some of the specimens contained vessels with very</kw><sup> </sup><kw class="krdwrd-tag-3-100">small lumens, and perhaps the resolution of the pixel-intensity</kw><sup> </sup><kw class="krdwrd-tag-3-100">detection program was unable to detect the contribution of these</kw><sup> </sup><kw class="krdwrd-tag-3-100">small vessels to the maximum pixel intensity. Furthermore, as</kw><sup> </sup><kw class="krdwrd-tag-3-100">Ellegala et al. </kw><a href="#BIB32"><kw class="krdwrd-tag-mrgtie-50">(32)</kw></a><kw class="krdwrd-tag-3-100"> have demonstrated in contrast perfusion</kw><sup> </sup><kw class="krdwrd-tag-3-100">imaging of malignant gliomas in rat brains, detection of the</kw><sup> </sup><kw class="krdwrd-tag-3-100">volume and velocity of blood flow in the tumor relative to the</kw><sup> </sup><kw class="krdwrd-tag-3-100">adjacent tissue may depend on size of the tumor.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3-100">
+
+By differentiating malignant/highly vascular tumors from benign</kw><sup> </sup><kw class="krdwrd-tag-3-100">tumors and thrombi, echocardiographic contrast perfusion imaging</kw><sup> </sup><kw class="krdwrd-tag-3-100">may aid in the early identification and appropriate treatment</kw><sup> </sup><kw class="krdwrd-tag-3-100">of cardiac masses. Primary cardiac tumors are rare, with an</kw><sup> </sup><kw class="krdwrd-tag-3-100">estimated incidence of 0.0017% to 0.28% </kw><a href="#BIB33"><kw class="krdwrd-tag-mrgtie-50">(33)</kw></a><kw class="krdwrd-tag-3-100">. Thrombi and metastases</kw><sup> </sup><kw class="krdwrd-tag-3-100">are far more common and constitute the main elements of the</kw><sup> </sup><kw class="krdwrd-tag-3-100">differential diagnosis, unless located in the atria (suggesting</kw><sup> </sup><kw class="krdwrd-tag-3-100">myxoma) </kw><a href="#BIB34"><kw class="krdwrd-tag-mrgtie-50">(34)</kw></a><kw class="krdwrd-tag-3-100">. Hyperenhancement, signaling probable malignancy,</kw><sup> </sup><kw class="krdwrd-tag-3-100">in a cardiac tumor may facilitate early recognition and resection,</kw><sup> </sup><kw class="krdwrd-tag-3-100">or may steer treatment planning toward palliation for certain</kw><sup> </sup><kw class="krdwrd-tag-3-100">patients who wish to avoid invasive and probably futile interventions.</kw><sup> </sup><kw class="krdwrd-tag-3-100">A complete lack of enhancement, signaling thrombus, would be</kw><sup> </sup><kw class="krdwrd-tag-3-100">an indication for anticoagulation with a follow-up imaging study</kw><sup> </sup><kw class="krdwrd-tag-3-100">to evaluate resolution and could prevent unnecessary cardiac</kw><sup> </sup><kw class="krdwrd-tag-3-100">surgery. A further application is the detection and evaluation</kw><sup> </sup><kw class="krdwrd-tag-3-100">of malignant or highly vascular tumors or metastases within</kw><sup> </sup><kw class="krdwrd-tag-3-100">the myocardium that do not protrude into cardiac chamber cavities.</kw><sup> </sup><kw class="krdwrd-tag-3-100">Objective hyperenhancement of one area of the myocardium may</kw><sup> </sup><kw class="krdwrd-tag-3-100">raise the suspicion for intramyocardial tumor infiltration.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2-70">Study limitations.</kw></strong><kw class="krdwrd-tag-3-100">&nbsp;&nbsp;
+
+Although myxomas appeared to demonstrate partial enhancement</kw><sup> </sup><kw class="krdwrd-tag-3-100">on visual inspection, thrombi and myxomas could not be differentiated</kw><sup> </sup><kw class="krdwrd-tag-3-100">objectively on the basis of average pixel intensity in the mass</kw><sup> </sup><kw class="krdwrd-tag-3-100">relative to myocardium. An assessment of </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3-100">A</kw></i><sub><kw class="krdwrd-tag-3-100">mass–myocardium</kw></sub><sup> </sup><kw class="krdwrd-tag-3-100">and </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><kw class="krdwrd-tag-3-100">ß</kw><sub><kw class="krdwrd-tag-3-100">mass–myocardium</kw></sub><kw class="krdwrd-tag-3-100"> was performed in only seven</kw><sup> </sup><kw class="krdwrd-tag-3-100">patients. Because of the differences in depth of the masses</kw><sup> </sup><kw class="krdwrd-tag-3-100">and the differing amounts of perfusion between different patients,</kw><sup> </sup><kw class="krdwrd-tag-3-100">we were unable to compare pixel intensity between the different</kw><sup> </sup><kw class="krdwrd-tag-3-100">types of masses and instead had to compare the differences in</kw><sup> </sup><kw class="krdwrd-tag-3-100">perfusion relative to the adjacent myocardium. Not all of our</kw><sup> </sup><kw class="krdwrd-tag-3-100">pathologic specimens contained myocardial tissue, and we were</kw><sup> </sup><kw class="krdwrd-tag-3-100">unable to evaluate any possible effect that differences in myocardial</kw><sup> </sup><kw class="krdwrd-tag-3-100">VAI between patients may have had on </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3-100">A</kw></i><kw class="krdwrd-tag-3-100"> and </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><kw class="krdwrd-tag-3-100">ß.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2-70">Conclusions.</kw></strong><kw class="krdwrd-tag-3-80">&nbsp;&nbsp;
+
+We found that quantification of echocardiographic perfusion</kw><sup> </sup><kw class="krdwrd-tag-3-100">imaging of cardiac masses with gray-scale power modulation facilitates</kw><sup> </sup><kw class="krdwrd-tag-3-100">the differential diagnosis of cardiac masses. Malignant and</kw><sup> </sup><kw class="krdwrd-tag-3-100">highly vascular tumors became visually hyper-enhanced and demonstrated</kw><sup> </sup><kw class="krdwrd-tag-3-100">quantitatively more perfusion than the adjacent myocardium.</kw><sup> </sup><kw class="krdwrd-tag-3-100">Stromal tumors demonstrated partial enhancement and less perfusion</kw><sup> </sup><kw class="krdwrd-tag-3-100">than the adjacent myocardium. Thrombi failed to enhance. With</kw><sup> </sup><kw class="krdwrd-tag-3-100">the application of contrast perfusion imaging, there was a trend</kw><sup> </sup><kw class="krdwrd-tag-3-100">toward improving the ability of readers with no training in</kw><sup> </sup><kw class="krdwrd-tag-3-100">this technique to differentiate between these types of tumors.</kw><sup> </sup><kw class="krdwrd-tag-3-100">In a subset of seven patients, the rate of increase in pixel</kw><sup> </sup><kw class="krdwrd-tag-3-100">intensity over time correlated with the cross-sectional vessel</kw><sup> </sup><kw class="krdwrd-tag-3-100">area of the pathologic specimen</kw><i><kw class="krdwrd-tag-3-100">.</kw></i><kw class="krdwrd-tag-3-100"> This technique could be easily</kw><sup> </sup><kw class="krdwrd-tag-3-100">applied in echocardiographic laboratories with contrast perfusion</kw><sup> </sup><kw class="krdwrd-tag-3-100">imaging capabilities.</kw><sup> </sup></p><p>
+
+
+
+
+
+<a name="BIBL"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" height="21" hspace="5" width="10"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2-80">&nbsp;&nbsp;
+References
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">Abstract</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">Methods</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">Results</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/uarrow.gif" border="0" height="9" hspace="5" width="11"><kw class="krdwrd-tag-1-80">Discussion</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" height="9" hspace="5" width="11"><font color="#464c53"><kw class="krdwrd-tag-1-80">References</kw></font><br>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+</p><ol compact="compact">
+<a name="BIB1"><!-- null --></a>
+<li value="1"><kw class="krdwrd-tag-1-100"> Meng Q, Lai H, Lima J, Tong W, Qian Y, Lai S. Echocardiographic and pathologic characteristics of primary cardiac tumors: A study of 149 cases. </kw><i><kw class="krdwrd-tag-1-100">Int J Cardiol</kw></i><kw class="krdwrd-tag-1-100">. 2002;84:69–75</kw><!-- HIGHWIRE ID="43:8:1412:1" --><a href="/cgi/external_ref?access_num=10.1016/S0167-5273%2802%2900136-5&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=12104067&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB2"><!-- null --></a>
+</li><li value="2"><kw class="krdwrd-tag-1-100"> Sieswerda GT, Kamp O, Visser CA. Myocardial contrast echocardiography: Clinical benefit and practical issues. </kw><i><kw class="krdwrd-tag-1-80">Echocardiography</kw></i><kw class="krdwrd-tag-1-80">. 2000;17:S25–S36</kw><!-- HIGHWIRE ID="43:8:1412:2" --><a href="/cgi/external_ref?access_num=11058236&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB3"><!-- null --></a>
+</li><li value="3"><kw class="krdwrd-tag-1-100"> Lindner JR. Assessment of myocardial viability with myocardial contrast echocardiography. </kw><i><kw class="krdwrd-tag-1-100">Echocardiography</kw></i><kw class="krdwrd-tag-1-100">. 2002;19:417–425</kw><!-- HIGHWIRE ID="43:8:1412:3" --><a href="/cgi/external_ref?access_num=12174206&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB4"><!-- null --></a>
+</li><li value="4"><kw class="krdwrd-tag-1-100"> Mengozzi G, Rossini R, Palagi C, et al. Usefulness of intravenous myocardial contrast echocardiography in the early left ventricular remodeling in acute myocardial infarction. </kw><i><kw class="krdwrd-tag-1-80">Am J Cardiol</kw></i><kw class="krdwrd-tag-1-80">. 2002;90:713–719</kw><!-- HIGHWIRE ID="43:8:1412:4" --><a href="/cgi/external_ref?access_num=10.1016/S0002-9149%2802%2902595-X&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=12356383&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB5"><!-- null --></a>
+</li><li value="5"><kw class="krdwrd-tag-1-100"> Wei K, Crouse L, Weiss J, et al. Comparison of usefulness of dipyridamole stress myocardial contrast echocardiography to technetium-99m sestamibi single-photon emission computed tomography for detection of coronary artery disease (PB127 multicenter phase 2 trial results). </kw><i><kw class="krdwrd-tag-1-80">Am J Cardiol</kw></i><kw class="krdwrd-tag-1-100">. 2003;91:1293–1298</kw><!-- HIGHWIRE ID="43:8:1412:5" --><a href="/cgi/external_ref?access_num=10.1016/S0002-9149%2803%2900316-3&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=12767419&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB6"><!-- null --></a>
+</li><li value="6"><kw class="krdwrd-tag-1-100"> Van Camp G, Ay T, Pasquet A, et al. Quantification of myocardial blood flow and assessment of its transmural distribution with real-time power modulation myocardial contrast echocardiography. </kw><i><kw class="krdwrd-tag-1-80">J Am Soc Echocardiogr</kw></i><kw class="krdwrd-tag-1-80">. 2003;16:263–270</kw><!-- HIGHWIRE ID="43:8:1412:6" --><a href="/cgi/external_ref?access_num=10.1067/mje.2003.55&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=12618735&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB7"><!-- null --></a>
+</li><li value="7"><kw class="krdwrd-tag-1-80"> Wiencek JG, Feinstein SB, Walker R, Aronson S. Pitfalls in quantitative contrast echocardiography: The steps to quantitation of perfusion. </kw><i><kw class="krdwrd-tag-1-80">J Am Soc Echocardiogr</kw></i><kw class="krdwrd-tag-1-80">. 1993;6:395–416</kw><!-- HIGHWIRE ID="43:8:1412:7" --><a href="/cgi/external_ref?access_num=8217207&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB8"><!-- null --></a>
+</li><li value="8"><kw class="krdwrd-tag-1-80"> Wei K, Jayaweera AR, Firoozan S, Linka A, Skyba DM, Kaul S. Quantification of myocardial blood flow with ultrasound-induced destruction of microbubbles administered as a constant venous infusion. </kw><i><kw class="krdwrd-tag-1-80">Circulation</kw></i><kw class="krdwrd-tag-1-80">. 1998;97:473–483</kw><!-- HIGHWIRE ID="43:8:1412:8" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=97/5/473"><nobr><kw class="krdwrd-tag-1-80">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1-80">Free</kw></font><kw class="krdwrd-tag-1-80">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB9"><!-- null --></a>
+</li><li value="9"><kw class="krdwrd-tag-1-80"> Goldman JH, Foster E. Transesophageal echocardiographic (TEE) evaluation of intracardiac and pericardial masses. </kw><i><kw class="krdwrd-tag-1-80">Cardiol Clin</kw></i><kw class="krdwrd-tag-1-80">. 2000;18:849–860</kw><!-- HIGHWIRE ID="43:8:1412:9" --><a href="/cgi/external_ref?access_num=10.1016/S0733-8651%2805%2970184-3&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=11236170&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB10"><!-- null --></a>
+</li><li value="10"><kw class="krdwrd-tag-1-80"> Perchinsky MJ, Lichtenstein SV, Tyers GF. Primary cardiac tumors: Forty years' experience with 71 patients. </kw><i><kw class="krdwrd-tag-1-80">Cancer</kw></i><kw class="krdwrd-tag-1-80">. 1997;79:1809–1815</kw><!-- HIGHWIRE ID="43:8:1412:10" --><a href="/cgi/external_ref?access_num=10.1002/%28SICI%291097-0142%2819970501%2979:9%3C1809::AID-CNCR25%3E3.0.CO;2-0&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=9129000&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB11"><!-- null --></a>
+</li><li value="11"><kw class="krdwrd-tag-1-80"> Grande AM, Ragni T, Vigano M. Primary cardiac tumors: A clinical experience of 12 years. </kw><i><kw class="krdwrd-tag-1-80">Tex Heart Inst J</kw></i><kw class="krdwrd-tag-1-80">. 1993;20:223–230</kw><!-- HIGHWIRE ID="43:8:1412:11" --><a href="/cgi/external_ref?access_num=8219826&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB12"><!-- null --></a>
+</li><li value="12"><kw class="krdwrd-tag-1-100"> Molina JE, Edwards JE, Ward HB. Primary cardiac tumors: Experience at the University of Minnesota. </kw><i><kw class="krdwrd-tag-1-80">Thorac Cardiovasc Surg</kw></i><kw class="krdwrd-tag-1-80">. 1990;38(Suppl 2):183–191</kw><!-- HIGHWIRE ID="43:8:1412:12" --><!-- /HIGHWIRE --><a name="BIB13"><!-- null --></a>
+</li><li value="13"><kw class="krdwrd-tag-1-80"> Greaves SC, Zhi G, Lee RT, et al. Incidence and natural history of left ventricular thrombus following anterior wall acute myocardial infarction. </kw><i><kw class="krdwrd-tag-1-80">Am J Cardiol</kw></i><kw class="krdwrd-tag-1-80">. 1997;80:442–448</kw><!-- HIGHWIRE ID="43:8:1412:13" --><a href="/cgi/external_ref?access_num=10.1016/S0002-9149%2897%2900392-5&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=9285655&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB14"><!-- null --></a>
+</li><li value="14"><kw class="krdwrd-tag-1-80"> Lynch M, Clements SD, Shanewise JS, Chen CC, Martin RP. Right-sided cardiac tumors detected by transesophageal echocardiography and its usefulness in differentiating the benign from the malignant ones. </kw><i><kw class="krdwrd-tag-1-80">Am J Cardiol</kw></i><kw class="krdwrd-tag-1-80">. 1997;79:781–784</kw><!-- HIGHWIRE ID="43:8:1412:14" --><a href="/cgi/external_ref?access_num=10.1016/S0002-9149%2896%2900868-5&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=9070559&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB15"><!-- null --></a>
+</li><li value="15"><kw class="krdwrd-tag-1-80"> Gopal AS, Stathopoulos JA, Arora N, Banerjee S, Messineo F. Differential diagnosis of intracavitary tumors obstructing the right ventricular outflow tract. </kw><i><kw class="krdwrd-tag-1-80">J Am Soc Echocardiogr</kw></i><kw class="krdwrd-tag-1-80">. 2001;14:937–940</kw><!-- HIGHWIRE ID="43:8:1412:15" --><a href="/cgi/external_ref?access_num=11547282&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB16"><!-- null --></a>
+</li><li value="16"><kw class="krdwrd-tag-1-80"> Lepper W, Shivalkar B, Rinkevich D, Belcik T, Wei K. Assessment of the vascularity of a left ventricular mass using myocardial contrast echocardiography. </kw><i><kw class="krdwrd-tag-1-80">J Am Soc Echocardiogr</kw></i><kw class="krdwrd-tag-1-80">. 2002;15:1419–1422</kw><!-- HIGHWIRE ID="43:8:1412:16" --><a href="/cgi/external_ref?access_num=10.1067/mje.2002.124641&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=12415242&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB17"><!-- null --></a>
+</li><li value="17"><kw class="krdwrd-tag-1-80"> Mottram PM, Gelman JS. Mitral valve thrombus mimicking a primary tumor in the antiphospholipid syndrome. </kw><i><kw class="krdwrd-tag-1-80">J Am Soc Echocardiogr</kw></i><kw class="krdwrd-tag-1-80">. 2002;15:746–748</kw><!-- HIGHWIRE ID="43:8:1412:17" --><a href="/cgi/external_ref?access_num=12094176&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB18"><!-- null --></a>
+</li><li value="18"><kw class="krdwrd-tag-1-80"> Hasegawa T, Nakagawa S, Chino M, Kunihiro T, Ui S, Kimura M. Primary cardiac sarcoma mimicking benign myxoma: A case report. </kw><i><kw class="krdwrd-tag-1-80">J Cardiol</kw></i><kw class="krdwrd-tag-1-80">. 2002;39:321–325</kw><!-- HIGHWIRE ID="43:8:1412:18" --><a href="/cgi/external_ref?access_num=12094522&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB19"><!-- null --></a>
+</li><li value="19"><kw class="krdwrd-tag-1-80"> Alam M. Pitfalls in the echocardiographic diagnosis of intracardiac and extracardiac masses. </kw><i><kw class="krdwrd-tag-1-80">Echocardiography</kw></i><kw class="krdwrd-tag-1-80">. 1993;10:181–191</kw><!-- HIGHWIRE ID="43:8:1412:19" --><a href="/cgi/external_ref?access_num=10171636&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB20"><!-- null --></a>
+</li><li value="20"><kw class="krdwrd-tag-1-80"> Menegus MA, Greenberg MA, Spindola-Franco H, Fayemi A. Magnetic resonance imaging of suspected atrial tumors. </kw><i><kw class="krdwrd-tag-1-80">Am Heart J</kw></i><kw class="krdwrd-tag-1-80">. 1992;123:1260–1268</kw><!-- HIGHWIRE ID="43:8:1412:20" --><a href="/cgi/external_ref?access_num=10.1016/0002-8703%2892%2991031-U&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=1575143&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB21"><!-- null --></a>
+</li><li value="21"><kw class="krdwrd-tag-1-80"> Robinson NM, Desai J, Monaghan MJ. Atrial and pulmonary mass: Intracardiac thrombus mimicking myxoma on multiplane transesophageal echocardiography. </kw><i><kw class="krdwrd-tag-1-80">J Am Soc Echocardiogr</kw></i><kw class="krdwrd-tag-1-80">. 1997;10:93–96</kw><!-- HIGHWIRE ID="43:8:1412:21" --><a href="/cgi/external_ref?access_num=9046500&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB22"><!-- null --></a>
+</li><li value="22"><kw class="krdwrd-tag-1-80"> Le DE, Bin JP, Coggins MP, Wei K, Lindner JR, Kaul S. Relation between myocardial oxygen consumption and myocardial blood volume: A study using myocardial contrast echocardiography. </kw><i><kw class="krdwrd-tag-1-80">J Am Soc Echocardiogr</kw></i><kw class="krdwrd-tag-1-80">. 2002;15:857–863</kw><!-- HIGHWIRE ID="43:8:1412:22" --><a href="/cgi/external_ref?access_num=10.1067/mje.2002.121275&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=12221400&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB23"><!-- null --></a>
+</li><li value="23"><kw class="krdwrd-tag-1-80"> Fidler IJ. Critical factors in the biology of human cancer metastasis. </kw><i><kw class="krdwrd-tag-1-80">Am Surg</kw></i><kw class="krdwrd-tag-1-80">. 1995;61:1065–1066</kw><!-- HIGHWIRE ID="43:8:1412:23" --><a href="/cgi/external_ref?access_num=7486447&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB24"><!-- null --></a>
+</li><li value="24"><kw class="krdwrd-tag-1-80"> Spencer KT, Grayburn PA, Mor-Avi V, et al. Myocardial contrast echocardiography with power Doppler imaging. </kw><i><kw class="krdwrd-tag-1-80">Am J Cardiol</kw></i><kw class="krdwrd-tag-1-80">. 2000;86:479–481</kw><!-- HIGHWIRE ID="43:8:1412:24" --><a href="/cgi/external_ref?access_num=10.1016/S0002-9149%2800%2900975-9&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=10946053&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB25"><!-- null --></a>
+</li><li value="25"><kw class="krdwrd-tag-1-80"> Kaul S. Myocardial contrast echocardiography: 15 years of research and development. </kw><i><kw class="krdwrd-tag-1-80">Circulation</kw></i><kw class="krdwrd-tag-1-80">. 1997;96:3745–3760</kw><!-- HIGHWIRE ID="43:8:1412:25" --><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=circulationaha&amp;resid=96/10/3745"><nobr><kw class="krdwrd-tag-1-80">[</kw><font color="#cc0000"><kw class="krdwrd-tag-1-80">Free</kw></font><kw class="krdwrd-tag-1-80">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB26"><!-- null --></a>
+</li><li value="26"><kw class="krdwrd-tag-1-80"> Caiani EG, Lang RM, DeCara J, et al. Objective assessment of left ventricular wall motion from contrast-enhanced power modulation images. </kw><i><kw class="krdwrd-tag-1-80">J Am Soc Echocardiogr</kw></i><kw class="krdwrd-tag-1-80">. 2002;15:118–128</kw><!-- HIGHWIRE ID="43:8:1412:26" --><a href="/cgi/external_ref?access_num=11836486&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB27"><!-- null --></a>
+</li><li value="27"><kw class="krdwrd-tag-1-80"> Lindner JR, Villanueva FS, Dent JM, Wei K, Sklenar J, Kaul S. Assessment of resting perfusion with myocardial contrast echocardiography: Theoretical and practical considerations. </kw><i><kw class="krdwrd-tag-1-80">Am Heart J</kw></i><kw class="krdwrd-tag-1-80">. 2000;139:231–240</kw><!-- HIGHWIRE ID="43:8:1412:27" --><a href="/cgi/external_ref?access_num=10650295&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB28"><!-- null --></a>
+</li><li value="28"><kw class="krdwrd-tag-1-80"> Masugata H, Peters B, Lafitte S, Strachan GM, Ohmori K, DeMaria AN. Quantitative assessment of myocardial perfusion during graded coronary stenosis by real-time myocardial contrast echo refilling curves. </kw><i><kw class="krdwrd-tag-1-80">J Am Coll Cardiol</kw></i><kw class="krdwrd-tag-1-80">. 2001;37:262–269</kw><!-- HIGHWIRE ID="43:8:1412:28" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jacc&amp;resid=37/1/262"><nobr><kw class="krdwrd-tag-1-80">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1-80">Free</kw></font><kw class="krdwrd-tag-1-80">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB29"><!-- null --></a>
+</li><li value="29"><kw class="krdwrd-tag-1-80"> Wilson SR, Burns PN. Liver mass evaluation with ultrasound: The impact of microbubble contrast agents and pulse inversion imaging. </kw><i><kw class="krdwrd-tag-1-80">Semin Liver Dis</kw></i><kw class="krdwrd-tag-1-80">. 2001;21:147–159</kw><!-- HIGHWIRE ID="43:8:1412:29" --><a href="/cgi/external_ref?access_num=10.1055/s-2001-15342&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=11436569&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB30"><!-- null --></a>
+</li><li value="30"><kw class="krdwrd-tag-1-80"> Harvey CJ, Blomley MJ, Eckersley RJ, et al. Hepatic malignancies: Improved detection with pulse-inversion us in late phase of enhancement with sh u 508a—early experience. </kw><i><kw class="krdwrd-tag-1-80">Radiology</kw></i><kw class="krdwrd-tag-1-80">. 2000;216:903–908</kw><!-- HIGHWIRE ID="43:8:1412:30" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=radiology&amp;resid=216/3/903"><nobr><kw class="krdwrd-tag-1-80">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1-80">Free</kw></font><kw class="krdwrd-tag-1-80">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB31"><!-- null --></a>
+</li><li value="31"><kw class="krdwrd-tag-1-80"> Yang WT, Tse GM, Lam PK, Metreweli C, Chang J. Correlation between color power Doppler sonographic measurement of breast tumor vasculature and immunohistochemical analysis of microvessel density for the quantitation of angiogenesis. </kw><i><kw class="krdwrd-tag-1-80">J Ultrasound Med</kw></i><kw class="krdwrd-tag-1-80">. 2002;21:1227–1235</kw><!-- HIGHWIRE ID="43:8:1412:31" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=ultra&amp;resid=21/11/1227"><nobr><kw class="krdwrd-tag-1-80">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1-80">Free</kw></font><kw class="krdwrd-tag-1-80">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB32"><!-- null --></a>
+</li><li value="32"><kw class="krdwrd-tag-1-80"> Ellegala DB, Leong-Poi H, Carpenter JE, et al. Imaging tumor angiogenesis with contrast ultrasound and microbubbles targeted to alpha(v)beta3. </kw><i><kw class="krdwrd-tag-1-80">Circulation</kw></i><kw class="krdwrd-tag-1-80">. 2003;108:336–341</kw><!-- HIGHWIRE ID="43:8:1412:32" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=108/3/336"><nobr><kw class="krdwrd-tag-1-80">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1-80">Free</kw></font><kw class="krdwrd-tag-1-80">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB33"><!-- null --></a>
+</li><li value="33"><kw class="krdwrd-tag-1-80"> Dhillon G, Rodriguez-Cruz E, Kathawala M, Alqassem N. Primary cardiac myofibroblastic sarcoma: Case report and review of diagnosis and treatment of cardiac tumors. </kw><i><kw class="krdwrd-tag-1-80">Bol Asoc Med P R</kw></i><kw class="krdwrd-tag-1-80">. 1998;90:130–133</kw><!-- HIGHWIRE ID="43:8:1412:33" --><a href="/cgi/external_ref?access_num=10224686&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB34"><!-- null --></a>
+</li><li value="34"><kw class="krdwrd-tag-1-80"> Gibbs P, Cebon JS, Calafiore P, Robinson WA. Cardiac metastases from malignant melanoma. </kw><i><kw class="krdwrd-tag-1-80">Cancer</kw></i><kw class="krdwrd-tag-1-80">. 1999;85:78–84</kw><!-- HIGHWIRE ID="43:8:1412:34" --><a href="/cgi/external_ref?access_num=10.1002/%28SICI%291097-0142%2819990101%2985:1%3C78::AID-CNCR11%3E3.0.CO;2-5&amp;link_type=DOI"><kw class="krdwrd-tag-1-80">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=9921977&amp;link_type=MED"><kw class="krdwrd-tag-1-80">[Medline]</kw></a><!-- /HIGHWIRE --></li></ol>
+
+
+		
+        
+        
+	
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<br clear="all">
+
+
+
+
+  <font face="">
+  
+  </font>
+<br clear="all">
+<br clear="all">
+
+
+
+
+
+
+	
+	
+	
+
+<a name="otherarticles"><!-- null --></a>
+
+
+
+<p><font size="+2"><strong><kw class="krdwrd-tag-1-70">
+This article has been cited by other articles:</kw></strong></font> 
+
+
+</p><p>
+
+
+	
+		
+ 
+ 
+ <table border="0" cellpadding="0" cellspacing="0" width="600">
+ 
+ <tbody><tr bgcolor="#d9d4c5">
+ 
+ <td align="center" valign="top" width="25"><img alt="" src="/icons/spacer.gif" height="5" width="25"><br>
+ 
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ 
+ <td align="center" valign="top" width="61" nowrap="nowrap">
+ 	<a href="http://ejechocard.oxfordjournals.org"><img alt="Home page" src="http://ejechocard.oxfordjournals.org/portal_imgs/search_result.gif" border="1" height="80" vspace="5" width="59"></a><br>
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ <td valign="top" width="499" nowrap="nowrap">
+ <a href="http://ejechocard.oxfordjournals.org"><img alt="Eur J Echocardiogr" src="/icons/shared/searchall/journals/ejechocard.gif" border="0" height="16" vspace="5" width="450"><img alt="Home page" src="/icons/shared/search/homelink.gif" border="0" height="16" vspace="5" width="49"></a><br>
+ <font face="verdana,arial,helvetica" size="-1"><kw class="krdwrd-tag-1-80">
+	H. S. Yang, S. Sengupta, M. M. Umland, K. Chandrasekaran, and F. Mookadam</kw><br>
+	<strong><kw class="krdwrd-tag-1-80">Primary cardiac angiosarcoma evaluated with contrast two-dimensional and real-time three-dimensional echocardiography</kw></strong><br><kw class="krdwrd-tag-1-80">
+	
+		
+			Eur J Echocardiogr,
+		
+	
+        
+        May&nbsp;29,&nbsp;2008;
+	(2008)
+	jen164v1.
+</kw><br>
+<a href="http://ejechocard.oxfordjournals.org/cgi/content/abstract/jen164v1"><kw class="krdwrd-tag-1-80">[Abstract]</kw></a>
+
+<a href="http://ejechocard.oxfordjournals.org/cgi/content/full/jen164v1"><kw class="krdwrd-tag-1-80">[Full Text]</kw></a>
+<a href="http://ejechocard.oxfordjournals.org/cgi/reprint/jen164v1"><kw class="krdwrd-tag-1-80">[PDF]</kw></a>
+<br><img alt="" src="/icons/spacer.gif" height="1" width="499">
+ </font></td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ </tr>
+ <tr><td colspan="6"><hr align="left" color="#828282" size="1" width="600" noshade="noshade"></td></tr>
+ </tbody></table>
+
+	
+		
+ 
+ 
+ <table border="0" cellpadding="0" cellspacing="0" width="600">
+ 
+ <tbody><tr bgcolor="#d9d4c5">
+ 
+ <td align="center" valign="top" width="25"><img alt="" src="/icons/spacer.gif" height="5" width="25"><br>
+ 
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ 
+ <td align="center" valign="top" width="61" nowrap="nowrap">
+ 	<a href="http://ejechocard.oxfordjournals.org"><img alt="Home page" src="http://ejechocard.oxfordjournals.org/portal_imgs/search_result.gif" border="1" height="80" vspace="5" width="59"></a><br>
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ <td valign="top" width="499" nowrap="nowrap">
+ <a href="http://ejechocard.oxfordjournals.org"><img alt="Eur J Echocardiogr" src="/icons/shared/searchall/journals/ejechocard.gif" border="0" height="16" vspace="5" width="450"><img alt="Home page" src="/icons/shared/search/homelink.gif" border="0" height="16" vspace="5" width="49"></a><br>
+ <font face="verdana,arial,helvetica" size="-1"><kw class="krdwrd-tag-1-80">
+	S. E. Moustafa, C. Sauve, and R. Amyot</kw><br>
+	<strong><kw class="krdwrd-tag-1-80">Assessment of a right ventricular metastasis using contrast echocardiography perfusion imaging</kw></strong><br><kw class="krdwrd-tag-1-80">
+	
+		
+			Eur J Echocardiogr,
+		
+	
+        
+        March&nbsp;1,&nbsp;2008;
+	9(2):
+	326 - 328.
+</kw><br>
+<a href="http://ejechocard.oxfordjournals.org/cgi/content/abstract/9/2/326"><kw class="krdwrd-tag-1-80">[Abstract]</kw></a>
+
+<a href="http://ejechocard.oxfordjournals.org/cgi/content/full/9/2/326"><kw class="krdwrd-tag-1-80">[Full Text]</kw></a>
+<a href="http://ejechocard.oxfordjournals.org/cgi/reprint/9/2/326"><kw class="krdwrd-tag-1-80">[PDF]</kw></a>
+<br><img alt="" src="/icons/spacer.gif" height="1" width="499">
+ </font></td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ </tr>
+ <tr><td colspan="6"><hr align="left" color="#828282" size="1" width="600" noshade="noshade"></td></tr>
+ </tbody></table>
+
+	
+		
+ 
+ 
+ <table border="0" cellpadding="0" cellspacing="0" width="600">
+ 
+ <tbody><tr bgcolor="#d9d4c5">
+ 
+ <td align="center" valign="top" width="25"><img alt="" src="/icons/spacer.gif" height="5" width="25"><br>
+ 
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ 
+ <td align="center" valign="top" width="61" nowrap="nowrap">
+ 	<a href="http://ejechocard.oxfordjournals.org"><img alt="Home page" src="http://ejechocard.oxfordjournals.org/portal_imgs/search_result.gif" border="1" height="80" vspace="5" width="59"></a><br>
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ <td valign="top" width="499" nowrap="nowrap">
+ <a href="http://ejechocard.oxfordjournals.org"><img alt="Eur J Echocardiogr" src="/icons/shared/searchall/journals/ejechocard.gif" border="0" height="16" vspace="5" width="450"><img alt="Home page" src="/icons/shared/search/homelink.gif" border="0" height="16" vspace="5" width="49"></a><br>
+ <font face="verdana,arial,helvetica" size="-1"><kw class="krdwrd-tag-1-80">
+	A. Basoglu, A. De Wolf, P. Dendale, M. Vanbockrijck, M. Hendrikx, and P. Vranckx</kw><br>
+	<strong><kw class="krdwrd-tag-1-80">Echocardiography remains the standard for the diagnostic evaluation of left ventricular tumors: A case report with anatomical correlation</kw></strong><br><kw class="krdwrd-tag-1-80">
+	
+		
+			Eur J Echocardiogr,
+		
+	
+        
+        October&nbsp;1,&nbsp;2007;
+	8(5):
+	401 - 403.
+</kw><br>
+<a href="http://ejechocard.oxfordjournals.org/cgi/content/abstract/8/5/401"><kw class="krdwrd-tag-1-80">[Abstract]</kw></a>
+
+<a href="http://ejechocard.oxfordjournals.org/cgi/content/full/8/5/401"><kw class="krdwrd-tag-1-80">[Full Text]</kw></a>
+<a href="http://ejechocard.oxfordjournals.org/cgi/reprint/8/5/401"><kw class="krdwrd-tag-1-80">[PDF]</kw></a>
+<br><img alt="" src="/icons/spacer.gif" height="1" width="499">
+ </font></td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ </tr>
+ <tr><td colspan="6"><hr align="left" color="#828282" size="1" width="600" noshade="noshade"></td></tr>
+ </tbody></table>
+
+	
+		
+ 
+ 
+ <table border="0" cellpadding="0" cellspacing="0" width="600">
+ 
+ <tbody><tr bgcolor="#d9d4c5">
+ 
+ <td align="center" valign="top" width="25"><img alt="" src="/icons/spacer.gif" height="5" width="25"><br>
+ 
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ 
+ <td align="center" valign="top" width="61" nowrap="nowrap">
+ 	<a href="http://circ.ahajournals.org"><img alt="Home page" src="http://circ.ahajournals.org/portal_imgs/search_result.gif" border="1" height="80" vspace="5" width="59"></a><br>
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ <td valign="top" width="499" nowrap="nowrap">
+ <a href="http://circ.ahajournals.org"><img alt="Circulation" src="/icons/shared/searchall/journals/circulationaha.gif" border="0" height="16" vspace="5" width="450"><img alt="Home page" src="/icons/shared/search/homelink.gif" border="0" height="16" vspace="5" width="49"></a><br>
+ <font face="verdana,arial,helvetica" size="-1"><kw class="krdwrd-tag-1-80">
+	U. C. Rangasetty, J. D. Martinez, and M. Ahmad</kw><br>
+	<strong><kw class="krdwrd-tag-1-80">Contrast-Enhanced Echocardiography in Spindle Cell Sarcoma of the Pericardium</kw></strong><br><kw class="krdwrd-tag-1-80">
+	
+		
+			Circulation,
+		
+	
+        
+        March&nbsp;20,&nbsp;2007;
+	115(11):
+	e329 - e331.
+</kw><br>
+
+
+<a href="http://circ.ahajournals.org/cgi/content/full/115/11/e329"><kw class="krdwrd-tag-1-80">[Full Text]</kw></a>
+<a href="http://circ.ahajournals.org/cgi/reprint/115/11/e329"><kw class="krdwrd-tag-1-80">[PDF]</kw></a>
+<br><img alt="" src="/icons/spacer.gif" height="1" width="499">
+ </font></td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ </tr>
+ <tr><td colspan="6"><hr align="left" color="#828282" size="1" width="600" noshade="noshade"></td></tr>
+ </tbody></table>
+
+	
+		
+ 
+ 
+ <table border="0" cellpadding="0" cellspacing="0" width="600">
+ 
+ <tbody><tr bgcolor="#d9d4c5">
+ 
+ <td align="center" valign="top" width="25"><img alt="" src="/icons/spacer.gif" height="5" width="25"><br>
+ 
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ 
+ <td align="center" valign="top" width="61" nowrap="nowrap">
+ 	<a href="http://www.clinmedres.org"><img alt="Home page" src="http://www.clinmedres.org/portal_imgs/search_result.gif" border="1" height="80" vspace="5" width="59"></a><br>
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ <td valign="top" width="499" nowrap="nowrap">
+ <a href="http://www.clinmedres.org"><img alt="Clin Med Res" src="/icons/shared/searchall/journals/clinmedres.gif" border="0" height="16" vspace="5" width="450"><img alt="Home page" src="/icons/shared/search/homelink.gif" border="0" height="16" vspace="5" width="49"></a><br>
+ <font face="verdana,arial,helvetica" size="-1"><kw class="krdwrd-tag-1-80">
+	M. M. Ragland and T. Tak</kw><br>
+	<strong><kw class="krdwrd-tag-1-80">The role of echocardiography in diagnosing space-occupying lesions of the heart.</kw></strong><br><kw class="krdwrd-tag-1-80">
+	
+		
+			Clin. Med. Res.,
+		
+	
+        
+        March&nbsp;1,&nbsp;2006;
+	4(1):
+	22 - 32.
+</kw><br>
+<a href="http://www.clinmedres.org/cgi/content/abstract/4/1/22"><kw class="krdwrd-tag-1-80">[Abstract]</kw></a>
+
+<a href="http://www.clinmedres.org/cgi/content/full/4/1/22"><kw class="krdwrd-tag-1-80">[Full Text]</kw></a>
+<a href="http://www.clinmedres.org/cgi/reprint/4/1/22"><kw class="krdwrd-tag-1-80">[PDF]</kw></a>
+<br><img alt="" src="/icons/spacer.gif" height="1" width="499">
+ </font></td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ </tr>
+ <tr><td colspan="6"><hr align="left" color="#828282" size="1" width="600" noshade="noshade"></td></tr>
+ </tbody></table>
+
+	
+		
+ 
+ 
+ <table border="0" cellpadding="0" cellspacing="0" width="600">
+ 
+ <tbody><tr bgcolor="#d9d4c5">
+ 
+ <td align="center" valign="top" width="25"><img alt="" src="/icons/spacer.gif" height="5" width="25"><br>
+ 
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ 
+ <td align="center" valign="top" width="61" nowrap="nowrap">
+ 	<a href="http://ejechocard.oxfordjournals.org"><img alt="Home page" src="http://ejechocard.oxfordjournals.org/portal_imgs/search_result.gif" border="1" height="80" vspace="5" width="59"></a><br>
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ <td valign="top" width="499" nowrap="nowrap">
+ <a href="http://ejechocard.oxfordjournals.org"><img alt="Eur J Echocardiogr" src="/icons/shared/searchall/journals/ejechocard.gif" border="0" height="16" vspace="5" width="450"><img alt="Home page" src="/icons/shared/search/homelink.gif" border="0" height="16" vspace="5" width="49"></a><br>
+ <font face="verdana,arial,helvetica" size="-1"><kw class="krdwrd-tag-1-80">
+	M.C.P. Haverkamp, A.J.H.A. Scholte, E.R. Holman, M.R.M. Jongbloed, E.F. Schippers, A. de Roos, E.E. van der Wall, D. Poldermans, J.J. Bax, and M.J. Schalij</kw><br>
+	<strong><kw class="krdwrd-tag-1-80">Contrast echocardiography as a useful additional diagnostic tool in evaluating a primary cardiac tumor</kw></strong><br><kw class="krdwrd-tag-1-80">
+	
+		
+			Eur J Echocardiogr,
+		
+	
+        
+        October&nbsp;1,&nbsp;2005;
+	6(5):
+	388 - 391.
+</kw><br>
+<a href="http://ejechocard.oxfordjournals.org/cgi/content/abstract/6/5/388"><kw class="krdwrd-tag-1-80">[Abstract]</kw></a>
+
+<a href="http://ejechocard.oxfordjournals.org/cgi/content/full/6/5/388"><kw class="krdwrd-tag-1-80">[Full Text]</kw></a>
+<a href="http://ejechocard.oxfordjournals.org/cgi/reprint/6/5/388"><kw class="krdwrd-tag-1-80">[PDF]</kw></a>
+<br><img alt="" src="/icons/spacer.gif" height="1" width="499">
+ </font></td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ </tr>
+ <tr><td colspan="6"><hr align="left" color="#828282" size="1" width="600" noshade="noshade"></td></tr>
+ </tbody></table>
+
+	
+		
+ 
+ 
+ <table border="0" cellpadding="0" cellspacing="0" width="600">
+ 
+ <tbody><tr bgcolor="#d9d4c5">
+ 
+ <td align="center" valign="top" width="25"><img alt="" src="/icons/spacer.gif" height="5" width="25"><br>
+ 
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ 
+ <td align="center" valign="top" width="61" nowrap="nowrap">
+ 	<a href="http://content.onlinejacc.org"><img alt="Home page" src="http://content.onlinejacc.org/portal_imgs/search_result.gif" border="1" height="80" vspace="5" width="59"></a><br>
+ </td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ <td valign="top" width="499" nowrap="nowrap">
+ <a href="http://content.onlinejacc.org"><img alt="J Am Coll Cardiol" src="/icons/shared/searchall/journals/jacc.gif" border="0" height="16" vspace="5" width="450"><img alt="Home page" src="/icons/shared/search/homelink.gif" border="0" height="16" vspace="5" width="49"></a><br>
+ <font face="verdana,arial,helvetica" size="-1"><kw class="krdwrd-tag-1-80">
+	A. N. DeMaria, O. Ben-Yehuda, D. Berman, G. K. Feld, B. H. Greenberg, J. D. Knoke, K. U. Knowlton, W. Y.W. Lew, J. Narula, D. Sahn,  </kw><em><kw class="krdwrd-tag-1-80">et al.</kw></em><br>
+	<strong><kw class="krdwrd-tag-1-80">Highlights of the year in JACC 2004</kw></strong><br><kw class="krdwrd-tag-1-80">
+	
+		
+			J. Am. Coll. Cardiol.,
+		
+	
+        
+        January&nbsp;4,&nbsp;2005;
+	45(1):
+	137 - 153.
+</kw><br>
+
+
+<a href="http://content.onlinejacc.org/cgi/content/full/45/1/137"><kw class="krdwrd-tag-1-80">[Full Text]</kw></a>
+<a href="http://content.onlinejacc.org/cgi/reprint/45/1/137"><kw class="krdwrd-tag-1-80">[PDF]</kw></a>
+<br><img alt="" src="/icons/spacer.gif" height="1" width="499">
+ </font></td>
+ <td width="5"><img alt="" src="/icons/spacer.gif" height="5" width="5"></td>
+ </tr>
+ <tr><td colspan="6"><hr align="left" color="#828282" size="1" width="600" noshade="noshade"></td></tr>
+ </tbody></table>
+
+	
+
+
+
+
+
+
+
+
+
+
+<br clear="all">
+
+
+	
+	 
+		
+		
+		  
+			
+	
+		<table class="content_box_outer_table" align="right">
+		
+		
+			<tbody><tr>
+			<td>
+		
+	
+
+<!-- beginning of inner table -->
+	<table class="content_box_inner_table">
+<!-- citation -->
+
+	
+		
+
+
+
+
+	
+
+	
+
+	
+		
+			
+<tbody><tr><td class="content_box_title_highlight" colspan="2"><kw class="krdwrd-tag-1-80">This Article</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+				
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				
+				<strong><a href="/cgi/content/abstract/43/8/1412"><kw class="krdwrd-tag-1-80">
+				Abstract</kw></a></strong>
+				 					<img alt="Freely available" src="/icons/shared/toc/free.gif" border="0" height="7" width="32">
+				
+	
+				</td></tr>
+			
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+	
+
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+		
+	
+	
+		
+			
+
+				
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+					<strong><a href="/cgi/content/figsonly/43/8/1412"><kw class="krdwrd-tag-1-80">
+					Figures Only</kw></a></strong>
+				</td></tr>
+			
+		
+	
+
+	
+
+	
+		
+			
+		
+	
+
+	
+
+	
+	 
+
+	
+	 
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+		<strong>
+		
+		
+		
+			<a href="/cgi/reprint/43/8/1412">
+		<strong><kw class="krdwrd-tag-1-80">Full Text</kw></strong><kw class="krdwrd-tag-1-80"> (PDF)</kw></a>
+
+ 
+		
+		</strong>
+		</td></tr>
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+
+
+
+	
+	
+		
+	
+
+	
+		
+	
+
+	
+		
+
+	
+		
+		
+
+			
+
+
+	
+
+			
+
+			
+		
+	
+
+			
+	  
+	
+
+			
+
+			
+
+			
+	
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+
+	
+	
+	
+
+	
+		
+	
+
+	 
+
+	
+	
+		  
+    
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+		
+	
+		
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;saveAlert=no&amp;cited_by_criteria_resid=jacc;43/8/1412&amp;return_type=article&amp;return_url=http%3A%2F%2Fcontent.onlinejacc.org%2Fcgi%2Fcontent%2Ffull%2F43%2F8%2F1412"><kw class="krdwrd-tag-1-80">
+				Alert me when this article is cited</kw></a></strong>
+			</td></tr>
+	
+
+		
+		
+
+		
+		
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;saveAlert=no&amp;correction_criteria_value=43/8/1412&amp;return_type=article&amp;return_url=http%3A%2F%2Fcontent.onlinejacc.org%2Fcgi%2Fcontent%2Ffull%2F43%2F8%2F1412"><kw class="krdwrd-tag-1-80">
+				Alert me if a correction is posted</kw></a></strong>
+			</td></tr>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		
+	
+
+			
+			
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1-80">Services</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/mailafriend?url=http%3A%2F%2Fcontent.onlinejacc.org%2Fcgi%2Fcontent%2Ffull%2F43%2F8%2F1412&amp;title=Differential+diagnosis+of+cardiac+masses+using+contrast+echocardiographic+perfusion+imaging"><kw class="krdwrd-tag-1-80">
+				Email this article to a friend</kw></a></strong>
+			</td></tr>
+			
+			
+
+
+	
+
+	
+
+	
+
+		
+		
+
+
+
+			
+			
+			
+		
+	
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+		<strong>
+		<a href="/cgi/search?qbe=jacc;43/8/1412&amp;journalcode=jacc&amp;minscore=5000"><kw class="krdwrd-tag-1-80">
+		Similar articles in this journal</kw></a>
+		</strong>
+		</td></tr>
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=15093876&amp;link_type=MED_NBRS"><kw class="krdwrd-tag-1-80">
+				Similar articles in PubMed</kw></a></strong>
+			</td></tr>
+		
+	
+
+
+		
+
+
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/etoc"><kw class="krdwrd-tag-1-80">
+				Alert me to new issues of the journal</kw></a></strong>
+			</td></tr>
+		
+
+		
+		
+	
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+			<strong><a href="/cgi/citmgr?gca=jacc;43/8/1412"><kw class="krdwrd-tag-1-80">
+			Download to citation manager</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+
+	
+		
+	
+
+	
+
+
+
+  			
+		
+
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+		
+
+		
+
+	
+	
+	
+		
+
+
+	
+
+	
+
+	
+
+
+	
+
+
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1-80">Citing Articles</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="#otherarticles"><kw class="krdwrd-tag-1-80">
+				Citing Articles via HighWire</kw></a></strong>
+			</td></tr>
+	
+
+
+
+	
+
+
+	
+		 
+	
+
+		
+		
+			
+		
+
+					
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://content.onlinejacc.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/43/8/1412%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLAR"><kw class="krdwrd-tag-1-80">Citing Articles via Google Scholar</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+				
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1-80">Google Scholar</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AJ.%20N.+author%3AKirkpatrick%22"><kw class="krdwrd-tag-1-80">
+							Articles by Kirkpatrick, J. N.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AR.%20M.+author%3ALang%22"><kw class="krdwrd-tag-1-80">
+							Articles by Lang, R. M.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+		
+		
+	
+	
+	
+	
+
+		
+			
+				
+					
+						
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://content.onlinejacc.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/43/8/1412%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLARRELATED"><kw class="krdwrd-tag-1-80">Search for Related Content</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+		
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1-80">PubMed</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" height="1" width="200"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=15093876&amp;link_type=PUBMED"><kw class="krdwrd-tag-1-80">
+				PubMed Citation</kw></a></strong>
+			</td></tr>
+		
+	
+
+	
+		
+		
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Kirkpatrick+JN&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1-80">
+							Articles by Kirkpatrick, J. N.</kw></a></strong>
+						</td></tr>
+				
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" height="11" width="4"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Lang+RM&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1-80">
+							Articles by Lang, R. M.</kw></a></strong>
+						</td></tr>
+				
+			
+		
+
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+	
+
+		
+			
+		
+	 
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</tbody></table>
+</td></tr></tbody></table> 
+
+
+					
+					
+	
+
+<br clear="all">
+
+
+
+
+
+
+
+
+	
+	</p><p>
+	</p><hr align="left" color="#000000" size="1" width="450" noshade="noshade">
+	
+	<table cellpadding="2" cellspacing="2" width="500">
+	<tbody><tr>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-80">HOME</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/subscriptions/"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-80">SUBSCRIPTIONS</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/current.dtl"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-80">CURRENT ISSUE</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/archive/"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-80">PAST ISSUES</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="blank" style="text-decoration: none;" href="http://www.cardiosource.com"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-80">CARDIOSOURCE</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/search.dtl"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-80">SEARCH</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/help/"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-80">HELP</kw></font></a></td>
+		<td align="center" bgcolor="#003399" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/cgi/feedback"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1-100">FEEDBACK</kw></font></a></td>
+	</tr>
+	</tbody></table>
+	
+	
+	
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+
+_uacct = "UA-843392-1";
+
+urchinTracker();
+</script>
+
+	
+
+
+
+</body>

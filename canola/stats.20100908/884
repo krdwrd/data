@@ -1,0 +1,459 @@
+<head><base href="http://www.sandlapperpublishing.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Coming in&nbsp; 2007</title>
+
+
+
+
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script><!--mstheme-->
+<link rel="stylesheet" type="text/css" href="_themes/blends/blen1011.css"><meta name="Microsoft Theme" content="blends 1011"></head><body onload="FP_preloadImgs(/*url*/'buttons%20folder/button153.jpg',/*url*/'buttons%20folder/button152.jpg',/*url*/'buttons%20folder/button11D.gif',/*url*/'buttons%20folder/button11C.gif',/*url*/'buttons%20folder/button155.gif',/*url*/'buttons%20folder/button154.gif',/*url*/'buttons%20folder/button157.gif',/*url*/'buttons%20folder/button156.gif',/*url*/'buttons%20folder/button159.gif',/*url*/'buttons%20folder/button158.gif',/*url*/'buttons%20folder/button12C.gif',/*url*/'buttons%20folder/button12B.gif',/*url*/'buttons%20folder/button12F.gif',/*url*/'buttons%20folder/button12E.gif',/*url*/'buttons%20folder/button161.gif',/*url*/'buttons%20folder/button160.gif',/*url*/'buttons%20folder/button163.gif',/*url*/'buttons%20folder/button162.gif',/*url*/'buttons%20folder/button165.gif',/*url*/'buttons%20folder/button164.gif',/*url*/'buttons%20folder/button13B.gif',/*url*/'buttons%20folder/button13A.gif',/*url*/'buttons%20folder/button13E.gif',/*url*/'buttons%20folder/button13D.gif',/*url*/'buttons%20folder/button167.gif',/*url*/'buttons%20folder/button166.gif',/*url*/'buttons%20folder/button169.gif',/*url*/'buttons%20folder/button168.gif',/*url*/'buttons%20folder/button171.gif',/*url*/'buttons%20folder/button170.gif',/*url*/'buttons%20folder/button14A.gif',/*url*/'buttons%20folder/button172.gif',/*url*/'buttons%20folder/button14D.gif',/*url*/'buttons%20folder/button14C.gif',/*url*/'buttons%20folder/button173.gif',/*url*/'buttons%20folder/button14F.gif',/*url*/'buttons%20folder/button245.jpg',/*url*/'buttons%20folder/button244.jpg',/*url*/'buttons%20folder/button247.jpg',/*url*/'buttons%20folder/button246.jpg',/*url*/'buttons%20folder/button249.jpg',/*url*/'buttons%20folder/button248.jpg',/*url*/'buttons%20folder/button253.jpg',/*url*/'buttons%20folder/button15F.jpg',/*url*/'buttons%20folder/button437.jpg',/*url*/'buttons%20folder/button438.jpg',/*url*/'buttons%20folder/button514.jpg',/*url*/'buttons%20folder/button515.jpg',/*url*/'buttons%20folder/button439.jpg',/*url*/'buttons%20folder/button440.jpg',/*url*/'buttons%20folder/button359.jpg',/*url*/'buttons%20folder/button360.jpg',/*url*/'buttons%20folder/buttonB21.jpg',/*url*/'buttons%20folder/buttonA24.jpg',/*url*/'buttons%20folder/buttonE14.jpg',/*url*/'buttons%20folder/buttonD14.jpg',/*url*/'buttons%20folder/button516.jpg',/*url*/'buttons%20folder/button517.jpg',/*url*/'buttons%20folder/button518.jpg',/*url*/'buttons%20folder/button519.jpg',/*url*/'buttons%20folder/button1B11.jpg',/*url*/'buttons%20folder/button1A9.jpg')">
+
+<font face="Century Schoolbook">
+		</font><div align="left">
+
+<div style="float: left;">
+<div style="position: absolute; width: 847px; height: 3058px; z-index: 4; left: 187px; top: 158px;" id="layer4">
+
+<font face="Century Schoolbook">		</font><div align="left">
+
+<font face="Century Schoolbook">		</font><div align="left">
+<font face="Century Schoolbook">			<table border="0" cellpadding="10" cellspacing="5" width="100%">
+				<tbody><tr>
+					<td align="left" valign="top" width="70%">
+<p align="center"><b><font face="Century Gothic" size="4"><kw class="krdwrd-tag-1-90">Now AVAILABLE!!!</kw></font><font face="Bookman Old Style" size="5"><kw class="krdwrd-tag-1-70"> 
+Gullah Branches, West African Roots</kw></font></b><font face="Bookman Old Style" size="5"> </font></p>
+					<p align="center"><i><font face="Times New Roman" size="4"><kw class="krdwrd-tag-1-100"> 
+					Written by </kw><b> <a href="Ron%20Daise.htm"><kw class="krdwrd-tag-1-90">Ronald Daise</kw></a><kw class="krdwrd-tag-1-100">,</kw></b></font><font face="Times New Roman"><kw class="krdwrd-tag-1-100"> 
+					Foreword by 
+					</kw><a href="http://clyburn.house.gov/index2.cfm"><kw class="krdwrd-tag-1-90">James E. 
+					Clyburn</kw></a></font></i></p>
+<p align="center"><font face="Arial Rounded MT Bold"><b>
+<a href="Ron%20Daise.pdf"><font color="#ff6600" size="4"><kw class="krdwrd-tag-1-60">View or print a Gullah 
+Branches Brochure</kw></font></a></b></font></p></td>
+				</tr>
+			</tbody></table>
+		</font></div>
+<font face="Century Schoolbook">		</font><div align="left">
+<font face="Century Schoolbook">			<table border="0" cellpadding="10" cellspacing="5" width="100%">
+				<tbody><tr>
+					<td align="left" valign="top" width="30%">
+					<a href="Gullah%20Branches.htm">
+					<img src="buttons%20folder/Gullah3.jpg" border="0" height="332" width="280"></a><p>
+					<a href="http://beaufortgazette.com/soundslides/story/6625660p-5902282c.html"><kw class="krdwrd-tag-1-90">
+					Hear Ron Daise sing about his travels to West Africa</kw></a><kw class="krdwrd-tag-1-100"> 
+					(from the </kw><i><kw class="krdwrd-tag-1-100">The Beaufort Gazette</kw></i> <i><kw class="krdwrd-tag-1-100">
+					www.beaufortgazette.com)</kw></i></p>
+					<p>
+					<b>
+					<font face="Century Gothic" size="2"><kw class="krdwrd-tag-1-60">"I looked into dark 
+					faces everywhere I’d go. Something behind their eyes let me 
+					know</kw><br><kw class="krdwrd-tag-1-60">
+					There’s a connection deep down in my spirit</kw><br><kw class="krdwrd-tag-1-70">
+					With Africa.&nbsp;West Africa"</kw></font><i><font face="Rockwell Extra Bold" size="2"> </font>
+					</i></b><i><b><font face="Rockwell Extra Bold" size="2"><kw class="krdwrd-tag-1-90">
+					...Ron Daise</kw></font></b></i></p>
+					<p><b><font face="Bookman Old Style" size="4"><kw class="krdwrd-tag-1-90">Reviews:</kw></font></b></p>
+					<p><font face="Bookman Old Style">
+					<a href="http://www.thetandd.com/articles/2007/09/17/features/lifestyles/12747742.txt"><kw class="krdwrd-tag-1-90">
+					Making a Connection review by Wendy Crider of </kw><i><kw class="krdwrd-tag-1-90">The Times 
+					and Democrat</kw></i></a></font></p>
+					<p><font face="Bookman Old Style">
+					<a href="http://www.beaufortgazette.com/features/lifetimes/story/6625957p-5902614c.html"><kw class="krdwrd-tag-1-90">
+					Review by Cathy Carter Harley of </kw><i><kw class="krdwrd-tag-1-90">The Beaufort Gazette</kw></i></a></font></p>
+					<p><font face="Bookman Old Style">
+					<a href="http://www.charlestonmercury.com/index.cfm?section=1&amp;page=88&amp;ka=69"><kw class="krdwrd-tag-1-90">
+					Review by Seabrook Wilkinson of&nbsp; </kw><i><kw class="krdwrd-tag-1-90">The Charleston 
+					Mercury</kw></i></a></font></p>
+					<p><font face="Bookman Old Style">
+					<a href="Tony%20Baughman.htm"><kw class="krdwrd-tag-1-90">Review by Tony Baughman of&nbsp;
+					</kw><i><kw class="krdwrd-tag-1-90">The Aiken Standard</kw></i></a></font></p>
+					<p><i><font face="Bookman Old Style"><font size="2"><kw class="krdwrd-tag-1-60">“In this 
+					unusual autobiography, Daise uses poetry, prose, creative 
+					non-fiction, songs, photographs, all artfully and 
+					successfully combined to involve the reader with an engaging 
+					and informative journey to a man’s cultural and historic 
+					roots."</kw></font><br>
+					<a href="http://search.freefind.com/find.html?id=8779737&amp;pid=r&amp;mode=ALL&amp;n=0&amp;query=gullah+branches"><kw class="krdwrd-tag-1-90">
+					Midwest Book Review</kw></a></font></i></p></td>
+					<td align="left" valign="top" width="63%">
+					<font face="Century Schoolbook">
+					<a href="Gullah%20Branches.htm"><i>
+					<span style="text-decoration: none;"><kw class="krdwrd-tag-3-40">Gullah Branches, West 
+					African Roots</kw></span></i><span style="text-decoration: none;">
+					</span></a><kw class="krdwrd-tag-3-70">is a memoir of a Gullah man discovering personal 
+					and cultural connections with West Africa through sojourns 
+					to Ghana and Sierra Leone.  
+					</kw></font>
+					<p><font face="Century Schoolbook"><kw class="krdwrd-tag-3-70">Ronald Daise, a Gullah 
+					native of St. Helena Island, SC, visited Ghana in 2004 as a 
+					Fulbright-Hays, US Department of Education fellowship 
+					recipient, and to Sierra Leone in 2005 as a participant in 
+					“Priscilla’s Homecoming.” The Gullah homecoming to Sierra 
+					Leone connected the family of Thomalind Martin Polite of 
+					Charleston, South Carolina, with the country of its 
+					matriarch, Priscilla, who had been enslaved in 1756, at the 
+					age of ten.  
+					</kw></font></p>
+					<p><font face="Century Schoolbook"><kw class="krdwrd-tag-3-70">In 2006, Daise learned 
+					that his visits to Ghana and Sierra Leone had been more of a 
+					personal family reunion than he realized. He shares maternal 
+					genetic ancestry with the Temne people living in Sierra 
+					Leone. And he shares paternal genetic ancestry with the Ewe 
+					and Akan peoples in Ghana.&nbsp; Daise utilizes poetry, 
+					prose, creative non-fiction, songs, photographs, and his own 
+					unique voice to involve readers in a vibrant journey to 
+					cultural and historical roots. The book is a sequel to 
+					Daise’s </kw><i><kw class="krdwrd-tag-1-40">Reminiscences of Sea Island Heritage</kw></i><kw class="krdwrd-tag-1-90"> 
+					(Sandlapper Publishing, 1986).&nbsp; 
+					</kw></font></p>
+
+<font face="Century Schoolbook">
+					<p align="center"><font face="Bookman Old Style" size="2"><kw class="krdwrd-tag-1-100">
+					198 pages. 8 x 10. Softcover $24.95</kw></font></p>
+					<p align="center"><font face="Bookman Old Style" size="2"><kw class="krdwrd-tag-1-100">
+					ISBN 0-87844-182-4, 13 ISBN 978-087844-182-2</kw></font></p>
+
+</font>
+
+					<p><font face="Century Gothic"> 
+					<b><kw class="krdwrd-tag-mrgtie-40">In the Foreword, U.S. Congressman and House Majority Whip 
+					James E. Clyburn (D-SC), who championed the Gullah/Geechee 
+					Cultural Heritage Act, states:</kw></b> </font>
+					<font face="Century Schoolbook">
+					<font face="Book Antiqua" size="2"><kw class="krdwrd-tag-3-70">“Ron has exposed the 
+					beauty of a once closeted culture, and compelled his 
+					audience with a sense of urgency to preserve it. This work 
+					inspires pride in those with Gullah roots, those previously 
+					shamed by others outside and even within their own families. 
+					Ron is telling their story and the story of their ancestors. 
+					It is a story of faith, of courage, and of character.</kw><i><b><kw class="krdwrd-tag-mrgtie-40"> 
+					Gullah Branches, West African Roots</kw></b></i><kw class="krdwrd-tag-3-70"> is an unabashed 
+					celebration of a vibrant culture. Through the eyes of Ron 
+					Daise, we experience the daily life of Gullah people past 
+					and present. We can almost hear the sounds of Negro 
+					spirituals ringing in our ears, feel the romantic language 
+					of the Gullah people rolling off our tongues, taste the 
+					curried rice and other sea island delicacies, and see the 
+					rich colors that express such deep meaning within Gullah 
+					traditions. This is a story of hope that breaks the literal 
+					and figurative bonds of slavery. Ron has thoughtfully and 
+					thoroughly documented the journey of the Gullah culture and 
+					instilled pride in all those of Gullah Geechee heritage. His 
+					anecdotes are compelling and artfully weaved, much like the 
+					sweetgrass baskets that have come to symbolize the Gullah 
+					culture. I commend him on this extraordinary book, and I 
+					would recommend it as a “must read” for students in South 
+					Carolina schools." </kw></font>&nbsp;</font></p>
+<font face="Century Schoolbook">					</font><p>
+<font face="Century Schoolbook">					<font face="Arial Rounded MT Bold" size="2"><kw class="krdwrd-tag-3-60">A portion of the 
+					proceeds from the sales of the first printing will be 
+					donated to Charleston's developing International African 
+					American Museum.</kw></font></font><font face="Arial Rounded MT Bold"></font></p><p>
+<font face="Arial Rounded MT Bold">					<font face="Century Schoolbook">
+					<b><font face="Bookman Old Style">
+					<a href="Ron%20Daise.htm"><kw class="krdwrd-tag-1-70">Learn more about Ron Daise</kw></a></font></b></font></font><font face="Bookman Old Style"></font></p><p>
+<font face="Bookman Old Style">					<b><a href="gullahbranchespdf.pdf"><kw class="krdwrd-tag-1-90">Press Release</kw></a></b></font></p></td>
+				</tr>
+				</tbody></table>
+			</font><p>
+<font face="Century Schoolbook">&nbsp;</font></p><div align="left">
+<font face="Century Schoolbook">			<table border="0" cellpadding="10" cellspacing="5" width="100%">
+				<tbody><tr>
+					<td align="left" valign="top" width="63%">
+					<font face="Century Schoolbook">
+					<b><kw class="krdwrd-tag-mrgtie-40">From the book:</kw></b><br>
+					<i><kw class="krdwrd-tag-3-60">&nbsp;&nbsp;&nbsp;&nbsp; In August 2004, following my 
+					first visit to West Africa, I began working at Brookgreen 
+					Gardens, in Murrell’s Inlet, South Carolina. As Vice 
+					President for Creative Education, I inherited an initiative 
+					to promote the Gullah culture of Brookgreen Gardens, in 
+					particular, and the surrounding communities of the 
+					Lowcountry, in general. Brookgreen, the country’s premier 
+					sculpture gardens, was established in 1931 by philanthropist 
+					Archer Huntington and his wife, sculptor Anna Hyatt 
+					Huntington. The couple purchased 9,100 acres, four abandoned 
+					rice plantations—Brookgreen, The Oaks, Springfield, and 
+					Laurel Hill—to showcase Anna Hyatt Huntington’s works as 
+					well as those of her friends. A National Historic Landmark, 
+					Brookgreen Gardens is “Ever Changing. Simply Amazing.” not 
+					only because of its imaginative and impeccable sculptures, 
+					verdant gardens, and zoo of animals native to the southeast 
+					and domestic animals of the plantation era but also because 
+					of its rich Gullah history. Several of the African-American 
+					staff members are descendants of workers at Brookgreen 
+					Plantation.</kw></i></font><p><font face="Century Schoolbook"><i><kw class="krdwrd-tag-3-60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From my 
+					office window, I overlook Brookgreen Main, Brookgreen 
+					Plantation’s major ricefield, which teemed with enslaved 
+					African workers some 200 years ago. I see glimpses of them 
+					from time to time. As I walk The Lowcountry Trail—amidst 
+					ancient live oaks draped with moss and archeological 
+					depictions of the overseer’s cabin, smokehouse, kitchen, and 
+					dependency —I sense the presence of their spirits. I hear 
+					their voices, too: “Bout time oona come,” they whisper. 
+					“Tell de wol bout we. Tell dem bout all we done done. All we 
+					come shru. You yeddy me?” To honor their memories, I 
+					premiered my one-man production of “My Soul Been Bless! 
+					Gullah Roots, Branches, Blossoms” in the Wall Lowcountry 
+					Center Auditorium on my forty-ninth birthday. </kw></i></font></p>
+<font face="Century Schoolbook">					</font><p><font face="Century Schoolbook"><i><kw class="krdwrd-tag-3-60">&nbsp;&nbsp;&nbsp;&nbsp; My reader’s theater 
+					renditions of stories about Ghana’s slave dungeons, ties to 
+					Gullah culture, and scenic beauty moved audience members, 
+					which included a record number of African-Americans. As I 
+					walked to my car afterward, rain drizzled and misted, like 
+					the tears of Elders. Tears of joy? I wondered. Tears of 
+					pride? Within a few weeks of the premier, I was invited to 
+					serve as Gullah ambassador for “Priscilla’s Homecoming” in 
+					Sierra Leone, West Africa. This Gullah homecoming connected 
+					the family of Thomalind Martin Polite of Charleston, South 
+					Carolina, with the country of its matriarch, Priscilla, who 
+					had been enslaved in 1756, at the age of ten. While in 
+					Sierra Leone, I peered into the eyes of people around me and 
+					wondered if they could be related to enslaved Africans who, 
+					centuries ago, had worked at Brookgreen Plantation. During 
+					the slave era, forty-three percent of Africans in South 
+					Carolina had come from the Rice Coast. My journey there 
+					reinforced my awareness of the close connection of today’s 
+					Gullah people with their West African ancestors. </kw></i></font></p>
+<font face="Century Schoolbook">	</font><p>
+<font face="Century Schoolbook">					<font face="Arial Black"><kw class="krdwrd-tag-1-60">"There’s A Connection"</kw></font><font face="Arial Black" size="2"><br><kw class="krdwrd-tag-1-70">
+					(Sung to the tune of the Gullah spiritual “I Don’t Mind”)</kw></font></font></p><p>
+<font face="Century Schoolbook">					<font face="Arial Black" size="2"><br><kw class="krdwrd-tag-1-70">
+					Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					There’s a connection deep down in my spirit</kw><br><kw class="krdwrd-tag-1-70">
+					With Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					I’ve been to Ghana and Sierra Leone.</kw><br><kw class="krdwrd-tag-1-70">
+					I walked down the streets and felt right at home.</kw><br><kw class="krdwrd-tag-1-70">
+					There’s a connection deep down in my spirit</kw><br><kw class="krdwrd-tag-1-70">
+					With Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					I looked into dark faces everywhere I’d go.</kw><br><kw class="krdwrd-tag-1-70">
+					Something behind their eyes let me know</kw><br><kw class="krdwrd-tag-1-70">
+					There’s a connection deep down in my spirit</kw><br><kw class="krdwrd-tag-1-70">
+					With Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					There’s a connection deep down in my spirit</kw><br><kw class="krdwrd-tag-1-70">
+					With Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					I’d hear the music, then start to dance.</kw><br><kw class="krdwrd-tag-1-70">
+					Africans would look at me and say, “A undastan…”</kw><br><kw class="krdwrd-tag-1-70">
+					There’s a connection deep down in my spirit</kw><br><kw class="krdwrd-tag-1-70">
+					With Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					In slave castles, I’d hear the groans</kw><br><kw class="krdwrd-tag-1-70">
+					Of ancestors moaning, “We are one!”</kw><br><kw class="krdwrd-tag-1-70">
+					There’s a connection deep down in my spirit</kw><br><kw class="krdwrd-tag-1-70">
+					With Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					Africa. West Africa.</kw><br><kw class="krdwrd-tag-1-70">
+					There’s a connection deep down in my spirit</kw><br><kw class="krdwrd-tag-1-70">
+					With Africa. West Africa.</kw></font></font></p><p>
+<font face="Century Schoolbook"><font face="Arial Black" size="2">					<br><kw class="krdwrd-tag-1-100">
+					Words and Music by </kw><a href="Ron%20Daise.htm"><kw class="krdwrd-tag-1-90">Ronald Daise</kw></a><kw class="krdwrd-tag-1-100">© 
+					2005 RONALD DAISE</kw></font></font></p><p>
+<font face="Century Schoolbook"><font face="Arial Black" size="2">					&nbsp;</font></font></p><p>
+
+<font face="Century Schoolbook"><font face="Arial Black" size="2"><font face="Century Schoolbook">
+					<a href="a%20start%20page.htm">
+			<img id="img137" src="buttons%20folder/button154.jpg" alt="Home" fp-style="fp-btn: Border Bottom 1; fp-font: Rockwell; fp-proportional: 0; fp-orig: 0" fp-title="Home" onmouseover="FP_swapImg(1,0,/*id*/'img137',/*url*/'buttons%20folder/button152.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img137',/*url*/'buttons%20folder/button154.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img137',/*url*/'buttons%20folder/button153.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img137',/*url*/'buttons%20folder/button152.jpg')" border="0" height="25" width="80"></a></font><font face="Century Schoolbook"></font></font></font></p><p>
+
+</p><p><font face="Century Schoolbook"><font face="Arial Black" size="2">&nbsp;</font></font></p></td>
+				</tr>
+				</tbody></table>
+		</font></div>
+<font face="Century Schoolbook">			</font></div>
+<p align="center">
+<font face="Century Schoolbook">			&nbsp;</font></p>
+<font face="Century Schoolbook">		</font></div>
+<p><font face="Century Schoolbook">&nbsp;</font></p></div>
+
+<font face="Century Schoolbook"><font color="#556b2f" face="Century Schoolbook" size="2">
+
+			</font></font><div style="position: absolute; width: 100px; height: 100px; z-index: 5; left: 23px; top: 159px;" id="layer5">
+<font face="Century Schoolbook"><font color="#556b2f" face="Century Schoolbook" size="2">		</font></font><div align="center">
+<font face="Century Schoolbook"><font color="#556b2f" face="Century Schoolbook" size="2">			</font></font><center>
+<font face="Century Schoolbook"><font color="#556b2f" face="Century Schoolbook" size="2">			<table bgcolor="#102c58" border="1" width="22%">
+				<tbody><tr>
+				<td align="center" height="31">
+				<p align="left"><b>
+				<font color="#ffcc66" face="Verdana" size="2"><kw class="krdwrd-tag-1-90">Browse by category</kw></font></b></p></td>
+				</tr>
+				<tr>
+				<td align="center" height="31">
+				<p align="left"><a href="african_american_history.htm">
+				<img id="img336" src="buttons%20folder/button11B.gif" alt="African American History" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="African American History" onmouseover="FP_swapImg(1,0,/*id*/'img336',/*url*/'buttons%20folder/button11C.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img336',/*url*/'buttons%20folder/button11B.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img336',/*url*/'buttons%20folder/button11D.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img336',/*url*/'buttons%20folder/button11C.gif')" border="0" height="20" width="130"></a></p></td>
+				</tr>
+				<tr>
+					<td>
+					<p align="left"><a href="american.html">
+					<img id="img337" src="buttons%20folder/button174.gif" alt="American Revolution" onmouseover="FP_swapImg(1,0,/*id*/'img337',/*url*/'buttons%20folder/button154.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img337',/*url*/'buttons%20folder/button174.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img337',/*url*/'buttons%20folder/button155.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img337',/*url*/'buttons%20folder/button154.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="American Revolution" border="0" height="20" width="130"></a></p></td>
+				</tr>
+				<tr>
+					<td>
+					<p align="left"><a href="biography">
+					<img id="img317" src="buttons%20folder/button175.gif" alt="Biography" onmouseover="FP_swapImg(1,0,/*id*/'img317',/*url*/'buttons%20folder/button156.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img317',/*url*/'buttons%20folder/button175.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img317',/*url*/'buttons%20folder/button157.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img317',/*url*/'buttons%20folder/button156.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Biography" border="0" height="20" width="130"></a></p></td>
+				</tr>
+				<tr>
+					<td><a href="districtcensus.htm">
+					<img id="img318" src="buttons%20folder/button176.gif" alt="Census Books" onmouseover="FP_swapImg(1,0,/*id*/'img318',/*url*/'buttons%20folder/button158.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img318',/*url*/'buttons%20folder/button176.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img318',/*url*/'buttons%20folder/button159.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img318',/*url*/'buttons%20folder/button158.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Census Books" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="charleston.html">
+					<img id="img319" src="buttons%20folder/button12A.gif" alt="Charleston" onmouseover="FP_swapImg(1,0,/*id*/'img319',/*url*/'buttons%20folder/button12B.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img319',/*url*/'buttons%20folder/button12A.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img319',/*url*/'buttons%20folder/button12C.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img319',/*url*/'buttons%20folder/button12B.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Charleston" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="Clearance.htm">
+					<img id="img320" src="buttons%20folder/button12D.gif" alt="Clearance" onmouseover="FP_swapImg(1,0,/*id*/'img320',/*url*/'buttons%20folder/button12E.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img320',/*url*/'buttons%20folder/button12D.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img320',/*url*/'buttons%20folder/button12F.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img320',/*url*/'buttons%20folder/button12E.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Clearance" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="civil.html">
+					<img id="img321" src="buttons%20folder/button177.gif" alt="Civil War" onmouseover="FP_swapImg(1,0,/*id*/'img321',/*url*/'buttons%20folder/button160.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img321',/*url*/'buttons%20folder/button177.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img321',/*url*/'buttons%20folder/button161.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img321',/*url*/'buttons%20folder/button160.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Civil War" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="southern_history.htm">
+					<img id="img322" src="buttons%20folder/button178.gif" alt="General History" onmouseover="FP_swapImg(1,0,/*id*/'img322',/*url*/'buttons%20folder/button162.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img322',/*url*/'buttons%20folder/button178.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img322',/*url*/'buttons%20folder/button163.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img322',/*url*/'buttons%20folder/button162.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="General History" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="general.html">
+					<img id="img323" src="buttons%20folder/button179.gif" alt="General Interest" onmouseover="FP_swapImg(1,0,/*id*/'img323',/*url*/'buttons%20folder/button164.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img323',/*url*/'buttons%20folder/button179.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img323',/*url*/'buttons%20folder/button165.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img323',/*url*/'buttons%20folder/button164.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="General Interest" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="ghosts.html">
+					<img id="img324" src="buttons%20folder/button180.gif" alt="Ghosts/Folklore" onmouseover="FP_swapImg(1,0,/*id*/'img324',/*url*/'buttons%20folder/button13A.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img324',/*url*/'buttons%20folder/button180.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img324',/*url*/'buttons%20folder/button13B.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img324',/*url*/'buttons%20folder/button13A.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Ghosts/Folklore" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="gullah.html">
+					<img id="img325" src="buttons%20folder/button13C.gif" alt="Gullah" onmouseover="FP_swapImg(1,0,/*id*/'img325',/*url*/'buttons%20folder/button13D.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img325',/*url*/'buttons%20folder/button13C.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img325',/*url*/'buttons%20folder/button13E.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img325',/*url*/'buttons%20folder/button13D.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Gullah" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="maps.html">
+					<img id="img326" src="buttons%20folder/button13F.gif" alt="Maps" onmouseover="FP_swapImg(1,0,/*id*/'img326',/*url*/'buttons%20folder/button166.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img326',/*url*/'buttons%20folder/button13F.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img326',/*url*/'buttons%20folder/button167.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img326',/*url*/'buttons%20folder/button166.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Maps" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="natural.html">
+					<img id="img327" src="buttons%20folder/button181.gif" alt="Nature" onmouseover="FP_swapImg(1,0,/*id*/'img327',/*url*/'buttons%20folder/button168.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img327',/*url*/'buttons%20folder/button181.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img327',/*url*/'buttons%20folder/button169.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img327',/*url*/'buttons%20folder/button168.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Nature" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="picture%20books.htm">
+					<img id="img328" src="buttons%20folder/button182.gif" alt="Picture Books" onmouseover="FP_swapImg(1,0,/*id*/'img328',/*url*/'buttons%20folder/button170.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img328',/*url*/'buttons%20folder/button182.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img328',/*url*/'buttons%20folder/button171.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img328',/*url*/'buttons%20folder/button170.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Picture Books" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="bluesky.htm">
+					<img id="img329" src="buttons%20folder/button183.gif" alt="Posters" onmouseover="FP_swapImg(1,0,/*id*/'img329',/*url*/'buttons%20folder/button172.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img329',/*url*/'buttons%20folder/button183.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img329',/*url*/'buttons%20folder/button14A.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img329',/*url*/'buttons%20folder/button172.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Posters" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="travel.html">
+					<img id="img330" src="buttons%20folder/button14B.gif" alt="Recreation/Travel" onmouseover="FP_swapImg(1,0,/*id*/'img330',/*url*/'buttons%20folder/button14C.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img330',/*url*/'buttons%20folder/button14B.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img330',/*url*/'buttons%20folder/button14D.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img330',/*url*/'buttons%20folder/button14C.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Recreation/Travel" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="women.html">
+					<img id="img331" src="buttons%20folder/button14E.gif" alt="Women Studies" onmouseover="FP_swapImg(1,0,/*id*/'img331',/*url*/'buttons%20folder/button14F.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img331',/*url*/'buttons%20folder/button14E.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img331',/*url*/'buttons%20folder/button173.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img331',/*url*/'buttons%20folder/button14F.gif')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-transparent: 1; fp-proportional: 0; fp-orig: 0" fp-title="Women Studies" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td>
+					<p align="left"><b>
+					<font color="#ffcc66" face="Verdana" size="2"><kw class="krdwrd-tag-1-100">Books for 
+					young readers</kw></font></b></p></td>
+				</tr>
+				<tr>
+					<td><a href="YrCivilWar.htm">
+					<img id="img332" src="buttons%20folder/button250.jpg" alt="Civil War" onmouseover="FP_swapImg(1,0,/*id*/'img332',/*url*/'buttons%20folder/button244.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img332',/*url*/'buttons%20folder/button250.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img332',/*url*/'buttons%20folder/button245.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img332',/*url*/'buttons%20folder/button244.jpg')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-proportional: 0; fp-orig: 0" fp-title="Civil War" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="YrAmericanrevolution.htm">
+					<img id="img333" src="buttons%20folder/button251.jpg" alt="The American Revolution" onmouseover="FP_swapImg(1,0,/*id*/'img333',/*url*/'buttons%20folder/button246.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img333',/*url*/'buttons%20folder/button251.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img333',/*url*/'buttons%20folder/button247.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img333',/*url*/'buttons%20folder/button246.jpg')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-proportional: 0; fp-orig: 0" fp-title="The American Revolution" border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="yrhardcover.htm">
+					<img id="img334" src="buttons%20folder/button252.jpg" alt="Hardcover " onmouseover="FP_swapImg(1,0,/*id*/'img334',/*url*/'buttons%20folder/button248.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img334',/*url*/'buttons%20folder/button252.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img334',/*url*/'buttons%20folder/button249.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img334',/*url*/'buttons%20folder/button248.jpg')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-proportional: 0; fp-orig: 0" fp-title="Hardcover " border="0" height="20" width="130"></a></td>
+				</tr>
+				<tr>
+					<td><a href="YRsoftcover.htm">
+					<img id="img335" src="buttons%20folder/button15E.jpg" alt="Softcover" onmouseover="FP_swapImg(1,0,/*id*/'img335',/*url*/'buttons%20folder/button15F.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img335',/*url*/'buttons%20folder/button15E.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img335',/*url*/'buttons%20folder/button253.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img335',/*url*/'buttons%20folder/button15F.jpg')" fp-style="fp-btn: Soft Rectangle 3; fp-font-size: 8; fp-proportional: 0; fp-orig: 0" fp-title="Softcover" border="0" height="20" width="130"></a></td>
+				</tr>
+			</tbody></table>
+			</font></font></center></div>
+
+<font face="Century Schoolbook"><font color="#556b2f" face="Century Schoolbook" size="2"><font face="Century Schoolbook">
+
+</font>
+
+				</font></font></div>
+
+
+
+<font face="Century Schoolbook">			</font></div>
+
+<font face="Century Schoolbook">			</font></div>
+
+
+
+<font color="#556b2f" face="Century Schoolbook" size="2">
+
+</font><div style="border-style: ridge; border-color: rgb(231, 104, 20); position: absolute; width: 170px; height: 331px; z-index: 11; left: 10px; top: 838px;" id="layer29">
+<font color="#556b2f" face="Century Schoolbook" size="2">	</font><div align="left">
+<font color="#556b2f" face="Century Schoolbook" size="2">	<font face="Times New Roman">
+	<font style="background-color: rgb(0, 128, 0);" face="Flexure">
+			</font><div style="background-color: rgb(0, 128, 0);">
+<font style="background-color: rgb(0, 128, 0);" face="Flexure">			</font><p align="left"><font style="background-color: rgb(0, 128, 0);" face="Flexure"> 
+			<font color="#ffffff"><kw class="krdwrd-tag-1-100">Where to buy?</kw></font></font></p></div>
+			<font face="Century Schoolbook">
+			<p align="center"><font face="Times New Roman"><b>
+			<font face="Arial"><kw class="krdwrd-tag-1-90">Our books are available at bookstores, gift 
+			shops, museums, outfitters, schools, libraries and online 
+			booksellers.</kw></font></b></font></p></font>
+	</font>
+		</font><p><font color="#556b2f" face="Century Schoolbook" size="2"><font face="Times New Roman">
+		<font face="Arial">
+			<b><kw class="krdwrd-tag-1-100">To order direct call 800-849-7263</kw></b></font></font></font></p>
+<font color="#556b2f" face="Century Schoolbook" size="2"><font face="Times New Roman"><font face="Arial">	</font></font></font><p align="center"><font color="#556b2f" face="Century Schoolbook" size="2"><font face="Times New Roman"><font face="Arial"><b><kw class="krdwrd-tag-1-100">Also, visit the Sandlapper Book Outlet&nbsp; at 
+			1281 Amelia Street in Orangeburg,&nbsp;Monday through Thursday, 9:00-5:00.</kw></b></font><font color="#0000cc" face="Century Schoolbook">&nbsp;</font></font></font></p>
+<font color="#556b2f" face="Century Schoolbook" size="2"><font face="Times New Roman">	</font>
+		</font><p><font color="#556b2f" face="Century Schoolbook" size="2">&nbsp;</font></p></div>
+</div>
+
+
+<font face="Century Schoolbook">
+
+		<table class="contentrow" width="973">
+			<tbody><tr>
+				<td>
+		<p>
+
+<font color="#556b2f" face="Times New Roman" size="2">
+	<img src="logo2.jpg" border="0" height="73" width="805"></font> </p>
+
+<div style="position: absolute; width: 700px; height: 32px; z-index: 10; left: 17px; top: 100px;" id="layer14">
+
+<font face="Century Schoolbook">
+
+	<a href="index.html">
+	<img id="img313" src="buttons%20folder/button441.jpg" alt="Home" onmouseover="FP_swapImg(1,0,/*id*/'img313',/*url*/'buttons%20folder/button438.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img313',/*url*/'buttons%20folder/button441.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img313',/*url*/'buttons%20folder/button437.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img313',/*url*/'buttons%20folder/button438.jpg')" fp-style="fp-btn: Border Bottom 1; fp-proportional: 0; fp-orig: 0" fp-title="Home" border="0" height="25" width="55"></a><a href="sandlapper_publishing_company_is.htm"><img id="img409" src="buttons%20folder/button520.jpg" alt="About us" onmouseover="FP_swapImg(1,0,/*id*/'img409',/*url*/'buttons%20folder/button515.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img409',/*url*/'buttons%20folder/button520.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img409',/*url*/'buttons%20folder/button514.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img409',/*url*/'buttons%20folder/button515.jpg')" fp-style="fp-btn: Border Bottom 1; fp-proportional: 0; fp-orig: 0" fp-title="About us" border="0" height="25" width="63"></a><a href="sc%20authors.htm"><img id="img314" src="buttons%20folder/button442.jpg" alt="Browse by Author" onmouseover="FP_swapImg(1,0,/*id*/'img314',/*url*/'buttons%20folder/button440.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img314',/*url*/'buttons%20folder/button442.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img314',/*url*/'buttons%20folder/button439.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img314',/*url*/'buttons%20folder/button440.jpg')" fp-style="fp-btn: Border Bottom 1; fp-proportional: 0; fp-orig: 0" fp-title="Browse by Author" border="0" height="25" width="120"></a><a href="Browse%20by%20Title.htm"><img id="img311" src="buttons%20folder/button363.jpg" alt="Browse by Title" onmouseover="FP_swapImg(1,0,/*id*/'img311',/*url*/'buttons%20folder/button360.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img311',/*url*/'buttons%20folder/button363.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img311',/*url*/'buttons%20folder/button359.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img311',/*url*/'buttons%20folder/button360.jpg')" fp-style="fp-btn: Border Bottom 1; fp-proportional: 0; fp-orig: 0" fp-title="Browse by Title" border="0" height="25" width="95"></a><a href="contacts.htm"><img id="img356" src="buttons%20folder/button312.jpg" alt="Contact" fp-style="fp-btn: Border Bottom 1; fp-proportional: 0; fp-orig: 0" fp-title="Contact" onmouseover="FP_swapImg(1,0,/*id*/'img356',/*url*/'buttons%20folder/buttonA24.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img356',/*url*/'buttons%20folder/button312.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img356',/*url*/'buttons%20folder/buttonB21.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img356',/*url*/'buttons%20folder/buttonA24.jpg')" border="0" height="25" width="60"></a><a href="new.html"><img id="img357" src="buttons%20folder/buttonC20.jpg" alt="New Titles" fp-style="fp-btn: Border Bottom 1; fp-proportional: 0; fp-orig: 0" fp-title="New Titles" onmouseover="FP_swapImg(1,0,/*id*/'img357',/*url*/'buttons%20folder/buttonD14.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img357',/*url*/'buttons%20folder/buttonC20.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img357',/*url*/'buttons%20folder/buttonE14.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img357',/*url*/'buttons%20folder/buttonD14.jpg')" border="0" height="25" width="70"></a></font><a href="Printanorderform.htm"><img id="img408" src="buttons%20folder/button521.jpg" alt="Order Form" onmouseover="FP_swapImg(1,0,/*id*/'img408',/*url*/'buttons%20folder/button517.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img408',/*url*/'buttons%20folder/button521.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img408',/*url*/'buttons%20folder/button516.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img408',/*url*/'buttons%20folder/button517.jpg')" fp-style="fp-btn: Border Bottom 1; fp-font-size: 9; fp-proportional: 0; fp-orig: 0" fp-title="Order Form" border="0" height="25" width="75"></a><a href="catalog.htm"><img id="img407" src="buttons%20folder/button522.jpg" alt="Catalog request" fp-style="fp-btn: Border Bottom 1; fp-proportional: 0; fp-orig: 0" fp-title="Catalog request" onmouseover="FP_swapImg(1,0,/*id*/'img407',/*url*/'buttons%20folder/button519.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img407',/*url*/'buttons%20folder/button522.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img407',/*url*/'buttons%20folder/button518.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img407',/*url*/'buttons%20folder/button519.jpg')" border="0" height="25" width="110"></a><a href="faqs.htm"><img id="img351" src="buttons%20folder/button473.jpg" alt="FAQS" fp-style="fp-btn: Border Bottom 1; fp-font-size: 9; fp-proportional: 0; fp-orig: 0" fp-title="FAQS" onmouseover="FP_swapImg(1,0,/*id*/'img351',/*url*/'buttons%20folder/button1A9.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img351',/*url*/'buttons%20folder/button473.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img351',/*url*/'buttons%20folder/button1B11.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img351',/*url*/'buttons%20folder/button1A9.jpg')" border="0" height="25" width="45"></a></div>
+
+				<p>&nbsp;</p>
+				<p>&nbsp;</p></td>
+			</tr>
+		</tbody></table>
+
+</font>
+
+</body>

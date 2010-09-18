@@ -1,0 +1,480 @@
+<head><base href="http://www.nsftools.com/blog/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<meta name="keywords" content="Lotus Notes, Domino"><title>nsftools.com - The February 2008 Blog</title>
+
+
+
+<link rel="STYLESHEET" href="/nsftools.css" type="text/css">
+<script language="JavaScript" src="/nsfCommon.js"></script>
+<link rel="alternate" type="application/rss+xml" href="http://www.nsftools.com/blog/blog.rss" title="RSS feed of recent blog entries">
+<link rel="alternate" type="application/rss+xml" href="http://www.nsftools.com/tips.rss" title="RSS feed of recent tips and tools"><!-- script type="text/javascript" src="http://pro.enetation.co.uk/user.php?user=nsftools"></script -->
+
+<script type="text/javascript" src="/blog/blogComments.js"></script>
+
+<script language="JavaScript">
+<!-- 
+	// page type options are home, blog, tools, misc, and about
+	var pageTitle = "February 2008 Blog";
+	var pageType = "blog";
+
+	// Write the HTML header information, if any
+	if (typeof(WriteHTMLHeader) == "function")  {
+		WriteHTMLHeader(pageTitle);
+	}  else  {
+		document.writeln("<TITLE>nsftools - " + pageTitle + "</TITLE>");
+	}
+// -->
+</script>
+<script language="JavaScript">
+function applyLight()
+{
+// Applies the light filter to elementID
+if ((navigator.appVersion.indexOf('MSIE') > 0)
+     && (parseInt(navigator.appVersion) >= 4))
+     {  var elementID = document.all.fadingCell;
+        elementID.filters.Light.addPoint(0, 0, window.screen.width, 255, 255, 255, 100);  }
+}
+window.onload = new Function('applyLight()')
+</script>
+
+<script language="JavaScript">
+function applyLight()
+{
+// Applies the light filter to elementID
+if ((navigator.appVersion.indexOf('MSIE') > 0)
+     && (parseInt(navigator.appVersion) >= 4))
+     {  var elementID = document.all.fadingCell;
+        elementID.filters.Light.addPoint(0, 0, window.screen.width, 255, 255, 255, 100);  }
+}
+window.onload = new Function('applyLight()')
+</script></head><body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+	
+<script language="JavaScript">
+<!-- 
+	// Write the standard header information, if any
+	if (typeof(WritePageHeader) == "function")  {
+		WritePageHeader(pageTitle, pageType);
+	}  else  {
+			document.writeln("<table width=100% cellpadding=20>");
+			document.writeln("<tr bgcolor=#CCCCAA><td align=left width=100%>");
+			document.writeln("<font size=\"+2\"><a href=\"http://www.nsftools.com\" class=\"plain\">nsftools.com</a><br>")
+			document.writeln("<font size=\"+2\"><b>" + pageTitle + "</b></font>");
+			document.writeln("</td></tr><tr><td>");
+	}
+// -->
+</script><table border="0" cellpadding="13" cellspacing="0" width="100%" height="100%">
+<col width="150"><col>
+  <tbody><tr>
+    <td align="center" bgcolor="#ddddbb" valign="center" height="40">
+      <a href="http://www.nsftools.com"><img src="/nlogomed.gif" alt="[nsftools logo]" align="left" border="0" hspace="10"></a>
+    </td>
+    <td id="fadingCell" style="" class="borderLeft" align="left" bgcolor="#ddddbb" valign="bottom" width="100%">
+      <form name="googlesearch" style="margin: 0px; padding: 0px;" method="get" action="http://www.google.com/custom">
+      <font class="pageTitle krdwrd-tag-1">February 2008 Blog</font><br>
+      <font class="mainLinks krdwrd-tag-1">
+      <a href="/index.htm" class="mainLinkAnchor krdwrd-tag-1">home</a> :: 
+      <a href="/blog" class="mainLinkAnchor krdwrd-tag-1">blog</a> :: 
+      <a href="/tools" class="mainLinkAnchor krdwrd-tag-1">tools</a> :: 
+      <a href="/tips" class="mainLinkAnchor krdwrd-tag-1">tips</a> :: 
+      <a href="/misc.htm" class="mainLinkAnchor krdwrd-tag-1">misc</a> :: 
+      <a href="/about.htm" class="mainLinkAnchor krdwrd-tag-1">about</a> :: 
+      <a href='javascript:document.forms["googlesearch"].submit();' class="mainLinkAnchor krdwrd-tag-1">search</a>
+      <input name="q" size="31" maxlength="255" value="" type="hidden">
+      <input name="sa" value="Google Search" type="hidden">
+      <input name="cof" value="S:http://www.nsftools.com;VLC:#000099;AH:left;LH:43;LW:90;LC:#000099;L:http://www.nsftools.com/nlogomed.gif;ALC:#990000;AWFID:55c440b6b7be30de;" type="hidden">
+      <input name="domains" value="nsftools.com" type="hidden">
+      <input name="sitesearch" value="nsftools.com" checked="checked" style="visibility: hidden;" type="radio">
+      
+      </font>
+    </form></td>
+  </tr>
+  <tr bgcolor="white">
+    <td class="borderTop" align="center" valign="top"> 
+      <font class="smallText">
+      </font><hr size="1" width="110">
+<font class="smallText">      <b class="krdwrd-tag-1">blog links</b>
+      </font><hr size="1" width="110">
+<font class="smallText"><a href="/blog/blog.rss" class="sidebarLink krdwrd-tag-1">Blog RSS Feed</a><br>
+<a href="/tips.rss" class="sidebarLink krdwrd-tag-1">Tips RSS Feed</a><br>
+</font><hr size="1" width="110">
+<font class="smallText krdwrd-tag-1"><a href="/blog" class="sidebarLink krdwrd-tag-1">Current Blog</a><br>
+. . .<br>
+<a href="/links.htm" class="sidebarLink krdwrd-tag-1">other sites to visit</a><br>
+. . .<br>
+<a href="/books.htm" class="sidebarLink krdwrd-tag-1">books to read</a><br>
+</font><hr size="1" width="110">
+<font class="smallText"><a href="http://www.takingnotespodcast.com" class="sidebarLink krdwrd-tag-1">Bruce and Julian's podcast</a><br>
+<a href="http://www.takingnotespodcast.com" class="sidebarLink"><img src="/misc/TakingNotesTinyLogo.gif" alt="TakingNotes Podcast Logo" border="0"></a><br>
+</font><hr size="1" width="110">
+<font class="smallText krdwrd-tag-1"><a href="/blog/blogarchive.htm" class="sidebarLink krdwrd-tag-1">Archive Index</a><br>
+. . .<br>
+<a href="/blog/blog-03-2008.htm" class="sidebarLink krdwrd-tag-1">March 2008</a><br>
+<a href="/blog/blog-02-2008.htm" class="sidebarLink krdwrd-tag-1">February 2008</a><br>
+<a href="/blog/blog-01-2008.htm" class="sidebarLink krdwrd-tag-1">January 2008</a><br>
+<a href="/blog/blog-12-2007.htm" class="sidebarLink krdwrd-tag-1">December 2007</a><br>
+<a href="/blog/blog-11-2007.htm" class="sidebarLink krdwrd-tag-1">November 2007</a><br>
+<a href="/blog/blog-10-2007.htm" class="sidebarLink krdwrd-tag-1">October 2007</a><br>
+<a href="/blog/blog-09-2007.htm" class="sidebarLink krdwrd-tag-1">September 2007</a><br>
+<a href="/blog/blog-08-2007.htm" class="sidebarLink krdwrd-tag-1">August 2007</a><br>
+<a href="/blog/blog-07-2007.htm" class="sidebarLink krdwrd-tag-1">July 2007</a><br>
+<a href="/blog/blog-06-2007.htm" class="sidebarLink krdwrd-tag-1">June 2007</a><br>
+<a href="/blog/blog-05-2007.htm" class="sidebarLink krdwrd-tag-1">May 2007</a><br>
+<a href="/blog/blog-03-2007.htm" class="sidebarLink krdwrd-tag-1">March 2007</a><br>
+<a href="/blog/blog-02-2007.htm" class="sidebarLink krdwrd-tag-1">February 2007</a><br>
+<a href="/blog/blog-01-2007.htm" class="sidebarLink krdwrd-tag-1">January 2007</a><br>
+<a href="/blog/blog-12-2006.htm" class="sidebarLink krdwrd-tag-1">December 2006</a><br>
+<a href="/blog/blog-11-2006.htm" class="sidebarLink krdwrd-tag-1">November 2006</a><br>
+<a href="/blog/blog-10-2006.htm" class="sidebarLink krdwrd-tag-1">October 2006</a><br>
+<a href="/blog/blog-09-2006.htm" class="sidebarLink krdwrd-tag-1">September 2006</a><br>
+<a href="/blog/blog-08-2006.htm" class="sidebarLink krdwrd-tag-1">August 2006</a><br>
+<a href="/blog/blog-07-2006.htm" class="sidebarLink krdwrd-tag-1">July 2006</a><br>
+<a href="/blog/blog-06-2006.htm" class="sidebarLink krdwrd-tag-1">June 2006</a><br>
+<a href="/blog/blog-05-2006.htm" class="sidebarLink krdwrd-tag-1">May 2006</a><br>
+<a href="/blog/blog-04-2006.htm" class="sidebarLink krdwrd-tag-1">April 2006</a><br>
+<a href="/blog/blog-03-2006.htm" class="sidebarLink krdwrd-tag-1">March 2006</a><br>
+<a href="/blog/blog-02-2006.htm" class="sidebarLink krdwrd-tag-1">February 2006</a><br>
+<a href="/blog/blog-01-2006.htm" class="sidebarLink krdwrd-tag-1">January 2006</a><br>
+<a href="/blog/blog-12-2005.htm" class="sidebarLink krdwrd-tag-1">December 2005</a><br>
+<a href="/blog/blog-11-2005.htm" class="sidebarLink krdwrd-tag-1">November 2005</a><br>
+<a href="/blog/blog-10-2005.htm" class="sidebarLink krdwrd-tag-1">October 2005</a><br>
+<a href="/blog/blog-09-2005.htm" class="sidebarLink krdwrd-tag-1">September 2005</a><br>
+<a href="/blog/blog-08-2005.htm" class="sidebarLink krdwrd-tag-1">August 2005</a><br>
+<a href="/blog/blog-07-2005.htm" class="sidebarLink krdwrd-tag-1">July 2005</a><br>
+<a href="/blog/blog-06-2005.htm" class="sidebarLink krdwrd-tag-1">June 2005</a><br>
+<a href="/blog/blog-05-2005.htm" class="sidebarLink krdwrd-tag-1">May 2005</a><br>
+<a href="/blog/blog-04-2005.htm" class="sidebarLink krdwrd-tag-1">April 2005</a><br>
+<a href="/blog/blog-03-2005.htm" class="sidebarLink krdwrd-tag-1">March 2005</a><br>
+<a href="/blog/blog-02-2005.htm" class="sidebarLink krdwrd-tag-1">February 2005</a><br>
+<a href="/blog/Lotusphere2005.htm" class="sidebarLink krdwrd-tag-1">Lotusphere 2005</a><br>
+<a href="/blog/blog-01-2005.htm" class="sidebarLink krdwrd-tag-1">January 2005</a><br>
+<a href="/blog/blog-12-2004.htm" class="sidebarLink krdwrd-tag-1">December 2004</a><br>
+<a href="/blog/blog-11-2004.htm" class="sidebarLink krdwrd-tag-1">November 2004</a><br>
+<a href="/blog/blog-10-2004.htm" class="sidebarLink krdwrd-tag-1">October 2004</a><br>
+<a href="/blog/blog-09-2004.htm" class="sidebarLink krdwrd-tag-1">September 2004</a><br>
+<a href="/blog/blog-08-2004.htm" class="sidebarLink krdwrd-tag-1">August 2004</a><br>
+<a href="/blog/blog-07-2004.htm" class="sidebarLink krdwrd-tag-1">July 2004</a><br>
+<a href="/blog/blog-06-2004.htm" class="sidebarLink krdwrd-tag-1">June 2004</a><br>
+<a href="/blog/blog-05-2004.htm" class="sidebarLink krdwrd-tag-1">May 2004</a><br>
+<a href="/blog/blog-04-2004.htm" class="sidebarLink krdwrd-tag-1">April 2004</a><br>
+<a href="/blog/blog-03-2004.htm" class="sidebarLink krdwrd-tag-1">March 2004</a><br>
+<a href="/blog/blog-02-2004.htm" class="sidebarLink krdwrd-tag-1">February 2004</a><br>
+<a href="/blog/Lotusphere2004.htm" class="sidebarLink krdwrd-tag-1">Lotusphere 2004</a><br>
+<a href="/blog/blog-01-2004.htm" class="sidebarLink krdwrd-tag-1">January 2004</a><br>
+<a href="/blog/blog-12-2003.htm" class="sidebarLink krdwrd-tag-1">December 2003</a><br>
+<a href="/blog/blog-11-2003.htm" class="sidebarLink krdwrd-tag-1">November 2003</a><br>
+<a href="/blog/blog-10-2003.htm" class="sidebarLink krdwrd-tag-1">October 2003</a><br>
+<a href="/blog/blog-09-2003.htm" class="sidebarLink krdwrd-tag-1">September 2003</a><br>
+<a href="/blog/blog-08-2003.htm" class="sidebarLink krdwrd-tag-1">August 2003</a><br>
+<a href="/blog/blog-07-2003.htm" class="sidebarLink krdwrd-tag-1">July 2003</a><br>
+<a href="/blog/blog-06-2003.htm" class="sidebarLink krdwrd-tag-1">June 2003</a><br>
+<a href="/blog/blog-05-2003.htm" class="sidebarLink krdwrd-tag-1">May 2003</a><br>
+<a href="/blog/blog-04-2003.htm" class="sidebarLink krdwrd-tag-1">April 2003</a><br>
+<a href="/blog/blog-03-2003.htm" class="sidebarLink krdwrd-tag-1">March 2003</a><br>
+<a href="/blog/blog-02-2003.htm" class="sidebarLink krdwrd-tag-1">February 2003</a><br>
+<a href="/blog/blog-01-2003.htm" class="sidebarLink krdwrd-tag-1">January 2003</a><br>
+<a href="/blog/blog-12-2002.htm" class="sidebarLink krdwrd-tag-1">December 2002</a><br>
+<a href="/blog/blog-11-2002.htm" class="sidebarLink krdwrd-tag-1">November 2002</a><br>
+<a href="/blog/blog-10-2002.htm" class="sidebarLink krdwrd-tag-1">October 2002</a><br>
+<a href="/blog/blog-09-2002.htm" class="sidebarLink krdwrd-tag-1">September 2002</a><br>
+<a href="/blog/blog-08-2002.htm" class="sidebarLink krdwrd-tag-1">August 2002</a><br>
+</font><hr size="1" width="110">
+<font class="smallText"><a href='javascript:window.external.AddFavorite("http://www.nsftools.com/blog", "nsftools.com blog");' class="sidebarLink krdwrd-tag-1">add blog to your favorites (IE only)</a><br>
+      </font><hr size="1" width="110">
+<font class="smallText krdwrd-tag-1">main site links (blog, tools, etc.) are available at the top of the screen
+</font><p><font class="smallText"><a class="krdwrd-tag-1" href="/disclaimer.htm">site disclaimer</a>
+      </font>
+    </p></td>
+    <td class="borderTop borderLeft" align="left" valign="top" width="100%">
+      <table border="0" cellpadding="7" cellspacing="0" cols="1" width="80%">
+      <tbody><tr align="left" valign="top"><td>
+<table border="0" cellpadding="13" cellspacing="0" width="100%" height="100%">
+<col width="150"><col>
+  <tbody><tr>
+    <td align="center" bgcolor="#ddddbb" valign="center" height="40">
+      <a href="http://www.nsftools.com"><img src="/nlogomed.gif" alt="[nsftools logo]" align="left" border="0" hspace="10"></a>
+    </td>
+    <td id="fadingCell" style="" class="borderLeft" align="left" bgcolor="#ddddbb" valign="bottom" width="100%">
+      <form name="googlesearch" style="margin: 0px; padding: 0px;" method="get" action="http://www.google.com/custom">
+      <font class="pageTitle"><kw class="krdwrd-tag-1">February 2008 Blog</kw></font><br>
+      <font class="mainLinks">
+      <a href="/index.htm" class="mainLinkAnchor"><kw class="krdwrd-tag-1">home</kw></a><kw class="krdwrd-tag-1"> :: 
+      </kw><a href="/blog" class="mainLinkAnchor"><kw class="krdwrd-tag-1">blog</kw></a><kw class="krdwrd-tag-1"> :: 
+      </kw><a href="/tools" class="mainLinkAnchor"><kw class="krdwrd-tag-1">tools</kw></a><kw class="krdwrd-tag-1"> :: 
+      </kw><a href="/tips" class="mainLinkAnchor"><kw class="krdwrd-tag-1">tips</kw></a><kw class="krdwrd-tag-1"> :: 
+      </kw><a href="/misc.htm" class="mainLinkAnchor"><kw class="krdwrd-tag-1">misc</kw></a><kw class="krdwrd-tag-1"> :: 
+      </kw><a href="/about.htm" class="mainLinkAnchor"><kw class="krdwrd-tag-1">about</kw></a><kw class="krdwrd-tag-1"> :: 
+      </kw><a href='javascript:document.forms["googlesearch"].submit();' class="mainLinkAnchor"><kw class="krdwrd-tag-1">search</kw></a>
+      <input name="q" size="31" maxlength="255" value="" type="hidden">
+      <input name="sa" value="Google Search" type="hidden">
+      <input name="cof" value="S:http://www.nsftools.com;VLC:#000099;AH:left;LH:43;LW:90;LC:#000099;L:http://www.nsftools.com/nlogomed.gif;ALC:#990000;AWFID:55c440b6b7be30de;" type="hidden">
+      <input name="domains" value="nsftools.com" type="hidden">
+      <input name="sitesearch" value="nsftools.com" checked="checked" style="visibility: hidden;" type="radio">
+      
+      </font>
+    </form></td>
+  </tr>
+  <tr bgcolor="white">
+    <td class="borderTop" align="center" valign="top"> 
+      <font class="smallText">
+      </font><hr size="1" width="110">
+<font class="smallText">      <b><kw class="krdwrd-tag-1">blog links</kw></b>
+      </font><hr size="1" width="110">
+<font class="smallText"><a href="/blog/blog.rss" class="sidebarLink"><kw class="krdwrd-tag-1">Blog RSS Feed</kw></a><br>
+<a href="/tips.rss" class="sidebarLink"><kw class="krdwrd-tag-1">Tips RSS Feed</kw></a><br>
+</font><hr size="1" width="110">
+<font class="smallText"><a href="/blog" class="sidebarLink"><kw class="krdwrd-tag-1">Current Blog</kw></a><br><kw class="krdwrd-tag-1">
+. . .</kw><br>
+<a href="/links.htm" class="sidebarLink"><kw class="krdwrd-tag-1">other sites to visit</kw></a><br><kw class="krdwrd-tag-1">
+. . .</kw><br>
+<a href="/books.htm" class="sidebarLink"><kw class="krdwrd-tag-1">books to read</kw></a><br>
+</font><hr size="1" width="110">
+<font class="smallText"><a href="http://www.takingnotespodcast.com" class="sidebarLink"><kw class="krdwrd-tag-1">Bruce and Julian's podcast</kw></a><br>
+<a href="http://www.takingnotespodcast.com" class="sidebarLink"><img src="/misc/TakingNotesTinyLogo.gif" alt="TakingNotes Podcast Logo" border="0"></a><br>
+</font><hr size="1" width="110">
+<font class="smallText"><a href="/blog/blogarchive.htm" class="sidebarLink"><kw class="krdwrd-tag-1">Archive Index</kw></a><br><kw class="krdwrd-tag-1">
+. . .</kw><br>
+<a href="/blog/blog-03-2008.htm" class="sidebarLink"><kw class="krdwrd-tag-1">March 2008</kw></a><br>
+<a href="/blog/blog-02-2008.htm" class="sidebarLink"><kw class="krdwrd-tag-1">February 2008</kw></a><br>
+<a href="/blog/blog-01-2008.htm" class="sidebarLink"><kw class="krdwrd-tag-1">January 2008</kw></a><br>
+<a href="/blog/blog-12-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">December 2007</kw></a><br>
+<a href="/blog/blog-11-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">November 2007</kw></a><br>
+<a href="/blog/blog-10-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">October 2007</kw></a><br>
+<a href="/blog/blog-09-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">September 2007</kw></a><br>
+<a href="/blog/blog-08-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">August 2007</kw></a><br>
+<a href="/blog/blog-07-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">July 2007</kw></a><br>
+<a href="/blog/blog-06-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">June 2007</kw></a><br>
+<a href="/blog/blog-05-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">May 2007</kw></a><br>
+<a href="/blog/blog-03-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">March 2007</kw></a><br>
+<a href="/blog/blog-02-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">February 2007</kw></a><br>
+<a href="/blog/blog-01-2007.htm" class="sidebarLink"><kw class="krdwrd-tag-1">January 2007</kw></a><br>
+<a href="/blog/blog-12-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">December 2006</kw></a><br>
+<a href="/blog/blog-11-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">November 2006</kw></a><br>
+<a href="/blog/blog-10-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">October 2006</kw></a><br>
+<a href="/blog/blog-09-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">September 2006</kw></a><br>
+<a href="/blog/blog-08-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">August 2006</kw></a><br>
+<a href="/blog/blog-07-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">July 2006</kw></a><br>
+<a href="/blog/blog-06-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">June 2006</kw></a><br>
+<a href="/blog/blog-05-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">May 2006</kw></a><br>
+<a href="/blog/blog-04-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">April 2006</kw></a><br>
+<a href="/blog/blog-03-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">March 2006</kw></a><br>
+<a href="/blog/blog-02-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">February 2006</kw></a><br>
+<a href="/blog/blog-01-2006.htm" class="sidebarLink"><kw class="krdwrd-tag-1">January 2006</kw></a><br>
+<a href="/blog/blog-12-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">December 2005</kw></a><br>
+<a href="/blog/blog-11-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">November 2005</kw></a><br>
+<a href="/blog/blog-10-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">October 2005</kw></a><br>
+<a href="/blog/blog-09-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">September 2005</kw></a><br>
+<a href="/blog/blog-08-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">August 2005</kw></a><br>
+<a href="/blog/blog-07-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">July 2005</kw></a><br>
+<a href="/blog/blog-06-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">June 2005</kw></a><br>
+<a href="/blog/blog-05-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">May 2005</kw></a><br>
+<a href="/blog/blog-04-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">April 2005</kw></a><br>
+<a href="/blog/blog-03-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">March 2005</kw></a><br>
+<a href="/blog/blog-02-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">February 2005</kw></a><br>
+<a href="/blog/Lotusphere2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">Lotusphere 2005</kw></a><br>
+<a href="/blog/blog-01-2005.htm" class="sidebarLink"><kw class="krdwrd-tag-1">January 2005</kw></a><br>
+<a href="/blog/blog-12-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">December 2004</kw></a><br>
+<a href="/blog/blog-11-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">November 2004</kw></a><br>
+<a href="/blog/blog-10-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">October 2004</kw></a><br>
+<a href="/blog/blog-09-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">September 2004</kw></a><br>
+<a href="/blog/blog-08-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">August 2004</kw></a><br>
+<a href="/blog/blog-07-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">July 2004</kw></a><br>
+<a href="/blog/blog-06-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">June 2004</kw></a><br>
+<a href="/blog/blog-05-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">May 2004</kw></a><br>
+<a href="/blog/blog-04-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">April 2004</kw></a><br>
+<a href="/blog/blog-03-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">March 2004</kw></a><br>
+<a href="/blog/blog-02-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">February 2004</kw></a><br>
+<a href="/blog/Lotusphere2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">Lotusphere 2004</kw></a><br>
+<a href="/blog/blog-01-2004.htm" class="sidebarLink"><kw class="krdwrd-tag-1">January 2004</kw></a><br>
+<a href="/blog/blog-12-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">December 2003</kw></a><br>
+<a href="/blog/blog-11-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">November 2003</kw></a><br>
+<a href="/blog/blog-10-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">October 2003</kw></a><br>
+<a href="/blog/blog-09-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">September 2003</kw></a><br>
+<a href="/blog/blog-08-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">August 2003</kw></a><br>
+<a href="/blog/blog-07-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">July 2003</kw></a><br>
+<a href="/blog/blog-06-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">June 2003</kw></a><br>
+<a href="/blog/blog-05-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">May 2003</kw></a><br>
+<a href="/blog/blog-04-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">April 2003</kw></a><br>
+<a href="/blog/blog-03-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">March 2003</kw></a><br>
+<a href="/blog/blog-02-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">February 2003</kw></a><br>
+<a href="/blog/blog-01-2003.htm" class="sidebarLink"><kw class="krdwrd-tag-1">January 2003</kw></a><br>
+<a href="/blog/blog-12-2002.htm" class="sidebarLink"><kw class="krdwrd-tag-1">December 2002</kw></a><br>
+<a href="/blog/blog-11-2002.htm" class="sidebarLink"><kw class="krdwrd-tag-1">November 2002</kw></a><br>
+<a href="/blog/blog-10-2002.htm" class="sidebarLink"><kw class="krdwrd-tag-1">October 2002</kw></a><br>
+<a href="/blog/blog-09-2002.htm" class="sidebarLink"><kw class="krdwrd-tag-1">September 2002</kw></a><br>
+<a href="/blog/blog-08-2002.htm" class="sidebarLink"><kw class="krdwrd-tag-1">August 2002</kw></a><br>
+</font><hr size="1" width="110">
+<font class="smallText"><a href='javascript:window.external.AddFavorite("http://www.nsftools.com/blog", "nsftools.com blog");' class="sidebarLink"><kw class="krdwrd-tag-1">add blog to your favorites (IE only)</kw></a><br>
+      </font><hr size="1" width="110">
+<font class="smallText"><kw class="krdwrd-tag-1">main site links (blog, tools, etc.) are available at the top of the screen
+</kw></font><p><font class="smallText"><a href="/disclaimer.htm"><kw class="krdwrd-tag-1">site disclaimer</kw></a>
+      </font>
+    </p></td>
+    <td class="borderTop borderLeft" align="left" valign="top" width="100%">
+      <table border="0" cellpadding="7" cellspacing="0" cols="1" width="80%">
+      <tbody><tr align="left" valign="top"><td>
+
+	
+	
+<!--  page text starts here  -->
+<div class="blogHeader">
+<font size="+1"><b><kw class="krdwrd-tag-2">The February 2008 Blog</kw></b></font>
+<br><i><kw class="krdwrd-tag-1">send me a </kw><a href="mailto:blogs@nsftools.com"><kw class="krdwrd-tag-1">comment</kw></a></i>
+</div><br>
+
+<div class="blogEntryTitle">
+<a name="02-29-08">
+<b><kw class="krdwrd-tag-1">Notes 8.0.1 Huge Fonts</kw></b> <i><kw class="krdwrd-tag-1">(Friday, Feb 29)</kw></i></a><br>
+<div style="text-align: right;"><font class="smallText"><kw class="krdwrd-tag-1"> [ </kw><a href="#02-29-08"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><a href="mailto:blogs@nsftools.com?subject=Notes%208.0.1%20Huge%20Fonts"><kw class="krdwrd-tag-1">e-mail me</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><script type="text/javascript">CommentLink('022908')</script><a class="krdwrd-tag-1" href="javascript:void('022908')" target="_self" onclick="javascript:cWindow('022908')">comments (4)</a><a href="javascript:void('022908')" target="_self" onclick="javascript:cWindow('022908')"><kw class="krdwrd-tag-1">comments (4)</kw></a><kw class="krdwrd-tag-1"> ]</kw></font></div>
+</div><p>
+</p><div class="blogEntry"><kw class="krdwrd-tag-3">
+I upgraded my demo laptop to 8.0.1 yesterday. That's the old Thinkpad I bring with me to conferences -- no private data or confidential files, and I don't care how beat up it gets. Since I use it for presentations, I also have some of the fonts cranked up pretty big so everything is easy to see from the back of the room.
+</kw><p><kw class="krdwrd-tag-3">
+However, after I loaded up Notes 8.0.1 the tab fonts were a bit large even for my taste:
+</kw></p><p></p><center>
+<img src="/misc/Notes801HugeFonts.png" alt="Huge fonts on Notes 8.0.1 workspace tabs">
+</center><p><kw class="krdwrd-tag-3">
+All I could think of was </kw><a href="http://en.wikipedia.org/wiki/Short-lived_recurring_characters_on_Saturday_Night_Live#Tiny_Elvis"><kw class="krdwrd-tag-3">Tiny Elvis</kw></a><kw class="krdwrd-tag-3">: Damn, look at those fonts. Those things are HUGE! </kw><i><kw class="krdwrd-tag-3">(That's right, E! Score another one for the Tiny E!)</kw></i>
+</p><p><kw class="krdwrd-tag-3">
+Luckily, someone else (one </kw><a href="http://www.genis.si/janko"><kw class="krdwrd-tag-3">Janko Stefancic</kw></a><kw class="krdwrd-tag-3">) already had the problem and </kw><a href="http://www-10.lotus.com/ldd/nd8forum.nsf/DateAllThreadedWeb/859f39e75006ec1d852573f60056cbca?OpenDocument"><kw class="krdwrd-tag-3">posted the fix on the LDD forums</kw></a><kw class="krdwrd-tag-3"> -- adjust your Windows Messagebox font. No telling how much time that saved me. The Messagebox font setting is one of the "Advanced" options in the Appearance tab of the Windows Display Properties:
+</kw></p><p></p><center>
+<img src="/misc/MessageboxFontSize.png" alt="Messagebox Font Size Settings">
+</center><p><kw class="krdwrd-tag-3">
+A font size of 10 worked okay for me, although 9 is probably better on a "normal" machine.
+</kw></p><p></p></div><p>
+
+</p><div class="blogEntryTitle">
+<a name="02-25-08">
+<b><kw class="krdwrd-tag-2">Go To ILUG!</kw></b> <i><kw class="krdwrd-tag-1">(Monday, Feb 25)</kw></i></a><br>
+<div style="text-align: right;"><font class="smallText"><kw class="krdwrd-tag-1"> [ </kw><a href="#02-25-08"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><a href="mailto:blogs@nsftools.com?subject=Go%20To%20ILUG%21"><kw class="krdwrd-tag-1">e-mail me</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><script type="text/javascript">CommentLink('022508')</script><a class="krdwrd-tag-1" href="javascript:void('022508')" target="_self" onclick="javascript:cWindow('022508')">comments (4)</a><a href="javascript:void('022508')" target="_self" onclick="javascript:cWindow('022508')"><kw class="krdwrd-tag-1">comments (4)</kw></a><kw class="krdwrd-tag-1"> ]</kw></font></div>
+</div><p>
+</p><div class="blogEntry">
+<a href="http://www.ilug2008.org"><img src="/misc/ILUG2008Small.png" style="border: 1px dotted; padding: 6px;" alt="ILUG 2008 Logo" align="right"></a>
+
+<a href="http://www.pmooney.net/pmooney/pmooneynet.nsf/d6plinks/PMOY-7C6GW8"><kw class="krdwrd-tag-3">As seen on Paul Mooney's site</kw></a><kw class="krdwrd-tag-3"> (and several others), </kw><a href="http://www.ilug2008.org"><kw class="krdwrd-tag-3">registration for ILUG</kw></a><kw class="krdwrd-tag-3"> is on. If you don't register now, you may well miss your chance. I already bought airline tickets hoping that </kw><a href="http://captainoblivious.com/rob_mcdonagh/home.nsf/d6plinks/BLOT-7BR3Z4"><kw class="krdwrd-tag-3">Rob McDonagh and I get to do a session</kw></a><kw class="krdwrd-tag-3"> -- I'll be there in any case. Even if my session is refused and my registration doesn't get accepted, I'll be there lurking in the nearby bars.
+</kw><p><kw class="krdwrd-tag-3">
+On a related note, here's a screenshot of the ILUG 2008 event page on Facebook (available to those of you who haven't dropped off of Facebook yet). I thought the sponsored ad choice on the left was rather interesting -- not sure what keywords caused that one to pop up.
+</kw></p><p></p><center>
+<img src="/misc/IlugFacebook.png" alt="ILUG 2008 Facebook Event">
+</center><p>
+
+</p><p></p></div><p>
+
+</p><div class="blogEntryTitle">
+<a name="02-08-08">
+<b><kw class="krdwrd-tag-2">Pictures of Lotusphere 2008</kw></b> <i><kw class="krdwrd-tag-1">(Friday, Feb 8)</kw></i></a><br>
+<div style="text-align: right;"><font class="smallText"><kw class="krdwrd-tag-1"> [ </kw><a href="#02-08-08"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><a href="mailto:blogs@nsftools.com?subject=Pictures%20of%20Lotusphere%202008"><kw class="krdwrd-tag-1">e-mail me</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><script type="text/javascript">CommentLink('020808')</script><a class="krdwrd-tag-1" href="javascript:void('020808')" target="_self" onclick="javascript:cWindow('020808')">comments (6)</a><a href="javascript:void('020808')" target="_self" onclick="javascript:cWindow('020808')"><kw class="krdwrd-tag-1">comments (6)</kw></a><kw class="krdwrd-tag-1"> ]</kw></font></div>
+</div><p>
+</p><div class="blogEntry"><kw class="krdwrd-tag-3">
+Okay, I suck at taking pictures. Coupled with the fact that (A) I didn't bring a real camera to Lotusphere so all I had was my iPhone, and (B) I deleted all my people pictures because they were blurry, this means that I have no good pictures of Lotusphere last month. Thank the Lord for </kw><a href="http://www.flickr.com/photos/tags/lotusphere2008/"><kw class="krdwrd-tag-3">Flickr</kw></a><kw class="krdwrd-tag-3"> (and other people's pictures).
+</kw><p><kw class="krdwrd-tag-3">
+However, as a purging exercise, here are the Lotusphere 2008 pictures I was able to salvage from my iPhone. It's a miserable collection.
+</kw></p><p>
+<table cellpadding="20"><tbody><tr>
+<td align="center"><a href="/lspics/LS08CancelledFlights.jpg"><img src="/lspics/LS08CancelledFlightsSmall.jpg" alt="Cancelled flights at the Atlanta airport"></a></td>
+<td><kw class="krdwrd-tag-3">The day I left, it was snowing in Atlanta. All the entries in red up on the Delta Departures board in the picture are cancelled flights. Luckily, all of the Orlando flights were on time and leaving regularly.</kw></td>
+</tr><tr>
+<td align="center"><a href="/lspics/LS08Deicing.jpg"><img src="/lspics/LS08DeicingSmall.jpg" alt="Deicing line at the Atlanta airport"></a></td>
+<td><kw class="krdwrd-tag-3">Hmm, maybe "on time" was a little misleading. The planes actually pushed back from the gate on time, and then waited 2 hours to get de-iced. Notice the conspicuous lack of snow on the ground (4 hours after it started snowing). This counts as a snowstorm in Atlanta.</kw></td>
+</tr><tr>
+<td align="center"><a href="/lspics/LS08FlyingThere.jpg"><img src="/lspics/LS08FlyingThereSmall.jpg" alt="Flying to Orlando"></a></td>
+<td><kw class="krdwrd-tag-3">Finally in the air, flying to Orlando. We left the gate at 2:30 (on time!) and took off at 5:00 (yawn).</kw></td>
+</tr><tr>
+<td align="center"><a href="/lspics/LS08NoCoffee.jpg"><img src="/lspics/LS08NoCoffeeSmall.jpg" alt="No coffee"></a></td>
+<td><kw class="krdwrd-tag-3">The saddest sight in all of Lotusphere: a coffee service table with NO COFFEE. This picture was taken at 8:11 AM. Unfortunately, the absence of coffee was not because they were about to put coffee out, it's because they just </kw><u><kw class="krdwrd-tag-3">put it away</kw></u><kw class="krdwrd-tag-3">. At 8:00 AM, when the early morning BOF's finished up. No coffee service until AFTER the 8:30 sessions are over, just an empty table to remind you of what you're missing. My yearly </kw><a href="/blog/Lotusphere2004.htm#01-27-04b-1156"><kw class="krdwrd-tag-3">bad coffee karma</kw></a><kw class="krdwrd-tag-3"> continues.</kw></td>
+</tr><tr>
+<td align="center"><a href="/lspics/LS08UglyBeard.jpg"><img src="/lspics/LS08UglyBeardSmall.jpg" alt="Julian with mutton chops"></a></td>
+<td><kw class="krdwrd-tag-3">"Eeek! Mommy, who is that scary man with the scary beard-thing?"</kw><p><kw class="krdwrd-tag-3">"Don't worry dear, it's probably someone who works at Tower of Terror. We'll walk on the other sidewalk over there."</kw></p></td>
+</tr><tr>
+<td align="center"><a href="/lspics/LS08SessionRoom.jpg"><img src="/lspics/LS08SessionRoomSmall.jpg" alt="Session room for BP210"></a></td>
+<td><kw class="krdwrd-tag-3">Here's the room for me and Rob's charting and graphing session, about 10 minutes before we began. The room filled up by the time we started talking. It was somewhere between 650 and 700 seats.</kw></td>
+</tr><tr>
+<td align="center"><a href="/lspics/LS08Nighttime.jpg"><img src="/lspics/LS08NighttimeSmall.jpg" alt="Nighttime outside the Dolphin"></a></td>
+<td><kw class="krdwrd-tag-3">At night, no one can hear you scream. Especially at 4:00 AM after you've been slugging back drinks in the Dolphin rotunda.</kw></td>
+</tr><tr>
+<td align="center"><a href="/lspics/LS08FlyingHome.jpg"><img src="/lspics/LS08FlyingHomeSmall.jpg" alt="Flying home over a nuclear power plant?"></a></td>
+<td><kw class="krdwrd-tag-3">And, here's the flight home. Is that a nuclear power plant we're flying past? What the hell?</kw></td>
+</tr></tbody></table>
+</p><p><kw class="krdwrd-tag-3">
+See, I told you it's a crappy set of pictures. And those are the ones I didn't delete.
+</kw></p><p></p></div><p>
+
+</p><div class="blogEntryTitle">
+<a name="02-07-08">
+<b><kw class="krdwrd-tag-1">Iñtërnâtiônàlizætiøn is Hard</kw></b> <i><kw class="krdwrd-tag-1">(Thursday, Feb 7)</kw></i></a><br>
+<div style="text-align: right;"><font class="smallText"><kw class="krdwrd-tag-1"> [ </kw><a href="#02-07-08"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><a href="mailto:blogs@nsftools.com?subject=I%C3%B1t%C3%ABrn%C3%A2ti%C3%B4n%C3%A0liz%C3%A6ti%C3%B8n%20is%20Hard"><kw class="krdwrd-tag-1">e-mail me</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><script type="text/javascript">CommentLink('020708')</script><a class="krdwrd-tag-1" href="javascript:void('020708')" target="_self" onclick="javascript:cWindow('020708')">comments (3)</a><a href="javascript:void('020708')" target="_self" onclick="javascript:cWindow('020708')"><kw class="krdwrd-tag-1">comments (3)</kw></a><kw class="krdwrd-tag-1"> ]</kw></font></div>
+</div><p>
+</p><div class="blogEntry"><kw class="krdwrd-tag-3">
+I'll say it again: it's easy to get something working on my machine. It's much more difficult to get it working on </kw><b><kw class="krdwrd-tag-3">your</kw></b><kw class="krdwrd-tag-3"> machine. Especially if you speak a different language and are in a different locale.
+</kw><p>
+<a href="http://jezzper.com"><kw class="krdwrd-tag-3">Jesper Kiaer</kw></a><kw class="krdwrd-tag-3"> and </kw><a href="http://www.noteschat.blogspot.com"><kw class="krdwrd-tag-3">Dietrich Willing</kw></a><kw class="krdwrd-tag-3"> were having some problems getting the Java Chart examples in the </kw><a href="http://www.notesability.com/julian/ChartTest.zip"><kw class="krdwrd-tag-3">ChartTest database</kw></a><kw class="krdwrd-tag-3"> working. They were both having locale issues. I fixed the problems in the database and reposted it (so you'll need to re-download if you got it before around noon today), but here's what was going on:
+</kw></p><p></p><ul>
+<li><kw class="krdwrd-tag-3">Problem #1 was that JFreeCharts was only working if your computer was using a locale of en_US. There's a </kw><a href="http://www.jfree.org/phpBB2/viewtopic.php?t=6123"><kw class="krdwrd-tag-3">known issue and workaround with JFreeCharts</kw></a><kw class="krdwrd-tag-3"> where if you're using the library without access to the localization resource bundles (like from an applet or using LS2J), you need to create and include a Java class for the bundle you need. I included an "en_US" class for my sample, but forgot to include any others. Dietrich picked up on this pretty quickly and posted the answer in yesterday's comments (thanks!), and I added a general LocalizationBundle class to the wrapper class library in the sample database.</kw><p>
+</p></li><li><kw class="krdwrd-tag-3">Problem #2 was that JTreemap was only working if your computer uses a period as a decimal separator. If you're in a locale that uses a comma as a decimal separator, you got an error. The issue there was that the JTreemap code was using Float.parseFloat() to convert a String to a decimal number, but parseFloat() ALWAYS uses a period as a separator -- so if your code outputs a number string with a comma in the decimal place, you're out of luck. The </kw><i><kw class="krdwrd-tag-3">correct</kw></i><kw class="krdwrd-tag-3"> answer to this is to </kw><a href="http://java.sun.com/developer/JDCTechTips/2002/tt0723.html"><kw class="krdwrd-tag-3">use NumberFormat to convert Strings to numbers</kw></a><kw class="krdwrd-tag-3">. However, I took the lazy way and simply replaced all the commas in the decimal strings to a period before Java even sees it. Less debugging that way.</kw></li>
+</ul><p><kw class="krdwrd-tag-3">
+So again, please </kw><a href="http://www.notesability.com/julian/ChartTest.zip"><kw class="krdwrd-tag-3">re-download the database</kw></a><kw class="krdwrd-tag-3"> if you were an early adopter and you downloaded yesterday, so you have the latest code. Until the next bug fix, of course...
+</kw></p><p>
+<b><i><kw class="krdwrd-tag-3">N.B.</kw></i></b><kw class="krdwrd-tag-3"> Iñtërnâtiônàlizætiøn is the "word" that </kw><a href="http://www.intertwingly.net/stories/2004/04/14/i18n.html"><kw class="krdwrd-tag-3">Sam Ruby suggests using</kw></a><kw class="krdwrd-tag-3"> to test for character set issues.
+</kw></p><p></p></div><p>
+
+</p><div class="blogEntryTitle">
+<a name="02-06-08">
+<b><kw class="krdwrd-tag-2">Charting and Graphing Sample Database Available</kw></b> <i><kw class="krdwrd-tag-1">(Wednesday, Feb 6)</kw></i></a><br>
+<div style="text-align: right;"><font class="smallText"><kw class="krdwrd-tag-1"> [ </kw><a href="#02-06-08"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><a href="mailto:blogs@nsftools.com?subject=Charting%20and%20Graphing%20Sample%20Database%20Available"><kw class="krdwrd-tag-1">e-mail me</kw></a><kw class="krdwrd-tag-1"> ] [ </kw><script type="text/javascript">CommentLink('020608')</script><a class="krdwrd-tag-1" href="javascript:void('020608')" target="_self" onclick="javascript:cWindow('020608')">comments (15)</a><a href="javascript:void('020608')" target="_self" onclick="javascript:cWindow('020608')"><kw class="krdwrd-tag-1">comments (15)</kw></a><kw class="krdwrd-tag-1"> ]</kw></font></div>
+</div><p>
+</p><div class="blogEntry"><kw class="krdwrd-tag-3">
+There's probably no point in apologizing, but I'll do it anyway: sorry it took so long to get this out.
+</kw><p><kw class="krdwrd-tag-3">
+There, now that that's out of the way... The sample database that </kw><a href="http://www.captainoblivious.com"><kw class="krdwrd-tag-3">Captain Rob McDonagh</kw></a><kw class="krdwrd-tag-3"> and I used for our Lotusphere session </kw><a href="http://lotusphere.turtleweb.com/LSess08.nsf/AllComments/BP210?OpenDocument&amp;TableRow=3.7#3."><kw class="krdwrd-tag-3">BP210: Reports, Charts, and Graphs in IBM Lotus Notes</kw></a><kw class="krdwrd-tag-3"> is finally available for download:
+</kw></p><p></p><ul>
+<li><b><a href="http://www.notesability.com/julian/ChartTest.zip"><kw class="krdwrd-tag-1">ChartTest.zip -- examples of exporting to Excel and using Java and Flash charts in Lotus Notes</kw></a></b></li>
+</ul><p><kw class="krdwrd-tag-3">
+We tried very hard to put some good information in there about how everything works, so please read the help docs and look at the code (with comments!) before you ask questions. This database should work on Notes 7 and Notes 8, and possibly on 5 and 6 but we didn't test those versions explicitly.
+</kw></p><p><kw class="krdwrd-tag-3">
+And, as always, I was amazed at how long it took to clean everything up for public consumption (and I'm sure there was more cleaning that could have been done). There's a big difference between getting something ready for demo (</kw><a href="http://www.codinghorror.com/blog/archives/000818.html"><kw class="krdwrd-tag-3">Works on My Machine!</kw></a><kw class="krdwrd-tag-3">) and getting it ready for other people to use it. Hours and hours of difference.
+</kw></p><p><kw class="krdwrd-tag-3">
+It's also possible that additional hours will be spent writing a few entries in the coming weeks about how some of this stuff works. We'll see.
+</kw></p><p></p></div><p>
+
+
+<!--  page text ends here  -->
+
+</p><div id="SiteLinks" style="visibility: hidden;">
+<hr><br>
+<center>
+<a href="http://www.nsftools.com"><kw class="krdwrd-tag-1">nsftools.com home page</kw></a><kw class="krdwrd-tag-1"> :: 
+</kw><a href="/blog/blogarchive.htm"><kw class="krdwrd-tag-1">blog archive</kw></a><kw class="krdwrd-tag-1"> :: 
+</kw><a href="/links.htm"><kw class="krdwrd-tag-1">other interesting sites</kw></a>
+</center>
+<br><hr><p>
+<script type="text/javascript" src="http://embed.technorati.com/embed/rpmiphne2z.js"></script>
+</p></div>
+
+<script language="JavaScript">
+<!-- 
+	// Write the standard footer information, if any
+	if (typeof(WritePageFooter) == "function")  {
+		WritePageFooter();
+	}  else  {
+		document.writeln("</td></tr></table>");
+	}
+// -->
+</script><p></p><center><hr size="1" width="300"><p>
+<font class="smallText krdwrd-tag-1">
+For questions concerning this site, please contact <a class="krdwrd-tag-1" title="Send Mail to the Webmaster" href="mailto:webmaster@nsftools.com">the webmaster</a>
+      </font></p></center></td></tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<p></p><center><hr size="1" width="300"><p>
+<font class="smallText"><kw class="krdwrd-tag-1">
+For questions concerning this site, please contact </kw><a title="Send Mail to the Webmaster" href="mailto:webmaster@nsftools.com"><kw class="krdwrd-tag-1">the webmaster</kw></a>
+      </font></p></center></td></tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+
+</body>

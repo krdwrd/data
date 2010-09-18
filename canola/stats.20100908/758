@@ -1,0 +1,569 @@
+<head><base href="http://www.backyard-astro.com/focusonarchive/m31/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Observing M31, the Andromeda Galaxy</title>
+
+
+
+	
+		
+		
+		<link href="../../main.css" rel="stylesheet" media="screen">
+		<csactionitem name="BA4B83272"></csactionitem>
+		<meta name="keywords" content="M 31, M 32, M 110, Andromeda Galaxy, M31, M32, M110, Messier, Observing M 31, Observing Andromeda, Observing the Andromeda Galaxy, Great nebula in Andromeda, Andromeda Nebula">
+		<meta name="description" content="A journey through Andromeda, visiting some interesting deep sky objects for telescopes and binoculars. Descriptions, images, finder charts and sketches included. ">
+		<csactions></csactions>
+			<csaction name="BA4B83272" class="Netscape CSS Fix" type="onload"></csaction>
+		
+		<csscriptdict import=""></csscriptdict>
+			<script type="text/javascript" src="../../GeneratedItems/CSScriptLib.js"></script>
+		
+		<csactiondict></csactiondict>
+			<script type="text/javascript"><!--
+CSInit[CSInit.length] = new Array(CSNSFix);
+
+// --></script>
+		
+		<csimport user="../../../backyardastro.data/Componenten/navbarfocuson.html" occur="99"></csimport>
+			<csactiondict></csactiondict>
+				<script type="text/javascript"><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'fonavbarbutton',/*URL*/'../../afbeeldingen/navbarfocus.gif',/*URL*/'../../afbeeldingen/navbarfocus_on.gif',/*URL*/'','');
+
+// --></script></head><body onload="CSScriptInit();">
+		<div align="right">
+			<a title="Main menu" href="../../index.html"><img src="../../afbeeldingen/noframes.gif" alt="" border="0" height="31" width="88"></a><br>
+			<br></div>
+		<div align="center">
+			<csobj csref="../../../backyardastro.data/Componenten/navbarfocuson.html" h="33" occur="99" t="Component" w="858">
+				</csobj><table align="center" border="0" cellpadding="0" cellspacing="0" width="151">
+					<tbody><tr>
+						<td><csobj al="Focus On" h="33" ht="../../afbeeldingen/navbarfocus_on.gif" t="Button" w="151"><a href="../../focuson/focuson.html" target="mainframe" onmouseover="return CSIShow(/*CMP*/'fonavbarbutton',1)" onmouseout="return CSIShow(/*CMP*/'fonavbarbutton',0)" onclick="return CSButtonReturn()"><img src="../../afbeeldingen/navbarfocus.gif" name="fonavbarbutton" alt="Focus On" border="0" height="33" width="151"></a></csobj></td>
+					</tr>
+				</tbody></table>
+			<br>
+			<br>
+			<img src="../../afbeeldingen/focusonsmall.gif" alt="Focus On Logo" align="middle"><br>
+			<br>
+			<br>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td>
+						<h1><kw class="krdwrd-tag-2-90">Observing M 31, the Andromeda Galaxy</kw></h1>
+					</td>
+				</tr>
+				<tr>
+					<td><br>
+						<br>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody><tr valign="top">
+								<td valign="top">
+									<h2><br><kw class="krdwrd-tag-1-90">
+										Content:</kw><br>
+										<br>
+									</h2>
+									<a href="#Anchor-49575"><kw class="krdwrd-tag-1-90">Introduction</kw></a><br>
+									<br>
+									<a href="#Anchor-47857"><kw class="krdwrd-tag-1-90">Where to find M 31</kw></a><br>
+									<br>
+									<a href="#Anchor-11481"><kw class="krdwrd-tag-1-90">My Observing log entries of M 31</kw></a><br>
+									<br>
+									<a href="#Anchor-35882"><kw class="krdwrd-tag-1-90">What to expect when observing M 31</kw></a><br>
+									<br>
+									<a href="#Anchor-14210"><kw class="krdwrd-tag-1-90">Data M 31, M 32 and M 110</kw></a><br>
+									<br>
+									<a href="#Anchor-23240"><kw class="krdwrd-tag-1-90">M 31 on the web</kw></a><br>
+									<br>
+									<a href="#Anchor-3800"><kw class="krdwrd-tag-1-90">Bibliography</kw><br>
+										<br>
+									</a></td>
+								<td>
+									<div align="center">
+										<h3><img src="01Gendler.jpg" alt="" border="0"><br>
+											<br><kw class="krdwrd-tag-1-100">
+											Image credit: </kw><a title="Robert Gendler Astropics" href="http://robgendlerastropics.com" target="_blank"><kw class="krdwrd-tag-1-100">Robert Gendler</kw></a><br>
+											<br>
+										</h3>
+									</div>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td><a name="Anchor-49575"></a><br>
+						<br>
+					</td>
+				</tr>
+				<tr>
+					<td><br>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h2><kw class="krdwrd-tag-2-100">Introduction</kw><br>
+							<br>
+						</h2>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><kw class="krdwrd-tag-3-100">M 31, also known as the Andromeda Galaxy, is not only the nearest, brightest large spiral galaxy; it is also by far the largest galaxy of the Local Group of galaxies, which includes our own Milky Way, M 32, M 33, M 110, the Magellanic Clouds and others. M 31 lies at a distance of 2.4 million light years, but on a clear night you can see it without any optical aid from a moderate observing site, as a small and fuzzy patch of light of the 4th magnitude. This makes it also one of the farthest objects that you can see with your naked eyes.</kw><br>
+							<br><kw class="krdwrd-tag-3-100">In the year 964 a Persian astronomer by the name of Al-Sufi described and depicted M 31, the Andromeda Galaxy, in his "Book of Fixed Stars". He describes it as "a little cloud" lying before the mouth of a Big Fish, an Arabic constellation. The drawing below comes from his book, and is considered the first known image of M 31.</kw><br>
+							<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+							<h3><img src="02alsufi.jpg" alt="" border="0" height="198" width="300"><br>
+								<br>
+								<br><kw class="krdwrd-tag-1-70">
+								The Andromeda Nebula by Al Sufi</kw><br>
+								<br>
+								<br>
+							</h3>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><kw class="krdwrd-tag-3-100">Charles Messier catalogued M 31 on August 3, 1764 . Messier wrote in his Catalogue of Nebulae and Star Clusters: </kw><br>
+							<br><kw class="krdwrd-tag-3-100">
+							
+						"The beautiful nebula of the belt of Andromeda, shaped like a spindle; M. Messier has investigated  it with different instruments and he didn't recognise a star; it resembles two cones or pyramids of light, opposed at their bases, the axes of which are in direction NW-SE; the two points of light or the apices are about 40 arc minutes apart; the common base of the pyramids is about 15'. This nebula was discovered by Simon Marius, and consequently observed by different astronomers. M. Le Gentil has given a drawing in the Memoirs of the Academy for 1759, page 453. It is reported on the English Atlas" (diam. 40'). </kw><br>
+							<br><kw class="krdwrd-tag-3-90">
+							Messier sketched M 31, M 32 and M 110. The sketch (see image below) was originally published in 1807 in the Connaissance des Temps. (See also the </kw><a title="SEDS Messier Catalogue" href="http://www.seds.org/messier/xtra/history/m-m31_42.html" target="_blank"><kw class="krdwrd-tag-3-70">SEDS Messier Catalogue</kw></a><kw class="krdwrd-tag-3-70">) </kw><br>
+							<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+							<h3><img src="03messier.jpg" alt="" border="0" height="480" width="447"><br>
+								<br>
+								<br><kw class="krdwrd-tag-1-100">
+								M 31, M 32 and M 110 by Charles Messier</kw><br>
+								<br>
+								<br>
+							</h3>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><kw class="krdwrd-tag-3-100">Messier saw (like all other observers before him) M 31 as a nebula, not as a galaxy. Herschel, Bode and Smyth also saw M 31 as "a nebula in Andromeda". It was Edwin Hubble who established the intergalactic distance and the true nature of M 31 as a galaxy. This was in 1923, when he found the first Cepheid variable in the Andromeda Galaxy. Hubble published his study of the Andromeda "nebula" as an extragalactic system (galaxy) in 1929. Since then M 31, the great nebula in Andromeda is known as the Andromeda Galaxy.</kw><br>
+							<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td><a name="Anchor-47857"></a><br>
+					</td>
+				</tr>
+				<tr>
+					<td><br>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h2><kw class="krdwrd-tag-2-100">Where to find M 31</kw><br>
+							<br>
+						</h2>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><kw class="krdwrd-tag-3-100">To locate M 31 and its two companions M 32 and M 110, we have to start at Beta Andromedae. From Beta Andromedae go 4° north to Mu Andromedae, a star of magnitude 3.8. Then go further north about 3° to Nu Andromedae, a 4.5 magnitude star. Just 1° northwest of Nu Andromeda you will find M 31, the Andromeda Galaxy. As I mentioned earlier, even under suburban skies you should be able to spot M 31 with your naked eyes as a fuzzy patch of light (use averted vision if necessary). If you live in an area which is heavily light polluted, use binoculars or a finder-scope.</kw><br>
+							<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+							<img src="04M31finderchart.jpg" alt="Finderchart M31" border="0" height="281" width="567"><br>
+							<br>
+							<h3><kw class="krdwrd-tag-1-100">Credit and © Software Bisque, “TheSky for Macintosh”</kw></h3><br>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td><a name="Anchor-11481"></a><br>
+					</td>
+				</tr>
+				<tr>
+					<td><br>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h2><kw class="krdwrd-tag-2-100">My observing log entries of M 31</kw><br>
+							<br>
+						</h2>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><kw class="krdwrd-tag-3-90">If you want to observe galaxies, you should do this from a dark sky site, free of light pollution. With M 31 however, it is a bit different. The Andromeda Galaxy can be observed from suburban areas very well. Over the years I have been observing M 31 with different instruments from three different locations. From my own backyard I've used 7x50 and 15x80 binoculars. From two superb dark-sky sites I used the 15x80 binoculars and a high quality 12.5-inch Dobson. I did all binocular observing using the Sky Window mirror mount.</kw><br>
+							<br>
+							<font color="#ffcc66"><kw class="krdwrd-tag-2-90">1. With Bresser 7x50 binoculars from my own backyard (450 feet altitude)</kw><br>
+							</font><kw class="krdwrd-tag-3-100">From my own backyard I regularly observed M 31 with 7x50 Bresser binoculars (field of view 6.1 degrees). At first sight the bright central part of the Andromeda Galaxy appeared as a football-shaped greyish-white smudge of light, about one degree wide. After 10 minutes of concentrated observing, using averted vision, I could see the Andromeda Galaxy as 2-degree wide elongated object with a bright core. The surface brightness of M 31 was gradually decreasing towards the edge of the 2-degree wide oval. Moving the mirror of the Sky Window up and down very slowly didn't make any difference. I got the same results with direct vision. I did not see any dark lanes or any other details in M 31. I did not detect M 32 or M 110.</kw><br>
+							<br>
+							<font color="#ffcc66"><kw class="krdwrd-tag-2-90">2. With a 12.5-inch ICS Dobson from a rural site (5,400 feet altitude)</kw><br>
+							</font><kw class="krdwrd-tag-3-100">In September 2003 I visited a star party in Austria, and had the opportunity to observe M 31 through a high-quality 12.5-inch Dobson from ICS (Intercon Spacetec). The altitude was 5.400 feet and the seeing was moderate; the limiting magnitude was about 6.5 to 7 in the zenith. With a 27mm Panoptic (55x) installed I observed the central region of the Andromeda Galaxy, about 1.5 degrees wide. It was an amazing sight. The central region of the galaxy was very bright with a star-like core, and filled almost the whole field of view from left to right. The Andromeda Galaxy was "cut off" at the edges of the field of view. There was a dark lane visible to the north-northwest of the centre of M 31. I could see this dark lane with direct vision. When I looked through the eyepiece, from the first moment on, the dark lane was just there.</kw><br>
+							<br>
+							<font color="#ffcc66"><kw class="krdwrd-tag-2-90">3. With Vixen 15x80 binoculars from my own backyard (450 feet altitude)</kw><br>
+							</font><kw class="krdwrd-tag-3-100">In December 2003 I observed M 31 with the 15x80 binoculars for the first time. I observed from my own backyard, and the limiting magnitude was about 4.7 in the zenith. The 15x80 has a field of view of 3.5 degrees. The results I got that night where by far superior to what I head seen through my 7x50. The galaxy was at least 2.5 degrees wide with a very bright nucleus. After a few minutes of observing I could see the two companions of M 31. First I spotted the bright, stellar-like M 32. It looked like a "fuzzy" star. Then, after another few minutes of observing, I saw M 110 as well. It looked like a small, elongated oval patch of greyish light. I did not detect any dark lanes or other details in M 31, but during the observing session, the image got better and better. I used an old T-shirt, draped over my head (and binoculars), as a kind of cloak against stray light, and I noticed that with a lot of patience you can see more than you first expect. You have to be patient with the Andromeda Galaxy, but you will rewarded for your patience.</kw><br>
+							<br>
+							<font color="#ffcc66"><kw class="krdwrd-tag-2-70">4. With Vixen 15x80 binoculars from a semi-rural site (2,400 feet altitude)</kw><br>
+							</font><kw class="krdwrd-tag-3-100">In September 2004 I observed M 31 from a dark-sky site in Bavaria in Germany (altitude 2400 feet) again with the 15x80 binoculars. It was a very clear, transparent night and the limiting magnitude was about 6.5 in the zenith. The views I got that night from the Andromeda Galaxy where simply stunning. I aimed the binoculars at M 31 and when I looked through it, wham! There was M 31, about 3 degrees wide, together with M 32 and M 110. I couldn't believe my eyes. No averted vision. No concentrated observing for half an hour. The three galaxies where visible at first sight! After a while I slowly moved the mirror of the Sky Window up and down. M 31 seemed to be even wider than 3 degrees. It was as if it "touched" the edges of my 3.5-degree field of view. I observed for 35 minutes, but I could not see the dark lanes. It probably takes a real big binocular or telescope with a larger aperture to detect them.</kw><br>
+							<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td><a name="Anchor-35882"></a><br>
+					</td>
+				</tr>
+				<tr>
+					<td><br>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h2><kw class="krdwrd-tag-2-90">What to expect when observing M31?</kw><br>
+							<br>
+						</h2>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><kw class="krdwrd-tag-3-100">M 31 is a perfect object for binoculars and rich-field telescopes. It is very rewarding, even when observed from a suburban site with a moderate instrument. From a dark-sky site the views you get are very hard to describe in words. The sketch below should give you an idea of what to expect. Sue French made it on the night of November 4 1999, at 8 PM EST. She was observing M 31 from her own backyard, a semi-rural site about 7 miles away from a city with a population of 61.000. She used a 4.1-inch f/5.8 apochromat (AP Traveler) in combination with a 35mm Panoptic. The true field of view is about 4 degrees. Sue rated the seeing as fair and the transparency was good. I adjusted the orientation of the sketch to the naked-eye view. North is up and East is to the left.</kw><br>
+							<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+							<h3><img src="05SueFrench.jpg" alt="" border="0"><br>
+								<br>
+								<br><kw class="krdwrd-tag-1-100">
+								Image credit: Sue French</kw><br>
+								<br>
+								<br>
+							</h3>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><kw class="krdwrd-tag-3-100">With larger telescopes, it is possible to see a lot of globular clusters and HII regions in M 31. In the southwestern part of M 31 lies NGC 206, a stellar association that is visible in medium to large telescopes. If you are interested in observing M 31 in detail, you can use one of the two online atlases of the M 31. One is </kw><a title="John Blackwell" href="http://www.regulusastro.com/regulus/papers/m31/" target="_blank"><kw class="krdwrd-tag-3-100">The M 31 Atlas by John Blackwell</kw></a><kw class="krdwrd-tag-3-100"> and the other is the </kw><a title="Paul Hodge" href="http://nedwww.ipac.caltech.edu/level5/ANDROMEDA_Atlas/Hodge_contents.html" target="_blank"><kw class="krdwrd-tag-3-100">Atlas of the Andromeda Galaxy by Paul W. Hodge</kw></a><kw class="krdwrd-tag-3-90">.</kw><br>
+							<br><kw class="krdwrd-tag-3-100">The image below is from Martin Germano. It shows the southeastern part of M 31 with NGC 206 as a bright cloud of stars, just to the right of the centre of the image.</kw><br>
+							<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+							<h3><img src="06Germano.jpg" alt="Sketch Germano" border="0" height="460" width="560"><br>
+								<br>
+								<br><kw class="krdwrd-tag-1-100">
+								Image credit: </kw><a title="Martin Germano" href="http://home.earthlink.net/%7emcgermano/" target="_blank"><kw class="krdwrd-tag-1-100">Martin Germano</kw></a><br>
+								<br>
+								<br>
+							</h3>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td><a name="Anchor-14210"></a><br>
+					</td>
+				</tr>
+				<tr>
+					<td><br>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h2><kw class="krdwrd-tag-1-70">Data M 31, M 32 and M 110</kw><br>
+							<br>
+						</h2>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table border="1" cellpadding="0" cellspacing="2" width="100%">
+							<tbody><tr>
+								<td bgcolor="#003366" width="25%">
+									<p><kw class="krdwrd-tag-1-100">Messier</kw></p>
+								</td>
+								<td bgcolor="#003366" width="25%">
+									<p><kw class="krdwrd-tag-1-100">M 31</kw></p>
+								</td>
+								<td bgcolor="#003366" width="25%">
+									<p><kw class="krdwrd-tag-1-100">M 32</kw></p>
+								</td>
+								<td bgcolor="#003366">
+									<p><kw class="krdwrd-tag-1-100">M 110</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">NGC</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">224</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">221</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">205</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Type</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Spiral galaxy</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Dwarf Elliptical Galaxy</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">Elliptical Galaxy</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Constellation</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Andromeda</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Andromeda</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">Andromeda</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">RA</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">0h 43m</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">0h 43m</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">0h 41m</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">DEC</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">+41deg 16'</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">+40deg 52'</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">+41deg 41'</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Mag</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">3.4</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">8.1</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">8.5</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">SB</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">13.6</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">12.7</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">13.9</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Size</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">178'x63'</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">8'x6'</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">17'x10'</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">SA 2000</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">4</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">4</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">4</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Millennium SA</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">I-105</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">I-105</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">I-105</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Uranometria 1</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">I-106</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">I-60</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">I-60</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Uranometria 2</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">30</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">30</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">30</kw></p>
+								</td>
+							</tr>
+							<tr>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">Herald-Bobrof</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">B-03 C-38</kw></p>
+								</td>
+								<td width="25%">
+									<p><kw class="krdwrd-tag-1-100">B-03 C-38</kw></p>
+								</td>
+								<td>
+									<p><kw class="krdwrd-tag-1-100">B-03 C-38</kw></p>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td><a name="Anchor-23240"></a><br>
+					</td>
+				</tr>
+				<tr>
+					<td><br>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h2><kw class="krdwrd-tag-1-60">M31 on the Web</kw><br>
+							<br>
+						</h2>
+					</td>
+				</tr>
+				<tr>
+					<td><a title="M31 in Messier Catalogue of the SEDs" href="http://www.seds.org/messier/m/m031.html" target="_blank"><kw class="krdwrd-tag-1-100">M 31 in the Messier Catalog of the SEDS</kw></a><br>
+						<br>
+						<a title="M31 Atlas by John A. Blackwell" href="http://www.regulusastro.com/regulus/papers/m31/" target="_blank"><kw class="krdwrd-tag-1-100">M 31 atlas by John A. Blackwell</kw></a> <br>
+						<br>
+						<a title="Atlas of Andromeda Galaxy by P.W. Hodge" href="http://nedwww.ipac.caltech.edu/level5/ANDROMEDA_Atlas/Hodge_contents.html" target="_blank"><kw class="krdwrd-tag-1-100">Atlas of the Andromeda Galaxy by Paul W. Hodge</kw></a> <br>
+						<br>
+						<a title="Observing reports M31 by amateur astronomers" href="http://www.visualdeepsky.org/search.cgi?catalogs=Messier&amp;ids=31" target="_blank"><kw class="krdwrd-tag-1-100">Observing reports of M 31 by amateur astronomers </kw></a><br>
+						<br>
+					</td>
+				</tr>
+				<tr>
+					<td><a name="Anchor-3800"></a><br>
+					</td>
+				</tr>
+				<tr>
+					<td><br>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h2><kw class="krdwrd-tag-2-60">Bibliography</kw><br>
+							<br>
+						</h2>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><kw class="krdwrd-tag-1-70">The Messier Objects by Stephen James O'Meara</kw><br><kw class="krdwrd-tag-1-70">
+							Burnham's Celestial Handbook Volume One by Robert Burnham Jr.</kw><br><kw class="krdwrd-tag-1-70">
+							Sky Vistas by Craig Crossen and Gerald Rhemann</kw><br><kw class="krdwrd-tag-1-70">
+							Touring the Universe through Binoculars by Phil Harrington</kw><br><kw class="krdwrd-tag-1-70">
+							The Deepsky: An Introduction by Phil Harrington</kw><br><kw class="krdwrd-tag-1-70">
+							Binocular Astronomy by Crossen and Tirion</kw><br><kw class="krdwrd-tag-1-70">
+							The Nightsky Observers Guide Volume One by Kepple and Sanner</kw><br><kw class="krdwrd-tag-1-70">
+							The Millennium Star Atlas by Sinnott and Perryman</kw><br>
+						</p>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+			<br>
+			<br><br>
+						<div align="center">
+							<h3 class="krdwrd-tag-1-100"><kw class="krdwrd-tag-1-100">Copyright © 2003 
+								</kw><script language="JavaScript">
+  var d=new Date();
+  yr=d.getFullYear();
+  if (yr!=2002)
+  	    document.write("- "+yr);
+</script>- 2009<kw class="krdwrd-tag-1-100">- 2008
+								
+								www.backyard-astro.com</kw></h3>
+							</div>
+	</body>

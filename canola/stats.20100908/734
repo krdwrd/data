@@ -1,0 +1,841 @@
+<head><base href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Pirates unmasked off Guinea, West Africa - Ocean Defenders - the weblog</title>
+
+
+
+
+
+<meta name="description" content="Crew and activist weblog.">
+
+<meta name="keywords" content="greenpeace oceans sea Esperanza fish squid pirate fishing whales marine aquaculture bottom trawling whaling albatros Gorton's">
+
+<link rel="stylesheet" href="http://weblog.greenpeace.org/oceandefenders/styles-site.css" type="text/css">
+
+<script type="text/javascript" language="javascript">
+<!--
+var win=null;
+
+function popWin (win_url,win_name,w,h) {
+
+  pos_left=0;
+  pos_top=20;
+
+  pos_left=(screen.width)?(screen.width-w)/2:100;
+  pos_top=(screen.height)?(screen.height-h)/2:100;
+
+  attribs="width=" + w + ",height=" + h + ",top=" + pos_top + ",left=" + pos_left + ",x=" + pos_left + ",y=" + pos_top + ",scrollbars=no,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=yes";
+  win=window.open(win_url,win_name,attribs);
+  win.focus();
+}
+// -->
+</script><!-- SCRIPT FOR OCEAN DEFENDERS SIGN UP -->
+
+
+<script language="javascript" type="text/javascript" src="http://oceans.greenpeace.org/gcms/resources/javascripts/od-register-redirect.js"></script>  
+
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://weblog.greenpeace.org/oceandefenders/atom.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS 1.0" href="/http://weblog.greenpeace.org/oceandefenders//index.rdf">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/http://weblog.greenpeace.org/oceandefenders//index.xml">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/http://weblog.greenpeace.org/oceandefenders//rsd.xml"><!-- CSS for local viewing-->
+
+<link href="styles-site.css" rel="stylesheet" type="text/css"><!-- old code  OK TO DELETE
+
+<link rel="start" href="http://weblog.greenpeace.org/oceandefenders/" title="Home" />
+<link rel="prev" href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/happy_birthday_to_a_friend.html" title="Happy birthday to a friend" />
+
+<link rel="next" href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/pirate_fishing_in_west_af.html" title="Slideshow: Pirate Fishing in West Africa" />
+
+
+end old code --><!-- new code instead of above
+
+*Commented out by nick 13-dec-6 cos it shouldn't be inside the head tags.
+
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/happy_birthday_to_a_friend.html" title="Previous in category">&laquo; Happy birthday to a friend</a> |
+
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/pirate_fishing_africa/#004146" title="Category index">pirate_fishing_africa</a>
+| <a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/pirate_fishing_in_west_af.html" title="Next in category">Slideshow: Pirate Fishing in West Africa &raquo;</a>
+
+
+ end new code -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'weblog.greenpeace.org';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + (expires ? "; expires=" + expires : "") + (path ? "; path=" + path : "") + (domain ? "; domain=" + domain : "") + (secure ? "secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    now = now.toGMTString();
+    if (f.author != undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email != undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url != undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script></head><body>
+
+<div id="container"><!-- container goes around the area with a white background -->
+<a name="TOP" id="TOP"></a>
+
+
+<div id="header" style="height: 111px;">
+
+<!--
+
+Insert the correct header image according to category
+
+-->
+<img src="http://weblog.greenpeace.org/oceandefenders/design/top_banner_weblog_fish.jpg" alt="Ocean Defenders - help wanted." height="111" width="750">
+
+
+
+
+
+
+</div> <!-- end header -->
+<div id="breadcrumbs"><!--
+&nbsp;&nbsp; <a href="http://www.greenpeace.org/oceans">Year in the Life</a> &#8250; weblog home
+--></div>
+<!-- end section_title -->
+<div id="main">
+<div id="entries">
+
+
+
+<!-- old code
+
+<div style="text-align:center;">
+<h3><a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/happy_birthday_to_a_friend.html">� Happy birthday to a friend</a> |
+
+<a href="http://weblog.greenpeace.org/oceandefenders/">Home</a>
+| <a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/pirate_fishing_in_west_af.html">Slideshow: Pirate Fishing in West Africa �</a>
+</h3>
+</div>
+
+old code -->
+
+
+
+<!-- new code instead of above  -->
+
+<div style="text-align: center;">
+<h3><a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/happy_birthday_to_a_friend.html" title="Previous in category"><kw class="krdwrd-tag-1-100">Happy birthday to a friend</kw></a><kw class="krdwrd-tag-1-70"> |
+
+</kw><a href="http://weblog.greenpeace.org/oceandefenders/archive/pirate_fishing_africa/#004146" title="Category index"><!-- pirate_fishing_africa --><kw class="krdwrd-tag-1-100">Home</kw></a><kw class="krdwrd-tag-1-70">
+| </kw><a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/pirate_fishing_in_west_af.html" title="Next in category"><kw class="krdwrd-tag-1-100">Slideshow: Pirate Fishing in West Africa</kw></a>
+</h3>
+</div>
+
+<!-- end new code -->
+
+<!--
+Commented out by nick 13-dec-05
+<p>THIS IS A TEST PAGE, SORRY. </p>
+-->
+
+<p>&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<!-- start update -->
+
+<h4><kw class="krdwrd-tag-1-100">27 March 2006</kw></h4>
+
+<h3><a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/pirates_west_africa.html"><kw class="krdwrd-tag-2-90">Pirates unmasked off Guinea, West Africa</kw></a></h3>
+
+<h4><kw class="krdwrd-tag-1-70">by Dave, onboard the </kw><a href="http://oceans.greenpeace.org/en/the-expedition/the-esperanza"><kw class="krdwrd-tag-1-70">Esperanza</kw></a></h4>
+<div class="update_picl"><a href="http://weblog.greenpeace.org/oceandefenders/images/pirate_africa/_MG_7498_long_way_8.html" onclick="window.open('http://weblog.greenpeace.org/oceandefenders/images/pirate_africa/_MG_7498_long_way_8.html','popup','width=500,height=333,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://weblog.greenpeace.org/oceandefenders/images/pirate_africa/_MG_7498_long_way_8_150.jpg" height="100" width="150"></a><br><kw class="krdwrd-tag-1-100"> ©Greenpeace/Walsh</kw></div><kw class="krdwrd-tag-3-100">Ok, so we've been a bit slow at updating the Defending Oceans weblog the last few days, but we've a good excuse. it's because we've been working undercover off the coast of Guinea, West Africa. It's pretty hard to hide a 72-metre-long blue and white ship with rainbows on the bow, but we did bring the element of surprise. 
+
+</kw><p><kw class="krdwrd-tag-3-100">In the last 10 days, we've witnessed and documented the theft of fish from one of the poorest regions in the world. Now, it's time for us to announce our presence, and to take action. We're working with Hélène and Sam from the Environmental Justice Foundation, who've been on board since the start of the trip.  Also joining us are two Guinean enforcement agents, who are authorised to arrest  these pirate vessels before they can launder any more of their illegal cargo through Europe's ports.</kw><br>
+</p>
+
+<div id="a004146more"><div id="more">
+<p><kw class="krdwrd-tag-3-100">So far, we've recorded 67 foreign-flagged vessels within Guinea Conakry's 200-mile Exclusive Economic Zone (EEZ). Of these, 19 are not authorised to fish at all. Another 22 have known to have been involved in illegal fishing at some point in the past. We couldn't identify nine of them - their names were hidden, or they covered them as we approached. Eight vessels, also unidentified, were spotted inside the Guinean 12-mile zone - waters reserved for local 'artisanal' fishermen, most of whom still use small canoes called </kw><em><kw class="krdwrd-tag-3-90">pirogues</kw></em><kw class="krdwrd-tag-mrgtie-40">.</kw></p>
+
+<p><kw class="krdwrd-tag-3-100">In the shadowy world of pirate fishing, illegal catches are transferred to 'reefers' (refrigerated ships), which then deliver the fish onto the dinner plates of Europe, via the port of Las Palmas in the Canary Islands. </kw></p>
+
+<p><kw class="krdwrd-tag-3-100">Fish consumption has been rising in Europe and elsewhere, but there's actually been a decline in West Africa - the only region in the world where this is happening. In the struggle to compete with illegal industrial trawlers, local fishermen are losing their livelihoods - and in some cases, their lives. Others are forced farther out to sea - we've seen them working more than 100km from the coast, bobbing around in small boats, at the mercy of the elements. The Guinean authorities have virtually no capacity to combat fish pirates, even when they come within a couple of miles of the shore.</kw></p>
+
+<p><kw class="krdwrd-tag-3-100">Up to now, there's been lots of talk from governments - including and especially the EU - about tackling the problem. If they were actually bothered about stopping pirate fishing, we wouldn't need to be here, helping out the Guinean authorities. With all their talk about encouraging aid to Africa, it's ironic,  hypocritical and downright ridiculous that local sources of food and income are being pillaged for European fish markets. </kw></p>
+
+<p><kw class="krdwrd-tag-1-70">- </kw><a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/dave_web_editor.html"><kw class="krdwrd-tag-1-100">Dave</kw></a></p>
+
+<p><a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/pirate_fishing_in_west_af.html"><img src="http://weblog.greenpeace.org/oceandefenders/images/pirate_africa/slideshow_west_africa.jpg"></a></p>
+
+<p><a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/pirate_fishing_in_west_af.html"><kw class="krdwrd-tag-1-100">View the Slideshow »</kw></a><br>
+</p>
+</div></div>
+
+<p class="end">&nbsp;&nbsp;&nbsp;</p>
+
+<!-- comments and trackbacks and that stuff -->
+
+<h2 id="trackbacks"><kw class="krdwrd-tag-1-60">Trackback Pings</kw></h2>
+<p class="techstuff"><kw class="krdwrd-tag-1-90">TrackBack URL for this entry:</kw><br><kw class="krdwrd-tag-1-100">
+http://weblog.greenpeace.org/cgi-bin/mv/mt-tb.cgi/1415</kw></p>
+
+
+
+
+<h4 id="comments"><kw class="krdwrd-tag-1-70">Comments</kw></h4>
+
+<div id="c58010">
+<p><kw class="krdwrd-tag-3-90">Wow, you guys have been working hard.</kw></p>
+
+<p><kw class="krdwrd-tag-3-90">The ship in that photo -- I can't beleive its still floating! </kw></p>
+
+<p><kw class="krdwrd-tag-3-90">Keep us posted on what's going on over there!</kw></p>
+</div>
+<p class="posted"><kw class="krdwrd-tag-1-100">Posted by:  </kw><b><kw class="krdwrd-tag-1-100">Abri</kw></b><kw class="krdwrd-tag-1-100"> at March 27, 2006  4:59 PM</kw></p>
+<div id="c58011">
+<p><kw class="krdwrd-tag-3-100">Daer Helene from the EJF, you will always find a way to fullfill your mission. Im impressed. Hopefully this time thing will went better than last time. Good Luck! Ingo.</kw></p>
+</div>
+<p class="posted"><kw class="krdwrd-tag-1-100">Posted by:  </kw><b><kw class="krdwrd-tag-1-100">Ingo Bokermann</kw></b><kw class="krdwrd-tag-1-100"> at March 27, 2006  5:51 PM</kw></p>
+<div id="c58012">
+<p><kw class="krdwrd-tag-3-100">Your last paragraph summed it up, Dave, - the hyprocrisy of the EU in condemning pirate fishing meanwhile lining up with transnationals to exploit every conceivable resource in Africa.</kw><br><kw class="krdwrd-tag-3-100">
+The constant turmoil in Africa from political strife, civil wars, etc., masks the massive exploitation behind the scenes.</kw><br><kw class="krdwrd-tag-3-100">
+Starving people have no choice when it comes to illegal poaching and "eating" of endangered species.  They do it to provide the next meal for a family - that's when the conservation ethic and the survival ethic come into conflict.</kw><br><kw class="krdwrd-tag-3-100">
+Sorry if I seem to be sounding off a bit!</kw><br>
+</p>
+</div>
+<p class="posted"><kw class="krdwrd-tag-1-100">Posted by:  </kw><b><kw class="krdwrd-tag-1-100">echo</kw></b><kw class="krdwrd-tag-1-100"> at March 27, 2006  5:54 PM</kw></p>
+<div id="c58014">
+<p><kw class="krdwrd-tag-3-70">Interesting reading or the stuff of nightmares.....</kw><br><kw class="krdwrd-tag-mrgtie-40">
+Latest issue of TIME magazine - Special Report on Global Warming - "BE WORRIED.  BE VERY WORRIED".</kw></p>
+
+<p><kw class="krdwrd-tag-1-60">Published on Sunday, March 26, 2006 by the lndependent/UK </kw><br><kw class="krdwrd-tag-1-60">
+Global SOS: Save Our Sacred Sites</kw><br><kw class="krdwrd-tag-3-60">
+That's the message of a new campaign as some of our rarest species can be found on land and water revered by tribes the world over</kw><br><kw class="krdwrd-tag-1-70">
+by Geffrey Lean </kw><br>
+<a href="http://www.commondreams.org/headlines06/0326-04.htm" rel="nofollow"><kw class="krdwrd-tag-1-90">www.commondreams.org/headlines06/0326-04.htm</kw></a></p>
+</div>
+<p class="posted"><kw class="krdwrd-tag-1-100">Posted by:  </kw><b><kw class="krdwrd-tag-1-100">echo</kw></b><kw class="krdwrd-tag-1-100"> at March 27, 2006  6:59 PM</kw></p>
+<div id="c58017">
+<p><kw class="krdwrd-tag-3-60">Hey Abri. You ain't seen nuthin yet. We've seen far, far worse...</kw></p>
+</div>
+<p class="posted"><kw class="krdwrd-tag-1-100">Posted by:  </kw><b><kw class="krdwrd-tag-1-100">Dave - Webbie on the Esperanza</kw></b><kw class="krdwrd-tag-1-100"> at March 27, 2006  9:08 PM</kw></p>
+<div id="c58018">
+<p><kw class="krdwrd-tag-3-60">Hey Echo - if you're sounding off - so are we! </kw></p>
+</div>
+<p class="posted"><kw class="krdwrd-tag-1-100">Posted by:  </kw><b><kw class="krdwrd-tag-1-100">Dave - Webbie on the Esperanza</kw></b><kw class="krdwrd-tag-1-100"> at March 27, 2006  9:19 PM</kw></p>
+<div id="c58061">
+<p><kw class="krdwrd-tag-3-70">Well done guys. Keep up the good work.</kw></p>
+</div>
+<p class="posted"><kw class="krdwrd-tag-1-100">Posted by:  </kw><b><a href="http://propercourse.blogspot.com/" rel="nofollow"><kw class="krdwrd-tag-1-100">Tillerman</kw></a></b><kw class="krdwrd-tag-1-100"> at March 28, 2006  6:08 PM</kw></p>
+
+
+
+
+
+
+
+
+
+<p class="end"></p>
+
+<!-- start Include_closing_blurb -->
+
+
+<p>
+
+
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/stop_whaling2007/"><kw class="krdwrd-tag-1-100">All updates from the Southern Ocean whaling 2007 leg »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/pacific_transit/"><kw class="krdwrd-tag-1-100">All updates from the Pacific transit »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/mexico_baja_california/"><kw class="krdwrd-tag-1-100">All updates from the Mexico leg »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/hawaii_trash_vortex/"><kw class="krdwrd-tag-1-100">All updates from the Hawaii leg »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/pacific_pirate_fishing/"><kw class="krdwrd-tag-1-100">All updates from the Pacific leg »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/philippines_marine_reserve/"><kw class="krdwrd-tag-1-100">All updates from the Philippines leg »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/india_habitat_destruction/"><kw class="krdwrd-tag-1-100">All updates from the India leg »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/red_sea_coral/"><kw class="krdwrd-tag-1-100">All updates from the Red Sea leg »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/mediterranean_tuna/"><kw class="krdwrd-tag-1-100">All updates from the Mediterranean leg »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/azores_research/"><kw class="krdwrd-tag-1-100">All updates from the Azores leg »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/pirate_fishing_africa/"><kw class="krdwrd-tag-1-100">All updates from the Pirate Fishing/Africa leg »</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/sowhales/"><kw class="krdwrd-tag-1-100">All updates from the Southern Ocean  »</kw></a></p>
+
+
+<p><kw class="krdwrd-tag-1-90">Avast ye land lubbers!  The ocean critters need your help! </kw><br>
+<a href="http://oceans.greenpeace.org/defenders"><kw class="krdwrd-tag-1-90">Take action today!</kw></a></p>
+<p><!-- <script type="text/javascript" src="http://embed.technorati.com/embed/uuk3hpjapz.js"></script> -->
+
+<script type="text/javascript" src="http://embed.technorati.com/embed/7n5tg9yeb.js"></script></p>
+
+<!-- end Include_closing_blurb -->
+<!-- end update -->
+</div><!-- end entries -->
+
+
+<div id="closing"><div id="closing_blurb">
+
+</div>
+
+</div>
+</div><!-- end main -->
+<div id="menu">
+
+<div><strong><kw class="krdwrd-tag-1-100">MENU</kw></strong></div>
+
+<!-- start MT template: Include_menu_main -->
+<div class="menu_group">
+<strong><a href="http://weblog.greenpeace.org/oceandefenders/"><kw class="krdwrd-tag-1-100">Weblog Homepage</kw></a></strong><br>
+<strong><a href="http://oceans.greenpeace.org/"><kw class="krdwrd-tag-1-100">Defending Our Oceans</kw></a></strong><br>
+<strong><a href="http://whales.greenpeace.org/"><kw class="krdwrd-tag-1-100">Defend the Whales</kw></a></strong><br>
+<strong><a href="http://weblog.greenpeace.org/whales"><kw class="krdwrd-tag-1-100">Defend the Whales Blog</kw></a></strong><br>
+<br>
+
+<a href="/oceandefenders/crew-list.html"><kw class="krdwrd-tag-1-100">Meet the crew</kw></a><br>
+<a href="http://oceans.greenpeace.org/en/photo-audio-video/live-webcam"><kw class="krdwrd-tag-1-100">Webcam</kw></a><br>
+<a href="http://oceans.greenpeace.org/en/ocean-defenders-tv"><kw class="krdwrd-tag-1-100">Video updates</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/slideshows.html"><kw class="krdwrd-tag-1-100">Slide shows</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/comments.html"><kw class="krdwrd-tag-1-100">Recent Comments</kw></a><br>
+<a href="http://oceans.greenpeace.org/en/the-expedition/route"><kw class="krdwrd-tag-1-100">Map</kw></a><br>
+<a href="http://oceans.greenpeace.org/en/the-expedition/the-esperanza"><kw class="krdwrd-tag-1-100">Esperanza</kw></a> <br>
+<a href="http://oceans.greenpeace.org/en/documents-reports" target="_blank"><kw class="krdwrd-tag-1-100">Policies &amp; reports</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/politics/"><kw class="krdwrd-tag-1-100">Political Blog</kw></a><br>
+<a href="http://forum.greenpeace.org/int/forumdisplay.php?f=7"><kw class="krdwrd-tag-1-100">Discussion Forum</kw></a><br>
+<a href="http://weblog.greenpeace.org/defenseurs/"><kw class="krdwrd-tag-1-100">French version</kw></a><br>
+
+<br>
+<a href="http://www.myspace.com/oceandefenders" target="_blank"><kw class="krdwrd-tag-1-100">Myspace Ocean Defenders</kw></a>
+<a href="http://www.flickr.com/photos/greenpeace_esperanza/" target="_blank"><kw class="krdwrd-tag-1-100">Esperanza's flickr.com site</kw></a> <br>
+<a href="http://www.flickr.com/groups/esperanza/" target="_blank"><kw class="krdwrd-tag-1-100">Webcam flickr group</kw></a>
+
+</div><!-- end MT template: Include_menu_main -->
+<!-- left_menu_chooser_by_category -->
+<!-- start MT template: Include_menu_act_pirate_africa -->
+
+<p class="menu_group">
+<strong><kw class="krdwrd-tag-1-100">Take action!</kw></strong><br>
+<a href="http://oceans.greenpeace.org/en/ocean-defenders/take-action"><kw class="krdwrd-tag-1-100">Take Action now!</kw></a><br>
+<strong><a href="http://oceans.greenpeace.org/en/ocean-defenders"><kw class="krdwrd-tag-1-100">Be an Ocean Defender</kw></a></strong>&nbsp;</p>
+<!-- end MT template: Include_menu_act_pirate_africa --><br>
+<!-- start MT template: Include_menu_cat_pirate_africa -->
+<div class="menu_group">
+<strong><kw class="krdwrd-tag-1-100">Africa: Pirate Fishing </kw><br>
+</strong>
+<a href="http://oceans.greenpeace.org/en/our-oceans/pirate-fishing"><kw class="krdwrd-tag-1-100">About pirate fishing »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/04/tangled_web_pirate_fishing.html"><kw class="krdwrd-tag-1-100">Pirate fishing West Africa:: The Tangled Web »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/04/stolen_fish.html"><kw class="krdwrd-tag-1-100">Stolen Fish: Where your dinner comes from »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/happiness_the_chinese_zom.html"><kw class="krdwrd-tag-1-100">Zombie Ships of West Africa »</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/pirate_vessel_arrested.html"><kw class="krdwrd-tag-1-100">Pirate vessel arrested »</kw></a><br>
+<a href="http://www.greenpeace.org/binar4casestudy"><kw class="krdwrd-tag-1-100">Binar 4 Case Study »</kw></a><br>
+<a href="http://oceans.greenpeace.org/en/our-oceans/tuna"><kw class="krdwrd-tag-1-100">All about Tuna »</kw></a><br>
+<a href="http://oceans.greenpeace.org/en/our-oceans/pirate-fishing/make-piracy-history2"><kw class="krdwrd-tag-1-100">Make piracy history »</kw></a><br>
+</div> 
+
+<div><strong><kw class="krdwrd-tag-1-100">Other related links:</kw></strong></div>
+<div class="menu_group">
+<a href="http://oceans.greenpeace.org/en/our-oceans/fair-fisheries"><kw class="krdwrd-tag-1-100">Fair fisheries</kw></a><br>
+<a href="http://news.google.com/news?hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=pirate+OR+fishing+OR+Greenpeace+OR+Esperanza&amp;btnG=Search+News"><kw class="krdwrd-tag-1-100">Google news roundup</kw></a>
+<br>
+<a href="http://oceans.greenpeace.org/nl/de-expeditie/weblog-remon-op-zoek-naar"><kw class="krdwrd-tag-1-100">Remon's Weblog (in Dutch)</kw></a>
+<a href="http://www.greenpeace.de/themen/meere/sos_weltmeere/artikel/tagebuch_4_auf_dem_weg_zu_den_piratenfischern/"><kw class="krdwrd-tag-1-100">Timo's weblog (in German)</kw></a>
+<p>
+<a href="http://www.ejfoundation.org/" target="_blank"><img src="http://weblog.greenpeace.org/oceandefenders/images/pirate_africa/ejf_logo2.gif" border="0"></a>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=1369038; 
+var sc_invisible=1; 
+var sc_partition=11; 
+var sc_security="d0a33f0a"; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><kw><a href="http://www.statcounter.com/" target="_blank"><img src="http://c12.statcounter.com/counter.php?sc_project=1369038&java=0&security=d0a33f0a&invisible=1" alt="free page hit counter" border="0"></a> </kw></noscript>
+<!-- End of StatCounter Code -->
+</p>
+</div>
+
+
+
+<!-- end MT template: Include_menu_cat_pirate_africa -->
+
+
+
+
+<!-- left_menu_chooser_by_category end -->
+
+
+
+
+
+<!-- start MT template: Include_menu_leglist -->
+
+<p>
+</p><form method="get" action="http://weblog.greenpeace.org/cgi-bin/mv/mt-search.cgi">
+<input name="IncludeBlogs" value="71" type="hidden">
+<label for="search" accesskey="4"><kw class="krdwrd-tag-1-100">Search this blog:</kw></label><br>
+<input id="search" name="search" size="12">
+<input value="Search" type="submit">
+</form>
+<br>&nbsp;<br>
+
+
+
+
+<div><strong><kw class="krdwrd-tag-1-100">The tour so far</kw></strong></div>
+<div class="menu_group">
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/stop_whaling2007"><kw class="krdwrd-tag-1-100">Stop Whaling 2007</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/pacific_transit/"><kw class="krdwrd-tag-1-100">Pacific transit</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/mexico_baja_california/"><kw class="krdwrd-tag-1-100">Mexico: World's aquarium</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/hawaii_trash_vortex/"><kw class="krdwrd-tag-1-100">Hawaii: Trash</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/pacific_pirate_fishing/"><kw class="krdwrd-tag-1-100">Pacific: Tuna</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/philippines_marine_reserve/"><kw class="krdwrd-tag-1-100">Philippines: Pollution</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/india_habitat_destruction/"><kw class="krdwrd-tag-1-100">India: Marine reserves</kw></a>
+<br> 
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/red_sea_coral/"><kw class="krdwrd-tag-1-100">Red Sea: Coral</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/mediterranean_tuna/"><kw class="krdwrd-tag-1-100">Mediterranean: Tuna</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/azores_research/"><kw class="krdwrd-tag-1-100">Azores: Marine Life</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/pirate_fishing_africa/"><kw class="krdwrd-tag-1-100">Africa: Pirate Fishing</kw></a>
+<br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/sowhales/"><kw class="krdwrd-tag-1-100">Southern Ocean: Whales</kw></a>
+
+
+
+</div> <!-- end MT template: Include_menu_leglist -->
+
+<!-- start MT template: Include_menu_more -->
+<!-- <div><strong>More</strong></div> -->
+
+<div class="menu_group">
+
+<p><a href="http://weblog.greenpeace.org/oceandefenders/index.xml"><kw class="krdwrd-tag-1-100">Syndicate all entries from this site (XML)</kw></a></p>
+<p><a href="http://weblog.greenpeace.org/oceandefenders/excerpt.xml"><kw class="krdwrd-tag-1-100">Syndicate news excerpts from this site (XML)</kw></a></p>
+<p>
+<a href="http://toolbar.google.com/buttons/add?url=http://weblog.greenpeace.org/oceandefenders/toolbar_button.xml"><img alt="Google.gif" src="http://weblog.greenpeace.org/nz/archives/Google.gif" align="left" height="24" hspace="5" width="65"></a>
+<a href="http://toolbar.google.com/buttons/add?url=http://weblog.greenpeace.org/oceandefenders/toolbar_button.xml"><kw class="krdwrd-tag-1-100">Add to Google Toolbar</kw></a>
+</p>
+</div> 
+
+<!-- <div><strong>Updates by month</strong></div> -->
+
+<div class="menu_group">
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2007/01/"><kw class="krdwrd-tag-1-100">January 2007</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/12/"><kw class="krdwrd-tag-1-100">December 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/11/"><kw class="krdwrd-tag-1-100">November 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/10/"><kw class="krdwrd-tag-1-100">October 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/09/"><kw class="krdwrd-tag-1-100">September 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/08/"><kw class="krdwrd-tag-1-100">August 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/07/"><kw class="krdwrd-tag-1-100">July 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/06/"><kw class="krdwrd-tag-1-100">June 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/05/"><kw class="krdwrd-tag-1-100">May 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/04/"><kw class="krdwrd-tag-1-100">April 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/03/"><kw class="krdwrd-tag-1-100">March 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/02/"><kw class="krdwrd-tag-1-100">February 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2006/01/"><kw class="krdwrd-tag-1-100">January 2006</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2005/12/"><kw class="krdwrd-tag-1-100">December 2005</kw></a><br>
+<a href="http://weblog.greenpeace.org/oceandefenders/archive/2005/11/"><kw class="krdwrd-tag-1-100">November 2005</kw></a>
+
+
+</div> 
+
+
+
+
+
+
+
+
+
+<div> 
+<!-- Tuna banner -->
+<p><a href="http://oceans.greenpeace.org/en/ocean-defenders">
+<img src="http://weblog.greenpeace.org/oceandefenders/images/pirate_africa/tunaBanner.gif" alt="Stop Pirate Fishing" border="0"></a>
+<br>
+<a href="http://oceans.greenpeace.org/en/ocean-defenders"><kw class="krdwrd-tag-1-100">Stop Pirate Fishing!</kw></a><br>
+</p>
+</div>
+
+
+ 
+
+<div>
+<p>
+<a href="http://www.blogtopsites.com/politics/"><img src="http://www.blogtopsites.com/tracker.php?do=in&amp;id=16921" alt="Politics Blog Top Sites" border="0"></a>
+<br>
+<a href="http://dir.blogflux.com/"><img src="http://dir.blogflux.com/images/80x15.gif" alt="Blog Flux Directory" border="0"></a>
+
+<br>
+<a href="http://www.feeds4all.nl">
+<img src="http://www.feeds4all.nl/images/feeds4all_bannernl.gif" alt="Webfeed (RSS/ATOM/RDF) registered at http://www.feeds4all.nl" border="0" height="15" width="80"></a>
+<br>
+<a href="http://www.blogcatalog.com"><img src="http://www.blogcatalog.com/images/buttons/blogcatalog5.gif" border="0"></a>
+</p>
+</div>
+
+<!-- end MT template: Include_menu_more -->
+
+
+<!-- start Include_menu_by_date
+<div id="calendar">
+
+<table summary="Monthly calendar with links to each day's posts">
+<caption>April 2007</caption>
+<tr>
+<th abbr="Sunday">Sun</th>
+<th abbr="Monday">Mon</th>
+<th abbr="Tuesday">Tue</th>
+<th abbr="Wednesday">Wed</th>
+<th abbr="Thursday">Thu</th>
+<th abbr="Friday">Fri</th>
+<th abbr="Saturday">Sat</th>
+</tr>
+
+<tr>
+
+<td>1</td>
+
+
+<td>2</td>
+
+
+<td>3</td>
+
+
+<td>4</td>
+
+
+<td>5</td>
+
+
+<td>6</td>
+
+
+<td>7</td></tr>
+<tr>
+
+<td>8</td>
+
+
+<td>9</td>
+
+
+<td>10</td>
+
+
+<td>11</td>
+
+
+<td>12</td>
+
+
+<td>13</td>
+
+
+<td>14</td></tr>
+<tr>
+
+<td>15</td>
+
+
+<td>16</td>
+
+
+<td>17</td>
+
+
+<td>18</td>
+
+
+<td>19</td>
+
+
+<td>20</td>
+
+
+<td>21</td></tr>
+<tr>
+
+<td>22</td>
+
+
+<td>23</td>
+
+
+<td>24</td>
+
+
+<td>25</td>
+
+
+<td>26</td>
+
+
+<td>27</td>
+
+
+<td>28</td></tr>
+<tr>
+
+<td>29</td>
+
+
+<td>30</td>
+
+
+<td>&nbsp;</td>
+
+
+<td>&nbsp;</td>
+
+
+<td>&nbsp;</td>
+
+
+<td>&nbsp;</td>
+
+
+<td>&nbsp;</td></tr>
+
+
+</table>
+</div>
+end_menu_by_date  -->
+
+</div><!-- end menu -->
+
+<!-- start MT template: Include_footer -->
+<div id="footer">
+<div class="footer_left"><a href="mailto:supporter.services@int.greenpeace.org"><kw class="krdwrd-tag-1-100">Contact us</kw></a> &nbsp; &nbsp; &nbsp; <a href="http://weblog.greenpeace.org/archives/000101.html#000101"><kw class="krdwrd-tag-1-100">Dodgy Disclaimer</kw></a> &nbsp; &nbsp; &nbsp; <a href="http://www.technorati.com/cosmos/links.html?rank=&amp;url=http%3A%2F%2Fweblog.greenpeace.org&amp;sub=Get+Link+Cosmos"><kw class="krdwrd-tag-1-100">Technorati</kw></a></div>
+
+
+
+<div class="footer_right"><a href="http://weblog.greenpeace.org/oceandefenders/index.rdf"><img src="http://weblog.greenpeace.org/oceandefenders/design/rss-full-feed.png" alt="RSS - full feed." style="border-style: none;" height="15" width="80"></a> &nbsp; &nbsp; &nbsp; <a href="http://www.greenpeace.org"><img src="http://weblog.greenpeace.org/oceandefenders/design/gp_bottom_logo.gif" style="border-style: none;" alt="Greenpeace International homepage." height="12" width="91"></a></div>
+
+</div><!-- end footer div --><!-- end MT template: Include_footer -->
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- © 1999-2004 NetIQ Corporation. All rights reserved. -->
+<!-- V7.0 -->
+<!-- $DateTime: 2003/10/28 16:26:23 $ -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcsadxfd521e5huw2wrttnlc9_4f8h";
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var myDocumentElements;
+	if (document.all){
+		myDocumentElements=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		myDocumentElements=document.getElementsByTagName("meta");
+	}
+	if (typeof(myDocumentElements)!="undefined"){
+		for (var i=1;i<=myDocumentElements.length;i++){
+			myMeta=myDocumentElements.item(i-1);
+			if (myMeta.name){
+				if (myMeta.name.indexOf('WT.')==0){
+					WT[myMeta.name.substring(3)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCSext.')==0){
+					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCS.')==0){
+					DCS[myMeta.name.substring(4)]=myMeta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+dcsVar();
+dcsMeta();
+dcsTag();
+//-->
+</script>
+
+<noscript><kw>
+<img name="DCSIMG" src="http://statse.webtrendslive.com/dcsadxfd521e5huw2wrttnlc9_4f8h/njs.gif?dcsuri=/nojavascript&WT.js=No" border="0" height="1" width="1">
+</kw></noscript>
+<!-- END OF SmartSource Data Collector  TAG -->	
+
+</div><!-- end container -->
+<!-- crew template-->
+</body>

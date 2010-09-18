@@ -1,0 +1,2373 @@
+<head><base href="http://www.chestjournal.org/cgi/content/full/128/2/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Subepithelial Microvasculature in Large Airways Observed by High-Magnification Bronchovideoscope -- Yamada et al. 128 (2): 876 -- Chest</title>
+
+
+
+
+
+
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+	<script language="JavaScript">
+	<!--
+	function startTarget(windowname,wid,hei) {
+	
+	var dotpos = windowname.indexOf(".");
+	if (dotpos > -1)
+	{
+	var tempwn = windowname.substring(0,dotpos) +
+		windowname.substring(dotpos + 1, windowname.length);
+	windowname = tempwn;
+	}
+	var sizestring = 'width=' + wid + ',height=' + hei;
+	window.open('',windowname,'scrollbars,resizable,' + sizestring + '\'');
+	}
+	// -->
+	</script><!-- has inhead tag -->
+
+
+
+
+	
+	
+		 
+	 
+	<script language="JavaScript">
+	<!--
+	if ( top != self )
+	{
+		top.location.href = unescape(window.location.pathname);
+	}
+	//-->
+	</script>
+	
+		
+	
+		<style type="text/css"><!--
+table.content_box_outer_table {
+	padding-left:10px;
+	padding-bottom:5px;
+	padding-top:0px;
+	padding-right:0px;
+	}
+
+table.content_box_outer_table_in_sidebar_frame {
+	padding-left:10px;
+	padding-bottom:0px;
+	padding-top:10px;
+	padding-right:10px;
+	}
+
+table.content_box_inner_table {
+	background-color:#f0f0f0;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	}
+
+table.content_box_pdfinframes {
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:4px;
+	}
+
+td.content_box_title_highlight {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#660000;
+	font-size:120%;
+	font-weight:bold;
+	text-align:center;
+	padding:1px;
+	vertical-align:middle;
+	}
+
+td.content_box_title {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#828282;
+	font-size:120%;
+	font-weight:bold;
+	padding:1px;
+	text-align:center;
+	vertical-align:middle;
+	}
+
+td.content_box_space_between_sections {
+	padding-top:2px;
+	}
+
+td.content_box_arrow {
+	text-align:right;
+	padding-left:5px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_item {
+	text-align:left;
+	vertical-align:top;
+	padding-left:3px;
+	padding-right:5px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_pdfinframes_citation_cell {
+	background-color:#ffffff;
+	border:1px #000000 solid;
+	padding:3px;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	text-align:left;
+	}
+
+
+font.openaccess {
+	font-weight:bold;
+	padding-left:3px;
+	padding-right:3px;
+	background-color:#ffffff;
+	}
+font.openaccess_open {
+	color:#000000;
+	}
+font.openaccess_access {
+	color:#cc0000;
+	}
+font.openaccess_oa {
+	}
+.content_box_openaccess_title {
+	text-align:center;
+	white-space:nowrap;
+	background-color:#BABABA;
+	}
+
+
+
+
+div.referrer-based-search-line {
+	font-family: arial,sans-serif;
+	font-size: 0.75em;
+	background-color: #009918;
+	padding: 3px 25px;
+	margin: 0px 4px 5px 0px;
+}
+
+div.referrer-based-search-line .search-terms{
+	font-weight: bold;
+}
+
+div.referrer-based-search-line .collection-name{
+	font-style: italic;
+}
+
+@media screen,print,handheld
+{
+    .notonscreen { display: none; }
+}
+--></style>
+
+	        
+<style type="text/css"><!--
+	@media screen,print,handheld
+{
+    .notonscreen { display: none; }
+}
+--></style><!-- ac in the head available -->
+
+
+ 
+
+		
+		
+	    <script language="javascript">
+		<!-- 
+	function popwin(url,wid,hei,fromtop,fromleft) {
+		var winPref = "channelmode=no,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=no,width=" + wid + ",height=" + hei + ",top=" + fromtop + ",left=" + fromleft;
+		window.open(url, "popwin", winPref);
+	}
+	// -->
+	</script>
+        <script type="text/javascript" src="/javascript/ajax/xmlhttprequest.js"></script>
+<script type="text/javascript" src="/javascript/ajax/utility.js"></script>
+<script type="text/javascript" src="/javascript/entrez/callback.js"></script>
+
+	
+		
+	
+
+<meta name="robots" content="nofollow">
+
+
+
+<meta name="citation_journal_title" content="Chest">
+<meta name="citation_publisher" content="Am Coll Chest Phys">
+
+<meta name="citation_authors" content="Yamada, Gen; Takahashi, Hiroki; Shijubo, Noriharu; Itoh, Takayuki; Abe, Shosaku">
+<meta name="citation_title" content="Subepithelial Microvasculature in Large Airways Observed by High-Magnification Bronchovideoscope">
+<meta name="citation_date" content="08/01/2005">
+<meta name="citation_volume" content="128">
+<meta name="citation_issue" content="2">
+<meta name="citation_firstpage" content="876">
+<meta name="citation_id" content="128/2/876">
+<meta name="citation_mjid" content="chest;128/2/876">
+<meta name="citation_doi" content="10.1378/chest.128.2.876">
+<meta name="citation_abstract_html_url" content="http://www.chestjournal.org/cgi/content/abstract/128/2/876">
+<meta name="citation_fulltext_html_url" content="http://www.chestjournal.org/cgi/content/full/128/2/876">
+<meta name="citation_pdf_url" content="http://www.chestjournal.org/cgi/reprint/128/2/876.pdf">
+<meta name="citation_pmid" content="16100181">
+
+<meta name="dc.Contributor" content="Yamada, Gen">
+<meta name="dc.Contributor" content="Takahashi, Hiroki">
+<meta name="dc.Contributor" content="Shijubo, Noriharu">
+<meta name="dc.Contributor" content="Itoh, Takayuki">
+<meta name="dc.Contributor" content="Abe, Shosaku">
+<meta name="dc.Title" content="Subepithelial Microvasculature in Large Airways Observed by High-Magnification Bronchovideoscope">
+<meta name="dc.Identifier" content="10.1378/chest.128.2.876">
+<meta name="dc.Date" content="08/01/2005">
+
+<meta name="ROBOTS" content="NOARCHIVE"></head><body bgcolor="#ffffff">
+	
+
+
+
+<a name="top"><!-- null --></a>
+
+
+	
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td valign="bottom" nowrap="nowrap">
+			<a target="_top" style="text-decoration: none;" href="/"><img alt="Chest" src="/icons/banner/title.gif" border="0" width="220" height="44"></a>
+			<a href="/cgi/adclick/?ad=7778&amp;adclick=true&amp;url=http%3A%2F%2Fwww.chestnet.org%2Fmembership%2Findex.php"><img src="/adsystem/graphics/1214315472981/chest/1033559186.gif?ad=7778&amp;adview=true" alt="ACCP Member Benefits" border="1" width="220" height="40"></a>
+			
+	<table cellpadding="2" cellspacing="2" width="450">
+	<tbody><tr>
+		<td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">HOME</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/help/"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">HELP</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/cgi/feedback"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">FEEDBACK</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/subscriptions/"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">SUBSCRIPTIONS</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/contents-by-date.0.shtml"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">ARCHIVE</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/search.dtl"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">SEARCH</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/content/vol128/issue2/index.shtml"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">TABLE OF CONTENTS</kw></font></a></td>
+
+
+
+
+	</tr>
+	</tbody></table>
+	</td>
+		<td><img alt=" " src="/icons/spacer.gif" width="5" height="5"></td>
+		<td valign="bottom">
+	
+	<input name="andorexactfulltext" value="and" type="hidden"><input name="resourcetype" value="1" type="hidden"><input name="disp_type" value="" type="hidden"><input name="sortspec" value="relevance" type="hidden"><table bgcolor="#000000" border="0" cellpadding="0" cellspacing="1"><tbody><tr>
+	<form method="get" name="search" action="/cgi/search"></form><td align="center" valign="middle"> 
+		<table bgcolor="#dbdbdb" border="0" cellpadding="1" cellspacing="0"> 
+		<tbody><tr>
+			<td bgcolor="#660000"><img alt=" " src="/icons/spacer.gif" width="2" height="2"></td>
+			<td bgcolor="#660000" valign="middle" nowrap="nowrap"><strong><font color="#ffffff" face="verdana,arial,helvetica,sans-serif" size="-2"><em><kw class="krdwrd-tag-1">QUICK</kw></em><kw class="krdwrd-tag-1"> SEARCH:&nbsp;</kw></font></strong></td>
+			<td align="right" bgcolor="#660000" valign="middle" nowrap="nowrap"><a style="text-decoration: none; color: rgb(255, 255, 255);" href="/search.dtl"><font color="#ffffff" face="verdana,arial,helvetica" size="-2"><kw class="krdwrd-tag-1">&nbsp;[advanced]</kw></font></a></td>
+			<td bgcolor="#660000"><img alt=" " src="/icons/spacer.gif" width="2" height="2"></td>
+		</tr><tr>
+			<td bgcolor="#dbdbdb"><img alt=" " src="/icons/spacer.gif" width="2" height="2"></td>
+			<td colspan="2" bgcolor="#dbdbdb">
+			<table border="0" cellpadding="0" cellspacing="0"> 
+			<tbody><tr>
+				<td align="center" valign="bottom"><input style="background-color: rgb(255, 255, 255); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; text-decoration: none; font-family: verdana,arial,helvetica; font-size: 10px; font-weight: bold; color: rgb(0, 0, 0); -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" value="Go" type="submit"></td>
+				<th colspan="2" align="left"><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefsauthor1"><kw class="krdwrd-tag-1">Author:</kw></label><br></font>
+					<input name="author1" id="qsintdefsauthor1" size="9" maxlength="80" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></th>
+				<th colspan="3" align="left"><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefsfulltext"><kw class="krdwrd-tag-1">Keyword(s):</kw></label><br></font>
+					<input name="fulltext" id="qsintdefsfulltext" size="16" maxlength="80" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></th>
+			</tr><tr>
+				<th><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefspubdate_year"><kw class="krdwrd-tag-1">Year:</kw></label>&nbsp;</font></th>
+				<td><input name="pubdate_year" id="qsintdefspubdate_year" size="4" maxlength="4" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></td>
+				<th align="right"><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefsvolume"><kw class="krdwrd-tag-1">Vol:</kw></label>&nbsp;</font></th>
+				<td><input name="volume" id="qsintdefsvolume" size="4" maxlength="10" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></td>
+				<th><font color="#000000" face="verdana,arial,helvetica,sans-serif" size="-2"><label for="qsintdefsfirstpage"><kw class="krdwrd-tag-1">Page:</kw></label>&nbsp;</font></th>
+				<td><input name="firstpage" id="qsintdefsfirstpage" size="4" maxlength="10" value="" style="font-family: verdana,arial,helvetica; font-size: 10px;" type="text"></td>
+			</tr> 
+			</tbody></table> </td>
+			<td bgcolor="#dbdbdb"><img alt=" " src="/icons/spacer.gif" width="2" height="2"></td>
+		</tr>
+		</tbody></table></td></tr></tbody></table> 
+	 
+	</td>
+	</tr><tr>
+		<td colspan="3"><img alt=" " src="/icons/spacer.gif" width="2" height="2"><br><font face="verdana,arial,helvetica" size="-2"><strong><kw class="krdwrd-tag-1">Guest Access </kw></strong><kw class="krdwrd-tag-1"> | </kw><strong><a target="_top" href="/cgi/login?uri=%2Fcgi%2Fcontent%2Ffull%2F128%2F2%2F876"><kw class="krdwrd-tag-1">Sign In via User Name/Password</kw></a></strong></font><!-- debug:  --><hr align="left" color="#000000" size="1" noshade="noshade"></td>
+	</tr>
+	</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+		
+
+
+	 
+ 
+
+
+
+
+
+
+
+
+
+	
+	
+
+ 
+
+
+
+ 
+	 
+		  
+			
+	
+		<table class="content_box_outer_table" align="right">
+		
+		
+			<tbody><tr>
+			<td>
+		
+	
+
+<!-- beginning of inner table -->
+	<table class="content_box_inner_table">
+<!-- citation -->
+
+	
+		
+
+
+
+
+	
+
+	
+
+	
+		
+			
+<tbody><tr><td class="content_box_title_highlight" colspan="2"><kw class="krdwrd-tag-1">This Article</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+				
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				
+				<strong><a href="/cgi/content/abstract/128/2/876"><kw class="krdwrd-tag-1">
+				Abstract</kw></a></strong>
+				 					<img alt="Freely available" src="/icons/shared/toc/free.gif" border="0" width="32" height="7">
+				
+	
+				</td></tr>
+			
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+	
+
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+		
+	
+	
+		
+	
+
+	
+
+	
+		
+			
+		
+	
+
+	
+
+	
+	 
+
+	
+	 
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		<strong>
+		
+		
+		
+			<a href="/cgi/reprint/128/2/876">
+		<strong><kw class="krdwrd-tag-1">Full Text</kw></strong><kw class="krdwrd-tag-1"> (PDF)</kw></a>
+
+ <span style="color: rgb(170, 0, 0);"><kw class="krdwrd-tag-1">Free</kw></span>
+
+ 
+		
+		</strong>
+		</td></tr>
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+
+
+
+	
+	
+		
+	
+
+	
+		
+	
+
+	
+		
+
+	
+		
+		
+
+			
+
+
+	
+
+			
+
+			
+		
+	
+
+			
+	  
+	
+
+			
+
+			
+
+			
+	
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+
+	
+	
+	
+
+	
+		
+	
+
+	
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong>
+
+	<strong><a href="/cgi/eletter-submit/128/2/876"><kw class="krdwrd-tag-1">
+	
+		
+		Submit a response</kw></a></strong></strong>
+			</td></tr>
+		 
+	
+         
+
+	
+	
+		  
+    
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+		
+	
+		
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;saveAlert=no&amp;cited_by_criteria_resid=chest;128/2/876&amp;return_type=article&amp;return_url=http%3A%2F%2Fwww.chestjournal.org%2Fcgi%2Fcontent%2Ffull%2F128%2F2%2F876"><kw class="krdwrd-tag-1">
+				Alert me when this article is cited</kw></a></strong>
+			</td></tr>
+	
+
+		
+		
+			
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;saveAlert=no&amp;eletter_criteria_value=128/2/876&amp;return_type=article&amp;return_url=http%3A%2F%2Fwww.chestjournal.org%2Fcgi%2Fcontent%2Ffull%2F128%2F2%2F876"><kw class="krdwrd-tag-1">
+				Alert me when eLetters are posted</kw></a></strong>
+			</td></tr>
+			
+		
+
+		
+		
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;saveAlert=no&amp;correction_criteria_value=128/2/876&amp;return_type=article&amp;return_url=http%3A%2F%2Fwww.chestjournal.org%2Fcgi%2Fcontent%2Ffull%2F128%2F2%2F876"><kw class="krdwrd-tag-1">
+				Alert me if a correction is posted</kw></a></strong>
+			</td></tr>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		
+			
+			
+			
+	
+
+			
+			
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Services</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/mailafriend?url=http%3A%2F%2Fwww.chestjournal.org%2Fcgi%2Fcontent%2Ffull%2F128%2F2%2F876&amp;title=Subepithelial+Microvasculature+in+Large+Airways+Observed+by+High-Magnification+Bronchovideoscope"><kw class="krdwrd-tag-1">
+				Email this article to a friend</kw></a></strong>
+			</td></tr>
+			
+			
+
+
+	
+
+	
+
+	
+
+		
+		
+
+
+
+			
+			
+			
+		
+	
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		<strong>
+		<a href="/cgi/search?qbe=chest;128/2/876&amp;journalcode=chest&amp;minscore=5000"><kw class="krdwrd-tag-1">
+		Similar articles in this journal</kw></a>
+		</strong>
+		</td></tr>
+
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<a href="/cgi/external_ref?access_num=chest%3B128%2F2%2F876&amp;link_type=ISI_RelatedRecords"><kw class="krdwrd-tag-1">
+				Similar articles in ISI Web of Science</kw></a>
+			</td></tr>
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=16100181&amp;link_type=MED_NBRS"><kw class="krdwrd-tag-1">
+				Similar articles in PubMed</kw></a></strong>
+			</td></tr>
+		
+	
+
+
+		
+
+
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/etoc"><kw class="krdwrd-tag-1">
+				Alert me to new issues of the journal</kw></a></strong>
+			</td></tr>
+		
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=chest;128/2/876"><kw class="krdwrd-tag-1">
+				Add to My Personal Article Archive</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+			<strong><a href="/cgi/citmgr?gca=chest;128/2/876"><kw class="krdwrd-tag-1">
+			Download to citation manager</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+
+	
+		
+	
+
+	
+
+
+
+  			
+		
+		
+		
+	
+
+
+	
+
+	
+
+
+
+
+	
+
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?&amp;link_type=PERMISSIONDIRECT" target="_new">
+				<img src="/icons/misc/permissions.gif" alt="reprints &amp; permissions" border="0"></a></strong>
+			</td></tr>	
+			
+
+
+
+
+
+		
+
+		
+
+	
+	
+	
+		
+
+
+	
+
+	
+
+	
+
+
+	
+
+
+
+
+
+	
+
+
+	
+		 
+	
+
+		
+		
+			
+		<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Citing Articles</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+
+					
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://www.chestjournal.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/128/2/876%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLAR"><kw class="krdwrd-tag-1">Citing Articles via Google Scholar</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+				
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Google Scholar</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AG.+author%3AYamada%22"><kw class="krdwrd-tag-1">
+							Articles by Yamada, G.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AS.+author%3AAbe%22"><kw class="krdwrd-tag-1">
+							Articles by Abe, S.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+		
+		
+	
+	
+	
+	
+
+		
+			
+				
+					
+						
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://www.chestjournal.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/128/2/876%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLARRELATED"><kw class="krdwrd-tag-1">Search for Related Content</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+		
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">PubMed</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=16100181&amp;link_type=PUBMED"><kw class="krdwrd-tag-1">
+				PubMed Citation</kw></a></strong>
+			</td></tr>
+		
+	
+
+	
+		
+		
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Yamada+G&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1">
+							Articles by Yamada, G.</kw></a></strong>
+						</td></tr>
+				
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Abe+S&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1">
+							Articles by Abe, S.</kw></a></strong>
+						</td></tr>
+				
+			
+		
+
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+	
+
+		
+			
+		
+	 
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</tbody></table>
+</td></tr></tbody></table> 
+
+
+		
+	
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+    
+	
+	
+	
+	
+		<font size="-1"><kw class="krdwrd-tag-1">
+(</kw><em><kw class="krdwrd-tag-1">Chest.</kw></em><kw class="krdwrd-tag-1"> 2005;128:876-880.)</kw><br><kw class="krdwrd-tag-1">
+© 2005 </kw><a href="/misc/terms.shtml"><kw class="krdwrd-tag-1">
+American College of Chest Physicians</kw></a>
+</font><br>
+<h2><kw class="krdwrd-tag-2">
+Subepithelial Microvasculature in Large Airways Observed by High-Magnification Bronchovideoscope</kw><sup><kw class="krdwrd-tag-1">*</kw></sup>
+</h2>
+
+<strong>
+<nobr><kw class="krdwrd-tag-1">Gen Yamada, MD</kw></nobr><kw class="krdwrd-tag-1">; 
+</kw><nobr><kw class="krdwrd-tag-1">Hiroki Takahashi, MD</kw></nobr><kw class="krdwrd-tag-1">; 
+</kw><nobr><kw class="krdwrd-tag-1">Noriharu Shijubo, MD</kw></nobr><kw class="krdwrd-tag-1">; 
+</kw><nobr><kw class="krdwrd-tag-1">Takayuki Itoh, MD</kw></nobr><kw class="krdwrd-tag-1"> and 
+</kw><nobr><kw class="krdwrd-tag-1">Shosaku Abe, MD</kw></nobr>
+</strong><p>
+<font size="-1">
+<sup><kw class="krdwrd-tag-1">*</kw></sup><kw class="krdwrd-tag-1"> From the Third Department of Internal Medicine (Drs. Yamada, Takahashi, and Abe), Sapporo Medical University School of Medicine, Sapporo, Japan; and the Department of Respiratory Medicine (Drs. Shijubo and Itoh), Sapporo Hospital of Hokkaido Railway Company, Sapporo, Japan.
+</kw></font></p><p>
+
+</p><p>
+<font size="-1"><kw class="krdwrd-tag-1">Correspondence to: Gen Yamada, Third Department of Internal Medicine, Sapporo Medical University, School of Medicine, Chuo-ku South 1 West 16, Sapporo, 060-8543 Japan; e-mail: </kw><span id="em0"><a class="krdwrd-tag-1" href="mailto:gyamada@sapmed.ac.jp">gyamada@sapmed.ac.jp</a></span><script type="text/javascript"><!--
+ var u = "gyamada", d = "sapmed.ac.jp"; document.getElementById("em0").innerHTML = '<a href="mailto:' + u + '@' + d + '">' + u + '@' + d + '<\/a>'//--></script></font></p><p>
+<a name="ABS"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+Abstract
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">TOP</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">Abstract</kw></font><br>
+<a href="#BDY"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Introduction</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Materials and Methods</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Results</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Discussion</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+
+<i><kw class="krdwrd-tag-2">Background:</kw></i><kw class="krdwrd-tag-3"> The bronchial vasculature serves important functions</kw><sup> </sup><kw class="krdwrd-tag-3">and is modified in a variety of pulmonary and airway diseases.</kw><sup> </sup><kw class="krdwrd-tag-3">The remarkable ability of the bronchial vasculature to undergo</kw><sup> </sup><kw class="krdwrd-tag-3">remodeling has implications for disease pathogenesis. However,</kw><sup> </sup><kw class="krdwrd-tag-3">there is very little information on normal bronchial circulation.</kw><sup> </sup></p><p>
+
+<i><kw class="krdwrd-tag-2">Objectives:</kw></i><kw class="krdwrd-tag-3"> The aim of this study was to obtain information</kw><sup> </sup><kw class="krdwrd-tag-3">on bronchial microvessels in large airways using a high-magnification</kw><sup> </sup><kw class="krdwrd-tag-3">bronchovideoscope.</kw><sup> </sup></p><p>
+
+<i><kw class="krdwrd-tag-3">Methods and patients:</kw></i><kw class="krdwrd-tag-3"> Recently, we developed a high-magnification</kw><sup> </sup><kw class="krdwrd-tag-3">bronchovideoscope (XBF-200HM3 [side-viewing type]) in cooperation</kw><sup> </sup><kw class="krdwrd-tag-3">with Olympus Medical Systems. This bronchovideoscope can provide</kw><sup> </sup><kw class="krdwrd-tag-3">information on the bronchial mucosa with a maximum magnification</kw><sup> </sup><kw class="krdwrd-tag-3">of 110 times. Between August 2000 and July 2004, 26 patients</kw><sup> </sup><kw class="krdwrd-tag-3">without abnormalities in the large airways were enrolled into</kw><sup> </sup><kw class="krdwrd-tag-3">this study. Patients underwent conventional bronchoscopy and</kw><sup> </sup><kw class="krdwrd-tag-3">subsequent bronchoscopy with the high-magnification bronchovideoscope.</kw><sup> </sup><kw class="krdwrd-tag-3">After the bronchoscopic examination, we calculated the vessel</kw><sup> </sup><kw class="krdwrd-tag-3">area ratios and hemoglobin indexes of images made with the high-magnification</kw><sup> </sup><kw class="krdwrd-tag-3">bronchovideoscope by using appropriate software. In addition,</kw><sup> </sup><kw class="krdwrd-tag-3">we compared the findings obtained with the high-magnification</kw><sup> </sup><kw class="krdwrd-tag-3">bronchovideoscope of the 26 subjects with microscopic findings</kw><sup> </sup><kw class="krdwrd-tag-3">of autopsied tracheas of two patients without abnormalities.</kw><sup> </sup></p><p>
+
+<i><kw class="krdwrd-tag-2">Results:</kw></i><kw class="krdwrd-tag-3"> Many ramifying subepithelial microvessels of large</kw><sup> </sup><kw class="krdwrd-tag-3">airways were mainly observed in intercartilage and membranous</kw><sup> </sup><kw class="krdwrd-tag-3">portions, whereas only a few microvessels were seen in cartilage</kw><sup> </sup><kw class="krdwrd-tag-3">portions. Histologically, these subepithelial microvessels were</kw><sup> </sup><kw class="krdwrd-tag-3">thought to be distributed within approximately 800 and 500 µm</kw><sup> </sup><kw class="krdwrd-tag-3">beneath the surface of the intercartilage portions and membranous</kw><sup> </sup><kw class="krdwrd-tag-3">portions, respectively. Vessel area ratios of the intercartilage</kw><sup> </sup><kw class="krdwrd-tag-3">portions were significantly higher than those of the cartilage</kw><sup> </sup><kw class="krdwrd-tag-3">and membranous portions. The hemoglobin indexes of the intercartilage</kw><sup> </sup><kw class="krdwrd-tag-3">portions were significantly higher than those of the cartilage</kw><sup> </sup><kw class="krdwrd-tag-3">and membranous portions, and these indexes were also significantly</kw><sup> </sup><kw class="krdwrd-tag-3">higher in the membranous portion than in the cartilage portion.</kw><sup> </sup></p><p>
+
+<i><kw class="krdwrd-tag-2">Conclusions:</kw></i><kw class="krdwrd-tag-3"> A dense concentration of subepithelial microvessels</kw><sup> </sup><kw class="krdwrd-tag-3">was mainly observed in the intercartilage portion, indicating</kw><sup> </sup><kw class="krdwrd-tag-3">an increase in submucosal circulation. This high-magnification</kw><sup> </sup><kw class="krdwrd-tag-3">bronchovideoscope is a useful tool for observing and evaluating</kw><sup> </sup><kw class="krdwrd-tag-3">the subepithelial microvessels in large airways.</kw><sup> </sup></p><p>
+
+
+
+</p><p><strong><kw class="krdwrd-tag-1">Key Words:</kw></strong><kw class="krdwrd-tag-1"> bronchial circulation • extrapulmonary bronchus • subepithelial vasculature • high-magnification bronchovideoscope</kw></p><p>
+<a name="BDY"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+Introduction
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">TOP</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">Introduction</kw></font><br>
+<a href="#SEC1"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Materials and Methods</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Results</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Discussion</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3">
+
+The bronchial vasculature serves important functions and is</kw><sup> </sup><kw class="krdwrd-tag-3">modified by a variety of pulmonary and airway diseases. Congestion</kw><sup> </sup><kw class="krdwrd-tag-3">of the bronchial vasculature may narrow the airway lumen in</kw><sup> </sup><kw class="krdwrd-tag-3">inflammatory airway diseases, and the formation of new bronchial</kw><sup> </sup><kw class="krdwrd-tag-3">vessels (</kw><i><kw class="krdwrd-tag-3">ie</kw></i><kw class="krdwrd-tag-3">, angiogenesis) is implicated in the pathology of</kw><sup> </sup><kw class="krdwrd-tag-3">a variety of chronic inflammatory, infectious, or ischemic pulmonary</kw><sup> </sup><kw class="krdwrd-tag-3">diseases. The remarkable ability of the bronchial vasculature</kw><sup> </sup><kw class="krdwrd-tag-3">to undergo remodeling has implications for disease pathogenesis.</kw><sup><a href="#B1"><kw class="krdwrd-tag-3">1</kw></a></sup><sup> </sup><kw class="krdwrd-tag-3">The bronchial microvasculature provides nutrient blood flow</kw><sup> </sup><kw class="krdwrd-tag-3">to the airway epithelium and blood flow changes in neural and</kw><sup> </sup><kw class="krdwrd-tag-3">humoral stimuli, and plays a role in the conditioning of inspired</kw><sup> </sup><kw class="krdwrd-tag-3">air.</kw><sup><a href="#B1"><kw class="krdwrd-tag-3">1</kw></a></sup><sup><a href="#B2"><kw class="krdwrd-tag-3">2</kw></a></sup><sup><a href="#B3"><kw class="krdwrd-tag-3">3</kw></a></sup><kw class="krdwrd-tag-3"> However, observation of the bronchial microvasculature</kw><sup> </sup><kw class="krdwrd-tag-3">by a conventional bronchoscope provides us with little information.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+Recently, we developed a prototype of a high-magnification bronchovideoscope</kw><sup> </sup><kw class="krdwrd-tag-3">(XBF-200HM3) in cooperation with Olympus Medical Systems (Tokyo,</kw><sup> </sup><kw class="krdwrd-tag-3">Japan). This side-viewing bronchovideoscope provides information</kw><sup> </sup><kw class="krdwrd-tag-3">on the bronchial mucosa with a maximum magnification of 110</kw><sup> </sup><kw class="krdwrd-tag-3">times on a 14-inch video monitor, showing the subepithelial</kw><sup> </sup><kw class="krdwrd-tag-3">bronchial microvasculature in large airways.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+In this study, we used the high-magnification bronchovideoscope</kw><sup> </sup><kw class="krdwrd-tag-3">to observe the subepithelial microvasculature of tracheas and</kw><sup> </sup><kw class="krdwrd-tag-3">extrapulmonary bronchi with no pathologic findings on conventional</kw><sup> </sup><kw class="krdwrd-tag-3">bronchoscopy. Next, we evaluated the subepithelial vascular</kw><sup> </sup><kw class="krdwrd-tag-3">circulation in each high-magnification image by calculating</kw><sup> </sup><kw class="krdwrd-tag-3">the vessel area ratio and hemoglobin index. The hemoglobin index</kw><sup> </sup><kw class="krdwrd-tag-3">is obtained by electron endoscopic measurement of hemoglobin</kw><sup> </sup><kw class="krdwrd-tag-3">volume.</kw><sup><a href="#B4"><kw class="krdwrd-tag-3">4</kw></a></sup><sup><a href="#B5"><kw class="krdwrd-tag-3">5</kw></a></sup><sup><a href="#B6"><kw class="krdwrd-tag-3">6</kw></a></sup><sup> </sup></p><p>
+
+<a name="SEC1"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+Materials and Methods
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">TOP</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<a href="#BDY"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Introduction</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">Materials and Methods</kw></font><br>
+<a href="#SEC2"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Results</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Discussion</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+<strong><kw class="krdwrd-tag-2">Patients</kw></strong><br><kw class="krdwrd-tag-3">
+
+Using the high-magnification bronchovideoscope, we examined</kw><sup> </sup><kw class="krdwrd-tag-3">the bronchial vasculature in 26 patients (age range, 34 to 83</kw><sup> </sup><kw class="krdwrd-tag-3">years; 18 men and 8 women) without intrabronchial abnormalities.</kw><sup> </sup><kw class="krdwrd-tag-3">We excluded the patients who had abnormal findings in the trachea</kw><sup> </sup><kw class="krdwrd-tag-3">and extrapulmonary bronchi using a conventional bronchoscope.</kw><sup> </sup><kw class="krdwrd-tag-3">In order to eliminate the influence of other diseases on the</kw><sup> </sup><kw class="krdwrd-tag-3">bronchial mucosa, we also excluded patients who had complications,</kw><sup> </sup><kw class="krdwrd-tag-3">including allergic diseases, granulomatous diseases (</kw><i><kw class="krdwrd-tag-3">eg</kw></i><kw class="krdwrd-tag-3">, sarcoidosis),</kw><sup> </sup><kw class="krdwrd-tag-3">collagen diseases, cardiovascular diseases, and infectious diseases.</kw><sup> </sup><kw class="krdwrd-tag-3">All patients were informed preoperatively and gave their consent.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+In addition, the distribution of subepithelial microvessels</kw><sup> </sup><kw class="krdwrd-tag-3">in the tracheas of two male patients who had been autopsied</kw><sup> </sup><kw class="krdwrd-tag-3">(ages, 62 and 66) and who had both died of gastric cancer, was</kw><sup> </sup><kw class="krdwrd-tag-3">examined. Using the high-magnification bronchovideoscope, we</kw><sup> </sup><kw class="krdwrd-tag-3">compared the longitudinal distribution of microvessels of the</kw><sup> </sup><kw class="krdwrd-tag-3">formalin-fixed specimens of the tracheas obtained at autopsy.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2">High-Magnification Bronchovideoscope</kw></strong><br><kw class="krdwrd-tag-3">
+
+The high-magnification bronchovideoscope is 6.3 mm in diameter.</kw><sup> </sup><kw class="krdwrd-tag-3">This flexible bronchovideoscope is equipped with a charge-coupled</kw><sup> </sup><kw class="krdwrd-tag-3">device (CCD) at its distal end (</kw><a href="#F1"><kw class="krdwrd-tag-3">Fig 1</kw></a><kw class="krdwrd-tag-3">
+). By using the prism,</kw><sup> </sup><kw class="krdwrd-tag-3">the images of the bronchial mucosa are captured by the CCD through</kw><sup> </sup><kw class="krdwrd-tag-3">a magnifying objective lens. As with a conventional bronchovideoscope,</kw><sup> </sup><kw class="krdwrd-tag-3">optical information is converted to electric signals by the</kw><sup> </sup><kw class="krdwrd-tag-3">CCD and transmitted to the video processor (EVIS CV-240; Olympus</kw><sup> </sup><kw class="krdwrd-tag-3">Medical Systems). The signals from the high-magnification bronchovideoscope</kw><sup> </sup><kw class="krdwrd-tag-3">were reconstructed into visual signals by the video processor</kw><sup> </sup><kw class="krdwrd-tag-3">and projected onto a 14-inch video monitor.</kw><sup> </sup></p><p>
+
+<a name="F1"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/128/2/876/F1"><img src="/content/vol128/issue2/images/small/zcb0070594200001.gif" alt=" " border="2" vspace="5" width="200" height="163" hspace="10"></a><br>
+
+<strong><kw class="krdwrd-tag-1">View larger version</kw></strong><kw class="krdwrd-tag-1"> (32K):</kw><br>
+<nobr><a href="/cgi/content/full/128/2/876/F1"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/128/2/876/F1" onclick="startTarget('F1', 590, 558); this.href='/cgi/content-nw/full/128/2/876/F1'" onmouseover="window.status='View figure in a separate window'; return true" target="F1"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<a href="/cgi/powerpoint/128/2/876/F1"><kw class="krdwrd-tag-1">[Download PPT slide]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-1">
+Figure 1. A sectioned drawing of the distal end of the high-magnification bronchovideoscope.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br><kw class="krdwrd-tag-3">
+
+
+The observation depth was 1 to 3 mm, and the images of the bronchial</kw><sup> </sup><kw class="krdwrd-tag-3">mucosa were visualized with a magnification power of 55 to 110</kw><sup> </sup><kw class="krdwrd-tag-3">times on a video monitor according to the distance between the</kw><sup> </sup><kw class="krdwrd-tag-3">objective lens and the bronchial surface. The view angle was</kw><sup> </sup><kw class="krdwrd-tag-3">40°, but little distortion is seen. In addition, a forward-viewing</kw><sup> </sup><kw class="krdwrd-tag-3">optical fiberscope was attached to act as a guide. By using</kw><sup> </sup><kw class="krdwrd-tag-3">this front-viewing system, we confirmed the orientation and</kw><sup> </sup><kw class="krdwrd-tag-3">approached the endobronchial destinations while obtaining a</kw><sup> </sup><kw class="krdwrd-tag-3">high-magnification view.</kw><sup> </sup><p><kw class="krdwrd-tag-3">
+
+We observed the trachea and extrapulmonary bronchi of these</kw><sup> </sup><kw class="krdwrd-tag-3">patients under local anesthesia. In brief, after muscle injection</kw><sup> </sup><kw class="krdwrd-tag-3">of atropin sulfate, 0.5 mg, and pentazocin, 15 mg, and the nebulization</kw><sup> </sup><kw class="krdwrd-tag-3">of 12 mL of a 2% lidocaine solution, a conventional bronchovideoscope</kw><sup> </sup><kw class="krdwrd-tag-3">(BF-P200, BF-1T200, or BF-T200; Olympus Medical Systems) was</kw><sup> </sup><kw class="krdwrd-tag-3">orally inserted into the trachea under local anesthesia, and</kw><sup> </sup><kw class="krdwrd-tag-3">the endobronchial lumen was examined. After conventional bronchoscopy</kw><sup> </sup><kw class="krdwrd-tag-3">was performed, we inserted the high-magnification bronchovideoscope</kw><sup> </sup><kw class="krdwrd-tag-3">into the trachea by using the forward-viewing system. We observed</kw><sup> </sup><kw class="krdwrd-tag-3">the trachea and extrapulmonary bronchi enfacely under high magnification.</kw><sup> </sup><kw class="krdwrd-tag-3">Each bronchoscopic image obtained using the high-magnification</kw><sup> </sup><kw class="krdwrd-tag-3">bronchovideoscope was recorded in an electronic file.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2">Calculation of Vessel Area Ratio and Hemoglobin Index</kw></strong><br><kw class="krdwrd-tag-3">
+
+Forty-nine images of the cartilage portion, 52 images of the</kw><sup> </sup><kw class="krdwrd-tag-3">intercartilage portion, and 44 images of membranous portion</kw><sup> </sup><kw class="krdwrd-tag-3">from the 26 healthy subjects were analyzed. In order to evaluate</kw><sup> </sup><kw class="krdwrd-tag-3">the microvessel distribution obtained by the high-magnification</kw><sup> </sup><kw class="krdwrd-tag-3">bronchovideoscope, the vessel area ratio and hemoglobin index</kw><sup> </sup><kw class="krdwrd-tag-3">were calculated using appropriate software (SolemioENDO ProStudy;</kw><sup> </sup><kw class="krdwrd-tag-3">Olympus Medical Systems).</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+In brief, these parameters were calculated and determined as</kw><sup> </sup><kw class="krdwrd-tag-3">follows. First, a region of interest (ROI) was selected from</kw><sup> </sup><kw class="krdwrd-tag-3">the original high-magnification bronchovideoscope images on</kw><sup> </sup><kw class="krdwrd-tag-3">a computer display, and vascular images in the ROI were obtained.</kw><sup> </sup><kw class="krdwrd-tag-3">The microvessels were depicted as pixels. The vessel area ratio</kw><sup> </sup><kw class="krdwrd-tag-3">was determined as the number of pixels in the vessel area within</kw><sup> </sup><kw class="krdwrd-tag-3">the ROI. Next, the hemoglobin index was calculated.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2">Statistical Analysis</kw></strong><br><kw class="krdwrd-tag-3">
+
+Results were expressed as the mean ± SD. Differences</kw><sup> </sup><kw class="krdwrd-tag-3">in vessel area ratios and hemoglobin indexes were compared using</kw><sup> </sup><kw class="krdwrd-tag-3">the Mann-Whitney </kw><i><kw class="krdwrd-tag-3">U</kw></i><kw class="krdwrd-tag-3"> test.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+The correlation between vessel area ratios and hemoglobin indexes</kw><sup> </sup><kw class="krdwrd-tag-3">was analyzed using the Spearman signed rank test. Differences</kw><sup> </sup><kw class="krdwrd-tag-3">were considered to be statistically significant when the p value</kw><sup> </sup><kw class="krdwrd-tag-3">was &lt; 0.05.</kw><sup> </sup></p><p>
+
+<a name="SEC2"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+Results
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">TOP</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<a href="#BDY"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Introduction</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Materials and Methods</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">Results</kw></font><br>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Discussion</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+<strong><kw class="krdwrd-tag-2">Observation of Subepithelial Venous Networks of Large Airways by High-Magnification Bronchovideoscope Compared to Microscopic Findings</kw></strong><br><kw class="krdwrd-tag-3">
+
+We compared the images of large airways obtained by a conventional</kw><sup> </sup><kw class="krdwrd-tag-3">bronchovideoscope with those obtained by the high-magnification</kw><sup> </sup><kw class="krdwrd-tag-3">bronchovideoscope (</kw><a href="#F2"><kw class="krdwrd-tag-3">Fig 2</kw></a><kw class="krdwrd-tag-3">
+). The high-magnification bronchovideoscope</kw><sup> </sup><kw class="krdwrd-tag-3">images clearly showed the subepithelial ramifying microvessels.</kw><sup> </sup><kw class="krdwrd-tag-3">Many microvessels were observed in the intercartilage portion</kw><sup> </sup><kw class="krdwrd-tag-3">(</kw><a href="#F2"><kw class="krdwrd-tag-3">Fig 2</kw></a><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">top right</kw></i><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">B</kw></i><kw class="krdwrd-tag-3">) and the membranous portion (</kw><a href="#F2"><kw class="krdwrd-tag-3">Fig 2</kw></a><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">bottom</kw><sup> </sup><kw class="krdwrd-tag-3">right</kw></i><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">D</kw></i><kw class="krdwrd-tag-3">), whereas only a few microvessels were observed in</kw><sup> </sup><kw class="krdwrd-tag-3">the cartilage portion (</kw><a href="#F2"><kw class="krdwrd-tag-3">Fig 2</kw></a><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">bottom left</kw></i><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">C</kw></i><kw class="krdwrd-tag-3">). Longitudinal</kw><sup> </sup><kw class="krdwrd-tag-3">mucosal folds were also observed in the membranous portion.</kw><sup> </sup></p><p>
+
+<a name="F2"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/128/2/876/F2"><img src="/content/vol128/issue2/images/small/zcb0070594200002.gif" alt=" " border="2" vspace="5" width="200" height="196" hspace="10"></a><br>
+
+<strong><kw class="krdwrd-tag-1">View larger version</kw></strong><kw class="krdwrd-tag-1"> (124K):</kw><br>
+<nobr><a href="/cgi/content/full/128/2/876/F2"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/128/2/876/F2" onclick="startTarget('F2', 590, 631); this.href='/cgi/content-nw/full/128/2/876/F2'" onmouseover="window.status='View figure in a separate window'; return true" target="F2"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<a href="/cgi/powerpoint/128/2/876/F2"><kw class="krdwrd-tag-1">[Download PPT slide]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-2">
+Figure 2. Normal tracheal view obtained in a 30-year-old healthy female volunteer obtained with a conventional bronchovideoscope (BF-P200; Olympus Medical Systems) [</kw><i><kw class="krdwrd-tag-2">top left</kw></i><kw class="krdwrd-tag-2">, </kw><i><kw class="krdwrd-tag-2">A</kw></i><kw class="krdwrd-tag-2">] and a high-magnification view of intercartilage portion (</kw><i><kw class="krdwrd-tag-2">top right</kw></i><kw class="krdwrd-tag-2">, </kw><i><kw class="krdwrd-tag-2">B</kw></i><kw class="krdwrd-tag-2">) and the membranous portion (</kw><i><kw class="krdwrd-tag-2">bottom right</kw></i><kw class="krdwrd-tag-2">, </kw><i><kw class="krdwrd-tag-2">D</kw></i><kw class="krdwrd-tag-2">). The arrowheads in </kw><i><kw class="krdwrd-tag-2">top left</kw></i><kw class="krdwrd-tag-2">, </kw><i><kw class="krdwrd-tag-2">A</kw></i><kw class="krdwrd-tag-2">, show each observation site of the high-magnification bronchovideoscope. The upper panel of </kw><i><kw class="krdwrd-tag-2">bottom left</kw></i><kw class="krdwrd-tag-2">, </kw><i><kw class="krdwrd-tag-2">C</kw></i><kw class="krdwrd-tag-2">, is a cartilage portion.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br><kw class="krdwrd-tag-3">
+
+
+Next, we examined the distribution of microvessels in the tracheas</kw><sup> </sup><kw class="krdwrd-tag-3">of the two autopsied patients. A longitudinal cross-section</kw><sup> </sup><kw class="krdwrd-tag-3">of the tracheas showed many microvessels, mainly in the intercartilarge</kw><sup> </sup><kw class="krdwrd-tag-3">portion (</kw><a href="#F3"><kw class="krdwrd-tag-3">Fig 3</kw></a><kw class="krdwrd-tag-3">
+, </kw><i><kw class="krdwrd-tag-3">top</kw></i><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">A</kw></i><kw class="krdwrd-tag-3">), and only a few were present in the</kw><sup> </sup><kw class="krdwrd-tag-3">cartilage portion (</kw><a href="#F3"><kw class="krdwrd-tag-3">Fig 3</kw></a><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">middle</kw></i><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">B</kw></i><kw class="krdwrd-tag-3">). Microvessels were observed</kw><sup> </sup><kw class="krdwrd-tag-3">in the intercartilage portions, and relatively large microvessels</kw><sup> </sup><kw class="krdwrd-tag-3">in these portions were distributed between approximately 600</kw><sup> </sup><kw class="krdwrd-tag-3">and 800 µm beneath the bronchial surface. In the membranous</kw><sup> </sup><kw class="krdwrd-tag-3">portions, microvessels were distributed within approximately</kw><sup> </sup><kw class="krdwrd-tag-3">500 µm of the bronchial surface.</kw><sup> </sup><p>
+
+<a name="F3"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/128/2/876/F3"><img src="/content/vol128/issue2/images/small/zcb0070594200003.gif" alt=" " border="2" vspace="5" width="92" height="200" hspace="10"></a><br>
+
+<strong><kw class="krdwrd-tag-1">View larger version</kw></strong><kw class="krdwrd-tag-1"> (95K):</kw><br>
+<nobr><a href="/cgi/content/full/128/2/876/F3"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/128/2/876/F3" onclick="startTarget('F3', 352, 640); this.href='/cgi/content-nw/full/128/2/876/F3'" onmouseover="window.status='View figure in a separate window'; return true" target="F3"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<a href="/cgi/powerpoint/128/2/876/F3"><kw class="krdwrd-tag-1">[Download PPT slide]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-1">
+Figure 3. Microscopic findings from the trachea of an autopsied patient. Longitudinal cross-sections of the intercartilarge portion (</kw><i><kw class="krdwrd-tag-1">top</kw></i><kw class="krdwrd-tag-1">, </kw><i><kw class="krdwrd-tag-1">A</kw></i><kw class="krdwrd-tag-1">), the cartilage portion (</kw><i><kw class="krdwrd-tag-1">middle</kw></i><kw class="krdwrd-tag-1">, </kw><i><kw class="krdwrd-tag-1">B</kw></i><kw class="krdwrd-tag-1">), and the membranous portion (</kw><i><kw class="krdwrd-tag-1">bottom</kw></i><kw class="krdwrd-tag-1">, </kw><i><kw class="krdwrd-tag-1">C</kw></i><kw class="krdwrd-tag-1">) are shown. Microvessels were highly concentrated in the intercartilage portion, whereas there were only a few microvessels in the cartilage portion. Microvessels were distributed in longitudinal folds in the membranous portion. Bar = 300 µm.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<strong><kw class="krdwrd-tag-2">Vessel Area Ratios and Hemoglobin Indexes</kw></strong><br><kw class="krdwrd-tag-3">
+
+Vessel area ratios and hemoglobin indexes were calculated from</kw><sup> </sup><kw class="krdwrd-tag-3">the high-magnification the bronchovideoscope images of the large</kw><sup> </sup><kw class="krdwrd-tag-3">airways (</kw><a href="#T1"><kw class="krdwrd-tag-3">Table 1</kw></a><kw class="krdwrd-tag-3">
+, </kw><a href="#F4"><kw class="krdwrd-tag-3">Fig 4</kw></a><kw class="krdwrd-tag-3">
+). The vessel area ratio of the intercartilage</kw><sup> </sup><kw class="krdwrd-tag-3">portions was significantly higher than that of the cartilage</kw><sup> </sup><kw class="krdwrd-tag-3">portions (p &lt; 0.0001) and that of the membranous portions</kw><sup> </sup><kw class="krdwrd-tag-3">(p = 0.0198). However, there was no significant difference between</kw><sup> </sup><kw class="krdwrd-tag-3">the cartilage portions and the membranous portions.</kw><sup> </sup><p>
+
+<a name="T1"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<strong><kw class="krdwrd-tag-1">View this table:</kw></strong><br>
+<nobr><a href="/cgi/content/full/128/2/876/T1"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/128/2/876/T1" onclick="startTarget('T1', 500, 400); this.href='/cgi/content-nw/full/128/2/876/T1'" onmouseover="window.status='View figure in a separate window'; return true" target="T1"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-1">
+Table 1. Vessel Area Ratios and Hemoglobin Indexes</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<a name="F4"><!-- null --></a>
+<br clear="all"><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/128/2/876/F4"><img src="/content/vol128/issue2/images/small/zcb0070594200004.gif" alt=" " border="2" vspace="5" width="200" height="100" hspace="10"></a><br>
+
+<strong><kw class="krdwrd-tag-1">View larger version</kw></strong><kw class="krdwrd-tag-1"> (13K):</kw><br>
+<nobr><a href="/cgi/content/full/128/2/876/F4"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/128/2/876/F4" onclick="startTarget('F4', 590, 419); this.href='/cgi/content-nw/full/128/2/876/F4'" onmouseover="window.status='View figure in a separate window'; return true" target="F4"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<a href="/cgi/powerpoint/128/2/876/F4"><kw class="krdwrd-tag-1">[Download PPT slide]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-1">
+Figure 4. The vessel area ratios of the intercartilage portions were significantly higher than those of the cartilage portion (p &lt; 0.0001) and those of membranous portion (p = 0.0198) [</kw><i><kw class="krdwrd-tag-1">left</kw></i><kw class="krdwrd-tag-1">]. The hemoglobin index of the intercartilage portions was significantly higher than that of the intercartilage portions (p &lt; 0.0001) and that of the membranous portions (p = 0.0017). The hemoglobin index of the membranous portions was significantly higher than that of the cartilage portions (p &lt; 0.0001) [</kw><i><kw class="krdwrd-tag-1">right</kw></i><kw class="krdwrd-tag-1">].</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br><kw class="krdwrd-tag-3">
+
+
+The hemoglobin index of the intercartilage portions was significantly</kw><sup> </sup><kw class="krdwrd-tag-3">higher than that of the intercartilage portions (p &lt; 0.0001)</kw><sup> </sup><kw class="krdwrd-tag-3">and that of the membranous portions (p = 0.0017). The hemoglobin</kw><sup> </sup><kw class="krdwrd-tag-3">index of the membranous portions was significantly higher than</kw><sup> </sup><kw class="krdwrd-tag-3">that of the cartilage portions (p &lt; 0.0001).</kw><sup> </sup><p><kw class="krdwrd-tag-3">
+
+There was a significant correlation between the vessel area</kw><sup> </sup><kw class="krdwrd-tag-3">ratios and the hemoglobin indexes (p &lt; 0.0001) [</kw><a href="#F5"><kw class="krdwrd-tag-3">Fig 5</kw></a><kw class="krdwrd-tag-3">
+].</kw><sup> </sup><kw class="krdwrd-tag-3">In addition, there was no significant difference between each</kw><sup> </sup><kw class="krdwrd-tag-3">size of ROI.</kw><sup> </sup></p><p>
+
+<a name="F5"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/128/2/876/F5"><img src="/content/vol128/issue2/images/small/zcb0070594200005.gif" alt=" " border="2" vspace="5" width="200" height="165" hspace="10"></a><br>
+
+<strong><kw class="krdwrd-tag-1">View larger version</kw></strong><kw class="krdwrd-tag-1"> (27K):</kw><br>
+<nobr><a href="/cgi/content/full/128/2/876/F5"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/128/2/876/F5" onclick="startTarget('F5', 590, 563); this.href='/cgi/content-nw/full/128/2/876/F5'" onmouseover="window.status='View figure in a separate window'; return true" target="F5"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<a href="/cgi/powerpoint/128/2/876/F5"><kw class="krdwrd-tag-1">[Download PPT slide]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-2">
+Figure 5. There was significant correlation between the vessel area ratio and hemoglobin index (p &lt; 0.0001).</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<a name="SEC3"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+Discussion
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">TOP</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<a href="#BDY"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Introduction</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Materials and Methods</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Results</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">Discussion</kw></font><br>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3">
+
+The subepithelial structure of the normal bronchial tree consists</kw><sup> </sup><kw class="krdwrd-tag-3">mainly of cartilage rings, longitudinal and circular muscular</kw><sup> </sup><kw class="krdwrd-tag-3">folds, and subepithelial vessels. These vessels were observed</kw><sup> </sup><kw class="krdwrd-tag-3">through the transparent epithelium, which was covered with a</kw><sup> </sup><kw class="krdwrd-tag-3">mucosal layer, and were thought to form a venous network in</kw><sup> </sup><kw class="krdwrd-tag-3">the subepithelial layer of the bronchus.</kw><sup><a href="#B2"><kw class="krdwrd-tag-3">2</kw></a></sup><sup><a href="#B3"><kw class="krdwrd-tag-3">3</kw></a></sup><kw class="krdwrd-tag-3"> Many ramifying microvessels</kw><sup> </sup><kw class="krdwrd-tag-3">were clearly observed by the high-magnification bronchovideoscope</kw><sup> </sup><kw class="krdwrd-tag-3">because both the side view and high magnification were achieved.</kw><sup> </sup><p><kw class="krdwrd-tag-3">
+
+The large airway, including the trachea and extrapulmonary bronchi,</kw><sup> </sup><kw class="krdwrd-tag-3">is anatomically divided into the following three parts: cartilage</kw><sup> </sup><kw class="krdwrd-tag-3">portion; intercartilage portion; and membranous portion. As</kw><sup> </sup><kw class="krdwrd-tag-3">seen with a conventional bronchovideoscope, the distribution</kw><sup> </sup><kw class="krdwrd-tag-3">of the subepithelial venous network seems to be random. However,</kw><sup> </sup><kw class="krdwrd-tag-3">according to our observations with the high-magnification bronchovideoscope,</kw><sup> </sup><kw class="krdwrd-tag-3">subepithelial microvessels were concentrated mainly in the intercartilage</kw><sup> </sup><kw class="krdwrd-tag-3">portions, whereas there were few microvessels in the cartilage</kw><sup> </sup><kw class="krdwrd-tag-3">portions. Some microvessels were also observed in the membranous</kw><sup> </sup><kw class="krdwrd-tag-3">portions in addition to the longitudinal folds. Similarly, the</kw><sup> </sup><kw class="krdwrd-tag-3">intercartilage portions had the highest hemoglobin index values</kw><sup> </sup><kw class="krdwrd-tag-3">among the three areas. The value of the hemoglobin index correlated</kw><sup> </sup><kw class="krdwrd-tag-3">with the vessel area ratios. These findings indicate an increase</kw><sup> </sup><kw class="krdwrd-tag-3">of microcirculation in the intercartilage portion in the large</kw><sup> </sup><kw class="krdwrd-tag-3">airways.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+The depth of the visible subepithelial microvessels below the</kw><sup> </sup><kw class="krdwrd-tag-3">epithelial surface is unclear. A longitudinally sectioned trachea</kw><sup> </sup><kw class="krdwrd-tag-3">showed that thick vessels were distributed more deeply than</kw><sup> </sup><kw class="krdwrd-tag-3">thin vessels. According to the findings in the 26 subjects and</kw><sup> </sup><kw class="krdwrd-tag-3">in the trachea specimens obtained by autopsy in 2 subjects that</kw><sup> </sup><kw class="krdwrd-tag-3">were obtained with the high-magnification bronchovideoscope,</kw><sup> </sup><kw class="krdwrd-tag-3">it was speculated that the vessels made visible with this bronchovideoscope</kw><sup> </sup><kw class="krdwrd-tag-3">were probably distributed within 800 µm below the epithelial</kw><sup> </sup><kw class="krdwrd-tag-3">surface. Whether or not microvessels are visible depends on</kw><sup> </sup><kw class="krdwrd-tag-3">their diameter and histologic condition.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+The bronchial vessels are able to regenerate and form new vessels</kw><sup> </sup><kw class="krdwrd-tag-3">very rapidly in various conditions.</kw><sup><a href="#B1"><kw class="krdwrd-tag-3">1</kw></a></sup><sup><a href="#B2"><kw class="krdwrd-tag-3">2</kw></a></sup><kw class="krdwrd-tag-3"> Mucosal blood flow is</kw><sup> </sup><kw class="krdwrd-tag-3">thought to be influenced by vascular and airway pressures, inspired</kw><sup> </sup><kw class="krdwrd-tag-3">air conditions, and anatomic neurotransmitters.</kw><sup><a href="#B7"><kw class="krdwrd-tag-3">7</kw></a></sup><sup><a href="#B8"><kw class="krdwrd-tag-3">8</kw></a></sup> <i><kw class="krdwrd-tag-3">In situ</kw></i><kw class="krdwrd-tag-3"> observation</kw><sup> </sup><kw class="krdwrd-tag-3">of these bronchial changes with high-magnification devices may</kw><sup> </sup><kw class="krdwrd-tag-3">provide us with new information concerning various bronchial</kw><sup> </sup><kw class="krdwrd-tag-3">mucosal changes in patients with respiratory diseases such as</kw><sup> </sup><kw class="krdwrd-tag-3">bronchial asthma, chronic bronchitis, sarcoidosis, and lung</kw><sup> </sup><kw class="krdwrd-tag-3">cancer. Quantitative analysis of the vascular densities or microcirculation</kw><sup> </sup><kw class="krdwrd-tag-3">in various bronchial diseases may lead to a better understanding</kw><sup> </sup><kw class="krdwrd-tag-3">of the hemodynamics of these pathologic states.</kw><sup> </sup></p><p>
+
+<sup> </sup></p><p>
+
+
+
+<a name="ACK"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+Acknowledgements
+</kw></font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3">
+
+The authors thank Yu-ichi Morizane, Toshiyuki Kubonoya, Kenji</kw><sup> </sup><kw class="krdwrd-tag-3">Yamazaki, and Hideki Tanaka of Olympus Medical Systems (Tokyo,</kw><sup> </sup><kw class="krdwrd-tag-3">Japan) for their technical support.</kw><sup> </sup></p><p>
+
+
+<a name="FN"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+Footnotes
+</kw></font></th></tr></tbody></table>
+&nbsp;<br>
+
+<a name=""><!-- null --></a><kw class="krdwrd-tag-1">
+Abbreviations: CCD = charge-coupled device; ROI = region of</kw><sup> </sup><kw class="krdwrd-tag-1">interest</kw><sup> </sup></p><p>
+
+<a name=""><!-- null --></a><kw class="krdwrd-tag-1">
+This investigation was supported by a grant from the Japanese</kw><sup> </sup><kw class="krdwrd-tag-1">Foundation for Research and Promotion of Endoscopy in 2003.</kw><sup> </sup></p><p><kw class="krdwrd-tag-1">
+
+
+Received for publication December 20, 2004. 
+
+Accepted for publication March  1, 2005.</kw></p><p>
+<a name="BIBL"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+References
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">TOP</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<a href="#BDY"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Introduction</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Materials and Methods</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Results</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Discussion</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">References</kw></font><br>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+</p><ol compact="compact">
+<a name="B1"><!-- null --></a>
+<li value="1"><kw class="krdwrd-tag-1"> Charan, NB, Baile, EM, Pare, PD (1997) Bronchial vascular congestion and angiogenesis. </kw><i><kw class="krdwrd-tag-1">Eur Respir J</kw></i> <b><kw class="krdwrd-tag-1">10</kw></b><kw class="krdwrd-tag-1">,1173-1180</kw><!-- HIGHWIRE ID="128:2:876:1" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=erj&amp;resid=10/5/1173"><kw class="krdwrd-tag-1">[Abstract]</kw></a><!-- /HIGHWIRE --><a name="B2"><!-- null --></a>
+</li><li value="2"><kw class="krdwrd-tag-1"> John, GW  Microvascular anatomy of the airways.    Willium, WB Stephen, TH eds. </kw><i><kw class="krdwrd-tag-1">Asthma and rhinitis</kw></i><kw class="krdwrd-tag-1">  2nd ed. 2000,721-731  Blackwell Science. Malden, MA:   </kw><!-- HIGHWIRE ID="128:2:876:2" --><!-- /HIGHWIRE --><a name="B3"><!-- null --></a>
+</li><li value="3"><kw class="krdwrd-tag-1"> Deffebach, ME, Charan, NB, Lakshminarayan, S, et al  The bronchial circulation. Small, but a vital attribute of the lung. </kw><i><kw class="krdwrd-tag-1">Am Rev Respir Dis</kw></i> <b><kw class="krdwrd-tag-1">1987;135</kw></b><kw class="krdwrd-tag-1">,463-480</kw><!-- HIGHWIRE ID="128:2:876:3" --><a href="/cgi/external_ref?access_num=A1987F900800033&amp;link_type=ISI"><kw class="krdwrd-tag-1">[ISI]</kw></a><a href="/cgi/external_ref?access_num=3544986&amp;link_type=MED"><kw class="krdwrd-tag-1">[Medline]</kw></a><!-- /HIGHWIRE --><a name="B4"><!-- null --></a>
+</li><li value="4"><kw class="krdwrd-tag-1"> Toyota, Y, Honda, H, Omoya, T, et al  Usefulness of a hemoglobin index determined by electronic endoscopy in the diagnosis of </kw><i><kw class="krdwrd-tag-1">Helicobacter pylori</kw></i><kw class="krdwrd-tag-1"> gastritis. </kw><i><kw class="krdwrd-tag-1">Dig Endosc</kw></i> <b><kw class="krdwrd-tag-1">2002;14</kw></b><kw class="krdwrd-tag-1">,156-162</kw><!-- HIGHWIRE ID="128:2:876:4" --><a href="/cgi/external_ref?access_num=10.1046/j.1443-1661.2002.00189.x&amp;link_type=DOI"><kw class="krdwrd-tag-1">[CrossRef]</kw></a><!-- /HIGHWIRE --><a name="B5"><!-- null --></a>
+</li><li value="5"><kw class="krdwrd-tag-1"> Yao, K, Yao, T, Matsui, T, et al  Hemoglobin content in intramucosal gastric carcinoma as a marker of histologic differentiation: a clinical application of quantitative electronic endoscopy. </kw><i><kw class="krdwrd-tag-1">Gastrointest Endosc</kw></i> <b><kw class="krdwrd-tag-1">2000;52</kw></b><kw class="krdwrd-tag-1">,241-245</kw><!-- HIGHWIRE ID="128:2:876:5" --><a href="/cgi/external_ref?access_num=10922102&amp;link_type=MED"><kw class="krdwrd-tag-1">[Medline]</kw></a><!-- /HIGHWIRE --><a name="B6"><!-- null --></a>
+</li><li value="6"><kw class="krdwrd-tag-1"> Fujii, T, Ono, A  Is adaptive index of hemoglobin color enhancement effective in detecting small depressed type colorectal cancers? </kw><i><kw class="krdwrd-tag-1">Dig Endosc</kw></i> <b><kw class="krdwrd-tag-1">2002;14</kw></b><kw class="krdwrd-tag-1">,S58-S61</kw><!-- HIGHWIRE ID="128:2:876:6" --><a href="/cgi/external_ref?access_num=10.1046/j.1443-1661.14.s1.14.x&amp;link_type=DOI"><kw class="krdwrd-tag-1">[CrossRef]</kw></a><!-- /HIGHWIRE --><a name="B7"><!-- null --></a>
+</li><li value="7"><kw class="krdwrd-tag-1"> Ohmichi, M, Tagaki, S, Nomura, N, et al  Endobronchial changes in chronic pulmonary venous hypertension </kw><i><kw class="krdwrd-tag-1">Chest</kw></i> <b><kw class="krdwrd-tag-1">1988;94</kw></b><kw class="krdwrd-tag-1">,1127-1132</kw><!-- HIGHWIRE ID="128:2:876:7" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=chest&amp;resid=94/6/1127"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="B8"><!-- null --></a>
+</li><li value="8"><kw class="krdwrd-tag-1"> Wanner, A  Circulation of the airway mucosa. </kw><i><kw class="krdwrd-tag-1">J Appl Physiol</kw></i> <b><kw class="krdwrd-tag-1">1989;67</kw></b><kw class="krdwrd-tag-1">,917-925</kw><!-- HIGHWIRE ID="128:2:876:8" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jap&amp;resid=67/3/917"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --></li></ol>
+
+
+
+		
+        
+        
+	
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<br clear="all">
+
+
+
+
+  <font face="">
+  
+  </font>
+<br clear="all">
+<br clear="all">
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+<br clear="all">
+
+
+	
+	 
+		
+		
+		  
+			
+	
+		<table class="content_box_outer_table">
+		
+		
+			<tbody><tr>
+			<td>
+		
+	
+
+<!-- beginning of inner table -->
+	<table class="content_box_inner_table">
+<!-- citation -->
+
+	
+		
+
+
+
+
+	
+
+	
+
+	
+		
+			
+<tbody><tr><td class="content_box_title_highlight" colspan="2"><kw class="krdwrd-tag-1">This Article</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+				
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				
+				<strong><a href="/cgi/content/abstract/128/2/876"><kw class="krdwrd-tag-1">
+				Abstract</kw></a></strong>
+				 					<img alt="Freely available" src="/icons/shared/toc/free.gif" border="0" width="32" height="7">
+				
+	
+				</td></tr>
+			
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+	
+
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+		
+	
+	
+		
+	
+
+	
+
+	
+		
+			
+		
+	
+
+	
+
+	
+	 
+
+	
+	 
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		<strong>
+		
+		
+		
+			<a href="/cgi/reprint/128/2/876">
+		<strong><kw class="krdwrd-tag-1">Full Text</kw></strong><kw class="krdwrd-tag-1"> (PDF)</kw></a>
+
+ <span style="color: rgb(170, 0, 0);"><kw class="krdwrd-tag-1">Free</kw></span>
+
+ 
+		
+		</strong>
+		</td></tr>
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+
+
+
+	
+	
+		
+	
+
+	
+		
+	
+
+	
+		
+
+	
+		
+		
+
+			
+
+
+	
+
+			
+
+			
+		
+	
+
+			
+	  
+	
+
+			
+
+			
+
+			
+	
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+
+	
+	
+	
+
+	
+		
+	
+
+	
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong>
+
+	<strong><a href="/cgi/eletter-submit/128/2/876"><kw class="krdwrd-tag-1">
+	
+		
+		Submit a response</kw></a></strong></strong>
+			</td></tr>
+		 
+	
+         
+
+	
+	
+		  
+    
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+		
+	
+		
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;saveAlert=no&amp;cited_by_criteria_resid=chest;128/2/876&amp;return_type=article&amp;return_url=http%3A%2F%2Fwww.chestjournal.org%2Fcgi%2Fcontent%2Ffull%2F128%2F2%2F876"><kw class="krdwrd-tag-1">
+				Alert me when this article is cited</kw></a></strong>
+			</td></tr>
+	
+
+		
+		
+			
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;saveAlert=no&amp;eletter_criteria_value=128/2/876&amp;return_type=article&amp;return_url=http%3A%2F%2Fwww.chestjournal.org%2Fcgi%2Fcontent%2Ffull%2F128%2F2%2F876"><kw class="krdwrd-tag-1">
+				Alert me when eLetters are posted</kw></a></strong>
+			</td></tr>
+			
+		
+
+		
+		
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;saveAlert=no&amp;correction_criteria_value=128/2/876&amp;return_type=article&amp;return_url=http%3A%2F%2Fwww.chestjournal.org%2Fcgi%2Fcontent%2Ffull%2F128%2F2%2F876"><kw class="krdwrd-tag-1">
+				Alert me if a correction is posted</kw></a></strong>
+			</td></tr>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		
+			
+			
+			
+	
+
+			
+			
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Services</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/mailafriend?url=http%3A%2F%2Fwww.chestjournal.org%2Fcgi%2Fcontent%2Ffull%2F128%2F2%2F876&amp;title=Subepithelial+Microvasculature+in+Large+Airways+Observed+by+High-Magnification+Bronchovideoscope"><kw class="krdwrd-tag-1">
+				Email this article to a friend</kw></a></strong>
+			</td></tr>
+			
+			
+
+
+	
+
+	
+
+	
+
+		
+		
+
+
+
+			
+			
+			
+		
+	
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		<strong>
+		<a href="/cgi/search?qbe=chest;128/2/876&amp;journalcode=chest&amp;minscore=5000"><kw class="krdwrd-tag-1">
+		Similar articles in this journal</kw></a>
+		</strong>
+		</td></tr>
+
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<a href="/cgi/external_ref?access_num=chest%3B128%2F2%2F876&amp;link_type=ISI_RelatedRecords"><kw class="krdwrd-tag-1">
+				Similar articles in ISI Web of Science</kw></a>
+			</td></tr>
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=16100181&amp;link_type=MED_NBRS"><kw class="krdwrd-tag-1">
+				Similar articles in PubMed</kw></a></strong>
+			</td></tr>
+		
+	
+
+
+		
+
+
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/etoc"><kw class="krdwrd-tag-1">
+				Alert me to new issues of the journal</kw></a></strong>
+			</td></tr>
+		
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=chest;128/2/876"><kw class="krdwrd-tag-1">
+				Add to My Personal Article Archive</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+			<strong><a href="/cgi/citmgr?gca=chest;128/2/876"><kw class="krdwrd-tag-1">
+			Download to citation manager</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+
+	
+		
+	
+
+	
+
+
+
+  			
+		
+
+
+	
+
+	
+
+
+
+
+	
+
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?&amp;link_type=PERMISSIONDIRECT" target="_new">
+				<img src="/icons/misc/permissions.gif" alt="reprints &amp; permissions" border="0"></a></strong>
+			</td></tr>	
+			
+
+
+
+
+
+		
+
+		
+
+	
+	
+	
+		
+
+
+	
+
+	
+
+	
+
+
+	
+
+
+
+
+
+	
+
+
+	
+		 
+	
+
+		
+		
+			
+		<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Citing Articles</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+
+					
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://www.chestjournal.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/128/2/876%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLAR"><kw class="krdwrd-tag-1">Citing Articles via Google Scholar</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+				
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Google Scholar</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AG.+author%3AYamada%22"><kw class="krdwrd-tag-1">
+							Articles by Yamada, G.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AS.+author%3AAbe%22"><kw class="krdwrd-tag-1">
+							Articles by Abe, S.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+		
+		
+	
+	
+	
+	
+
+		
+			
+				
+					
+						
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://www.chestjournal.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/128/2/876%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLARRELATED"><kw class="krdwrd-tag-1">Search for Related Content</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+		
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">PubMed</kw></td></tr>
+
+	
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=16100181&amp;link_type=PUBMED"><kw class="krdwrd-tag-1">
+				PubMed Citation</kw></a></strong>
+			</td></tr>
+		
+	
+
+	
+		
+		
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Yamada+G&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1">
+							Articles by Yamada, G.</kw></a></strong>
+						</td></tr>
+				
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Abe+S&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1">
+							Articles by Abe, S.</kw></a></strong>
+						</td></tr>
+				
+			
+		
+
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+	
+
+		
+			
+		
+	 
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</tbody></table>
+</td></tr></tbody></table> 
+
+
+					
+					
+	
+
+<br clear="all">
+
+
+
+
+
+
+
+
+	
+	<p>
+	</p><hr align="left" size="1" width="450" noshade="noshade">
+	
+	<table cellpadding="2" cellspacing="2" width="450">
+	<tbody><tr>
+		<td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">HOME</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/help/"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">HELP</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/cgi/feedback"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">FEEDBACK</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/subscriptions/"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">SUBSCRIPTIONS</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/contents-by-date.0.shtml"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">ARCHIVE</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/search.dtl"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">SEARCH</kw></font></a></td>
+	    <td align="center" bgcolor="#660000" valign="top" nowrap="nowrap"><a target="_top" style="text-decoration: none;" href="/content/vol128/issue2/index.shtml"><font color="#ffffff" face="arial,helvetica" size="-2"><kw class="krdwrd-tag-1">TABLE OF CONTENTS</kw></font></a></td>
+
+
+
+
+	</tr>
+	</tbody></table>
+	
+	
+
+
+
+        
+        
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+
+_uacct = "UA-1544140-1";
+
+urchinTracker();
+</script>
+
+
+	
+
+
+
+</body>

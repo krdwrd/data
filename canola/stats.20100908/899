@@ -1,0 +1,129 @@
+<head><base href="http://www.theafricachannel.com/corporate/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>The Africa Channel</title>
+
+
+
+
+<link href="assets/style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+
+        button_general_on           = new Image(159,31);
+        button_general_on.src       = "assets/images/button_general_on.gif";
+
+        button_program_on           = new Image(159,31);
+        button_program_on.src       = "assets/images/button_program_on.gif";
+        
+        button_partners_on           = new Image(169,31);
+        button_partners_on.src       = "assets/images/button_partners_on.gif";
+
+        button_contact_on           = new Image(157,31);
+        button_contact_on.src       = "assets/images/button_contact_on.gif";
+		
+        button_news_on           = new Image(157,31);
+        button_news_on.src       = "assets/images/button_news_on.gif";
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.style4 {font-family: "Times New Roman", Times, serif; color: #000000; font-size: 12px; }
+.style9 {font-size: 20px}
+.style12 {font-family: "Times New Roman", Times, serif; color: #000000; font-size: 12px; font-style: italic; }
+-->
+</style></head><body leftmargin="0" topmargin="0" onload="MM_preloadImages('assets/images/button_general_on.gif','assets/images/button_program_on.gif','assets/images/button_partners_on.gif','assets/images/button_contact_on.gif','assets/images/button_news_on.gif')" bgcolor="#000000" marginheight="0" marginwidth="0">
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+  <tbody><tr> 
+    <td height="108"><img src="assets/images/logo.jpg" usemap="#Map" border="0" height="108" width="800">
+      <map name="Map"><area shape="rect" coords="0,2,220,105" href="index.html">
+        
+    </map></td>
+  </tr>
+  <tr> 
+    <td height="31"><table border="0" cellpadding="0" cellspacing="0" height="31" width="800">
+        <tbody><tr> 
+          <td align="center" bgcolor="#8e1605" valign="middle"><a href="general.html" onmouseout="document.images.general.src='assets/images/button_general.gif'" onmouseover="document.images.general.src=button_general_on.src"><img src="assets/images/button_general.gif" name="general" border="0" height="31" width="159"></a></td>
+          <td align="center" bgcolor="#38169d" valign="middle"><a href="partners.html" onmouseout="document.images.partners.src='assets/images/button_partners.gif'" onmouseover="document.images.partners.src=button_partners_on.src"><img src="assets/images/button_partners.gif" name="partners" border="0" height="31" width="169"></a></td>
+          <td align="center" bgcolor="#0d40ad" valign="middle"><a href="contact.html" onmouseout="document.images.contact.src='assets/images/button_contact.gif'" onmouseover="document.images.contact.src=button_contact_on.src"><img src="assets/images/button_contact.gif" name="contact" border="0" height="31" width="157"></a></td>
+		  <td align="center" bgcolor="#d68200" valign="middle"><a href="news.html" onmouseout="document.images.news.src='assets/images/button_news.gif'" onmouseover="document.images.news.src=button_news_on.src"><img src="assets/images/button_news.gif" name="news" border="0" height="31" width="157"></a></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="right" height="31"><img src="assets/images/heading_compnews.gif" border="0" height="28" width="250"></td>
+  </tr>
+  <tr>
+    <td><table border="0" cellpadding="0" cellspacing="0" width="800">
+        <tbody><tr>
+          <td align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="800">
+            <tbody><tr>
+              <td align="left" bgcolor="#000000" valign="top" width="490"><table border="0" cellpadding="0" cellspacing="0" width="780">
+                  <tbody><tr>
+                    <td align="left" bgcolor="#000000" valign="top" width="236"><img src="assets/images/conews_lftimage.gif" usemap="#Map2" border="0" height="434" width="236">
+                      <map name="Map2"><area shape="rect" coords="19,385,228,438" href="news_072405_lat_p.html">
+                        
+                      </map></td>
+                    <td align="left" background="assets/images/conews_bkgtex_l.jpg" bgcolor="#ffffff" valign="top" width="63"><img src="assets/images/conews_rtimage.gif" height="434" width="63"></td>
+                    <td align="left" background="assets/images/conews_bkgtex_c.jpg" bgcolor="#ffffff" valign="top" width="419"><img src="assets/images/conews_tptexture.gif" border="0" height="34" width="419">
+                      <table marginheight="0" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="419">
+                        <tbody><tr>
+                          <td colspan="3"><img src="assets/images/news/news_072405_lat_1.jpg" height="94" width="419"></td>
+                          </tr>
+                        <tr>
+                          <td width="20"><img src="assets/images/blank.gif" height="1" width="20"></td>
+                          <td width="379">
+                            <p class="style9"><strong><kw class="krdwrd-tag-2-90">All Africa , All the Time </kw><br>
+                            </strong><span class="style12"><kw class="krdwrd-tag-2-90">Giving an unsung continent a boost in the ratings</kw></span> <br>
+                            <br>
+                            <span class="style4"><kw class="krdwrd-tag-1-60">July 24, 2005 </kw></span></p>                            
+                            <p class="style4"><strong><kw class="krdwrd-tag-1-60">By Victoria Clayton Alexander</kw></strong></p>
+                            <p class="style4"><strong>&nbsp;</strong><kw class="krdwrd-tag-3-100">Get ready to program Africa into your TV remote. If James Makawa and his partners at the North Hollywood-based Africa Channel have their way, your cable menu soon will include round-the-clock programming centered on Africa and Africans. With Jacob Arback, a former vice president of DirecTV International, and Richard Hammer, a former executive with Columbia Pictures Television, Makawa, a native of Zimbabwe , hopes to show audiences facets of Africa not frequently seen in mainstream media reports. Africa Channel programming includes original newsmagazine, reality TV, travel and soap opera segments produced largely in Johannesburg in partnership with Weller/Grossman Productions. The channel will debut late this summer in the New Orleans and Baton Rouge , La. , areas, and it's negotiating for slots in Los Angeles and other American markets. For CEO Makawa, a 45-year-old Santa Monica resident, the Africa Channel is a chance to do good. We tuned in to find out what's on. </kw></p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-70">Why an Africa Channel? </kw></strong></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-100">Let me put it this way: The country of Nigeria has more than 100 million people. Did you know that the United States of America , including Alaska , will fit into Africa about two and a half times? There are almost a billion people on that continent. It deserves recognition in so many ways, and it continues to be ignored. Take Coca-Cola. One of its most profitable operations is in Africa . There's no money in Africa; there's loads of money in Africa . That's the paradox. Africa not only has resources, it also has buying power. That Africans have money is the biggest-kept secret in the world. People only started flocking to China and Southeast Asia when people started having information about China and Southeast Asia . They started seeing pictures. CNBC, CNN started broadcasting and so on. Why do it now? Well, it's about time. </kw><strong>&nbsp; </strong></p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-70">What does that mean? </kw></strong></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-100">Africans are simply portrayed as tribespeople. It goes back to the Tarzan era. It's somebody else's interpretation of what Africa should be. That image will persist unless we start to take care of our own images. [Tribesmen] are a subset of what we have. We're proud of the heritage and rural life that goes on in conjunction with the urban life. But when you portray just that, it says, "These people are uneducated, these people have no capability of being able to function in the modern-day world, we cannot go there and do business." </kw></p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-90">Can you give us some examples of Africa Channel programming? </kw></strong></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-100">"Carte Blanche" is our version of "60 Minutes." Great feature reporting, hard and soft, dealing with people and issues and stories across the entire [African] continent. You'll see soap operas. I may not be the biggest soap fan in the world, but these soaps also portray the African in a different light. These people are educated, these people have cultural issues to deal with, they've got ambitions, they have love interests just like everybody else. You never see Africans portrayed in a loving way. </kw><strong>&nbsp; </strong></p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-90">Why do you think that is? </kw></strong></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-100">You know, if it bleeds it leads. There's just this focus on disaster. Oh, poor Africa , those victims over there. That has got to change. Africa cannot be a bottomless pit for aid. [Africans] are proud, resilient, resourceful people. Irrespective of all the challenges Africans have, they are alive people. They are not dying off everywhere. As it stands now, everybody in Africa might as well be relegated to the dump heap. [Americans] don't see that Africans are actually in pubs dancing and having a great time. They don't experience this. </kw></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-60">B </kw><strong><kw class="krdwrd-tag-3-70">ut Africa faces severe problems. Will your programming address issues such as AIDS? </kw></strong></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-100">Absolutely. [The AIDS crisis] is the defining moral issue of our time. Our intention is to try to balance these issues with other information about Africa . We know we have some tough issues to deal with, and we will deal with them. War, famine, AIDS, corruption. If we don't deal with these issues, we won't have any credibility. The Africa Channel will not be all rah-rah. </kw></p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-100">Most of your programming is currently slated to come out of South Africa , which has more prosperity and infrastructure than many regions of the continent. </kw></strong></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-90">We had to start with a place that had the kind of [production] quality we were looking for. Also, South Africa practices copyright law that is internationally recognized. This doesn't mean [the Africa Channel] is not going to be addressing things from all over Africa . "Studio 53," one of our travel shows�53 being the 53 countries�goes all over Africa, including the adjacent islands, from Mauritius to Cape Verde to Mali to Ghana . </kw></p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-90"> At this stage, the channel is being marketed to air in non-African countries rather than Africa . Why? </kw></strong></p>
+                            <p class="style4"><strong> </strong><kw class="krdwrd-tag-3-100">The people who need to be informed most about Africa, the people who make decisions about trade with Africa, [are in] the United States . Unless the most powerful nation in the world knows of Africa and understands it, nothing will change. We'll start here, we'll go to Europe, Asia and get back to Africa . </kw></p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-90">Why base the Africa Channel here? </kw></strong></p>
+                            <p class="style4"><strong>&nbsp; </strong><kw class="krdwrd-tag-3-100">If you have an idea, especially in media, Los Angeles is a good place to come to. This place is innovative. It's also got a lot of other support here. Are we going to be able to galvanize the celebrity that exists here that's tied in with Africa ? Yes. This is the entertainment capital of the world. </kw></p>
+                            <p>&nbsp; </p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-90">The Africa Channel has some big investors. NBA star Dikembe Mutombo wrote you your first check. How do you plan to be profitable? </kw></strong></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-100">We will eventually make money through sponsorship and advertising and license fees that the cable companies will pay us. We will not only make money through U.S. sponsors. For the first time in television history, African advertisers will be able to reach the American audience. Financial success will mean that we can do all the altruistic things we'd like to do. We will do a lot of good, but we will also make a lot of money. </kw></p>
+                            <p>&nbsp;</p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-90">You surprised many in the news business when, as a young NBC correspondent, you signed up for the amnesty program in 1987. </kw></strong></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-100">I couldn't go back [to Africa] and work in journalism after graduating from the University of Evansville in Indiana . Those opportunities just weren't there in Africa . I wanted to develop my skill set and get exposure to the American media world. Not that I'm proud of working anywhere illegally, but that was my point of survival. The people at NBC were absolutely great about it. They were very supportive. My bureau chief knew of my situation, but he was very protective in that regard. </kw></p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-90">What would you consider success? </kw></strong></p>
+                            <p class="style4"><kw class="krdwrd-tag-3-90">The ultimate idea would be, somebody [in the States] decides they're going to take a few days off and go to Senegal . [Americans] think nothing about just getting on a plane to Paris or Milan . And there's nothing wrong with that. But we're saying that Dakar , Senegal , is about eight hours from New York . You can be there in eight hours and playing golf. The ultimate success would be for people to have that viewpoint and just feel free to go to Africa�that they are going to feel welcome, that they are going to be safe, that they are going to have an incredible experience and a great story to tell when they come back. There are very few people I know of who go to Africa and come back the same person. </kw></p>
+                            <p class="style4"><strong><kw class="krdwrd-tag-3-90">How do you believe Africa changes visitors? </kw></strong></p>
+                            <p class="style4"><strong>&nbsp; </strong><kw class="krdwrd-tag-3-90">Africa is the cradle of mankind. When people go there they have an experience�whether it's a wildlife experience, a human experience, a cultural experience, like none other in any other part of the world. The scenery there is not duplicated anyplace else in the world. The culture is not duplicated anywhere else in the world. I'd take it even one step further: The hospitality there is not experienced in any other part of the world. And that's what people respond to. </kw></p>
+                            <p>&nbsp; </p></td>
+                          <td width="20"><img src="assets/images/blank.gif" height="1" width="20"></td>
+                        </tr>
+                      </tbody></table>
+                      <p>&nbsp;</p></td>
+                    <td align="left" background="assets/images/conews_bkgtex_r.jpg" bgcolor="#ffffff" valign="top" width="62"><img src="assets/images/conews_rttexture.gif" height="434" width="62"></td>
+                  </tr>
+              </tbody></table></td>
+              <td align="left" valign="top" width="20"><img src="assets/images/blank.gif" border="0" height="1" width="20"></td>
+            </tr>
+          </tbody></table>            <p>&nbsp;</p></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+</body>

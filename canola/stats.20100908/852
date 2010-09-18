@@ -1,0 +1,867 @@
+<head><base href="http://www.millenniumforests.com/16forests/surveys/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>People's Millennium Forests</title>
+
+
+<script language="JavaScript">
+
+<!-- Begin	   
+var messages = new Array(6); 
+messages[0] = "";
+messages[1] = "Coill an Fhaltaigh, Kilkenny";
+messages[2] = "Tourmakeady. Mayo";	   
+messages[3] = "Derrygill, Galway";
+messages[4] = "Rossacroonaloo, Kerry or Rosturra, Galway or Coill an Fhaltaigh, Kilkenny or Camolin, Co. Wexford";
+messages[5] = "Cullentra, Sligo";
+messages[6] = "Ballygannon, Wicklow or Coill an Fhaltaigh, Kilkenny";
+messages[7] = "Ballygannon, Wicklow";
+messages[8] = "Ballygannon, Wicklow";
+messages[9] = "Ballygannon, Wicklow";
+messages[10] = "Ballygannon, Wicklow";
+messages[11] = "Shelton, Wicklow";
+messages[12] = "Shelton, Wicklow";
+messages[13] = "Camolin, Wexford";
+messages[14] = "Shelton, Wicklow";
+messages[15] = "Shelton, Wicklow";
+messages[16] = "Shelton, Wicklow";
+messages[17] = "Shelton, Wicklow";
+messages[18] = "Shelton, Wicklow";
+messages[19] = "Shelton, Wicklow";
+messages[20] = "Shelton, Wicklow";
+messages[21] = "Shelton, Wicklow";
+messages[22] = "Coill an Fhaltaigh, Kilkenny";
+messages[23] = "Coill an Fhaltaigh, Kilkenny";
+messages[24] = "Ballygannon, Wicklow";
+messages[25] = "Coill an Fhaltaigh, Kilkenny";
+messages[26] = "Coill an Fhaltaigh, Kilkenny";
+messages[27] = "Coill an Fhaltaigh, Kilkenny";
+messages[28] = "Coill an Fhaltaigh, Kilkenny";
+messages[29] = "Derrygill, Galway";
+messages[30] = "Rosturra, Galway or Derrygill Galway";
+messages[31] = "Lacca, Laois";
+messages[32] = "Coill an Fhaltaigh, Kilkenny";
+messages[33] = "Lacca, Laois";
+messages[34] = "Cullentra, Sligo";
+messages[35] = "Rosturra, Galway";
+messages[36] = "Portlick, Westmeath";
+messages[37] = "Derrygorry, Monaghan";
+messages[38] = "Tourmakeady, Mayo";
+messages[39] = "Derrygorry, Monaghan";
+messages[40] = "Derrygorry, Monaghan";
+messages[41] = "Portlick, Westmeath";
+messages[42] = "Tourmakeady, Mayo";
+messages[43] = "Cullentra, Sligo";
+messages[44] = "Galtee, Tipperary or Coill an Fhaltaigh, Kilkenny";
+messages[45] = "Coill an Fhaltaigh, Kilkenny";
+messages[46] = "Portlick, Westmeath";
+messages[47] = "Camolin, Wexford";
+messages[48] = "Shelton, Wicklow ";
+messages[49] = "";
+messages[50] = "";
+
+function messageReveal() {
+var messageindex = document.messageForm.messagePick.selectedIndex
+document.messageForm.messageField.value = messages[messageindex];
+}
+// End -->
+</script>
+<script language="javascript">
+<!--
+function PicPop(url,w,h) {
+var dim = eval('"width=' + w + ',height=' + h + ',toolbar=0, location=0,directories=0,status=0, menubar=0,scrollbars=0,resizable=0,top=50,left=50"');
+Npop = window.open(url,"instruct",dim);
+oldWin = Npop.opener;
+}
+// -->
+</script>
+<script language="JavaScript">
+<!--
+<!--
+
+if (document.images) {
+  image1on = new Image();
+  image1on.src = "../../nav/1on.gif";
+  image2on = new Image();
+  image2on.src = "../../nav/2on.gif";
+  image3on = new Image();
+  image3on.src = "../../nav/3on.gif";
+  image4on = new Image();
+  image4on.src = "../../nav/4on.gif";
+  image5on = new Image();
+  image5on.src = "../../nav/5on.gif";
+  image6on = new Image();
+  image6on.src = "../../nav/6on.gif";
+  image7on = new Image();
+  image7on.src = "../../nav/7on.gif";
+  image8on = new Image();
+  image8on.src = "../../nav/8on.gif";
+  image9on = new Image();
+  image9on.src = "../../nav/9on.gif";
+  image10on = new Image();
+  image10on.src = "../../nav/10on.gif";
+  image1off = new Image();
+  image1off.src = "../../nav/1off.gif";
+  image2off = new Image();
+  image2off.src = "../../nav/2off.gif";
+  image3off = new Image();
+  image3off.src = "../../nav/3on.gif";
+  image4off = new Image();
+  image4off.src = "../../nav/4off.gif";
+  image5off = new Image();
+  image5off.src = "../../nav/5off.gif";
+  image6off = new Image();
+  image6off.src = "../../nav/6off.gif";
+  image7off = new Image();
+  image7off.src = "../../nav/7off.gif";
+  image8off = new Image();
+  image8off.src = "../../nav/8off.gif";
+  image9off = new Image();
+  image9off.src = "../../nav/9off.gif";
+  image10off = new Image();
+  image10off.src = "../../nav/10off.gif";
+  otherImageDefault = new Image();
+  otherImageDefault.src = "../../nav/roll3.gif";
+  otherImage1 = new Image();
+  otherImage1.src = "../../nav/roll1.gif";
+  otherImage2 = new Image();
+  otherImage2.src = "../../nav/roll2.gif";
+  otherImage3 = new Image();
+  otherImage3.src = "../../nav/roll3.gif";
+  otherImage4 = new Image();
+  otherImage4.src = "../../nav/roll4.gif";
+  otherImage5 = new Image();
+  otherImage5.src = "../../nav/roll5.gif";
+  otherImage6 = new Image();
+  otherImage6.src = "../../nav/roll6.gif";
+  otherImage7 = new Image();
+  otherImage7.src = "../../nav/roll7.gif";
+  otherImage8 = new Image();
+  otherImage8.src = "../../nav/roll8.gif";
+  otherImage9 = new Image();
+  otherImage9.src = "../../nav/roll9.gif";
+  otherImage10 = new Image();
+  otherImage10.src = "../../nav/roll10.gif";
+
+}
+function changeimages() {  if (document.images) {
+    for (var i=0; i<changeimages.arguments.length; i+=2) {
+      document[changeimages.arguments[i]].src = eval(changeimages.arguments[i+1] + ".src");
+    }
+  }
+}
+
+// -->
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_showHideLayers() { //v3.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script></head><body leftmargin="0" topmargin="0" bgcolor="#cfb8a6" marginheight="0" marginwidth="0">
+<div id="ONE" style="position: absolute; left: 211px; top: 29px; width: 204px; height: 89px; z-index: 1; visibility: hidden;"> 
+  <table border="0" cellpadding="0" cellspacing="0" width="230">
+    <tbody><tr> 
+      <td><a href="../../onetwotree/past.html"><img src="../../nav/41.gif" border="0" height="19" width="230"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="../../onetwotree/present.html"><img src="../../nav/42.gif" border="0" height="19" width="230"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="../../onetwotree/future.html"><img src="../../nav/43.gif" border="0" height="18" width="230"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="../../onetwotree/facts.html"><img src="../../nav/44.gif" border="0" height="16" width="230"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="two" style="position: absolute; left: 383px; top: 46px; width: 108px; height: 66px; z-index: 1; visibility: hidden;"> 
+  <table border="0" cellpadding="0" cellspacing="0" width="97">
+    <tbody><tr> 
+      <td><a href="../../cybertree/webtree.html"><img src="../../nav/61.gif" border="0" height="20" width="97"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="../../cybertree/treemov.html"><img src="../../nav/62.gif" border="0" height="18" width="97"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="../../cybertree/treecard.html"><img src="../../nav/63.gif" border="0" height="20" width="97"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="three" style="position: absolute; left: 325px; top: 47px; width: 127px; height: 66px; z-index: 1; visibility: hidden;"> 
+  <table border="0" cellpadding="0" cellspacing="0" width="125">
+    <tbody><tr> 
+      <td><a href="../../about/background.html"><img src="../../nav/21.gif" border="0" height="19" width="125"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="../../about/mission.html"><img src="../../nav/22.gif" border="0" height="20" width="125"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="../../about/about.html"><img src="../../nav/23.gif" border="0" height="20" width="125"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+  <tbody><tr> 
+    <td width="1">&nbsp;</td>
+    <td colspan="2"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="750">
+        <tbody><tr> 
+          <td align="left" width="150"> 
+            <center>
+              <img src="../../images/anime.gif" border="0" height="67" width="75"><br>
+              <img src="../../images/pmftext.gif" border="0" height="35" width="120"> 
+            </center>
+          </td>
+          <td width="400">&nbsp; </td>
+          <td valign="bottom" width="200"><img src="../../nav/roll3.gif" name="otherImage" border="0" height="80" width="200"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="1">&nbsp;</td>
+    <td colspan="2" rowspan="2"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="750">
+        <tbody><tr> 
+          <td><a href="../../home/index.html" onmouseover="changeimages('image1', 'image1on', 'otherImage', 'otherImage1');MM_showHideLayers('ONE','','hide','two','','hide','three','','hide')" onmouseout="changeimages('image1', 'image1off', 'otherImage', 'otherImageDefault')"><img name="image1" src="../../nav/1off.gif" alt="" border="0" height="27" width="44"></a></td>
+          <td><img src="../../nav/line.gif" height="27" width="7"></td>
+          <td><a href="../../events/index.html" onmouseover="changeimages('image5', 'image5on', 'otherImage', 'otherImage5');MM_showHideLayers('ONE','','hide','two','','hide','three','','hide')" onmouseout="changeimages('image5', 'image5off', 'otherImage', 'otherImageDefault')"><img name="image5" src="../../nav/5off.gif" alt="" border="0" height="27" width="61"></a></td>
+          <td><img src="../../nav/line.gif" height="27" width="7"></td>
+          <td><a href="../../16forests/index.html" onmouseover="changeimages('image3', 'image3on', 'otherImage', 'otherImage3');MM_showHideLayers('ONE','','hide','two','','hide','three','','hide')" onmouseout="changeimages('image3', 'image3off', 'otherImage', 'otherImageDefault')"><img name="image3" src="../../nav/3on.gif" alt="" border="0" height="27" width="86"></a></td>
+          <td><img src="../../nav/line.gif" height="27" width="7"></td>
+          <td><a href="../../onetwotree/index.html" onmouseover="changeimages('image4', 'image4on', 'otherImage', 'otherImage4');MM_showHideLayers('ONE','','show','two','','hide','three','','hide')" onmouseout="changeimages('image4', 'image4off', 'otherImage', 'otherImageDefault')"><img name="image4" src="../../nav/4off.gif" alt="" border="0" height="27" width="104"></a></td>
+          <td><img src="../../nav/line.gif" height="27" width="7"></td>
+          <td><a href="../../about/index.html" onmouseover="changeimages('image2', 'image2on', 'otherImage', 'otherImage2');MM_showHideLayers('ONE','','hide','two','','hide','three','','show')" onmouseout="changeimages('image2', 'image2off', 'otherImage', 'otherImageDefault')"><img name="image2" src="../../nav/2off.gif" alt="" border="0" height="27" width="53"></a></td>
+          <td><img src="../../nav/line.gif" height="27" width="7"></td>
+          <td><a href="../../cybertree/index.html" onmouseover="changeimages('image6', 'image6on', 'otherImage', 'otherImage6');MM_showHideLayers('ONE','','hide','two','','show','three','','hide')" onmouseout="changeimages('image6', 'image6off', 'otherImage', 'otherImageDefault')"><img name="image6" src="../../nav/6off.gif" alt="" border="0" height="27" width="83"></a></td>
+          <td><img src="../../nav/line.gif" height="27" width="7"></td>
+          <td><a href="../../treetalk/index.html" onmouseover="changeimages('image7', 'image7on', 'otherImage', 'otherImage7');MM_showHideLayers('ONE','','hide','two','','hide','three','','hide')" onmouseout="changeimages('image7', 'image7off', 'otherImage', 'otherImageDefault')"><img name="image7" src="../../nav/7off.gif" alt="" border="0" height="27" width="80"></a></td>
+          <td><img src="../../nav/line.gif" height="27" width="7"></td>
+          <td><a href="../../contact/index.html" onmouseover="changeimages('image8', 'image8on', 'otherImage', 'otherImage8');MM_showHideLayers('ONE','','hide','two','','hide','three','','hide')" onmouseout="changeimages('image8', 'image8off', 'otherImage', 'otherImageDefault')"><img name="image8" src="../../nav/8off.gif" alt="" border="0" height="27" width="68"></a></td>
+          <td><img src="../../nav/line.gif" height="27" width="7"></td>
+          <td><a href="../../links/index.html" onmouseover="changeimages('image9', 'image9on', 'otherImage', 'otherImage9');MM_showHideLayers('ONE','','hide','two','','hide','three','','hide')" onmouseout="changeimages('image9', 'image9off', 'otherImage', 'otherImageDefault')"><img name="image9" src="../../nav/9off.gif" alt="" border="0" height="27" width="48"></a></td>
+          <td><img src="../../nav/line.gif" height="27" width="7"></td>
+          <td><a href="../../search/index.html" onmouseover="changeimages('image10', 'image10on', 'otherImage', 'otherImage10');MM_showHideLayers('ONE','','hide','two','','hide','three','','hide')" onmouseout="changeimages('image10', 'image10off', 'otherImage', 'otherImageDefault')"><img name="image10" src="../../nav/10off.gif" alt="" border="0" height="27" width="60"></a></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="1">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="1">&nbsp;</td>
+    <td colspan="2"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="694">
+        <tbody><tr> 
+          <td align="center" valign="top" width="150"> 
+            <div align="center"> 
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p><a href="javascript:PicPop('pop.html',340,360)"> <img src="../../images/9.jpg" align="absmiddle" border="0" height="75" width="75"></a><br>
+                <font color="#806c60" face="Geneva, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1-100">Click 
+                to enlarge</kw></font></p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p><a href="javascript:PicPop('pop2.html',340,360)"><img src="../../images/8.jpg" align="absmiddle" border="0" height="75" width="75"></a><br>
+                <font color="#806c60" face="Geneva, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1-100">Click 
+                to enlarge</kw></font></p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p><a href="javascript:PicPop('pop3.html',340,360)"><img src="../../images/5.jpg" border="0" height="75" width="75"></a><br>
+                <font color="#806c60" face="Geneva, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1-80">Click 
+                to enlarge</kw></font></p>
+            </div>
+          </td>
+          <td align="left" valign="top" width="544"> 
+            <div align="left"> 
+              <p>&nbsp;</p>
+            </div>
+            <div align="left"> 
+              <p><font color="#ffffff" face="Geneva, Arial, Helvetica, san-serif" size="2"><b><kw class="krdwrd-tag-2-80">Cullentra 
+                Woodland Site, County Sligo; Archaeological Report</kw></b></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-70">2.11.1 
+                Introduction</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-70"> 
+                2.11.1.1 Location</kw><br><kw class="krdwrd-tag-3-80">
+                This site is located approximately 10km south-east of Sligo town 
+                on the southern shores of Lough Gill, Co. Sligo (Figure 36). This 
+                site is located within both a 'Special Area of Conservation' (SAC) 
+                and a 'Natural Heritage Area' (NHA).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-70">2.11.2 
+                Receiving Environment</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-mrgtie-50">2.11.2.1 
+                Placenames</kw><br><kw class="krdwrd-tag-3-70">
+                County Sligo, named from the river: "Sligeach" [Sliggagh] 
+                F.M., 'Shelly River' ("slig", a shell) (Joyce 1856, 
+                45). Sligo; "Sligeach" meaning 'abounding in shells' 
+                (Flanaghan &amp; Flanaghan 1994, 255).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80">Townland</kw><br><kw class="krdwrd-tag-3-80">
+                Killerry: In Killerry the forest so called "Cullentra" 
+                derives from "Cullentragh" or "Cullenagh" 
+                meaning 'a place producing holly' (Joyce 1856, 48).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80"> 
+                Barony</kw><br><kw class="krdwrd-tag-3-80">
+                Tirerrill: no place name derivation could be found for this barony. 
+                However, "Tir" or "Ter", in Irish known as 
+                "Tír" meaning "land or district" (Joyce 
+                1995ed, 54).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80"> 
+                Parish</kw><br><kw class="krdwrd-tag-3-80">
+                Killerry: In Killerry the forest so called "Cullentra" 
+                derives from "Cullentragh" or "Cullenagh" 
+                meaning 'a place producing holly' (Joyce 1856, 48).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80">2.11.2.2 
+                Topography</kw><br><kw class="krdwrd-tag-3-70">
+                The topography of the site comprises three components:</kw><br><kw class="krdwrd-tag-3-70">
+                (i) Parcel A (to north-east): relatively flat over most of the 
+                area, sloping steeply to the north to the shores of Lough Gill.</kw><br><kw class="krdwrd-tag-3-70">
+                (ii) Parcel B (to west): Boggy, sloping north to lakeshore.</kw><br><kw class="krdwrd-tag-3-70">
+                (iii) Parcel C (to south-east): Relatively flat and wet, higher, 
+                drier ground to the SW.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80">2.11.2.3 
+                Cartographic Sources</kw><br><kw class="krdwrd-tag-3-100">
+                An analysis of Ordnance Survey maps from the early nineteenth 
+                century to date gives a picture of the development of the townland 
+                over time. For ease of reference, each parcel of land or forest 
+                site will be dealt with separately through an examination of the 
+                Ordnance Survey maps. The Down Survey map c.1656 will be dealt 
+                with first examining all three sites given the nature of the scale 
+                involved and the detail gleaned from this map source. The three 
+                forest sites are divided between two 6" Ordnance Survey sheets 
+                for county Sligo. Parcel A is located on O.S. sheet 15 while Parcel 
+                B and Parcel C are located between sheets 15 and 21 respectively.</kw><br>
+                </font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">The 
+                Down Survey map c.1656 shows the barony of 'Tirraril' and the 
+                parish of 'Killery' (Figure 38). The area in which the forest 
+                site is located is indicated on the shores of 'Lough Gilly'. However, 
+                no detail exists within this parish as it comprises Protestant 
+                lands which were unsurveyed. It is described on the Down Survey 
+                as 'The Lordship of Ballentogher and other Protestant Lands'.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80">Parcel 
+                A</kw><br><kw class="krdwrd-tag-3-100">
+                The 1st edition Ordnance Survey map (1837) shows Parcel A as partially 
+                wooded on the eastern side of the forest site (Figure 39). The 
+                area to the west is open land and appears marshy in nature. The 
+                area of forest borders Lough Gill to the north and Tawane bay 
+                on its western side. The area to the south-east of the forest 
+                site is laid out in irregular field plots with some houses in 
+                evidence.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">The 
+                3rd edition Ordnance Survey map (1909-1912) shows the forest site 
+                as completely wooded (Figure 40). The area of the forest site 
+                curves around in an arc around the shores of Lough Gill to the 
+                north within the townland of Killerry. On the northern point of 
+                the forest site on the shores of Lough Gill, a feature is denoted 
+                called 'Bald Rock' while to the west on the shores of Tawane Bay 
+                a 'Landing place' is marked. The 'Bonet River' forms the eastern 
+                boundary of this portion of the forest site. The area is also 
+                referred to as 'Cullentra' between 1909 an 1912. In addition the 
+                area to the south of the forest site called 'Cullentra' is laid 
+                out in a grid like pattern at this point with the area to the 
+                east forming small rectilinear field plots running east-west while 
+                the area to the west forms large rectilinear plots running north-west/south-east.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80">Parcel 
+                B</kw><br><kw class="krdwrd-tag-3-100">
+                This forest site is rectilinear in plan and is located to the 
+                west of the two other forest sites. The forest site borders Lough 
+                Gill to the north and is located within the townland of Killerry. 
+                </kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">On 
+                the 1st edition Ordnance Survey map (1837) the forest site is 
+                not forested. The land appears poor in quality. The area to the 
+                west is open land while on the east, the land has been divided 
+                into rectilinear field plots with houses attached. A trail or 
+                pathway exits to the south of the forest site and runs short of 
+                'Upper Lough' to the south.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">On 
+                the 3rd edition Ordnance Survey map the forest site is divided 
+                between two 6" O.S. sheets (15 and 21) dated 1909-1912 and 
+                1910-1913 respectively. The forest site appears very much as it 
+                is today on this map with the eastern portion of the site laid 
+                out in square to rectilinear field plots while the area on the 
+                east is open comprising poor quality land. There is no forest 
+                present in this portion of the site.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-70">Parcel 
+                C</kw><br><kw class="krdwrd-tag-3-100">
+                The forest site is irregular in plan and located to the south-east 
+                of Parcel B and to the south-west of Parcel A. Its north-western 
+                side borders Tawane Bay while the majority is located within Killerry 
+                townland.</kw><br>
+                </font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">On 
+                the 1st edition Ordnance Survey map (1837) the site does not appear 
+                forested. The majority of the land appears as open land with the 
+                area on the east having been subdivided into rectilinear field 
+                plots with houses marked on.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">The 
+                3rd edition Ordnance Survey map (1910-1913) shows little change 
+                to that of today. The entire forest site shows no woodland cover 
+                and consists of well laid out rectilinear field plots throughout. 
+                The field plots in the northern half are small and orientated 
+                north-west south-east while the southern half comprises larger 
+                irregular plots. The land appears to be of poor marshy quality.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-70">2.11.2.4 
+                History</kw><br><kw class="krdwrd-tag-3-100">
+                An early account of the parish of Killerry is gained from Samuel 
+                Lewis in his Topographical Dictionary of Ireland during his travels 
+                in the early nineteenth century:</kw><br><kw class="krdwrd-tag-3-100">
+                "Killerry, a parish in the barony of Tirerril, county of 
+                Sligo and province of Connaught, four miles south west from Dromahaire 
+                on the road from that place to Collooney and on Lough Gill; contains 
+                2,969 inhabitants. It comprises 9,135 statute acres, as applotted 
+                under the Tithe Act. The land is of good quality, principally 
+                under tillage and there is some bog and excellent limestone. Fairs 
+                are held at Ballintogher on January 22nd, June 8th, July 28th, 
+                October 17th and December 8th; and a manorial court is held there 
+                occasionally. Oldcastle, the seat of Earl Loftus Neynoe, Esq., 
+                was erected on the site of the old castle of Kingsfort; near it 
+                is a strong chalybeate spa. It is a vicarage in the diocese of 
+                Ardagh, united to that of Killenumery, the rectory here is impropriate 
+                in M. Baker Esq. The tithes amount to £96.18.6, of which 
+                one third is payable to the impropriate or, and two thirds to 
+                the vicar. The church is a plain building erected in 1715. In 
+                the Roman Catholic division it forms part of the district of Killenumery 
+                and has a chapel at Ballintobber. About 140 children are educated 
+                in two public schools, and 110 children in two private schools. 
+                There are some remains of the old church of Killerry with a large 
+                burial ground and of an ancient castle at Drumcondra" (Lewis 
+                1839, 25).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">The 
+                Barony of Tirerrill is bounded on the north by Galway, on the 
+                west by Leyney and Carran, on the south by Roscommon and on the 
+                east by Leitrim. The name "Tirerrill" is a corruption 
+                of "Tir-Aill-Ailill" territory, son of Ecohy Moyrane, 
+                King of Ireland in A.D. 358-365. The most notable families of 
+                the barony include the MacDonnchadha and MacDiarmada (Kilgammon 
+                1926, 229). "The western and most northern parts of the barony 
+                are well wooded, especially Union Wood which are naturally the 
+                finest" (Kilgammon 1926, 230).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">"Killerry 
+                Parish; the district was formerly a natural forest as is still 
+                the portion of it called "Slishwood". There are portions 
+                of the old church, scene of a sacrilegious outrage in 1346; Valgany 
+                O' Roche having fled there for sanctuary while he was pursued 
+                by the O' Connor's and the McDonaghs, who set fire to the building 
+                and killed O' Roche, as he was endeavouring to escape the flames. 
+                There is a stone in the graveyard attached to the church in which 
+                are two stones called "Straining Thread" (Kilgammon 
+                1926, 231).</kw><br>
+                </font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">In 
+                1824 a body was found in a bog in Killerry parish with clothing 
+                dating to the fifteenth century (Kilgammon 1926, 233). "Lying 
+                on the ground in the graveyard of the old church in Killerry is 
+                a thin flagstone, 3 feet square; seven oval stones which must 
+                be deemed part of the other" (Wood-Martin 1892, 364-5). "There 
+                is a well called "Tobernawanny"" located within 
+                the parish of Killerry (Wood-Martin 1892, 377).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">"The 
+                district was formerly a natural forest as is still the portion 
+                of it called Slish Wood, with its hardy oaks, all of mature planting 
+                rising from the waters edge and clothing the precipitous mountain 
+                side of Shaunda-Errigal mountain up to the top of the range. Most 
+                of the parish was covered 300 years ago as the Down Survey of 
+                1633 shows much was still covered by dale to Sligo" (O' Roche 
+                1888, 318).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">There 
+                were no notable houses identified in the vicinity of the forest 
+                during field work or research.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80">2.11.2.5 
+                Folklore</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-mrgtie-50">2.11.2.5.1 
+                The following isa legend regarding the Isle of Inishfree, north 
+                of the forest sites:</kw><br><kw class="krdwrd-tag-3-100">
+                "An interesting legend, concerning the little island of Inishfree 
+                or the heathery island, is related as having occurred in these 
+                primitive times.</kw><br><kw class="krdwrd-tag-3-100">
+                On the islet, though small in size, grow the most lucious of fruit 
+                which was however exclusively reserved for the use of the deities, 
+                who had placed a great monster or dragon as guard on their orchard. 
+                The daughter of the chief of the district required her lover, 
+                a young warrior named Free, to procure for her some of the forbidden 
+                fruit as proof of his affection and valour. Free landed on the 
+                isle, succeeded in slaying the monster placed to guard the trees; 
+                but on regaining the frail canoe in which had obtained access 
+                to the island, weak and exhausted by his exertions, and feeling 
+                need of refreshment, he tasted some of the stolen fruit.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">The 
+                effect on mortal constitution was fatal. He had but just strength 
+                to row to the shore, when he fell dying at the feet of his mistress. 
+                He exerted his remaining powers sufficiently to acquaint her with 
+                the course of his fate, and the damsel, filled with remorse, immediately 
+                herself ate of the stolen fruit, and fell dead across his corpse. 
+                The two lovers were buried in the island which had proved so fatal 
+                to them. The graves are said to form two ridges.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">Note: 
+                This diminutive islet, which contains only half an acre, is mentioned 
+                in history. The Four Masters state that in A.D. 1124, Conor MacTiernan 
+                murdered a brother chief, named Fergal Maccadane, on Inishfraeich, 
+                now anglicised Inishfree. At that date it was probably an island 
+                fortress" (Wood-Martin 1882, 64).</kw><br>
+                </font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80">2.11.2.5.2 
+                Folklore Archive Collection, UCD</kw><br><kw class="krdwrd-tag-3-100">
+                The following references refer to excerpts from the Irish Folklore 
+                Commission held within the Department of Irish Folklore. These 
+                include two main archival sources: (i) Irish Manuscript Collection 
+                (IFC.M) and (ii) Irish Schools Collection (IFC.S). The excerpts 
+                refer to accounts by locals of popular belief, customs, local 
+                place names and incidents that occurred in the parish as follows:</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><br><kw class="krdwrd-tag-1-70">
+                IFC.S 178:1937-1938</kw><br><kw class="krdwrd-tag-3-100">
+                There is a reference to" a valuable treasure buried in a 
+                bog".</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-50">Another 
+                account of the treasure:</kw><br><kw class="krdwrd-tag-3-100">
+                "Fifty years ago three men dreamt three times. No one told 
+                the other and all three planned to find the treasure. All three 
+                met at same time and began digging and came across a flat flagstone 
+                and surround. They decided not to remove it. The treasure was 
+                supposed to have consisted of a large pot of gold and several 
+                beautiful vessels".</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">"A 
+                man near Ballintober didn't believe in fairies or anything. One 
+                Halloween he ploughed an old fort. At 11pm that night from the 
+                dun a small red-hooded lady came into the hall. She said, now 
+                my man you shall suffer for your blackguarding. She threw a clothes 
+                brush at him. It hit him between the eyes and he bled for ever 
+                more".</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-1-70">IFC.M 
+                1757:18</kw><br><kw class="krdwrd-tag-3-100">
+                Transcript of James Healy, Ballinakill, Co. Sligo.</kw><br><kw class="krdwrd-tag-3-100">
+                "There was the body of a man found below in Killerry six 
+                feet this was in 1822 I think, under the bog and the clothes that 
+                was on the body was well-preserved and they called in a magistrate. 
+                And there was an inquest on the body and the clothes on the body 
+                as fresh as the day they were made: and them clothes above in 
+                the Museum in Dublin. I asked men below in Killerry that was reared 
+                in it and their father before them was reared in it, they never 
+                heard about it".</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-1-70">IFC.M 
+                1744:223-225</kw><br><kw class="krdwrd-tag-3-80">
+                The following refers to SMR SL021:011 (Ecclesiastical Remains):</kw><br><kw class="krdwrd-tag-3-100">
+                "This tradition refers to seven stones which are clearly 
+                rounded and smoothed by water action but rather from river action 
+                and are brown and which be like loop-sized eggs in a nest on a 
+                moss covered flat boulder or headstone in Killerry graveyard. 
+                A short upright stone contains the "Straining Threads" 
+                looped or simply draped over this stone.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">To 
+                effect a cure of a sprain or strain on man or animal, a person 
+                must bring a "straining thread" which can be a bit of 
+                twine, coloured or plain. From the stone a thread already there, 
+                one is removed and replaced by the thread which the person had 
+                brought. The thread is then tied around the sprain. As well the 
+                stones have to be around or over once; same said times or seven 
+                times. </kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">It 
+                is claimed that although the threads tie on the stone, they are 
+                exposed to the weather and cure they never not".</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">"Holy 
+                well on the shores of Lough Gill between Sligo and Ballintogher. 
+                Garland Sunday occurred on the last Sunday in July. Mass was said 
+                at the well and later there was a dance at the Lree. The Lree 
+                stands outside the entrance to the great recess in the cliffs 
+                which contains the well and stream. Mass said by local from monastery".</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-1-70">IFC.M 
+                1758:146-162</kw><br><kw class="krdwrd-tag-3-100">
+                "There's one of those stones the same as in Killerry, where 
+                they used to take the Straining Thread: it's a kind of a nearly 
+                square stone but three is a rounded flange on it, 3 inches wide. 
+                This stone is the only stone that's left in The Relig. None of 
+                the rounded seven stones as in Killerry known to have existed 
+                in The Relig".</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-70">2.11.3 
+                Field Inspection</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">2.11.3.1 
+                Cullentra is a large site encompassing over 52 hectares and consists 
+                of three separate parcels. The largest of these, Parcel A, includes 
+                an oak forest covering the lakeshore (Plate 36) on the peninsula 
+                jutting into Lough Gill. No archaeological sites or other structures/remains 
+                were located within this parcel. This parcel consists of mature 
+                and possibly ancient oak forest (Plate 37) with thick undergrowth 
+                (Plate 38). Passage through these areas was very difficult and 
+                visibility was low. These woods could potentially yield any number 
+                of archaeological sites.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">Parcel 
+                B consists of boggy land currently under high grass and recently 
+                planted with conifers. It is directly opposite the famous Lake 
+                Isle of Innisfree (Plate 39). The remains of two vernacular buildings 
+                (Plates 40 and 41), clearly marked on the Ordnance Survey maps 
+                were located. A circular mound of stones (Plate 42) to the west 
+                of the houses was also identified. Mostly mossed over, it consists 
+                of loose stones, larger towards the base. It is between 5m and 
+                6 metres wide and 1.5m high. The stones at the base do not appear 
+                to be earthfast. The mound is quite likely the result of past 
+                field clearance. No archaeological sites were identified.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">Parcel 
+                C consists of a large, relatively flat and boggy area recently 
+                clear cut (Plate 43). Due to a combination of clearfelling and 
+                the boggy nature of the ground, traversing the site was quite 
+                difficult. The higher ground to the SW was drier and still covered 
+                with mature conifers and was more accessible. No archaeological 
+                sites were identified.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80"> 
+                2.11.3.2 New Sites</kw><br><kw class="krdwrd-tag-3-100">
+                There were no new archaeological sites identified as part of the 
+                forest survey.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-80">2.11.4 
+                Desk Study</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-70">2.11.4.1 
+                The Recorded Monuments (Figure 37)</kw><br><kw class="krdwrd-tag-3-100">
+                The Sites and Monuments record (SMR) of Dúchas-The Heritage 
+                Service, Department of Arts, Heritage, Gaeltacht and the Islands 
+                refers to the following sites within and in the environs of Cullentra 
+                Woodland, County Sligo.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100"> 
+                From the 6" Ordnance Survey maps, a list of the archaeological 
+                sites and their proximity to the woodland site was compiled.</kw><br>
+                </font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-1-100"> 
+                SMR No. Distance to Cullentra Woodland Site Type</kw><br><kw class="krdwrd-tag-1-100">
+                SL015:097 60m N Miscellaneous</kw><br><kw class="krdwrd-tag-1-100">
+                SL021:005 460m S Enclosure possible</kw><br><kw class="krdwrd-tag-1-100">
+                SL021:008 In excess of 1000m S Enclosure</kw><br><kw class="krdwrd-tag-1-100">
+                SL021:009 In excess of 1000m S Enclosure</kw><br><kw class="krdwrd-tag-1-100">
+                SL021:010 In excess of 1000m S Enclosure</kw><br><kw class="krdwrd-tag-1-100">
+                SL021:011 In excess of 1000m S Ecclesiastical Remains</kw><br><kw class="krdwrd-tag-1-100">
+                SL021:011/01 In excess of 1000m S Church</kw><br><kw class="krdwrd-tag-1-100">
+                SL021:011/02 In excess of 1000m S Graveyard</kw><br><kw class="krdwrd-tag-1-100">
+                SL021:011/03 In excess of 1000m S Miscellaneous</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">There 
+                are no recorded archaeological sites within Cullentra Woodland.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-80">Within 
+                the environs of Cullentra Woodland the following SMR sites are 
+                recorded:</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-1-50">SMR 
+                No. SL015:097</kw><br><kw class="krdwrd-tag-1-50">
+                Townland Island of Inishfree</kw><br><kw class="krdwrd-tag-1-50">
+                Barony Tirerrill</kw><br><kw class="krdwrd-tag-1-50">
+                Parish Killerry</kw><br><kw class="krdwrd-tag-1-50">
+                Site Type Miscellaneous</kw><br><kw class="krdwrd-tag-1-50">
+                NGR 17670/33314</kw><br><kw class="krdwrd-tag-1-50">
+                Height O.D. Not indicated</kw><br><kw class="krdwrd-tag-3-70">
+                Description The site is not marked on any edition of the Ordnance 
+                Survey maps (1837 or 1913).</kw><br><kw class="krdwrd-tag-3-80">
+                "On Inishfree island, there are two raised ridges, each about 
+                four feet wide by twelve feet long. Tradition says that these 
+                are graves but of whom is not known" (Faughnan 1942). These 
+                ridges refer to folklore about the island referred to above in 
+                section 2.11.2.5.1.</kw><br><kw class="krdwrd-tag-1-50">
+                Classification C/D</kw><br><kw class="krdwrd-tag-1-50">
+                Area of Interest 30m</kw><br><kw class="krdwrd-tag-1-50">
+                Distance 60m N</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-mrgtie-30">SMR 
+                No. SL021:005</kw><br><kw class="krdwrd-tag-1-50">
+                Townland Killerry</kw><br><kw class="krdwrd-tag-3-50">
+                Barony Tirerrill</kw><br><kw class="krdwrd-tag-3-50">
+                Parish Killerry</kw><br><kw class="krdwrd-tag-3-50">
+                Site Type Enclosure possible</kw><br><kw class="krdwrd-tag-3-50">
+                NGR 17792/33240</kw><br><kw class="krdwrd-tag-3-50">
+                Height O.D. 50' O.D.</kw><br><kw class="krdwrd-tag-3-100">
+                Description The site is not marked on the 1st edition Ordnance 
+                Survey map (1837) but does appear on the 3rd edition Ordnance 
+                Survey map (1913). The site is located in a low-lying area where 
+                the land rises to the west. The site is in poor condition. The 
+                area is impenetrably overgrown with a slight trace of a raised 
+                enclosing element visible under the overgrowth but it is impossible 
+                to ascertain if this is an archaeological site.</kw><br><kw class="krdwrd-tag-3-50">
+                Classification C</kw><br><kw class="krdwrd-tag-1-50">
+                Area of Interest 30m</kw><br><kw class="krdwrd-tag-3-50">
+                Distance 460m S</kw><br>
+                </font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-1-50">SMR 
+                No. SL021:008</kw><br><kw class="krdwrd-tag-3-50">
+                Townland Killerry</kw><br><kw class="krdwrd-tag-3-50">
+                Barony Tirerrill</kw><br><kw class="krdwrd-tag-3-50">
+                Parish Killerry</kw><br><kw class="krdwrd-tag-3-50">
+                Site Type Enclosure</kw><br><kw class="krdwrd-tag-3-50">
+                NGR 17751/33104</kw><br><kw class="krdwrd-tag-3-50">
+                Height O.D. 50'-100'</kw><br><kw class="krdwrd-tag-3-100">
+                Description The site does not appear on the 1st (1837) or 3rd 
+                (1913) editions of the Ordnance Survey maps. The word "Fort" 
+                is denoted on the National Museum of Ireland's 1st edition map. 
+                The site is located on a raised area in undulating rough pasture. 
+                Higher ridges are located to the east and west with good views 
+                to the south. The monument is in poor condition and much overgrown. 
+                The area encircled for investigation on 6" O.S. field map 
+                produced no evidence for an enclosure. The site described below 
+                is located across the road to the south-east. It seems likely 
+                that its location has been incorrectly marked on the map.</kw><br><kw class="krdwrd-tag-3-100">
+                The site appears as a dense growth of hawthorn covering a roughly 
+                circular area. Traces of an encircling bank seem to survive only 
+                on the north and north-east side (0.50m to 0.80m high externally 
+                with only a slight internal lip). It was not possible to measure 
+                the diameter but is approximately 20m.</kw><br><kw class="krdwrd-tag-3-50">
+                Classification C</kw><br><kw class="krdwrd-tag-3-50">
+                Area of Interest 30m</kw><br><kw class="krdwrd-tag-3-50">
+                Distance In excess of 1000m S</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-mrgtie-30">SMR 
+                No. SL021:009</kw><br><kw class="krdwrd-tag-3-50">
+                Townland Killerry</kw><br><kw class="krdwrd-tag-3-50">
+                Barony Tirerrill</kw><br><kw class="krdwrd-tag-3-50">
+                Parish Killerry</kw><br><kw class="krdwrd-tag-3-50">
+                Site Type Enclosure</kw><br><kw class="krdwrd-tag-1-50">
+                NGR 17747/33082</kw><br><kw class="krdwrd-tag-3-50">
+                Height O.D. 50'-100'</kw><br><kw class="krdwrd-tag-3-100">
+                Description The site is not marked on the 1st edition Ordnance 
+                Survey map (1837) or on the 3rd edition Ordnance Survey map (1913). 
+                The word "Fort" is written on the National Museum of 
+                Ireland's 1st edition map. The site is located in an area of undulating 
+                pasture. There is no visible surface trace of the monument.</kw><br><kw class="krdwrd-tag-3-50">
+                Classification C</kw><br><kw class="krdwrd-tag-3-50">
+                Area of Interest 30m</kw><br><kw class="krdwrd-tag-3-50">
+                Distance In excess of 1000m S</kw><br>
+                </font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-mrgtie-30">SMR 
+                No. SL021:010</kw><br><kw class="krdwrd-tag-3-50">
+                Townland Killerry</kw><br><kw class="krdwrd-tag-3-50">
+                Barony Tirerrill</kw><br><kw class="krdwrd-tag-3-50">
+                Parish Killerry</kw><br><kw class="krdwrd-tag-3-50">
+                Site Type Enclosure</kw><br><kw class="krdwrd-tag-1-50">
+                NGR 17725/33058</kw><br><kw class="krdwrd-tag-3-50">
+                Height O.D. 100'-200'</kw><br><kw class="krdwrd-tag-3-100">
+                Description The site is not marked on the 1st edition Ordnance 
+                Survey map (1837) or on the 3rd edition Ordnance Survey map (1913). 
+                However the site is referred to on the National Museum of Ireland's 
+                (NMI) 1st edition Ordnance Survey map as "Fort". The 
+                site appears on this map as a slightly arced double line of hachures. 
+                The site is located on a south facing slope of a ridge. The only 
+                feature which corresponds to this in the field is a lined depression, 
+                probably quarried, on the steep slope of the hill. If an enclosure 
+                once existed in this area it is more likely to have been located 
+                further down slope on a level area where a modern bungalow has 
+                been built. The area adjacent to the bungalow is overgrown and 
+                planted with trees. No trace of an enclosure could be seen. There 
+                is currently no visible surface trace of the monument.</kw><br><kw class="krdwrd-tag-1-50">
+                Classification C</kw><br><kw class="krdwrd-tag-3-50">
+                Area of Interest 30m</kw><br><kw class="krdwrd-tag-3-50">
+                Distance In excess of 1000m S</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-2-50">SMR 
+                No. SL021:011</kw><br><kw class="krdwrd-tag-mrgtie-30">
+                Townland Killerry</kw><br><kw class="krdwrd-tag-mrgtie-30">
+                Barony Tirerrill</kw><br><kw class="krdwrd-tag-mrgtie-30">
+                Parish Killerry</kw><br><kw class="krdwrd-tag-mrgtie-30">
+                Site Type Ecclesiastical Remains</kw><br><kw class="krdwrd-tag-mrgtie-30">
+                01/ Church</kw><br><kw class="krdwrd-tag-mrgtie-30">
+                02/ Graveyard</kw><br><kw class="krdwrd-tag-mrgtie-30">
+                03/ Miscellaneous</kw><br><kw class="krdwrd-tag-mrgtie-30">
+                NGR 17764/33068</kw><br><kw class="krdwrd-tag-mrgtie-30">
+                Height O.D. 50'-100'</kw><br><kw class="krdwrd-tag-3-80">
+                Description The site is marked on the 1st edition Ordnance Survey 
+                map (1837) and on the 3rd edition Ordnance Survey map (1913). 
+                The site is situated on a low ridge in undulating pastureland. 
+                Higher ridge to west, ground level falls to east of site with 
+                good views of the surrounding area. It is in fair condition with 
+                the graveyard quite overgrown and only two side walls of the east 
+                gable upstanding of the church in ruins.</kw><br><kw class="krdwrd-tag-3-80">
+                SL021:011/01: Church The church is rectangular in plan incorporated 
+                into south wall of a trapezoidal graveyard enclosure. The north 
+                wall of the church is 16.20m long and survives to a height of 
+                2.60m. The south wall is of similar height but has been incorporated 
+                into the enclosure wall of the graveyard. The east gable survives 
+                to a height of 5.50m to 6m. It contains a large window (1.60m 
+                wide by 2m high) with a low segmental arch. The western and the 
+                foundations can still be traced. There are remnants of a low internal 
+                dividing wall within the church. This subdivision created a smaller 
+                chamber at the west end of the church, 5.20m long east-west. </kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><br><kw class="krdwrd-tag-3-80">
+                The internal width of the church is 6.20m constructed of uncut, 
+                mortared stones.</kw><br><kw class="krdwrd-tag-3-80">
+                SL021:011/02: Graveyard The graveyard is trapezoidal in plan and 
+                is enclosed by a stone wall 60m east-west on south by 55m north-south 
+                at widest side (on east). There is a large table tomb placed centrally 
+                within. The graveyard is covered in long grass.</kw><br><kw class="krdwrd-tag-3-100">
+                SL021:011/03: Straining Stones They are situated off centre to 
+                the north within the graveyard. They consist of a large flat slab 
+                which has been broken and the pieces arranged in a semi circle. 
+                There are seven rounded stones in all. Two of the round stones 
+                partially overlap the flat slab. Also overlying the flat slab 
+                is a small angular stone. A small rectangular stone (c.0.30m long) 
+                lies adjacent to the slab and has a piece of string tied around 
+                it. These stones formed part of a ritual which allegedly cured 
+                sprains. The straining stones are fourteenth to eighteenth century 
+                in date and are referred to by the church in the Annals of the 
+                Four Masters.</kw><br><kw class="krdwrd-tag-3-80">
+                References "Killerry Parish is called in Irish Cill Eire. 
+                In Killerry Townland there is an old church in ruins, about which 
+                tradition is silent" (O' Donovan 1836, 253).</kw><br><kw class="krdwrd-tag-3-50">
+                Classification C</kw><br><kw class="krdwrd-tag-3-50">
+                Area of Interest 100m</kw><br><kw class="krdwrd-tag-3-50">
+                Distance In excess of 1000m S</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-80">2.11.4.2 
+                The desk study revealed no recorded archaeological sites within 
+                the forest and six known archaeological sites within the surrounding 
+                townlands.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-mrgtie-30">2.11.4.3 
+                Stray finds</kw><br><kw class="krdwrd-tag-3-80">
+                The Topographical Files of the National Museum of Ireland were 
+                examined in which all stray finds are provenanced to townland. 
+                The following is a list of the townlands within and in the environs 
+                of Cullentra forest.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-1-80">Townland 
+                Proximity to Forest</kw><br><kw class="krdwrd-tag-1-80">
+                Cullentra Within</kw><br><kw class="krdwrd-tag-1-80">
+                Greenaun South Adjacent to East</kw><br><kw class="krdwrd-tag-1-80">
+                Killerry Adjacent to South</kw><br><kw class="krdwrd-tag-1-80">
+                Slishwood To South-West</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-80">There 
+                is one stray find recorded from the adjacent townland of Killerry 
+                to the south of the forest. This comprises woollen garments and 
+                leather shoes described below There are no stray finds recorded 
+                from other adjacent and surrounding townlands in the vicinity 
+                of Cullentra forest site.</kw><br>
+                </font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-1-70">Townland 
+                Bog at Killerry</kw><br><kw class="krdwrd-tag-1-70">
+                Barony Tirerrill</kw><br><kw class="krdwrd-tag-1-70">
+                Parish Killerry</kw><br><kw class="krdwrd-tag-1-70">
+                6" Co-Ordinates Not Indicated</kw><br><kw class="krdwrd-tag-1-70">
+                Registration No. W1-3 and W16-17</kw><br><kw class="krdwrd-tag-1-70">
+                Find(s) Woollen garments and leather shoes</kw><br><kw class="krdwrd-tag-1-70">
+                Acquisition Not Indicated</kw><br><kw class="krdwrd-tag-1-70">
+                Description Not Indicated</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><br><kw class="krdwrd-tag-2-50">
+                2.11.5 Predicted Impacts</kw><br><kw class="krdwrd-tag-3-100">
+                The scale of works planned for this site will involve both clearfelling 
+                and planting. Both of these processes are inherently destructive 
+                with ground disturbances associated with the use of heavy machinery 
+                (for tree removal) and preparation of the land for planting (with 
+                the excavation of drainage ditches).</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-100">While 
+                the areas to be affected have been surveyed in an attempt at locating 
+                and identifying previously unknown archaeological sites, no new 
+                sites were revealed. However, it must be borne in mind that archaeological 
+                remains with little above ground surface expression may survive 
+                below the ground surface. Such features would only be revealed 
+                during earthmoving and ground preparation works where such archaeological 
+                sites would be directly compromised by these subsequent works. 
+                Please see the mitigations and recommendation section in volume 
+                1 for suggested mitigations.</kw></font></p>
+              <p><font color="#000000" face="Geneva, Arial, Helvetica, san-serif" size="2"><kw class="krdwrd-tag-3-80">*Please 
+                note that it was not possible to reproduce figures for inclusion 
+                on the website version of the reports.</kw></font></p>
+            </div>
+          </td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top" width="150">&nbsp;</td>
+          <td align="left" valign="top" width="544">&nbsp;</td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+
+</body>

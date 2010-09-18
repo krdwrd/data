@@ -1,0 +1,483 @@
+<head><base href="http://www.experiencebvi.com/islands/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- SearchMe|title: Island Paradise | -->
+
+
+
+  
+  <link rel="StyleSheet" href="/style.css" type="text/css" media="screen"><title>Experience The British Virgin Islands</title>
+    
+
+<meta name="Description" content="The definitive guide to British Virgin Islands. Hotels, restaurants, activities, sightseeing, watersports, transportation, regattas, maps, arts, business, services, special offers, weddings, contact info - book direct.">
+<meta name="keywords" content="beaches, best, secluded beaches, british virgin islands, bvis, bvi, virgin islands, caribbean, islands, hotels, tortola, bvi hotels, bviccha, virgin gorda, anegada, jost van dyke, guana island, cooper island, peter island, norman island, marina cay, archipelago, volcanoes, sighseeing, beaches, national parks">
+
+<script language="JavaScript">
+<!-- Rollover Script -->
+<!--
+if (document.images) {
+  image1on = new Image();
+  image1on.src = "/images/sidenav-mo_01.gif";
+  image2on = new Image();
+  image2on.src = "/images/sidenav-mo_02.gif";
+  image3on = new Image();
+  image3on.src = "/images/sidenav-mo_03.gif";
+  image4on = new Image();
+  image4on.src = "/images/sidenav-mo_04.gif";
+  image5on = new Image();
+  image5on.src = "/images/sidenav-mo_05.gif";
+  image6on = new Image();
+  image6on.src = "/images/sidenav-mo_06.gif";
+  image7on = new Image();
+  image7on.src = "/images/sidenav-mo_07.gif";
+  image8on = new Image();
+  image8on.src = "/images/sidenav-mo_08.gif";
+  image9on = new Image();
+  image9on.src = "/images/sidenav-mo_09.gif";
+  image10on = new Image();
+  image10on.src = "/images/sidenav-mo_10.gif";
+  image11on = new Image();
+  image11on.src = "/images/sidenav-mo_11.gif";
+  image12on = new Image();
+  image12on.src = "/images/sidenav-mo_12.gif";
+  image13on = new Image();
+  image13on.src = "/images/sidenav-mo_13.gif";
+  image14on = new Image();
+  image14on.src = "/images/sidenav-mo_14.gif";
+  image15on = new Image();
+  image15on.src = "/images/sidenav-mo_15.gif";
+  
+  image1off = new Image();
+  image1off.src = "/images/sidenav_01.gif";
+  image2off = new Image();
+  image2off.src = "/images/sidenav_02.gif";
+  image3off = new Image();
+  image3off.src = "/images/sidenav_03.gif";
+  image4off = new Image();
+  image4off.src = "/images/sidenav_04.gif";
+  image5off = new Image();
+  image5off.src = "/images/sidenav_05.gif";
+  image6off = new Image();
+  image6off.src = "/images/sidenav_06.gif";
+  image7off = new Image();
+  image7off.src = "/images/sidenav_07.gif";
+  image8off = new Image();
+  image8off.src = "/images/sidenav_08.gif";
+  image9off = new Image();
+  image9off.src = "/images/sidenav_09.gif";
+  image10off = new Image();
+  image10off.src = "/images/sidenav_10.gif";
+  image11off = new Image();
+  image11off.src = "/images/sidenav_11.gif";
+  image12off = new Image();
+  image12off.src = "/images/sidenav_12.gif";
+  image13off = new Image();
+  image13off.src = "/images/sidenav_13.gif";
+  image14off = new Image();
+  image14off.src = "/images/sidenav_14.gif";
+  image15off = new Image();
+  image15off.src = "/images/sidenav_15.gif";
+}
+function changeImages() {
+  if (document.images) {
+    for (var i=0; i<changeImages.arguments.length; i+=2) {
+      document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+    }
+  }
+}
+// -->
+</script>
+
+<script language="JavaScript">
+<!-- Rollover Script -->
+<!--
+if (document.images) {
+  simage1on = new Image();
+  simage1on.src = "images/subnav-mo_01.gif";
+  simage2on = new Image();
+  simage2on.src = "images/subnav-mo_02.gif";
+  simage3on = new Image();
+  simage3on.src = "images/subnav-mo_03.gif";
+  simage4on = new Image();
+  simage4on.src = "images/subnav-mo_04.gif";
+  simage5on = new Image();
+  simage5on.src = "images/subnav-mo_05.gif";
+  simage6on = new Image();
+  simage6on.src = "images/subnav-mo_06.gif";
+  simage1off = new Image();
+  simage1off.src = "images/subnav_01.gif";
+  simage2off = new Image();
+  simage2off.src = "images/subnav_02.gif";
+  simage3off = new Image();
+  simage3off.src = "images/subnav_03.gif";
+  simage4off = new Image();
+  simage4off.src = "images/subnav_04.gif";
+  simage5off = new Image();
+  simage5off.src = "images/subnav_05.gif";
+  simage6off = new Image();
+  simage6off.src = "images/subnav_06.gif";
+}
+function changeImages() {
+  if (document.images) {
+    for (var i=0; i<changeImages.arguments.length; i+=2) {
+      document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+    }
+  }
+}
+
+// Change off source image depending on page
+image9off.src="/images/sidenav-mo_09.gif"; //side navigation
+simage1off.src="images/subnav-mo_01.gif";  //section sub bnavigation
+// -->
+</script></head><body leftmargin="0" topmargin="0" bgcolor="#ffffff" marginheight="0" marginwidth="0">
+    <table border="0" cellpadding="0" cellspacing="0" width="778">
+      <tbody><tr background="../images/hdrbkg2.gif">
+        <td><table border="0" cellpadding="0" cellspacing="0" width="778">
+          <tbody><tr>
+            <td bgcolor="#9f092e" width="328" height="96">
+<div align="center"><script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://herald.plexmedia.net/banners/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:183&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=042153549&amp;what=zone:183&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=437194174&amp;what=zone:183&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://herald.plexmedia.net/banners/adclick.php?n=ae71c5c1" target="_blank"><img src="http://herald.plexmedia.net/banners/adview.php?what=zone:183&n=ae71c5c1" alt="" border="0"></a></kw></noscript>
+</div>
+</td>
+            <td rowspan="2"><img src="../images/expbvi.gif" alt="Experience The British Virgin Islands" width="450" height="116"></td>
+          </tr>
+          <tr>
+            <td bgcolor="#c88396" height="19"><a href="/index.htm" target=""><img src="../images/home.gif" alt="Home" border="0" width="83" height="19"></a></td>
+          </tr>
+        </tbody></table><img src="../images/toprule.gif" width="778" height="21"></td>
+      </tr>
+      <tr>
+        <td><table border="0" cellpadding="0" cellspacing="0" width="778">
+          <tbody><tr>
+            <td bgcolor="#1a9583" valign="top" width="196"><!-- Include Side Navigation --><table border="0" cellpadding="0" cellspacing="0" width="174">
+  <tbody><tr>
+    <td><a href="/aboutbvis/" onmouseover="changeImages('image1', 'image1on')" onmouseout="changeImages('image1', 'image1off')"><img name="image1" src="/images/sidenav_01.gif" alt="About BVI" border="0" width="174" height="26"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/photos/" onmouseover="changeImages('image15', 'image15on')" onmouseout="changeImages('image15', 'image15off')"><img name="image15" src="/images/sidenav_15.gif" alt="Photo Gallery" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/lodging/" onmouseover="changeImages('image2', 'image2on')" onmouseout="changeImages('image2', 'image2off')"><img name="image2" src="/images/sidenav_02.gif" alt="Lodging" border="0" width="174" height="20"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/arts/" onmouseover="changeImages('image3', 'image3on')" onmouseout="changeImages('image3', 'image3off')"><img name="image3" src="/images/sidenav_03.gif" alt="Arts &amp;  Culture" border="0" width="174" height="18"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/transport/" onmouseover="changeImages('image4', 'image4on')" onmouseout="changeImages('image4', 'image4off')"><img name="image4" src="/images/sidenav_04.gif" alt="Transportation" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/business/" onmouseover="changeImages('image5', 'image5on')" onmouseout="changeImages('image5', 'image5off')"><img name="image5" src="/images/sidenav_05.gif" alt="Business &amp; Real Estate" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/events/" onmouseover="changeImages('image6', 'image6on')" onmouseout="changeImages('image6', 'image6off')"><img name="image6" src="/images/sidenav_06.gif" alt="Events" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/dining/" onmouseover="changeImages('image7', 'image7on')" onmouseout="changeImages('image7', 'image7off')"><img name="image7" src="/images/sidenav_07.gif" alt="Dining &amp; Nightlife" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/shopping/" onmouseover="changeImages('image8', 'image8on')" onmouseout="changeImages('image8', 'image8off')"><img name="image8" src="/images/sidenav_08.gif" alt="Shopping" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/islands/" onmouseover="changeImages('image9', 'image9on')" onmouseout="changeImages('image9', 'image9off')"><img name="image9" src="/images/sidenav-mo_09.gif" alt="Islands" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/activities/" onmouseover="changeImages('image10', 'image10on')" onmouseout="changeImages('image10', 'image10off')"><img name="image10" src="/images/sidenav_10.gif" alt="Activities" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/weddings/" onmouseover="changeImages('image11', 'image11on')" onmouseout="changeImages('image11', 'image11off')"><img name="image11" src="/images/sidenav_11.gif" alt="Weddings" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/offers/" onmouseover="changeImages('image12', 'image12on')" onmouseout="changeImages('image12', 'image12off')"><img name="image12" src="/images/sidenav_12.gif" alt="Special Offers" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/vtours/" onmouseover="changeImages('image14', 'image14on')" onmouseout="changeImages('image14', 'image14off')"><img name="image14" src="/images/sidenav_14.gif" alt="Virtual Tours" border="0" width="174" height="19"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/maps/" onmouseover="changeImages('image13', 'image13on')" onmouseout="changeImages('image13', 'image13off')"><img name="image13" src="/images/sidenav_13.gif" alt="Maps" border="0" width="174" height="24"></a></td>
+  </tr>
+</tbody></table>
+
+<br>
+<div align="center"><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://herald.plexmedia.net/banners/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:801&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=048547734&amp;what=zone:801&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=993586520&amp;what=zone:801&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://herald.plexmedia.net/banners/adclick.php?n=a773b486" target="_blank"><img src="http://herald.plexmedia.net/banners/adview.php?what=zone:801&n=a773b486" alt="" border="0"></a></kw></noscript>
+</div>
+<br>
+<div align="center"><script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://herald.plexmedia.net/banners/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:206&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=056145181&amp;what=zone:206&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=664318097&amp;what=zone:206&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://herald.plexmedia.net/banners/adclick.php?n=a7410b49" target="_blank"><img src="http://herald.plexmedia.net/banners/adview.php?what=zone:206&n=a7410b49" alt="" border="0"></a></kw></noscript>
+</div>
+<br>
+<div align="center"><script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://herald.plexmedia.net/banners/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:217&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=734091101&amp;what=zone:217&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=296619273&amp;what=zone:217&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://herald.plexmedia.net/banners/adclick.php?n=a3cf40a3" target="_blank"><img src="http://herald.plexmedia.net/banners/adview.php?what=zone:217&n=a3cf40a3" alt="" border="0"></a></kw></noscript>
+</div>
+<br>
+<div align="center"><script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://herald.plexmedia.net/banners/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:228&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=831760130&amp;what=zone:228&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=234557053&amp;what=zone:228&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://herald.plexmedia.net/banners/adclick.php?n=a2f46249" target="_blank"><img src="http://herald.plexmedia.net/banners/adview.php?what=zone:228&n=a2f46249" alt="" border="0"></a></kw></noscript>
+</div>
+<br>
+<div align="center"><script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://herald.plexmedia.net/banners/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:497&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=705726295&amp;what=zone:497&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=834055716&amp;what=zone:497&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://herald.plexmedia.net/banners/adclick.php?n=a6468917" target="_blank"><img src="http://herald.plexmedia.net/banners/adview.php?what=zone:497&n=a6468917" alt="" border="0"></a></kw></noscript>
+</div>
+<br>
+			<img src="images/islandspic.jpg" class="sidebar" border="2" width="190" height="215"><br>
+			<form method="post" action="/search.php">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr> 
+<td><img src="/images/search.gif" alt="Search" border="0" width="98" height="27"></td>
+<td></td>
+</tr>
+<tr> 
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input name="find" value="" size="15" type="text"></td>
+</tr>
+<tr>
+<td align="right"><input src="/images/go.gif" border="0" width="38" height="19" type="image"></td>
+</tr>
+</tbody></table>
+</form></td>
+            <td valign="top" width="584"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+			  <td valign="top"><img src="../images/hdr-islands.gif" alt="Islands" width="284" height="44"></td>
+			  <td class="footer" align="right" valign="top"><img src="../images/articles.gif" alt="" border="0" width="60" height="19"><br>
+			  <div class="footer">
+			    <a href="beautybeaches.htm" class="sidebar"><kw class="krdwrd-tag-1">Beauty and the Beaches</kw></a><br><kw class="krdwrd-tag-1">
+				Island Paradise</kw><br>
+			  </div></td>
+			  </tr></tbody></table>
+			<br>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="434">
+			  <tbody><tr>
+			    <!-- <TD><A HREF="/islands/" ONMOUSEOVER="changeImages('simage1', 'simage1on')" ONMOUSEOUT="changeImages('simage1', 'simage1off')"><IMG name="simage1" SRC="images/subnav-mo_01.gif" WIDTH="150" HEIGHT="20" border="0"></a></TD> -->
+			    <td><a href="/islands/tortola.htm" onmouseover="changeImages('simage2', 'simage2on')" onmouseout="changeImages('simage2', 'simage2off')"><img name="simage2" src="images/subnav_02.gif" border="0" width="68" height="20"></a></td>
+			    <td><a href="/islands/virgingorda.htm" onmouseover="changeImages('simage3', 'simage3on')" onmouseout="changeImages('simage3', 'simage3off')"><img name="simage3" src="images/subnav_03.gif" border="0" width="97" height="20"></a></td>
+			    <td><a href="/islands/anegada.htm" onmouseover="changeImages('simage4', 'simage4on')" onmouseout="changeImages('simage4', 'simage4off')"><img name="simage4" src="images/subnav_04.gif" border="0" width="73" height="20"></a></td>
+			    <td><a href="/islands/jostvandyke.htm" onmouseover="changeImages('simage5', 'simage5on')" onmouseout="changeImages('simage5', 'simage5off')"><img name="simage5" src="images/subnav_05.gif" border="0" width="101" height="20"></a></td>
+			    <td><a href="/islands/otherislands.htm" onmouseover="changeImages('simage6', 'simage6on')" onmouseout="changeImages('simage6', 'simage6off')"><img name="simage6" src="images/subnav_06.gif" border="0" width="95" height="20"></a></td>
+			  </tr>
+			</tbody></table>
+			<br><br><img src="images/islandparadise.gif" alt="Island Paradise" width="584" height="36">
+<table border="0" cellpadding="0" cellspacing="0" width="584">
+<tbody><tr><td width="27"><img src="dot.gif" width="27" height="1"></td>
+<td>
+<!-- Insert Content Here -->
+<p><i><kw class="krdwrd-tag-1">By Clive Petrovic</kw></i></p>
+
+<p class="title"><kw class="krdwrd-tag-2">Paradise Found</kw></p>
+<p><img src="images/islands0404.jpg" class="sidebar" align="right" border="0" width="150" height="151" hspace="5"><kw class="krdwrd-tag-3">Imagine yourself among emerald green hills, aquamarine waters, and white sand beaches while soaking up the rays or gently swaying in a hammock tied between two palm trees. Close your eyes for a moment and you can almost feel the warm trade winds blowing through your hair. Open your eyes and, if you're in the BVI, you'll experience this and a whole lot more. </kw></p>
+<p><kw class="krdwrd-tag-3">When you think British Virgin Islands, think tropics, think beaches, think paradise. But, there's a whole lot more to these magical isles steeped in history. More than a century before the first permanent settlement on mainland North America, the Caribbean was already a hotbed of activity. </kw></p>
+<p><img src="images/islands0401.jpg" class="sidebar" align="left" border="0" width="180" height="118" hspace="5"><kw class="krdwrd-tag-3">While the Virgin Islands and much of the West Indies were initially claimed by Spain, the other European powers had different ideas. It wasn't long before the navies of Spain, France, England and others were contesting ownership of the islands. In fact, the course of European history was greatly influenced by successes or failures in the West Indies. The wealth from the "Indies" fuelled the development of European nations from the 16th through 19th centuries.</kw></p>
+<p><kw class="krdwrd-tag-3">The legacy of that period is still much in evidence throughout the BVI. From the ruins of the Spanish Copper Mine on Virgin Gorda to the remnants of the forts that encircled Tortola, history is everywhere. </kw></p>
+
+<p class="title"><kw class="krdwrd-tag-2">Sightseeing in BVI</kw></p>
+<p><img src="images/sightsee0501.jpg" class="sidebar" align="right" border="0" width="150" height="153" hspace="5"><kw class="krdwrd-tag-3">As you travel around the islands,  be observant and you'll be well rewarded. Mother Nature and mankind have each left a rich legacy that is well worth exploring. </kw></p>
+<p><kw class="krdwrd-tag-3">There is much to see and do in the British Virgin Islands. It is the natural beauty found above and below the sea that attracts visitors. There are no casinos or high-rise hotels filled with thousands of tourists flooding onto the beaches. No 747s land at the airport. You will not struggle to find a spot on the beach, a table in a restaurant or a place to park your rental car. This is the charm of the BVI. </kw></p>
+<p><kw class="krdwrd-tag-3">There may not be large crowds of tourists, but that does not mean there is nothing to see. </kw><b><kw class="krdwrd-tag-3">BVI is consistently ranked as one of top 3 island destinations in the Caribbean. </kw></b><kw class="krdwrd-tag-3"> &nbsp;Among numerous reasons for the recognition, the British Virgin Islands are blessed with unique natural beauty and steeped in history.  </kw></p>
+<p><img src="images/sightsee0502.jpg" class="sidebar" align="left" border="0" width="150" height="148" hspace="5"><kw class="krdwrd-tag-3">You could not imagine a more picture perfect cluster of tropical islands. Rising majestically from the sea, the British Virgin Islands are the mountaintops of a prehistoric landscape that stretched from Puerto Rico all the way to Anegada, a flat island formed as a coral reef. The steep hillsides often frame spectacular beaches or offer views of towering cliffs as you sail by. Climbing to the 1,716-foot summit of Sage Mountain will present a breathtaking panorama you will never forget.</kw></p>
+<p><kw class="krdwrd-tag-3">Road Town, the capital of Tortola, is quaint and charming, a blend of West Indian traditions and modern aspirations. There are only about 23,000 warm and friendly people scattered among the half dozen main islands. An additional dozen islands contain a few private homes or the occasional small resort. Most of the remaining 40 or so isles are inhabited only by wildlife and a few goats. </kw></p>
+<p><kw class="krdwrd-tag-3">Whether you arrive by boat or by plane, you will immediately notice the British flag, or Union Jack. Politically, these islands are an Overseas Territory of the United Kingdom. It's a bit like the relationship between the U.S. Virgin Islands and the United States. The BVI is politically stable, safe and offers visitors a relaxed atmosphere. While the Union Jack flies overhead, the official currency used in these islands is the U.S. dollar.</kw></p>
+
+
+<div align="center"><script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://herald.plexmedia.net/banners/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:196&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=378504888&amp;what=zone:196&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=911226444&amp;what=zone:196&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://herald.plexmedia.net/banners/adclick.php?n=a888cd63" target="_blank"><img src="http://herald.plexmedia.net/banners/adview.php?what=zone:196&n=a888cd63" alt="" border="0"></a></kw></noscript>
+</div><br>
+
+
+<p class="title"><kw class="krdwrd-tag-2">Beauty and the Beach</kw></p>
+<p><img src="images/beaches0501.jpg" class="sidebar" align="right" border="0" width="180" height="119" hspace="5"><kw class="krdwrd-tag-3">Whenever lists are made of the most beautiful beaches in the world, the beaches of the British Virgin Islands are always included. The beaches here are unspoiled, almost never crowded and each one is unique. In fact, </kw><b><kw class="krdwrd-tag-3">Travelocity</kw></b><kw class="krdwrd-tag-3"> travel editors selected Loblolly Bay Beach in the British Virgin Islands as </kw><b><kw class="krdwrd-tag-3">one of the top ten secluded beaches in US or Caribbean</kw></b><kw class="krdwrd-tag-3">.  "While most of the British Virgin Islands are characterized by green hills and mountainous landscapes, the island of Anegada offers a different view. The ocean once submerged this flat coral atoll, which lingers just a few feet above sea level, showing off 12 miles of powdery white sand. One of the island's most treasured beaches, Loblolly Bay Beach, boasts a 360-degree lookout and a 50-foot walkout into the ocean. Hint: If visitors really want to enjoy the scenery, grab a tropical concoction from one of the two seaside bars and relax on a hammock within the sea grapes that fringe the shore." </kw></p>
+<p><img src="images/islands0403.jpg" class="sidebar" align="left" border="0" width="150" height="161" hspace="5"><kw class="krdwrd-tag-3">On some beaches, you can relax in a hammock nestled between two palms while your island host brings you frozen tropical drinks; walk for miles all alone, taking in the tropical breezes and the warm surf; or you can dance the night away to the beat of a steel drum while gazing at a glorious night sky. Either way, the traditional sun, sea and sand are the stuff of dreams. The beaches of the BVI fulfil those dreams and more. Warm, tropical sun, multihued azure seas and silky soft sand surround you. </kw></p>
+<p><kw class="krdwrd-tag-3">While some like to surf the great waves of the north shore in the winter, others don a mask, fins and snorkel to explore the magical world beneath the surface. Still others prefer to just lie on the sand and bask in the sun. No matter what you choose to do, you're sure to find a beach perfect for you.</kw></p>
+<p><kw class="krdwrd-tag-3">Unlike some countries where the beaches may be privately owned and access is limited, in the BVI everyone has the right to enjoy any beach in the Territory. However, the BVI also has a tradition of respect for privacy. Behind some beaches are private homes or small, exclusive upscale resorts where the residents treasure their privacy and solitude. So go ahead, enjoy the beaches in your own special way, and please allow others to do the same. </kw></p>
+<p><kw class="krdwrd-tag-3">The beaches are one of the best features of the BVI. Every island contains beaches, lots of beaches. Let's take a look at what these islands have to offer. </kw></p>
+<p><kw class="krdwrd-tag-3">It actually doesn't matter where you are in the BVI. Whether you travel by boat or by car, you can find a beach to your liking. Don't forget your hat, sunglasses and sunscreen. Take your camera and enjoy the sand and the surf.</kw></p>
+<p><a href="beautybeaches.htm"><kw class="krdwrd-tag-3">Read more</kw></a><kw class="krdwrd-tag-3"> about the beautiful beaches of the BVI.</kw></p>
+
+<p class="title"><kw class="krdwrd-tag-2">Top 10 Things to See and Do in the BVI</kw></p>
+<p><img src="images/top10todo.jpg" class="sidebar" align="right" border="0" width="150" height="155" hspace="5"><kw class="krdwrd-tag-3">There is much to see and do in the BVI. Perhaps, you prefer to relax in a beach chair with a good book, but if you're the more active type and want to see what these islands are all about, here are some highlights not to miss.</kw></p>
+<ol>
+<li><kw class="krdwrd-tag-3">Walking tour of Road Town. Get a sense of the history of the BVI and then do a bit of shopping and don't miss Crafts Alive.</kw></li>
+<li><kw class="krdwrd-tag-3">A day visit to The Baths on Virgin Gorda is a must.</kw></li>
+<li><kw class="krdwrd-tag-3">A visit to Jost Van Dyke, especially Foxy's.</kw></li>
+<li><kw class="krdwrd-tag-3">The Mangrove Boardwalk at Paraquita Bay. A must-see for the nature buffs.</kw></li>
+<li><kw class="krdwrd-tag-3">A hike on the trails at Sage Mountain National Park for the spectacular panoramic views. Then enjoy dinner and a magnificent sunset a couple of miles away at Skyworld Restaurant.</kw></li>
+<li><kw class="krdwrd-tag-3">An island tour by car or taxi. See it all quickly, then return 	to savour the places you really like.</kw></li>
+<li><kw class="krdwrd-tag-3">The Callwood Rum Distillery at Cane Garden Bay. See a real working rum factory, then take in the sights and sounds of the beach and restaurants.</kw></li>
+<li><kw class="krdwrd-tag-3">A day-sail to Norman Island and the Caves, legendary hiding places of pirates and buccaneers. A must for the snorkellers.</kw></li>
+<li><kw class="krdwrd-tag-3">The Old Government House Museum. Lots of artefacts from by-gone eras. A must-see for the history buffs.</kw></li>
+<li><kw class="krdwrd-tag-3">A visit to Anegada. By boat or by plane this island is about as remote as you can get. Don't miss the flock of pink flamingos.</kw></li>
+</ol>
+
+<p><b><kw class="krdwrd-tag-1">Check out our sightseeing suggestions for British Virgin Islands,
+island-by-island using the </kw><a href="#top"><kw class="krdwrd-tag-1">links</kw></a><kw class="krdwrd-tag-1"> above.</kw></b></p>
+
+<p><kw class="krdwrd-tag-1">To get to the BVI's call American Airlines at 1-800-433-7300, book your trip on </kw><a href="http://www.aa.com" target="_blank"><kw class="krdwrd-tag-1">aa.com</kw></a><kw class="krdwrd-tag-1">, or for travel information, visit </kw><a href="http://www.EagleLatitudes.com" target="_blank"><kw class="krdwrd-tag-1">www.EagleLatitudes.com</kw></a><kw class="krdwrd-tag-1">.</kw></p>
+<p><kw class="krdwrd-tag-1">Book your stay direct and save - using our </kw><a href="/lodging/"><kw class="krdwrd-tag-1">BVI hotel guide</kw></a><kw class="krdwrd-tag-1">.</kw></p>
+
+<br><br>
+<!-- End Content Here -->
+</td></tr></tbody></table>
+			</td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td><img src="../images/botrule.gif" width="779" height="18"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#8ccac1" height="38"><!-- Include Footer --><table border="0" cellpadding="0" cellspacing="0" width="776">
+   <tbody><tr>
+     <!-- <TD WIDTH="27">&nbsp;</TD> -->
+     <td class="footer" align="center"><div class="footer"><a href="/aboutbvis/" class="footer"><kw class="krdwrd-tag-1">About
+       BVI</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/photos/" class="footer"><kw class="krdwrd-tag-1">Photo Gallery</kw></a><kw class="krdwrd-tag-1"> | 
+	   </kw><a href="/lodging/" class="footer"><kw class="krdwrd-tag-1">Lodging</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/arts/" class="footer"><kw class="krdwrd-tag-1">Arts &amp; Culture</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/transport/" class="footer"><kw class="krdwrd-tag-1">Transportation</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/business/" class="footer"><kw class="krdwrd-tag-1">Business &amp; Real Estate</kw></a><kw class="krdwrd-tag-1">
+     | </kw><a href="/events/" class="footer"><kw class="krdwrd-tag-1">Events</kw></a><br>
+     <a href="/dining/" class="footer"><kw class="krdwrd-tag-1">Dining &amp; Nightlife</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/shopping/" class="footer"><kw class="krdwrd-tag-1">Shopping</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/islands/" class="footer"><kw class="krdwrd-tag-1">Islands</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/activities/" class="footer"><kw class="krdwrd-tag-1">Activities</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/weddings/" class="footer"><kw class="krdwrd-tag-1">Weddings</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/offers/" class="footer"><kw class="krdwrd-tag-1">Special Offers</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/maps/" class="footer"><kw class="krdwrd-tag-1">Maps</kw></a><kw class="krdwrd-tag-1"> |
+     </kw><a href="/vtours/" class="footer"><kw class="krdwrd-tag-1">Virtual Tours</kw></a><kw class="krdwrd-tag-1">
+     | </kw><a href="/aboutus/" class="footer"><kw class="krdwrd-tag-1">About Us</kw></a></div>     <br>
+	 <div class="footer"><!-- <a href="/bvidirectory.pdf" target="_blank" class="footer">Click here to down load the 2006 British Virgin Islands Official Tourism Guide. 
+	 You'll get 40 beautiful pages of useful information for visitors, including
+	 beaches, events, getting around, places to stay, maps, sailing, watersports,
+	 dining, and business services.</a> --></div>
+	 <br>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://herald.plexmedia.net/banners/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:240&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=001719678&amp;what=zone:240&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://herald.plexmedia.net/banners/adjs.php?n=066230372&amp;what=zone:240&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://herald.plexmedia.net/banners/adclick.php?n=a77da429" target="_blank"><img src="http://herald.plexmedia.net/banners/adview.php?what=zone:240&n=a77da429" alt="" border="0"></a></kw></noscript>
+
+	 </td>
+   </tr>
+ </tbody></table>
+ <script language="JavaScript">
+<!--
+var message="Copyrighted Material";
+function click(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which == 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+
+function newImage(arg) {
+        if (document.images) {
+                rslt = new Image();
+                rslt.src = arg;
+                return rslt;
+        }
+}
+//-->
+</script>
+</td>
+      </tr>
+    </tbody></table>
+  </body>

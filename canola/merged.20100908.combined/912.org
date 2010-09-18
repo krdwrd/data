@@ -1,0 +1,370 @@
+<head><base href="http://www.westernseminary.edu/AcademicPrograms/PDX/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- InstanceBegin template="/Templates/portland.dwt" codeOutsideHTMLIsLocked="false" --><!-- InstanceBeginEditable name="doctitle" --><title>Western Seminary PDX Th.M.</title><!-- InstanceEndEditable -->
+
+
+
+ 
+
+
+<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+
+<script language="javascript" type="text/javascript">
+
+
+<!-- Begin
+var isDOM = (document.getElementById ? true : false); 
+var isIE4 = ((document.all && !isDOM) ? true : false);
+var isNS4 = (document.layers ? true : false);
+function getRef(id) {
+if (isDOM) return document.getElementById(id);
+if (isIE4) return document.all[id];
+if (isNS4) return document.layers[id];
+}
+function getSty(id) {
+return (isNS4 ? getRef(id) : getRef(id).style);
+} 
+// Hide timeout.
+var popTimer = 0;
+// Array showing highlighted menu items.
+var litNow = new Array();
+function popOver(menuNum, itemNum) {
+clearTimeout(popTimer);
+hideAllBut(menuNum);
+litNow = getTree(menuNum, itemNum);
+changeCol(litNow, true);
+targetNum = menu[menuNum][itemNum].target;
+if (targetNum > 0) {
+thisX = parseInt(menu[menuNum][0].ref.left) + parseInt(menu[menuNum][itemNum].ref.left);
+thisY = parseInt(menu[menuNum][0].ref.top) + parseInt(menu[menuNum][itemNum].ref.top);
+with (menu[targetNum][0].ref) {
+left = parseInt(thisX + menu[targetNum][0].x);
+top = parseInt(thisY + menu[targetNum][0].y);
+visibility = 'visible';
+      }
+   }
+}
+function popOut(menuNum, itemNum) {
+if ((menuNum == 0) && !menu[menuNum][itemNum].target)
+hideAllBut(0)
+else
+popTimer = setTimeout('hideAllBut(0)', 500);
+}
+function getTree(menuNum, itemNum) {
+
+itemArray = new Array(menu.length);
+
+while(1) {
+itemArray[menuNum] = itemNum;
+
+if (menuNum == 0) return itemArray;
+itemNum = menu[menuNum][0].parentItem;
+menuNum = menu[menuNum][0].parentMenu;
+   }
+}
+
+function changeCol(changeArray, isOver) {
+for (menuCount = 0; menuCount < changeArray.length; menuCount++) {
+if (changeArray[menuCount]) {
+newCol = isOver ? menu[menuCount][0].overCol : menu[menuCount][0].backCol;
+
+with (menu[menuCount][changeArray[menuCount]].ref) {
+if (isNS4) bgColor = newCol;
+else backgroundColor = newCol;
+         }
+      }
+   }
+}
+function hideAllBut(menuNum) {
+var keepMenus = getTree(menuNum, 1);
+for (count = 0; count < menu.length; count++)
+if (!keepMenus[count])
+menu[count][0].ref.visibility = 'hidden';
+changeCol(litNow, false);
+}
+
+
+function Menu(isVert, popInd, x, y, width, overCol, backCol, borderClass, textClass) {
+this.isVert = isVert;
+this.popInd = popInd
+this.x = x;
+this.y = y;
+this.width = width;
+this.overCol = overCol;
+this.backCol = backCol;
+this.borderClass = borderClass;
+this.textClass = textClass;
+this.parentMenu = null;
+this.parentItem = null;
+this.ref = null;
+}
+
+function Item(text, href, frame, length, spacing, target) {
+this.text = text;
+this.href = href;
+this.frame = frame;
+this.length = length;
+this.spacing = spacing;
+this.target = target;
+this.ref = null;
+}
+
+function writeMenus() {
+if (!isDOM && !isIE4 && !isNS4) return;
+
+for (currMenu = 0; currMenu < menu.length; currMenu++) with (menu[currMenu][0]) {
+
+var str = '', itemX = 0, itemY = 0;
+
+for (currItem = 1; currItem < menu[currMenu].length; currItem++) with (menu[currMenu][currItem]) {
+var itemID = 'menu' + currMenu + 'item' + currItem;
+
+var w = (isVert ? width : length);
+var h = (isVert ? length : width);
+
+if (isDOM || isIE4) {
+str += '<div id="' + itemID + '" style="position: absolute; left: ' + itemX + '; top: ' + itemY + '; width: ' + w + '; height: ' + h + '; visibility: inherit; ';
+if (backCol) str += 'background: ' + backCol + '; ';
+str += '" ';
+}
+if (isNS4) {
+str += '<layer id="' + itemID + '" left="' + itemX + '" top="' + itemY + '" width="' +  w + '" height="' + h + '" visibility="inherit" ';
+if (backCol) str += 'bgcolor="' + backCol + '" ';
+}
+if (borderClass) str += 'class="' + borderClass + '" ';
+
+str += 'onMouseOver="popOver(' + currMenu + ',' + currItem + ')" onMouseOut="popOut(' + currMenu + ',' + currItem + ')">';
+
+
+str += '<table width="' + (w - 8) + '" border="0" cellspacing="0" cellpadding="' + (!isNS4 && borderClass ? 3 : 0) + '"><tr><td align="left" height="' + (h - 7) + '">' + '<a class="' + textClass + '" href="' + href + '"' + (frame ? ' target="' + frame + '">' : '>') + text + '<\/a><\/td>';
+if (target > 0) {
+
+menu[target][0].parentMenu = currMenu;
+menu[target][0].parentItem = currItem;
+
+if (popInd) str += '<td class="' + textClass + '" align="right">' + popInd + '<\/td>';
+}
+str += '<\/tr><\/table>' + (isNS4 ? '<\/layer>' : '<\/div>');
+if (isVert) itemY += length + spacing;
+else itemX += length + spacing;
+}
+if (isDOM) {
+var newDiv = document.createElement('div');
+document.getElementsByTagName('body').item(0).appendChild(newDiv);
+newDiv.innerHTML = str;
+ref = newDiv.style;
+ref.position = 'absolute';
+ref.visibility = 'hidden';
+}
+
+if (isIE4) {
+document.body.insertAdjacentHTML('beforeEnd', '<div id="menu' + currMenu + 'div" ' + 'style="position: absolute; visibility: hidden">' + str + '<\/div>');
+ref = getSty('menu' + currMenu + 'div');
+}
+
+if (isNS4) {
+ref = new Layer(0);
+ref.document.write(str);
+ref.document.close();
+}
+
+for (currItem = 1; currItem < menu[currMenu].length; currItem++) {
+itemName = 'menu' + currMenu + 'item' + currItem;
+if (isDOM || isIE4) menu[currMenu][currItem].ref = getSty(itemName);
+if (isNS4) menu[currMenu][currItem].ref = ref.document[itemName];
+   }
+}
+with(menu[0][0]) {
+ref.left = x;
+ref.top = y;
+ref.visibility = 'visible';
+   }
+}
+
+var menu = new Array();
+
+var defOver = '#000000', defBack = '#5A5859';
+
+var defLength = 22;
+
+menu[0] = new Array();
+
+menu[0][0] = new Menu(false, '', 150, 93, 17, '#000000', '#000000', '', 'itemText');
+
+menu[0][1] = new Item('  Get to Know Western', '#', '', 136, 10, 1);
+menu[0][2] = new Item('  Contact Us', '#', '', 86, 10, 2);
+menu[0][3] = new Item('  Academic Programs', '#', '', 141, 10, 3);
+menu[0][4] = new Item('  Schedules', '#', '', 76, 10, 4);
+menu[0][5] = new Item(' Catalog ', '#', '', 76, 10, 5);
+
+menu[1] = new Array();
+
+menu[1][0] = new Menu(true, '>', 0, 22, 120, defOver, defBack, 'itemBorder', 'itemText');
+menu[1][1] = new Item('Activities Calendar', 'Javascript:DisplayCalendar();', '', defLength, 0, 0);
+menu[1][2] = new Item('Our History', 'http://www.westernseminary.edu/AboutWS/history.htm', '', defLength, 0, 0);
+menu[1][3] = new Item('Our Mission', 'http://www.westernseminary.edu/AboutWS/mission.htm', '', defLength, 0, 0);
+menu[1][4] = new Item('What We Believe', 'http://www.westernseminary.edu/AboutWS/ftp.htm', '', defLength, 0, 0);
+menu[1][5] = new Item('Campus Locations', 'http://www.westernseminary.edu/AboutWS/campuses.htm', '', defLength, 0, 0);
+menu[1][6] = new Item('Accreditation', 'http://www.westernseminary.edu/AboutWS/accreditation.htm', '', defLength, 0, 0);
+
+// Contact Us menu.
+menu[2] = new Array();
+menu[2][0] = new Menu(true, '>', 0, 22, 120, defOver, defBack, 'itemBorder', 'itemText');
+menu[2][1] = new Item('Contact Info', 'http://www.westernseminary.edu/AboutWS/contact_us.htm', '', defLength, 0, 0);
+menu[2][2] = new Item('Campus Locations', 'http://www.westernseminary.edu/AboutWS/campuses.htm', '', defLength, 0, 0);
+
+// Academic Programs menu
+menu[3] = new Array();
+menu[3][0] = new Menu(true, '<', 0, 22, 120, defOver, defBack, 'itemBorder', 'itemText');
+menu[3][1] = new Item('Portland Campus', 'http://www.westernseminary.edu/AcademicPrograms/PDX/index.htm', '', defLength, 0, 0);
+menu[3][2] = new Item('San Jose Campus', 'http://www.westernseminary.edu/AcademicPrograms/SJ/index.htm', '', defLength, 0, 0);
+menu[3][3] = new Item('Sacramento Campus', 'http://www.westernseminary.edu/AcademicPrograms/SAC/index.htm', '', defLength, 0, 0);
+menu[3][4] = new Item('Distance Education', 'http://www.westernseminary.edu/AcademicPrograms/WSCLL/index.htm', '', defLength, 0, 0);
+
+// Schedules menu
+menu[4] = new Array();
+menu[4][0] = new Menu(true, '>', 0, 22, 120, '#000000', '#5A5859', 'itemBorder', 'itemText');
+menu[4][1] = new Item('Portland Campus', 'http://www.westernseminary.edu/Schedules/PDX/index.htm', '', defLength, 0, 0);
+menu[4][2] = new Item('San Jose Campus', 'http://www.westernseminary.edu/Schedules/SJ/index.htm', '', defLength, 0, 0);
+menu[4][3] = new Item('Sacramento Campus', 'http://www.westernseminary.edu/Schedules/SAC/index.htm', '', defLength, 0, 0);
+
+// Catalog menu
+menu[5] = new Array();
+menu[5][0] = new Menu(true, '>', -48, 22, 140, '#000000', '#5A5859', 'itemBorder', 'itemText');
+menu[5][1] = new Item('Intro to the Seminary', 'http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_intro.pdf', '', defLength, 0, 0);
+menu[5][2] = new Item('Admission', 'http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_admiss.pdf', '', defLength, 0, 0);
+menu[5][3] = new Item('Portland Programs', 'http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_Portland.pdf', '', defLength, 0, 0);
+menu[5][4] = new Item('Nor Cal Programs', 'http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_norcal.pdf', '', defLength, 0, 0);
+menu[5][5] = new Item('Distance Programs', 'http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_cll.pdf', '', defLength, 0, 0);
+menu[5][6] = new Item('Course Descriptions', 'http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_courses.pdf', '', defLength, 0, 0);
+menu[5][7] = new Item('Personnel', 'http://www.westernseminary.edu/Downloads/Western/0Catalog/WS_Catalog_personnel.pdf', '', defLength, 0, 0);
+menu[5][8] = new Item('Faculty Teaching Position', 'http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_ftp.pdf', '', defLength, 0, 0);
+menu[5][9] = new Item('Masters Application', 'http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_application.pdf', '', defLength, 0, 0);
+
+
+var popOldWidth = window.innerWidth;
+nsResizeHandler = new Function('if (popOldWidth != window.innerWidth) location.reload()');
+
+if (isNS4) document.captureEvents(Event.CLICK);
+document.onclick = clickHandle;
+
+function clickHandle(evt)
+{
+ if (isNS4) document.routeEvent(evt);
+ hideAllBut(0);
+}
+
+function moveRoot()
+{
+ with(menu[0][0].ref) left = ((parseInt(left) < 100) ? 100 : 5);
+}
+//  End -->
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<script language="javascript" type="text/javascript">
+
+function DisplayCalendar() {
+
+  var dateVar = new Date();
+  var CYear = dateVar.getFullYear();
+  var CMonth = dateVar.getMonth() + 1;
+  
+  myurl = "https://www.westernseminary.edu/WEDS_OLR/DisplayEventsCalendar.asp?mth=" + CMonth + "&yr=" + CYear;
+  myRef = window.open(myurl,'Calendar','width=800,height=600,toolbar=1,resizable=1,scrollbars=1,location=1');
+
+}
+</script>
+
+<meta content="MSHTML 6.00.2800.1458" name="GENERATOR"><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+
+<link href="../../CSS/master.css" rel="stylesheet" type="text/css"></head><body id="top" style="margin: 0px;" onload="writeMenus();MM_preloadImages('../../Images/Western/navigation/prospect_left2.jpg','../../Images/Western/navigation/current2.jpg','../../Images/Western/navigation/friends_left2.jpg','../../Images/Western/navigation/financial2.jpg','../../Images/Western/navigation/library2.jpg','../../Images/Western/navigation/counseling2.jpg','../../Images/Western/navigation/dmin2.jpg','../../Images/Western/navigation/wscll2.jpg','../../Images/Western/navigation/wcm2.jpg','../../Images/Western/navigation/sis2.jpg','../../Images/Western/navigation/events2.jpg','../../Images/Western/navigation/faculty2.jpg','../../Images/Western/navigation/syllabi2.jpg','../../Images/Western/navigation/faculty_papers2.jpg','../../Images/Western/navigation/missiology_2.jpg','../../Images/Western/navigation/intercultural2.jpg','../../Images/Western/navigation/spurgeon2.jpg')">
+<table border="0" cellpadding="0" cellspacing="0" width="722">
+  <tbody>
+    <tr> 
+      <td colspan="3" bgcolor="#000000" valign="middle"> <p><img src="../../Images/Western/navigation/WS_Main_Hdr.gif" alt="" usemap="#Map" border="0" width="722" height="87"></p></td>
+    </tr>
+    <tr> 
+      <td colspan="3" bgcolor="#000000" height="27">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td rowspan="2" bgcolor="#c3c4c4" valign="top" width="144"> <p><br>
+        <img src="../../Images/Western/navigation/Grey_campus_Portland.jpg" alt="Portland Campus" width="144" height="15"><br>
+          <a href="http://www.discoverwestern.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Prospective','','../../Images/Western/navigation/prospect_left2.jpg',1)"><img src="../../Images/Western/navigation/prospect_left1.jpg" alt="Prospective Students" id="Prospective" border="0" width="144"></a><a href="http://www.westernseminary.edu/CurrentStudents/PDX/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Current','','../../Images/Western/navigation/current2.jpg',1)"><img src="../../Images/Western/navigation/current1.jpg" alt="Current Students" id="Current" border="0" width="144"></a><a href="http://www.westernseminary.edu/Friends/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Friends','','../../Images/Western/navigation/friends_left2.jpg',1)"><img src="../../Images/Western/navigation/friends_left1.jpg" alt="Friends and Guests" id="Friends" border="0" width="144"></a><a href="Javascript:DisplayCalendar();" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Events','','../../Images/Western/navigation/events2.jpg',1)"><img src="../../Images/Western/navigation/events1.jpg" alt="Activities Calendar" id="Events" border="0" width="144" height="15"></a><a href="../../Library/Index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Library','','../../Images/Western/navigation/library2.jpg',1)"><img src="../../Images/Western/navigation/library1.jpg" alt="Library" id="Library" border="0" width="144"></a><a href="../../Syllabi/PDX/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Syllabi','','../../Images/Western/navigation/syllabi2.jpg',1)"><img src="../../Images/Western/navigation/syllabi1.jpg" alt="Syllabi" id="Syllabi" border="0" width="144" height="15"></a><a href="../../Faculty/PDX/Index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Faculty','','../../Images/Western/navigation/faculty2.jpg',1)"><img src="../../Images/Western/navigation/faculty1.jpg" alt="Faculty" id="Faculty" border="0" width="144" height="15"></a><a href="http://www.westernseminary.edu/papers/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Papers','','../../Images/Western/navigation/faculty_papers2.jpg',1)"><img src="../../Images/Western/navigation/faculty_papers1.jpg" alt="Faculty Papers" id="Papers" border="0" width="144" height="15"></a><a href="http://www.westernseminary.edu/Admissions/Aid/aid_pdx.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Aid','','../../Images/Western/navigation/financial2.jpg',1)"><img src="../../Images/Western/navigation/financial1.jpg" alt="Financial Aid" id="Aid" border="0" width="144" height="15"></a><a href="https://www.westernseminary.edu/WEDS_OLR/signon_OLR.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SIS','','../../Images/Western/navigation/sis2.jpg',1)"><img src="../../Images/Western/navigation/sis1.jpg" alt="Student Information System" id="SIS" border="0" width="144"></a></p>
+        <p><a href="http://www.westernseminary.edu/Counseling/PDX/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Counseling','','../../Images/Western/navigation/counseling2.jpg',1)"><img src="../../Images/Western/navigation/counseling1.jpg" alt="Counseling" id="Counseling" border="0" width="144"></a><a href="../../WSCLL/Index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('CLL','','../../Images/Western/navigation/wscll2.jpg',1)"><img src="../../Images/Western/navigation/wscll1.jpg" alt="CLL" id="CLL" border="0" width="144"></a><a href="http://www.westernseminary.edu/DMin/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('DMin','','../../Images/Western/navigation/dmin2.jpg',1)"><img src="../../Images/Western/navigation/dmin1.jpg" alt="Doctor of Ministry" id="DMin" border="0" width="144"></a><a href="http://www.westernseminary.edu/Intercultural/DMiss/Index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Missiology','','../../Images/Western/navigation/missiology_2.jpg',1)"><img src="../../Images/Western/navigation/missiology_1.jpg" alt="Doctor of Missiology" id="Missiology" border="0" width="144" height="15"></a><a href="../../Intercultural/Index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Intercultural','','../../Images/Western/navigation/intercultural2.jpg',1)"><img src="../../Images/Western/navigation/intercultural1.jpg" alt="Intercultural Studies" id="Intercultural" border="0" width="144" height="15"></a><a href="http://www.westernseminary.edu/Spurgeon/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Spurgeon','','../../Images/Western/navigation/spurgeon2.jpg',1)"><img src="../../Images/Western/navigation/spurgeon1.jpg" alt="Spurgeon Fellowship" id="Spurgeon" border="0" width="144" height="15"></a><a href="http://www.westernseminary.edu/Women/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('WCM','','../../Images/Western/navigation/wcm2.jpg',1)"><img src="../../Images/Western/navigation/wcm1.jpg" alt="Women's Center" id="WCM" border="0" width="144"></a></p>
+        <p>&nbsp;</p></td>
+      <td rowspan="2" bgcolor="#ffffff" valign="top" width="15"><img src="../../Images/Western/navigation/white_vertical.jpg" alt="" width="15" height="100"></td>
+      <td bgcolor="#ffffff" valign="top" width="563" height="15">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td bgcolor="#ffffff" valign="top" height="420"><!-- InstanceBeginEditable name="Body" --> 
+        <p class="PageHeader"><kw class="krdwrd-tag-2">Master 
+          of Theology (Th.M.) Program</kw></p>
+        <p class="BodyText"><span class="SectionHeader"><kw class="krdwrd-tag-2">Program 
+          Objectives</kw></span><br><kw class="krdwrd-tag-3">
+          The Master of Theology (Th.M.) is an advanced research-oriented program 
+          intended for persons who desire further graduate work in biblical, theological and ministerial studies. For some, this program provides the occasion for improving their preparation for Ph.D. studies. For others, the Th.M. offers a unique opportunity to enhance their theological and ministerial preparation for service in the local church, the mission field, or other areas of leadership.</kw></p>
+        <p class="BodyText"><kw class="krdwrd-tag-3">The Th.M. program encourages a high level of academic engagement and provides students with opportunities to be actively involved in class sessions 
+          through researching, writing and presenting papers that contribute significantly to courses. The program also emphasizes the integration of all six theological disciplines: exegetical theology, biblical theology, systematic 
+          theology, historical theology, philosophical theology, and practical theology.</kw></p>
+        <p class="BodyText"><kw class="krdwrd-tag-3">To facilitate a high level of interaction among students and to foster interdisciplinary dialogue, students will take at least one-half of their coursework in Th.M. Only Seminars; a minimum of five such seminars is required. All students will take the required Th.M. Integration Seminar and the remaining four may be selected from seminars in Old Testament, New Testament, Biblical Literature, Systematic Theology, Church History, and Spiritual Formation. The remaining courses are taken as Th.M. electives 
+          or as individualized studies. The program is, thus, highly flexible and can be tailored to meet a wide range of individual needs and interests. To receive the greatest benefit from the program, students are encouraged to choose an area of concentration and focus their selection of classes around courses offered in that concentration. The three areas are biblical studies, theological studies, and ministerial studies. </kw></p>
+        <p class="BodyText"><kw class="krdwrd-tag-3">Many other components go into making Western’s Th.M. program one of the finest in the nation:</kw></p>
+        <ul>
+          <li class="BodyText"><kw class="krdwrd-tag-3">Participation at national and regional meetings of the Evangelical Theological 
+            Society is encouraged. Our Th.M. students regularly read papers at regional 
+            ETS meetings, and some have done so at national ETS meetings.</kw></li>
+          <li class="BodyText"><kw class="krdwrd-tag-3">Two Th.M. colloquia per year are scheduled, giving students the opportunity</kw><br><kw class="krdwrd-tag-3">
+            to interact personally with some of the most noted theologians and biblical scholars in the world. Presenters at recent Th.M. colloquia include John Feinberg, Stanley Grenz, Wayne Grudem, Bruce Ware, Robert Peterson, and Edward Fudge. </kw></li>
+          <li class="BodyText"><kw class="krdwrd-tag-3">Graduate fellowships are available at Western, linking Th.M. students and professors in close relationships and providing opportunities for students to teach, grade papers and exams, and carry out research. </kw></li>
+          <li class="BodyText"><kw class="krdwrd-tag-3">The writing of the Th.M. thesis joins a student with two faculty readers who advise and mentor throughout this research phase of the program.</kw></li>
+        </ul>
+        <p class="BodyText"><kw class="krdwrd-tag-3">The director of the Th.M. program is available to help students clarify academic goals, select courses, and complete the registration procedure. A copy of the Th.M. Handbook is available by writing to the director of the Th.M. program at the Seminary.</kw></p>
+       
+          <ul>                       
+                <li class="BodyText"><a href="Thm_admission.htm"><kw class="krdwrd-tag-1">Admission 
+                            Requirements for the Th.M. Program</kw></a></li>
+                        <li class="BodyText"><a href="Thm_degree.htm"><kw class="krdwrd-tag-1">Degree 
+                            Requirements for the Th.M. Program</kw></a></li>             
+          </ul>
+        
+        <p class="BodyText" align="center"><a href="#top"><kw class="krdwrd-tag-1">Top 
+          of Page</kw></a></p>
+        <p class="BodyText" align="center">&nbsp;</p>
+      <!-- InstanceEndEditable --></td>
+    </tr>
+	
+    <tr bgcolor="#ffffff"> 
+      <td colspan="3" valign="top" height="31"><img src="../../Images/Western/navigation/footer.jpg" alt="Copyright 2008 Western Seminary" width="722" height="30"></td>
+    </tr>
+  </tbody>
+</table>
+
+<map name="Map" id="Map"><area shape="rect" coords="14,2,333,94" href="http://www.westernseminary.edu/index.htm" alt="Western Seminary"><area shape="rect" coords="426,9,514,31" href="http://www.westernseminary.edu/Portland/index.htm" alt="Portland"><area shape="rect" coords="523,10,599,32" href="http://www.westernseminary.edu/SanJose/index.htm" alt="San Jose"><area shape="rect" coords="611,10,712,31" href="http://www.westernseminary.edu/Sacramento/index.htm" alt="Sacramento">
+  
+  
+  
+  
+</map>
+<!-- InstanceEnd --><div style="position: absolute; visibility: visible; left: 150px; top: 93px;"><div id="menu0item1" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 136px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,1)" onmouseout="popOut(0,1)"><table border="0" cellpadding="0" cellspacing="0" width="128"><tbody><tr><td align="left" height="10"><a class="itemText" href="#"><kw class="krdwrd-tag-1">  Get to Know Western</kw></a></td></tr></tbody></table></div><div id="menu0item2" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 146px; top: 0pt; width: 86px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,2)" onmouseout="popOut(0,2)"><table border="0" cellpadding="0" cellspacing="0" width="78"><tbody><tr><td align="left" height="10"><a class="itemText" href="#"><kw class="krdwrd-tag-1">  Contact Us</kw></a></td></tr></tbody></table></div><div id="menu0item3" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 242px; top: 0pt; width: 141px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,3)" onmouseout="popOut(0,3)"><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td align="left" height="10"><a class="itemText" href="#"><kw class="krdwrd-tag-1">  Academic Programs</kw></a></td></tr></tbody></table></div><div id="menu0item4" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 393px; top: 0pt; width: 76px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,4)" onmouseout="popOut(0,4)"><table border="0" cellpadding="0" cellspacing="0" width="68"><tbody><tr><td align="left" height="10"><a class="itemText" href="#"><kw class="krdwrd-tag-1">  Schedules</kw></a></td></tr></tbody></table></div><div id="menu0item5" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 479px; top: 0pt; width: 76px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,5)" onmouseout="popOut(0,5)"><table border="0" cellpadding="0" cellspacing="0" width="68"><tbody><tr><td align="left" height="10"><a class="itemText" href="#"><kw class="krdwrd-tag-1"> Catalog </kw></a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu1item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,1)" onmouseout="popOut(1,1)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="Javascript:DisplayCalendar();"><kw class="krdwrd-tag-1">Activities Calendar</kw></a></td></tr></tbody></table></div><div id="menu1item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,2)" onmouseout="popOut(1,2)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AboutWS/history.htm"><kw class="krdwrd-tag-1">Our History</kw></a></td></tr></tbody></table></div><div id="menu1item3" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 44px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,3)" onmouseout="popOut(1,3)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AboutWS/mission.htm"><kw class="krdwrd-tag-1">Our Mission</kw></a></td></tr></tbody></table></div><div id="menu1item4" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 66px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,4)" onmouseout="popOut(1,4)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AboutWS/ftp.htm"><kw class="krdwrd-tag-1">What We Believe</kw></a></td></tr></tbody></table></div><div id="menu1item5" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 88px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,5)" onmouseout="popOut(1,5)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AboutWS/campuses.htm"><kw class="krdwrd-tag-1">Campus Locations</kw></a></td></tr></tbody></table></div><div id="menu1item6" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 110px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,6)" onmouseout="popOut(1,6)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AboutWS/accreditation.htm"><kw class="krdwrd-tag-1">Accreditation</kw></a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu2item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(2,1)" onmouseout="popOut(2,1)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AboutWS/contact_us.htm"><kw class="krdwrd-tag-1">Contact Info</kw></a></td></tr></tbody></table></div><div id="menu2item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(2,2)" onmouseout="popOut(2,2)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AboutWS/campuses.htm"><kw class="krdwrd-tag-1">Campus Locations</kw></a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu3item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(3,1)" onmouseout="popOut(3,1)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AcademicPrograms/PDX/index.htm"><kw class="krdwrd-tag-1">Portland Campus</kw></a></td></tr></tbody></table></div><div id="menu3item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(3,2)" onmouseout="popOut(3,2)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AcademicPrograms/SJ/index.htm"><kw class="krdwrd-tag-1">San Jose Campus</kw></a></td></tr></tbody></table></div><div id="menu3item3" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 44px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(3,3)" onmouseout="popOut(3,3)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AcademicPrograms/SAC/index.htm"><kw class="krdwrd-tag-1">Sacramento Campus</kw></a></td></tr></tbody></table></div><div id="menu3item4" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 66px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(3,4)" onmouseout="popOut(3,4)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/AcademicPrograms/WSCLL/index.htm"><kw class="krdwrd-tag-1">Distance Education</kw></a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu4item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(4,1)" onmouseout="popOut(4,1)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Schedules/PDX/index.htm"><kw class="krdwrd-tag-1">Portland Campus</kw></a></td></tr></tbody></table></div><div id="menu4item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(4,2)" onmouseout="popOut(4,2)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Schedules/SJ/index.htm"><kw class="krdwrd-tag-1">San Jose Campus</kw></a></td></tr></tbody></table></div><div id="menu4item3" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 44px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(4,3)" onmouseout="popOut(4,3)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Schedules/SAC/index.htm"><kw class="krdwrd-tag-1">Sacramento Campus</kw></a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu5item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,1)" onmouseout="popOut(5,1)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_intro.pdf"><kw class="krdwrd-tag-1">Intro to the Seminary</kw></a></td></tr></tbody></table></div><div id="menu5item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,2)" onmouseout="popOut(5,2)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_admiss.pdf"><kw class="krdwrd-tag-1">Admission</kw></a></td></tr></tbody></table></div><div id="menu5item3" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 44px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,3)" onmouseout="popOut(5,3)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_Portland.pdf"><kw class="krdwrd-tag-1">Portland Programs</kw></a></td></tr></tbody></table></div><div id="menu5item4" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 66px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,4)" onmouseout="popOut(5,4)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_norcal.pdf"><kw class="krdwrd-tag-1">Nor Cal Programs</kw></a></td></tr></tbody></table></div><div id="menu5item5" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 88px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,5)" onmouseout="popOut(5,5)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_cll.pdf"><kw class="krdwrd-tag-1">Distance Programs</kw></a></td></tr></tbody></table></div><div id="menu5item6" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 110px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,6)" onmouseout="popOut(5,6)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_courses.pdf"><kw class="krdwrd-tag-1">Course Descriptions</kw></a></td></tr></tbody></table></div><div id="menu5item7" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 132px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,7)" onmouseout="popOut(5,7)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Downloads/Western/0Catalog/WS_Catalog_personnel.pdf"><kw class="krdwrd-tag-1">Personnel</kw></a></td></tr></tbody></table></div><div id="menu5item8" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 154px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,8)" onmouseout="popOut(5,8)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_ftp.pdf"><kw class="krdwrd-tag-1">Faculty Teaching Position</kw></a></td></tr></tbody></table></div><div id="menu5item9" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 176px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,9)" onmouseout="popOut(5,9)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_application.pdf"><kw class="krdwrd-tag-1">Masters Application</kw></a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: visible; left: 150px; top: 93px;"><div id="menu0item1" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 136px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,1)" onmouseout="popOut(0,1)"><table border="0" cellpadding="0" cellspacing="0" width="128"><tbody><tr><td align="left" height="10"><a class="itemText krdwrd-tag-1" href="#">  Get to Know Western</a></td></tr></tbody></table></div><div id="menu0item2" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 146px; top: 0pt; width: 86px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,2)" onmouseout="popOut(0,2)"><table border="0" cellpadding="0" cellspacing="0" width="78"><tbody><tr><td align="left" height="10"><a class="itemText krdwrd-tag-1" href="#">  Contact Us</a></td></tr></tbody></table></div><div id="menu0item3" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 242px; top: 0pt; width: 141px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,3)" onmouseout="popOut(0,3)"><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td align="left" height="10"><a class="itemText krdwrd-tag-1" href="#">  Academic Programs</a></td></tr></tbody></table></div><div id="menu0item4" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 393px; top: 0pt; width: 76px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,4)" onmouseout="popOut(0,4)"><table border="0" cellpadding="0" cellspacing="0" width="68"><tbody><tr><td align="left" height="10"><a class="itemText krdwrd-tag-1" href="#">  Schedules</a></td></tr></tbody></table></div><div id="menu0item5" style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 479px; top: 0pt; width: 76px; height: 17px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" onmouseover="popOver(0,5)" onmouseout="popOut(0,5)"><table border="0" cellpadding="0" cellspacing="0" width="68"><tbody><tr><td align="left" height="10"><a class="itemText krdwrd-tag-1" href="#"> Catalog </a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu1item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,1)" onmouseout="popOut(1,1)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="Javascript:DisplayCalendar();">Activities Calendar</a></td></tr></tbody></table></div><div id="menu1item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,2)" onmouseout="popOut(1,2)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AboutWS/history.htm">Our History</a></td></tr></tbody></table></div><div id="menu1item3" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 44px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,3)" onmouseout="popOut(1,3)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AboutWS/mission.htm">Our Mission</a></td></tr></tbody></table></div><div id="menu1item4" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 66px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,4)" onmouseout="popOut(1,4)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AboutWS/ftp.htm">What We Believe</a></td></tr></tbody></table></div><div id="menu1item5" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 88px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,5)" onmouseout="popOut(1,5)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AboutWS/campuses.htm">Campus Locations</a></td></tr></tbody></table></div><div id="menu1item6" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 110px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(1,6)" onmouseout="popOut(1,6)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AboutWS/accreditation.htm">Accreditation</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu2item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(2,1)" onmouseout="popOut(2,1)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AboutWS/contact_us.htm">Contact Info</a></td></tr></tbody></table></div><div id="menu2item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(2,2)" onmouseout="popOut(2,2)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AboutWS/campuses.htm">Campus Locations</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu3item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(3,1)" onmouseout="popOut(3,1)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AcademicPrograms/PDX/index.htm">Portland Campus</a></td></tr></tbody></table></div><div id="menu3item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(3,2)" onmouseout="popOut(3,2)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AcademicPrograms/SJ/index.htm">San Jose Campus</a></td></tr></tbody></table></div><div id="menu3item3" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 44px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(3,3)" onmouseout="popOut(3,3)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AcademicPrograms/SAC/index.htm">Sacramento Campus</a></td></tr></tbody></table></div><div id="menu3item4" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 66px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(3,4)" onmouseout="popOut(3,4)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/AcademicPrograms/WSCLL/index.htm">Distance Education</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu4item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(4,1)" onmouseout="popOut(4,1)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Schedules/PDX/index.htm">Portland Campus</a></td></tr></tbody></table></div><div id="menu4item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(4,2)" onmouseout="popOut(4,2)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Schedules/SJ/index.htm">San Jose Campus</a></td></tr></tbody></table></div><div id="menu4item3" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 44px; width: 120px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(4,3)" onmouseout="popOut(4,3)"><table border="0" cellpadding="3" cellspacing="0" width="112"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Schedules/SAC/index.htm">Sacramento Campus</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu5item1" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 0pt; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,1)" onmouseout="popOut(5,1)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_intro.pdf">Intro to the Seminary</a></td></tr></tbody></table></div><div id="menu5item2" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 22px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,2)" onmouseout="popOut(5,2)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_admiss.pdf">Admission</a></td></tr></tbody></table></div><div id="menu5item3" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 44px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,3)" onmouseout="popOut(5,3)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_Portland.pdf">Portland Programs</a></td></tr></tbody></table></div><div id="menu5item4" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 66px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,4)" onmouseout="popOut(5,4)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_norcal.pdf">Nor Cal Programs</a></td></tr></tbody></table></div><div id="menu5item5" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 88px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,5)" onmouseout="popOut(5,5)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_cll.pdf">Distance Programs</a></td></tr></tbody></table></div><div id="menu5item6" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 110px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,6)" onmouseout="popOut(5,6)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_courses.pdf">Course Descriptions</a></td></tr></tbody></table></div><div id="menu5item7" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 132px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,7)" onmouseout="popOut(5,7)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Downloads/Western/0Catalog/WS_Catalog_personnel.pdf">Personnel</a></td></tr></tbody></table></div><div id="menu5item8" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 154px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,8)" onmouseout="popOut(5,8)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_ftp.pdf">Faculty Teaching Position</a></td></tr></tbody></table></div><div id="menu5item9" style="background-color: rgb(90, 88, 89); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; position: absolute; left: 0pt; top: 176px; width: 140px; height: 22px; visibility: inherit; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="itemBorder" onmouseover="popOver(5,9)" onmouseout="popOut(5,9)"><table border="0" cellpadding="3" cellspacing="0" width="132"><tbody><tr><td align="left" height="15"><a class="itemText krdwrd-tag-1" href="http://www.westernseminary.edu/Downloads/Western/Catalog/WS_Catalog_application.pdf">Masters Application</a></td></tr></tbody></table></div></div></body>

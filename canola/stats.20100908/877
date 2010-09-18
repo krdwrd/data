@@ -1,0 +1,553 @@
+<head><base href="http://www.privateislandsonline.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Emmanuelle on Taboo Island (1976)</title>
+
+
+
+
+
+<script type="text/javascript">
+var baseUrl = 'http://' + window.location.host + '/';
+var cookieDomain = '.privateislandsonline.com';
+document.writeln('<base href="'+baseUrl+'">');
+var which = 'sale';
+</script><base href="http://krdwrd.org/">
+<base href="http://www.privateislandsonline.com/">
+
+
+<meta name="keywords" content="island for sale, private islands for sale, islands, island, sale, rent, private island, real estate, islands for sale, private island for sale">
+<meta name="description" content="Browse hundreds of islands available for sale and rent worldwide. Private Islands Online is the most comprehensive guide to buying, selling and renting private islands. Explore the possibilities...">
+
+
+<link rel="alternate" type="application/rss+xml" title="Latest Islands for Sale" href="feeds/new-sale.xml">
+
+<link rel="stylesheet" type="text/css" href="css/common.css" media="screen">
+<link rel="stylesheet" type="text/css" href="css/print.css" media="print">
+
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/mainWin.js"></script>
+<script type="text/javascript">
+var picUrls = new Array();
+// for pictures in the lightbox
+picUrls['sale'] = 'images/searchthumbs/sale/';
+picUrls['rent'] = 'images/searchthumbs/rent/';
+// will look for featured islands in this area first
+var featAreaId = '';
+// ... or in this region
+var featRegionId = '';
+// will exclude these listing IDs from featured islands
+var excludedFeatures = '';
+</script>
+<script type="text/javascript" src="js/getWindowDims.js"></script>
+<script type="text/javascript" src="js/cookies.js"></script>
+<script type="text/javascript" src="js/favourites.js"></script>
+<script type="text/javascript" src="js/writeSaleMenu.js"></script>
+<script type="text/javascript" src="js/dmenus.js"></script>
+<script type="text/javascript" src="js/htmlTooltip.js"></script>
+<script type="text/javascript" src="js/listSignup.js"></script>
+<script type="text/javascript">
+document.writeln('<script type="text/javascript" src="dynamic/catfish.js.php?which=sale&amp;rand='+rand+'"><'+'/script>');
+document.writeln('<script type="text/javascript" src="dynamic/select.rec.sale.js.php?rand='+rand+'"><'+'/script>');
+document.writeln('<script type="text/javascript" src="dynamic/select.feat.sale.js.php?aid='+featAreaId+'&amp;rid='+featRegionId+'&amp;xlids='+escape(excludedFeatures)+'&amp;rand='+rand+'"><'+'/script>');
+document.writeln('<script type="text/javascript" src="dynamic/select.pop.sale.js.php?rand='+rand+'"><'+'/script>');
+</script><script type="text/javascript" src="dynamic/catfish.js.php?which=sale&amp;rand=1233406990545"></script>
+<script type="text/javascript" src="dynamic/select.rec.sale.js.php?rand=1233406990545"></script>
+<script type="text/javascript" src="dynamic/select.feat.sale.js.php?aid=&amp;rid=&amp;xlids=&amp;rand=1233406990545"></script>
+<script type="text/javascript" src="dynamic/select.pop.sale.js.php?rand=1233406990545"></script>
+<script type="text/javascript" src="dynamic/catfish.js.php?which=sale&amp;rand=1214831706881"></script>
+<script type="text/javascript" src="dynamic/select.rec.sale.js.php?rand=1214831706881"></script>
+<script type="text/javascript" src="dynamic/select.feat.sale.js.php?aid=&amp;rid=&amp;xlids=&amp;rand=1214831706881"></script>
+<script type="text/javascript" src="dynamic/select.pop.sale.js.php?rand=1214831706881"></script>
+
+
+<link rel="stylesheet" type="text/css" href="css/region.css">
+
+<script type="text/javascript" src="js/recent.js"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+
+<script type="text/javascript">
+// add window-load-time functions from the above scripts.
+// this must be through addLoadEvent so the catfish can use it too.
+addLoadEvent(function() {
+    lbInit();
+    writeSaleMenu();
+    dmenuInit();
+    tooltipInit();
+    signupInit();
+
+});
+</script></head><body class="forsale">
+
+<div id="master">
+
+<!-- top links -->
+	<div id="toplinks">
+		<div class="first home"><a class="first" href="./"><kw class="krdwrd-tag-1-100">Home</kw></a></div>
+        <div class="bookmark">
+            <a class="first" href="javascript:addToIeFavs();"><kw class="krdwrd-tag-1-100">Bookmark this page</kw></a>
+            <a href="./sale/sendtofriend"><kw class="krdwrd-tag-1-100">Tell a Friend</kw></a>
+		</div>
+        <div class="info">
+            <a class="first" href="buying-private-islands.htm"><kw class="krdwrd-tag-1-100">About Buying Islands</kw></a>
+            <a href="selling-an-island.htm"><kw class="krdwrd-tag-1-100">Selling an Island</kw></a>
+        </div>
+        <div class="contact">
+            <a class="first" href="about-private-islands-online.htm"><kw class="krdwrd-tag-1-100">About Private Islands Inc.</kw></a>
+        </div>
+        <div class="subscribe"><a class="first" href="submit-island-listing.htm"><kw class="krdwrd-tag-1-100">Submit Island</kw></a>
+                               </div>
+        <div class="favs"><a class="first" href="http://privateislandsinc.com/press-inquiries.html" rel="nofollow"><kw class="krdwrd-tag-1-100">Press</kw></a>
+        <a href="contact.htm"><kw class="krdwrd-tag-1-100">Contact</kw></a></div>
+	</div>
+<!-- / top links -->
+
+<!-- logo -->    
+    <div id="toplogo"><h1><a href="./"><img src="images/top/logo.gif" alt="Private Islands Online"></a></h1></div>
+    <div id="printlogo"><img src="images/top/logo-print.gif" alt="Private Islands Online"></div>
+<!-- / logo -->
+
+<!-- orange bar -->
+    <div id="orangebar">
+        <div class="saleTab"><div>
+            <a href="islandsforsale.htm"><kw class="krdwrd-tag-1-100">Islands for Sale</kw></a>
+        </div></div>
+        <div class="rentTab"><div>
+            <a href="islandsforrent.htm"><kw class="krdwrd-tag-1-100">Islands for Rent</kw></a>
+        </div></div>
+        <div class="othersTab"><div>
+            <a id="list-signup-tab" class="first" href="javascript:listSignupToggle();"><kw class="krdwrd-tag-1-100">Newsletter</kw></a>
+            <a href="forum/" onmouseover="tooltipOn('Meet other islomaniacs and<br>discuss the world of islands.')" onmouseout="tooltipOff()"><kw class="krdwrd-tag-1-100">Forums</kw></a>
+            <a href="http://living.privateislandsonline.com/" onmouseover="tooltipOn('The latest in modern technology<br>for your island. Modular homes,<br>windpower and much more.')" onmouseout="tooltipOff()"><kw class="krdwrd-tag-1-100">Island Living</kw></a>
+            <a href="http://articles.privateislandsonline.com/" onmouseover="tooltipOnLeft('Private island experiences,<br>book reviews, islands in the<br>news and movie reviews.')" onmouseout="tooltipOffLeft()"><kw class="krdwrd-tag-1-100">Articles</kw></a>
+            <a href="http://resources.privateislandsonline.com/" onmouseover="tooltipOnLeft('About buying islands, foreign<br>ownership laws, island glossary,<br>aerial photographers,<br>environmental links, etc.')" onmouseout="tooltipOffLeft()"><kw class="krdwrd-tag-1-100">Resources</kw></a>
+            <a href="island-images.htm" onmouseover="tooltipOnLeft('Download high resolution<br>island screensavers and<br>wallpaper for your PC. Send<br>a private island ecard.')" onmouseout="tooltipOffLeft()"><kw class="krdwrd-tag-1-100">Images</kw></a>
+            <a href="contact.htm" onmouseover="tooltipOnLeft('Get in touch with us,<br>or submit a new island<br>to our site.')" onmouseout="tooltipOffLeft()"><kw class="krdwrd-tag-1-100">Contact</kw></a>
+        </div></div>
+    </div>
+<!-- / orange bar -->
+
+<!-- page content -->
+    <div id="content"><table><tbody><tr>
+        <td class="leftSpacer"><div></div></td>
+        <td class="content">
+
+<!-- content text -->
+
+<div class="content-top">
+   
+  <div class="right"><a class="tosale" href="wallpaper.htm"><kw class="krdwrd-tag-1-90">Download Private Island 
+    Images </kw></a></div>
+  <div class="breadcrumbs"> <a href="island-media.htm"><kw class="krdwrd-tag-1-100">Island Media</kw></a><span><kw class="krdwrd-tag-1-100"> 
+    &gt;</kw></span> <a href="movies.htm"><kw class="krdwrd-tag-1-100">Island Movies</kw></a><br>
+    <br>
+  </div>
+</div>
+
+    <div class="pic"> 
+      <div><img src="images/rotating_private_island_images/asia/asia_slands_for_sale_6.jpg" alt="Private Islands" height="80" width="220"></div>
+      <div> 
+        <!-- replace this with adsense code -->
+        <script type="text/javascript"><!--
+google_ad_client = "pub-0357513963178449";
+google_ad_width = 234;
+google_ad_height = 60;
+google_ad_format = "234x60_as";
+google_ad_type = "text_image";
+google_ad_channel ="7234378368";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "006699";
+google_color_url = "006699";
+google_color_text = "006699";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        <!-- end replacement -->
+      </div>
+    </div>
+     
+<h1><kw class="krdwrd-tag-2-100">Emmanuelle on Taboo Island (1976)</kw></h1>
+              
+<p></p>
+              
+<p><kw class="krdwrd-tag-3-100">YES, there are no explicit sex scenes in this movie but there doesn't need 
+  to be when you have a great story. it's all about a guy who escaped from prison 
+  decades ago and washed up on an island. he's the "father" of two children 
+  he obviously found on the island in the first place. the children, a boy and 
+  a girl, grew up with nobody and so as a result they turned to each other to 
+  release their sexual urges. the father-type makes no effort to hide his sexual 
+  feelings for his daughter; the </kw></p>
+<p>
+  <script type="text/javascript"><!--
+google_ad_client = "pub-0357513963178449";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_ad_type = "text_image";
+google_ad_channel ="7234378368";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "006699";
+google_color_url = "006699";
+google_color_text = "006699";
+//--></script>
+  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<p><kw class="krdwrd-tag-3-100">brother grows jealous of a guy who washes ashore and "steals" his 
+  sister from him! the father is just as upset because this "intruder" 
+  is interrupting his secluded life with his "children". a scene on 
+  the beach shows the brother and sister in an obvious sexual mood but they're 
+  interrupted by the intruder who breaks it up before anything can happen. shades 
+  of incest are very clear in this film and i give it four stars because the producers 
+  and writers could've made a statement with such taboo topics as incest and rape. 
+  instead, the taboo is suggested rather than seen. there's a heart pounding chase 
+  scene through the jungles and i won't say what happens next. this is a great 
+  erotic movie if you can stomach taboo topic like incest.</kw></p>
+<p><kw class="krdwrd-tag-1-90">« </kw><a href="movies.htm" style="font-weight: bold;"><kw class="krdwrd-tag-1-100">Return</kw></a><kw class="krdwrd-tag-1-100"> to movie 
+  list</kw></p>
+
+<!-- / content text -->
+        </td>
+        <td class="right-ad">
+<p style="margin-top: 0pt; margin-bottom: 0pt;">
+<script language="JavaScript" type="text/javascript" src="http://www.privateislandsonline.com/openads/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.privateislandsonline.com/openads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:11&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.privateislandsonline.com/openads/adjs.php?n=065920513&amp;what=zone:11&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://www.privateislandsonline.com/openads/adjs.php?n=691195805&amp;what=zone:11&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://www.privateislandsonline.com/openads/adclick.php?n=a9d8da35" target="_blank"><img src="http://www.privateislandsonline.com/openads/adview.php?what=zone:11&n=a9d8da35" alt="" border="0"></a></kw></noscript>
+</p>
+
+<p style="text-align: center;">
+<script language="JavaScript" type="text/javascript" src="http://www.privateislandsonline.com/openads/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.privateislandsonline.com/openads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:12&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.privateislandsonline.com/openads/adjs.php?n=465169335&amp;what=zone:12&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://www.privateislandsonline.com/openads/adjs.php?n=649633570&amp;what=zone:12&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://www.privateislandsonline.com/openads/adclick.php?n=aa6bc1d8" target="_blank"><img src="http://www.privateislandsonline.com/openads/adview.php?what=zone:12&n=aa6bc1d8" alt="" border="0"></a></kw></noscript>
+</p>        </td>
+    </tr></tbody></table></div>
+<!-- / page content -->
+
+<!-- footer -->
+    <div id="bottomlinks">
+<p><a href="canada.htm"><kw class="krdwrd-tag-1-100">Islands for Sale in Canada</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="unitedstates.htm"><kw class="krdwrd-tag-1-100">Islands 
+  for Sale in the US</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="caribbean.htm"><kw class="krdwrd-tag-1-100">Islands for Sale in the Caribbean</kw></a><kw class="krdwrd-tag-1-100"> 
+  | </kw><a href="oceania.htm"><kw class="krdwrd-tag-1-100">Islands for Sale in Oceania</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="europe.htm"><kw class="krdwrd-tag-1-100">Islands 
+  for Sale in Europe</kw></a> <br>
+  <a href="southamerica.htm"><kw class="krdwrd-tag-1-100">Islands for Sale in South America</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="centralamerica.htm"><kw class="krdwrd-tag-1-100">Islands 
+  for Sale in Central America</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="asia.htm"><kw class="krdwrd-tag-1-100">Islands for Sale in Asia</kw></a><kw class="krdwrd-tag-1-100"> 
+  | </kw><a href="africa.htm"><kw class="krdwrd-tag-1-100">Islands for Sale in Africa</kw></a></p>
+<p><kw class="krdwrd-tag-1-100">
+  © Copyright 2008, </kw><a href="http://www.privateislandsinc.com" rel="nofollow"><kw class="krdwrd-tag-1-100">Private Islands 
+  Inc.</kw></a><kw class="krdwrd-tag-1-100"> All rights reserved. </kw><a href="privacy-policy.htm"><kw class="krdwrd-tag-1-100">Privacy Policy</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="disclaimer.htm"><kw class="krdwrd-tag-1-100">Disclaimer</kw></a><kw class="krdwrd-tag-1-100"> |
+  </kw><a href="http://privateislandsinc.com/advertising.html" rel="nofollow"><kw class="krdwrd-tag-1-100">Online Advertising</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="http://privateislandsinc.com/press-inquiries.html" rel="nofollow"><kw class="krdwrd-tag-1-100">Press Inquiries</kw></a><br><kw class="krdwrd-tag-1-100">
+330-550 Queen St. East, Toronto, Ontario M5A 1V2  Call us at 1-647-477-5581 or </kw><a href="contact.htm"><kw class="krdwrd-tag-1-100">email</kw></a></p>    </div>
+<!-- / footer -->
+
+<!-- left panel -->
+    <div id="leftpanel">
+        <div class="above">
+        
+            <a href="slideshows/slideshow-featured-sale.htm" class="slideshowButton" onclick="popMultishowWin(this.href);return false" onmouseover="tooltipOn('view a slideshow of all<br>featured islands for sale')" onmouseout="tooltipOff()"><kw class="krdwrd-tag-1-100">view slideshow</kw></a>
+    
+            <div class="narrow">
+            
+<h2 class="first"><kw class="krdwrd-tag-1-100">Featured Islands For Sale</kw></h2>
+
+<table>
+    <tbody><tr><td colspan="3" class="feature">
+<script type="text/javascript">
+document.write('        <a href="'+bigfeat.url+'"');
+if (bigfeat.balloon) {
+    document.write('\n          onmouseover="tooltipOn(\''+bigfeat.balloon+'\');"');
+    document.write('\n          onmouseout="tooltipOff();"');
+}
+document.writeln('><img');
+document.writeln('              src="'+bigfeat.imgsrc+'" width="250" height="80" alt=""><br>');
+document.writeln('          '+bigfeat.caption+'</a>');
+</script>
+    </td></tr>
+    <tr>
+        <td class="feature small">
+<script type="text/javascript">
+document.write('        <a href="'+smallfeat_1.url+'"');
+if (smallfeat_1.balloon) {
+    document.write('\n          onmouseover="tooltipOn(\''+smallfeat_1.balloon+'\');"');
+    document.write('\n          onmouseout="tooltipOff();"');
+}
+document.writeln('><img');
+document.writeln('              src="'+smallfeat_1.imgsrc+'" width="78" height="38" alt=""><br>');
+document.writeln('          '+smallfeat_1.caption+'</a>');
+</script>
+        </td>
+        <td class="feature small">
+<script type="text/javascript">
+document.write('        <a href="'+smallfeat_2.url+'"');
+if (smallfeat_2.balloon) {
+    document.write('\n          onmouseover="tooltipOn(\''+smallfeat_2.balloon+'\');"');
+    document.write('\n          onmouseout="tooltipOff();"');
+}
+document.writeln('><img');
+document.writeln('              src="'+smallfeat_2.imgsrc+'" width="78" height="38" alt=""><br>');
+document.writeln('          '+smallfeat_2.caption+'</a>');
+</script>
+        </td>
+        <td class="feature small last">
+<script type="text/javascript">
+document.write('        <a href="'+smallfeat_3.url+'"');
+if (smallfeat_3.balloon) {
+    document.write('\n          onmouseover="tooltipOn(\''+smallfeat_3.balloon+'\');"');
+    document.write('\n          onmouseout="tooltipOff();"');
+}
+document.writeln('><img');
+document.writeln('              src="'+smallfeat_3.imgsrc+'" width="78" height="38" alt=""><br>');
+document.writeln('          '+smallfeat_3.caption+'</a>');
+</script>
+        </td>
+    </tr>
+</tbody></table>
+
+            </div>
+            <div id="searchbox">
+                <div class="buttons"><table cellspacing="4">
+                    <tbody><tr>
+                        <td class="left">
+                            <!-- DHTML islands menu is written into this div's innerHTML -->
+                            <div id="writeMenuHere"><div class="dmenuctnr">	<div class="dmenu" id="menu_regions" style="top: -217px;">		<div class="dmenuctnr">			<a class="parent first krdwrd-tag-1-100" id="root_regions_canada" href="canada.htm">Canada</a>			<div class="dmenu" id="menu_regions_canada">				<a class="first krdwrd-tag-1-100" href="britishcolumbia.htm">British Columbia</a>				<a class="krdwrd-tag-1-100" href="ontario.htm">Ontario</a>				<a class="krdwrd-tag-1-100" href="novascotia.htm">Nova Scotia</a>				<a class="krdwrd-tag-1-100" href="newbrunswick.htm">New Brunswick</a>				<a class="krdwrd-tag-1-100" href="newfoundland.htm">Newfoundland</a>				<a class="krdwrd-tag-1-100" href="princeedwardisland.htm">Prince Edward Island</a>				<a class="krdwrd-tag-1-100" href="quebec.htm">Quebec</a>			</div>		</div>		<div class="dmenuctnr">			<a class="parent krdwrd-tag-1-100" id="root_regions_unitedstates" href="unitedstates.htm">United States</a>			<div class="dmenu" id="menu_regions_unitedstates" style="top: -120px;">				<a class="first krdwrd-tag-1-100" href="alaska.htm">Alaska</a>				<a class="krdwrd-tag-1-100" href="california.htm">California</a>				<a class="krdwrd-tag-1-100" href="connecticut.htm">Connecticut</a>				<a class="krdwrd-tag-1-100" href="florida.htm">Florida</a>				<a class="krdwrd-tag-1-100" href="idaho.htm">Idaho</a>				<a class="krdwrd-tag-1-100" href="indiana.htm">Indiana</a>				<a class="krdwrd-tag-1-100" href="maine.htm">Maine</a>				<a class="krdwrd-tag-1-100" href="maryland.htm">Maryland</a>				<a class="krdwrd-tag-1-100" href="massachusetts.htm">Massachusetts</a>				<a class="krdwrd-tag-1-100" href="michigan.htm">Michigan</a>				<a class="krdwrd-tag-1-100" href="minnesota.htm">Minnesota</a>				<a class="krdwrd-tag-1-100" href="montana.htm">Montana</a>				<a class="krdwrd-tag-1-100" href="newhampshire.htm">New Hampshire</a>				<a class="krdwrd-tag-1-100" href="newjersey.htm">New Jersey</a>				<a class="krdwrd-tag-1-100" href="newyork.htm">New York</a>				<a class="krdwrd-tag-1-100" href="oregon.htm">Oregon</a>				<a class="krdwrd-tag-1-100" href="southcarolina.htm">North and South Carolina</a>				<a class="krdwrd-tag-1-100" href="tennessee.htm">Tennessee</a>				<a class="krdwrd-tag-1-100" href="texas.htm">Texas</a>				<a class="krdwrd-tag-1-100" href="virginia.htm">Virginia</a>				<a class="krdwrd-tag-1-100" href="washington.htm">Washington</a>				<a class="krdwrd-tag-1-100" href="wisconsin.htm">Wisconsin</a>			</div>		</div>		<div class="dmenuctnr">			<a class="parent krdwrd-tag-1-100" id="root_regions_caribbean" href="caribbean.htm">Caribbean</a>			<div class="dmenu" id="menu_regions_caribbean">				<a class="first krdwrd-tag-1-100" href="anguilla.htm">Anguilla</a>				<a class="krdwrd-tag-1-100" href="antigua.htm">Antigua</a>				<a class="krdwrd-tag-1-100" href="bahamas.htm">Bahamas</a>				<a class="krdwrd-tag-1-100" href="bermuda.htm">Bermuda</a>				<a class="krdwrd-tag-1-100" href="curacao.htm">Curacao</a>				<a class="krdwrd-tag-1-100" href="dominicanrepublic.htm">Dominican Republic</a>				<a class="krdwrd-tag-1-100" href="grenada.htm">Grenada</a>				<a class="krdwrd-tag-1-100" href="jamaica.htm">Jamaica</a>				<a class="krdwrd-tag-1-100" href="grenadines.htm">St. Vincent &amp; Grenadines</a>				<a class="krdwrd-tag-1-100" href="usvirginislands.htm">US Virgin Islands</a>			</div>		</div>		<div class="dmenuctnr">			<a class="parent krdwrd-tag-1-100" id="root_regions_oceania" href="oceania.htm">Oceania</a>			<div class="dmenu" id="menu_regions_oceania">				<a class="first krdwrd-tag-1-100" href="australia.htm">Australia</a>				<a class="krdwrd-tag-1-100" href="fiji.htm">Fiji</a>				<a class="krdwrd-tag-1-100" href="frenchpolynesia.htm">French Polynesia</a>				<a class="krdwrd-tag-1-100" href="marshallislands.htm">Marshall Islands</a>				<a class="krdwrd-tag-1-100" href="newzealand.htm">New Zealand</a>				<a class="krdwrd-tag-1-100" href="papuanewguinea.htm">Papua New Guinea</a>				<a class="krdwrd-tag-1-100" href="tonga.htm">Tonga</a>				<a class="krdwrd-tag-1-100" href="vanuatu.htm">Vanuatu</a>			</div>		</div>		<div class="dmenuctnr">			<a class="parent krdwrd-tag-1-100" id="root_regions_europe" href="europe.htm">Europe</a>			<div class="dmenu" id="menu_regions_europe" style="top: -48px;">				<a class="first krdwrd-tag-1-100" href="croatia.htm">Croatia</a>				<a class="krdwrd-tag-1-100" href="estonia.htm">Estonia</a>				<a class="krdwrd-tag-1-100" href="finland.htm">Finland</a>				<a class="krdwrd-tag-1-100" href="france.htm">France</a>				<a class="krdwrd-tag-1-100" href="germany.htm">Germany</a>				<a class="krdwrd-tag-1-100" href="greece.htm">Greece</a>				<a class="krdwrd-tag-1-100" href="ireland.htm">Ireland</a>				<a class="krdwrd-tag-1-100" href="italy.htm">Italy</a>				<a class="krdwrd-tag-1-100" href="norway.htm">Norway</a>				<a class="krdwrd-tag-1-100" href="poland.htm">Poland</a>				<a class="krdwrd-tag-1-100" href="portugal.htm">Portugal</a>				<a class="krdwrd-tag-1-100" href="spain.htm">Spain</a>				<a class="krdwrd-tag-1-100" href="sweden.htm">Sweden</a>				<a class="krdwrd-tag-1-100" href="turkey.htm">Turkey</a>				<a class="krdwrd-tag-1-100" href="scotland.htm">Scotland</a>			</div>		</div>		<div class="dmenuctnr">			<a class="parent krdwrd-tag-1-100" id="root_regions_southamerica" href="southamerica.htm">South America</a>			<div class="dmenu" id="menu_regions_southamerica">				<a class="first krdwrd-tag-1-100" href="argentina.htm">Argentina</a>				<a class="krdwrd-tag-1-100" href="brazil.htm">Brazil</a>				<a class="krdwrd-tag-1-100" href="chile.htm">Chile</a>			</div>		</div>		<div class="dmenuctnr">			<a class="parent krdwrd-tag-1-100" id="root_regions_centralamerica" href="centralamerica.htm">Central America</a>			<div class="dmenu" id="menu_regions_centralamerica">				<a class="first krdwrd-tag-1-100" href="belize.htm">Belize</a>				<a class="krdwrd-tag-1-100" href="costarica.htm">Costa Rica</a>				<a class="krdwrd-tag-1-100" href="elsalvador.htm">El Salvador</a>				<a class="krdwrd-tag-1-100" href="honduras.htm">Honduras</a>				<a class="krdwrd-tag-1-100" href="nicaragua.htm">Nicaragua</a>				<a class="krdwrd-tag-1-100" href="mexico.htm">Mexico</a>				<a class="krdwrd-tag-1-100" href="panama.htm">Panama</a>			</div>		</div>		<div class="dmenuctnr">			<a class="parent krdwrd-tag-1-100" id="root_regions_asia" href="asia.htm">Asia</a>			<div class="dmenu" id="menu_regions_asia">				<a class="first krdwrd-tag-1-100" href="indonesia.htm">Indonesia</a>				<a class="krdwrd-tag-1-100" href="malaysia.htm">Malaysia</a>				<a class="krdwrd-tag-1-100" href="maldives.htm">Maldives</a>				<a class="krdwrd-tag-1-100" href="philippines.htm">Philippines</a>				<a class="krdwrd-tag-1-100" href="southkorea.htm">South Korea</a>				<a class="krdwrd-tag-1-100" href="srilanka.htm">Sri Lanka</a>				<a class="krdwrd-tag-1-100" href="thailand.htm">Thailand</a>			</div>		</div>		<div class="dmenuctnr">			<a class="parent krdwrd-tag-1-100" id="root_regions_africa" href="africa.htm">Africa</a>			<div class="dmenu" id="menu_regions_africa">				<a class="first krdwrd-tag-1-100" href="egypt.htm">Egypt</a>				<a class="krdwrd-tag-1-100" href="kenya.htm">Kenya</a>				<a class="krdwrd-tag-1-100" href="mozambique.htm">Mozambique</a>				<a class="krdwrd-tag-1-100" href="southafrica.htm">South Africa</a>				<a class="krdwrd-tag-1-100" href="tunisia.htm">Tunisia</a>				<a class="krdwrd-tag-1-100" href="uganda.htm">Uganda</a>				<a class="krdwrd-tag-1-100" href="zambia.htm">Zambia</a>			</div>		</div>	</div></div></div>
+                            <a class="button" id="root_regions" href="#" onclick="return false;"><kw class="krdwrd-tag-1-100">Region </kw><img src="images/leftpanel/arrow-menu-orange.gif" alt="&gt;"></a>
+                        </td>
+                        <td class="right">
+                            <div class="dmenuctnr">
+                                <div class="dmenu" id="menu_prices" style="top: -193px;">
+                                    <a class="first" href="sale-price-on-request.htm"><kw class="krdwrd-tag-1-100">Price on Request</kw></a>
+                                    <a href="sale-price-under-250K.htm"><kw class="krdwrd-tag-1-100">&lt; US$ 250K</kw></a>
+                                    <a href="sale-price-250K-500K.htm"><kw class="krdwrd-tag-1-100">US$ 250–500K</kw></a>
+                                    <a href="sale-price-500K-1M.htm"><kw class="krdwrd-tag-1-100">US$ 500K – 1M</kw></a>
+                                    <a href="sale-price-1M-2M.htm"><kw class="krdwrd-tag-1-100">US$ 1–2M</kw></a>
+                                    <a href="sale-price-2M-5M.htm"><kw class="krdwrd-tag-1-100">US$ 2–5M</kw></a>
+                                    <a href="sale-price-5M-10M.htm"><kw class="krdwrd-tag-1-100">US$ 5–10M</kw></a>
+                                    <a href="sale-price-over-10M.htm"><kw class="krdwrd-tag-1-100">&gt; US$ 10 Million</kw></a>
+                                </div>
+                            </div>
+                            <a class="button" id="root_prices" href="#" onclick="return false;"><kw class="krdwrd-tag-1-100">Price </kw><img src="images/leftpanel/arrow-menu-orange.gif" alt="&gt;"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left"><a class="button" onmouseover="tooltipOn('search by keyword');" onmouseout="tooltipOff();" href="./keywordsearch?sale=1"><kw class="krdwrd-tag-1-100">Keyword</kw></a></td>
+                        <td class="right"><a class="button" href="island-real-estate.htm" onmouseover="tooltipOn('search islands by type');" onmouseout="tooltipOff();"><kw class="krdwrd-tag-1-100">Type</kw></a></td>
+                    </tr>
+                    <tr>
+                        <td class="left"><a class="button" onmouseover="tooltipOn('search by interactive map');" onmouseout="tooltipOff();" onclick="popMapWin(this.href);return false;" href="main_maps_html/world_map.htm"><kw class="krdwrd-tag-1-100">Atlas</kw></a></td>
+                        <td class="right"><a class="button" href="new-sale.htm" onmouseover="tooltipOn('show the newest islands for sale');" onmouseout="tooltipOff();"><kw class="krdwrd-tag-1-100">Latest</kw></a></td>
+                    </tr>
+                </tbody></table></div>
+                <div class="switch"><a href="islandsforrent.htm"><img src="images/leftpanel/arrow-small-sale.gif" alt="&gt;"><kw class="krdwrd-tag-1-100"> Search Islands for Rent</kw></a></div>
+            </div>
+<p>
+<script language="JavaScript" type="text/javascript" src="http://www.privateislandsonline.com/openads/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.privateislandsonline.com/openads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:9&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.privateislandsonline.com/openads/adjs.php?n=877144318&amp;what=zone:9&amp;target=_blank&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://www.privateislandsonline.com/openads/adjs.php?n=745641832&amp;what=zone:9&amp;target=_blank&amp;exclude=,"></script><noscript><kw><a href="http://www.privateislandsonline.com/openads/adclick.php?n=a646b7d9" target="_blank"><img src="http://www.privateislandsonline.com/openads/adview.php?what=zone:9&n=a646b7d9" alt="" border="0"></a></kw></noscript>
+</p>            <div class="narrow">
+
+<h2 class="first"><kw class="krdwrd-tag-1-100">Popular Regions</kw></h2>
+
+<table>
+    <tbody><tr>
+        <td class="feature small">
+<script type="text/javascript">
+i = 0;
+document.write('            <a href="'+pop_regions[i].url+'"');
+if (pop_regions[i].balloon) {
+    document.write('\n              onmouseover="tooltipOn(\''+pop_regions[i].balloon+'\');"');
+    document.write('\n              onmouseout="tooltipOff();"');
+}
+document.writeln('><img');
+document.writeln('                  src="'+pop_regions[i].imgsrc+'" width="78" height="38" alt=""><br>');
+document.writeln('          '+pop_regions[i].caption+'</a>');
+</script>
+        </td>
+        <td class="feature small">
+<script type="text/javascript">
+i++;
+document.write('            <a href="'+pop_regions[i].url+'"');
+if (pop_regions[i].balloon) {
+    document.write('\n              onmouseover="tooltipOn(\''+pop_regions[i].balloon+'\');"');
+    document.write('\n              onmouseout="tooltipOff();"');
+}
+document.writeln('><img');
+document.writeln('                  src="'+pop_regions[i].imgsrc+'" width="78" height="38" alt=""><br>');
+document.writeln('          '+pop_regions[i].caption+'</a>');
+</script>
+        </td>
+        <td class="feature small last">
+<script type="text/javascript">
+i++;
+document.write('            <a href="'+pop_regions[i].url+'"');
+if (pop_regions[i].balloon) {
+    document.write('\n              onmouseover="tooltipOn(\''+pop_regions[i].balloon+'\');"');
+    document.write('\n              onmouseout="tooltipOff();"');
+}
+document.writeln('><img');
+document.writeln('                  src="'+pop_regions[i].imgsrc+'" width="78" height="38" alt=""><br>');
+document.writeln('          '+pop_regions[i].caption+'</a>');
+</script>
+    </td></tr>
+</tbody></table>
+
+            </div>
+        </div>
+        <div><img src="images/leftpanel/wave-sale.gif" alt=""></div>
+        <div class="below">
+            <div class="narrow">
+
+<p style="text-align: center;"><a href="http://www.maui-bay.com/" target="_blank"><img src="images/ads/ad-maui-bay.jpg" alt="islands for sale"></a></p>
+
+            </div>
+        </div>
+    </div>
+<!-- / left panel -->
+
+<!-- lightbox -->
+    <div id="lightbox">
+        <div id="lb_tabs">
+            <a id="lb_a_rec" class="selected" href="javascript:lbShowRec();"><kw class="krdwrd-tag-1-100">Recommended</kw></a>
+            <a id="lb_a_recent" href="javascript:lbShowRecent();"><kw class="krdwrd-tag-1-100">Recently Viewed</kw></a>
+            <a id="lb_a_favs" href="javascript:lbShowFavs();"><kw class="krdwrd-tag-1-100">My Islands</kw></a>
+        </div>
+        <div id="lb_rec" class="lightboxlayer"><!--
+--><script type="text/javascript">
+for (i = 0; i < 5; i++) {
+    document.writeln('<div class="lb_item"><a href="'+rec_islands[i].url+'"');
+    document.writeln('  onmouseover="tooltipOnLeft(\''+rec_islands[i].balloon+'\');"');
+    document.write('    onmouseout="tooltipOffLeft();"><img src="'+picUrls['sale']+rec_islands[i].imgsrc+'" alt="" width="60" height="48"></a></div>');
+}
+</script><!--
+        --></div>
+        <div id="lb_recent" class="lightboxlayer" style="display: none;"><!--
+--><script type="text/javascript">
+for (i = 0; i < 5; i++) {
+    if (recent[i]) {
+        document.writeln('<div class="lb_item"><a href="'+recent[i].url+'"');
+        document.writeln('  onmouseover="tooltipOnLeft(\''+recent[i].balloon+'\');"');
+        document.write('    onmouseout="tooltipOffLeft();"><img src="'+picUrls[recent[i].which]+recent[i].imgsrc+'" alt="" width="60" height="48"></a></div>');
+    } else {
+        document.write('<div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" width="60" height="48"></div>');
+    }
+}
+</script><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><div class="lb_item"><img src="images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div><!--
+        --></div>
+        <div id="lb_favs" class="lightboxlayer" style="display: none;">
+            <div class="lb_item" id="lb_favs_0"><img src="http://krdwrd.org/images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div>
+            <div class="lb_item" id="lb_favs_1"><img src="http://krdwrd.org/images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div>
+            <div class="lb_item" id="lb_favs_2"><img src="http://krdwrd.org/images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div>
+            <div class="lb_item" id="lb_favs_3"><img src="http://krdwrd.org/images/empty-thumb.gif" alt="(placeholder)" height="48" width="60"></div>
+            <div class="lb_item"><a class="viewAllFavs" href="favourites/" onclick="popFavsWin();return false;" onmouseover="tooltipOnLeft('view your entire island list')" onmouseout="tooltipOffLeft()"><kw class="krdwrd-tag-1-100">View All</kw></a></div>
+        </div>
+    </div>
+<!-- / lightbox -->
+
+<!-- top advert (world map) -->
+    <div id="topad">
+<a href="http://www.privateislandsmag.com/" target="_blank"><img src="images/ads/pim-lg.jpg" alt="Private Islands Magazine"></a>    </div>
+<!-- / top advert (world map) -->
+
+<!-- list signup -->
+    <div id="list-signup">
+        <form action="/phplist/?p=subscribe" method="post">
+            <input name="htmlemail" value="1" type="hidden">
+            <input name="list[2]" value="signup" type="hidden">
+            <input name="listname[2]" value="Private Islands Newsletter" type="hidden">
+            <input name="subscribe" value="1" type="hidden">
+            <input class="email" onfocus="emailInputFocus(this);" name="email" value="your@email.com" type="text">
+            <input value="Go" class="button" type="submit">
+        </form>
+        <p><kw class="krdwrd-tag-1-100">Enter your email to sign up for the Private Islands Newsletter.</kw></p>
+        <p style="text-align: right;">
+            <a href="island-newsletter.htm"><kw class="krdwrd-tag-1-100">Newsletter Archive</kw></a><kw class="krdwrd-tag-1-100"> |
+            </kw><a href="javascript:listSignupToggle();"><kw class="krdwrd-tag-1-100">close ×</kw></a>
+        </p>
+    </div>
+<!-- / list signup -->
+
+<!-- bottom left list signup -->
+    <div id="bottom-list-signup">
+        <div><img src="images/leftpanel/wave-bottom-sale.gif" alt=""></div>
+        <div class="form">
+            <h2><kw class="krdwrd-tag-1-100">Newsletter Sign-up</kw></h2>
+            <form action="/phplist/?p=subscribe" method="post">
+                <input name="htmlemail" value="1" type="hidden">
+                <input name="list[2]" value="signup" type="hidden">
+                <input name="listname[2]" value="Private Islands Newsletter" type="hidden">
+                <input name="subscribe" value="1" type="hidden">
+                <input class="text email" onfocus="emailInputFocus(this);" name="email" value="your@email.com" type="text">
+                <input value="Go" class="button" type="submit">
+            </form>
+            <div class="graphic"></div>
+            <p><kw class="krdwrd-tag-1-100">
+                Enter your email to sign up for the Private Islands Newsletter.</kw><br>
+                <a href="newsletter.htm"><kw class="krdwrd-tag-1-100">Learn more »</kw></a>
+            </p>
+        </div>
+    </div>
+<!-- / bottom left list signup -->
+
+</div>
+
+<!-- tooltips -->
+<table id="tooltip">
+    <tbody><tr>
+        <td class="topleft" id="tooltip_text"></td>
+        <td class="topright"></td>
+    </tr>
+    <tr>
+        <td class="bottomleft"></td>
+        <td class="bottomright"></td>
+    </tr>
+</tbody></table>
+<table id="tooltip_left">
+    <tbody><tr>
+        <td class="topleft"></td>
+        <td class="topright" id="tooltip_left_text"></td>
+    </tr>
+    <tr>
+        <td class="bottomleft"></td>
+        <td class="bottomright"></td>
+    </tr>
+</tbody></table>
+<!-- / tooltips -->
+
+<!-- catfish -->
+<div id="catfish"></div>
+<!-- / catfish -->
+
+</body>

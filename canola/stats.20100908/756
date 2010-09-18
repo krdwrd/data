@@ -1,0 +1,541 @@
+<head><base href="http://www.asiasociety.org/speeches/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Asia Society: Speeches, Carl J. Green, Senior Representative, Hitachi Corporate Office, DC</title><!--Legacy Content Metadata-->
+
+  
+    
+
+    
+    
+    <meta name="GENERATOR" content="Visual Page 2.0 for Windows"><!--/Legacy Content Metadata--><!-- Global Stylesheet -->
+    
+
+    
+    <link href="/css/asia.css" rel="stylesheet" type="text/css"><!--Global TopNav Scripts-->
+
+    
+    <script language="javascript" src="/js/rollovers.js"></script>
+    <script language="javascript" src="/js/layers.js"></script>
+    <script language="JavaScript" src="/js/random.js"></script>
+    <script language="JavaScript" src="/js/random_pic.js"></script>
+
+    
+
+    
+
+  <link href="/css/asia.css" rel="stylesheet" type="text/css"></head><body onload="imgSetup()">
+    <!-- BEGIN topNav -->
+    
+
+	
+    <script language="javascript" src="/js/rollovers.js"></script>
+    <script language="javascript" src="/js/layers.js"></script>
+    
+
+
+
+  <table id="topnav" align="center" bgcolor="#edf0f3" border="0" cellpadding="0" cellspacing="0" width="750">
+    <tbody><tr> 
+      <td bgcolor="#1a82ac">
+        <table border="0" cellpadding="0" cellspacing="0" width="750">
+          <tbody><tr> 
+            
+          <td><a href="/index.html"><img src="/images/nav/logo.gif" alt="Asia Society" border="0" width="160" height="100"></a></td>
+            <td>
+              <table bgcolor="#063692" border="0" cellpadding="0" cellspacing="0" width="590">
+                <tbody><tr>
+                  <td>
+                    <form>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tbody><tr>
+                        <td>
+                          <select class="dropdown" onchange="window.location=this.options[this.selectedIndex].value||window.location">
+                            <option class="krdwrd-tag-1-90">Our Sites</option>
+                            <option class="krdwrd-tag-1-90">- - - - - - - -</option>
+                            <option class="krdwrd-tag-1-90" value="http://www.asiasociety.org">Asia Society</option>
+                            <option class="krdwrd-tag-1-90" value="http://www.asiasource.org">AsiaSource</option>
+                            <option class="krdwrd-tag-1-90" value="http://www.asiafood.org">AsiaFood</option>
+                            <option class="krdwrd-tag-1-90" value="http://www.asiasocietymuseum.com/">AsiaSocietyMuseum</option>
+                            <option class="krdwrd-tag-1-90" value="http://www.internationaled.org">InternationalEd</option>
+                            <option class="krdwrd-tag-1-90" value="http://www.askasia.org">AskAsia</option>
+                          </select>
+                        </td>
+                        <td><img src="/images/nav/lion.gif" align="right" width="290" height="40"></td>
+                      </tr>
+                    </tbody></table>
+                    </form>
+                  </td>
+                </tr>
+                <tr> 
+                  <td>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tbody><tr>
+                        <td><a href="/" onmouseover="layerHome()"><img alt="HOME" src="/images/nav/home.gif" hsrc="/images/nav/home_o.gif" border="0" width="55" height="30"></a></td>
+                        
+                      <td><a href="/events/" onmouseover="layerCalendar()"><img alt="CALENDAR" src="/images/nav/calendar.gif" hsrc="/images/nav/calendar_o.gif" border="0" width="84" height="30"></a></td>
+                        <td><a href="/resources/" onmouseover="layerResources()"><img alt="RESOURCES" src="/images/nav/resources_h.gif" hsrc="/images/nav/resources_o.gif" border="0" width="84" height="30"></a></td>
+                        <td><a href="/support/" onmouseover="layerSupport()"><img alt="SUPPORT" src="/images/nav/support.gif" hsrc="/images/nav/support_o.gif" border="0" width="77" height="30"></a></td>
+                        <td><a href="/about/" onmouseover="layerAbout()"><img alt="ABOUT" src="/images/nav/about.gif" hsrc="/images/nav/about_o.gif" border="0" width="61" height="30"></a></td>
+                        <td><a href="/visit/" onmouseover="layerVisit()"><img alt="VISIT" src="/images/nav/visit.gif" hsrc="/images/nav/visit_o.gif" border="0" width="53" height="30"></a></td>
+                      <td><a href="/asiastore/" onmouseover="layerAsiastore()"><img alt="ASIASTORE" src="/images/nav/asiastore.gif" hsrc="/images/nav/asiastore_o.gif" border="0" width="73" height="30"></a></td>
+                        <td><img alt="SEARCH" src="/images/nav/no-search.gif" border="0" width="67" height="30"></td>
+                        <td><img src="/images/nav/empty.gif" width="36" height="30"></td>
+                      </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+                <tr> 
+                  <td align="right" bgcolor="#1a82ac" height="30">
+                    <div id="cal" style="position: absolute; visibility: hidden;"> 
+                      <table border="0" cellpadding="0" cellspacing="0" width="590">
+                        <tbody><tr> 
+                          <td width="1"><a href="#" onmouseover="MM_showHideLayers('cal','','hide')"><img src="/images/nav/space.gif" border="0" width="1" height="30"></a></td>
+                          <td class="super" bgcolor="#fe4110">
+                            <a href="/events/calendar.pl?filter_category=1"><kw class="krdwrd-tag-1-90">Exhibitions</kw></a> 
+                            &nbsp; <a href="/events/calendar.pl?filter_category=2"><kw class="krdwrd-tag-1-90">Social Issues</kw></a> 
+                            &nbsp; <a href="/events/calendar.pl?filter_category=3"><kw class="krdwrd-tag-1-90">Culture</kw></a> 
+                            &nbsp; <a href="/events/calendar.pl?filter_category=4"><kw class="krdwrd-tag-1-90">Performing Arts</kw></a> 
+                            &nbsp; <a href="/events/calendar.pl?filter_category=5"><kw class="krdwrd-tag-1-90">Policy Issues</kw></a> 
+                            &nbsp; <a href="/events/calendar.pl?filter_category=6"><kw class="krdwrd-tag-1-90">Business</kw></a> 
+                            &nbsp; <a href="/events/calendar.pl?filter_category=7"><kw class="krdwrd-tag-1-90">Special Events</kw></a>
+                          </td>
+                        </tr>
+                        <tr> 
+                          <td colspan="2"><a href="#" onmouseover="MM_showHideLayers('cal','','hide')"><img src="/images/nav/space.gif" border="0" width="544" height="10"></a></td>
+                        </tr>
+                      </tbody></table>
+                    </div>
+                    <div id="super" style="position: absolute; visibility: hidden;"> 
+                      <table border="0" cellpadding="0" cellspacing="0" width="590">
+                        <tbody><tr> 
+                          <td width="139"><a href="#" onmouseover="MM_showHideLayers('super','','hide')"><img src="/images/nav/space.gif" border="0" width="10" height="30"></a></td>
+                          <td class="super" bgcolor="#fe4110">
+                            <a href="/speeches/index.html"><kw class="krdwrd-tag-1-90">Speeches</kw></a> 
+                            &nbsp; <a href="http://www.asiasource.org/news/special_reports/intarchive.cfm"><kw class="krdwrd-tag-1-90">Interviews</kw></a>
+                            &nbsp; <a href="/podcasts/subscribe.html"><kw class="krdwrd-tag-1-90">Podcasts</kw></a>
+                            &nbsp; <a href="/publications/"><kw class="krdwrd-tag-1-90">Publications</kw></a> 
+                            &nbsp; <a href="/arts/"><kw class="krdwrd-tag-1-90">Art Collection</kw></a> 
+                            &nbsp; <a href="http://www.internationaled.org/education"><kw class="krdwrd-tag-1-90">For Educators</kw></a>
+                          </td>
+                        </tr>
+                        <tr> 
+                          <td colspan="2"><a href="#" onmouseover="MM_showHideLayers('super','','hide')"><img src="/images/nav/space.gif" border="0" width="460" height="10"></a></td>
+                        </tr>
+                      </tbody></table>
+                    </div>
+                    <div id="supp" style="position: absolute; visibility: hidden;"> 
+                      <table border="0" cellpadding="0" cellspacing="0" width="590">
+                        <tbody><tr> 
+                          <td width="223"><a href="#" onmouseover="MM_showHideLayers('supp','','hide')"><img src="/images/nav/space.gif" border="0" width="10" height="30"></a></td>
+                          <td class="super" bgcolor="#fe4110">
+                            <a href="/membership/"><kw class="krdwrd-tag-1-90">Membership</kw></a> 
+                            &nbsp; <a href="/membership/patron.html"><kw class="krdwrd-tag-1-90">Patron Groups</kw></a> 
+                            &nbsp; <a href="/specialevents/"><kw class="krdwrd-tag-1-90">Special Events</kw></a> 
+                            &nbsp; <a href="/support/corporate/"><kw class="krdwrd-tag-1-90">Corporate</kw></a>
+                                                  </td>
+                        </tr>
+                        <tr> 
+                          <td colspan="2"><a href="#" onmouseover="MM_showHideLayers('supp','','hide')"><img src="/images/nav/space.gif" border="0" width="375" height="10"></a></td>
+                        </tr>
+                      </tbody></table>
+                    </div>
+                    
+                    <div id="#searbox-nav" style="text-align: right; padding-right: 6px;">
+                      <!-- Begin: Google CSE Search Box (Nav-Menu variant) -->
+                      <form action="/search/index.html" id="searchbox_017048370776599344699:-muw8qwwd9m" style="margin-top: 5px;">
+                        <input name="cx" value="017048370776599344699:-muw8qwwd9m" type="hidden">
+                        <input name="cof" value="FORID:11" type="hidden">
+
+                        <input style="background-color: rgb(255, 255, 255); background-image: url(&quot;http://www.google.com/coop/intl/en/images/google_custom_search_watermark.gif&quot;); background-repeat: no-repeat; background-attachment: scroll; background-position: left center; -moz-background-size: auto auto; vertical-align: top; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" name="q" size="22" type="text">
+                        <input style="vertical-align: top; margin-top: 1px;" src="/images/nav/search-submit.gif" alt="Search" width="67" height="18" type="image">
+
+                        <!-- input type="submit" name="sa" value="Search" / -->
+                      </form>
+                      <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_017048370776599344699:-muw8qwwd9m"></script>
+                      <!-- End: Google CSE Search Box (Nav-Menu variant) -->
+                    </div>
+    
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr> 
+      <td><img src="/images/nav/space.gif" width="1" height="1"></td>
+    </tr>
+  </tbody></table>
+
+
+
+<!-- END topNav -->
+    <table align="center" bgcolor="#edf0f3" border="0" cellpadding="0" cellspacing="0" width="750">
+      <tbody><tr> 
+        <td>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+              <td id="leftcolumn" bgcolor="#f8e616" width="160">
+                <!-- BEGIN leftNav -->
+                        <img alt="Resources" src="/images/nav/sub_rsrc.gif" width="160" height="45"> 
+                  <table class="subnav" border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr> 
+                      <td><p><span class="title"><a href="/speeches/index.html"><kw class="krdwrd-tag-1-100">Speeches</kw></a></span><br>
+                          <a href="/speeches/genasia.html"><kw class="krdwrd-tag-1-100">General Asia</kw></a><br>
+                          <a href="/speeches/australasia.html"><kw class="krdwrd-tag-1-100">Austral Asia</kw></a><br>
+                          <a href="/speeches/central.html"><kw class="krdwrd-tag-1-100">Central Asia</kw></a><br>
+                          <a href="/speeches/eastasia.html"><kw class="krdwrd-tag-1-100">East Asia</kw></a><br>
+                          <a href="/speeches/southasia.html"><kw class="krdwrd-tag-1-100">South Asia</kw></a><br>
+                          <a href="/speeches/southeastasia.html"><kw class="krdwrd-tag-1-100">Southeast Asia</kw></a></p>
+            
+                        <p><span class="title"><a href="http://www.asiasource.org/news/special_reports/intarchive.cfm"><kw class="krdwrd-tag-1-100">Interviews</kw></a></span><br>
+						  <a href="http://www.asiasource.org/news/special_reports/intarchive.cfm#gen"><kw class="krdwrd-tag-1-100">General 
+                          Asia</kw></a><br>
+						  <a href="http://www.asiasource.org/news/special_reports/intarchive.cfm#ca"><kw class="krdwrd-tag-1-100">Central 
+                          Asia</kw></a><br>
+                          <a href="http://www.asiasource.org/news/special_reports/intarchive.cfm#ea"><kw class="krdwrd-tag-1-100">East 
+                          Asia</kw><br>
+                          </a><a href="http://www.asiasource.org/news/special_reports/intarchive.cfm#sa"><kw class="krdwrd-tag-1-100">South 
+                          Asia</kw></a><br>
+                          <a href="http://www.asiasource.org/news/special_reports/intarchive.cfm#sea"><kw class="krdwrd-tag-1-100">Southeast 
+                          Asia</kw></a><br>
+                          <a href="http://www.asiasource.org/news/special_reports/intarchive.cfm#aa"><kw class="krdwrd-tag-1-100">Asian 
+                          American</kw></a></p>
+						  
+						   <p><span class="title"><a href="/podcasts/subscribe.html"><kw class="krdwrd-tag-1-100">Podcasts</kw></a></span></p>
+						   <p><span class="title"><a href="http://www.asiasociety.org/resources/video.html"><kw class="krdwrd-tag-1-100">Videos</kw></a></span></p>
+            			  
+                        <p><span class="title"><a href="/publications/"><kw class="krdwrd-tag-1-100">Publications</kw></a></span><br>
+                          <a href="/publications/asianupdates.html"><kw class="krdwrd-tag-1-100">Asian Updates</kw></a><br>
+                          <a href="/publications/conferences.html"><kw class="krdwrd-tag-1-100">Conferences</kw></a><br>
+                          <a href="http://www.internationaled.org/publications.htm"><kw class="krdwrd-tag-1-100">Education</kw></a><br>
+                          <a href="http://www.asiastore.org/exhibition-catalogues.html"><kw class="krdwrd-tag-1-100">Exhibition Catalogues</kw></a><br>
+                          <a href="/publications/guides.html"><kw class="krdwrd-tag-1-100">Cultural Guides</kw></a><br>
+                          <a href="/publications/asian_american.html"><kw class="krdwrd-tag-1-100">Asian American</kw></a></p>
+						  
+						  <p><span class="title"><a href="/arts/"><kw class="krdwrd-tag-1-100">Asia Society Museum</kw></a></span><br>
+						  <a href="http://www.asiasocietymuseum.com/"><kw class="krdwrd-tag-1-100">Rockefeller Collection</kw></a><br>
+						  <a href="/arts/contemporary.html"><kw class="krdwrd-tag-1-100">Contemporary Art Collection</kw></a><br>
+						  <a href="/arts/exhibitions.html"><kw class="krdwrd-tag-1-100">Past Exhibitions</kw></a></p>
+						  
+						  <p><span class="title"><a href="/arts/aslive.html"><kw class="krdwrd-tag-1-100">Performing Arts</kw></a></span></p>
+
+                        <p><span class="title"><a href="http://www.internationaled.org/education"><kw class="krdwrd-tag-1-100">For Educators</kw></a></span><br>
+                          <a href="http://www.askasia.org"><kw class="krdwrd-tag-1-100">AskAsia.org</kw></a><br>
+                          <a href="http://www.internationaled.org"><kw class="krdwrd-tag-1-100">InternationalEd.org</kw></a>
+                        </p>
+                     </td>
+                  </tr>
+                </tbody></table>
+                <!-- END leftNav -->
+              </td>
+              <td id="maincontent" class="mainpadding">
+                <!-- BEGIN: MainContent -->
+                <p>
+                  
+<!--EXTRACTED-->
+
+<!--CONTENT_PART 1-->
+
+<!-- #BeginEditable "content" -->
+									</p><p>
+									</p><p align="center"><b><font face="Geneva, Arial"><kw class="krdwrd-tag-2-80">"Japan: 'The Rule of Law Without Lawyers' Reconsidered"</kw></font></b><font face="Geneva, Arial"><br>
+									</font><font face="Geneva, Arial" size="1"><br>
+									</font><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-2-60">Remarks by Carl J. Green</kw><br><kw class="krdwrd-tag-2-60">
+									Senior Representative</kw><br><kw class="krdwrd-tag-2-60">
+									Hitachi Corporate Office, DC</kw></font></p>
+									<p align="right"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1-70">Washington D.C., March 14, 2001</kw></font></p>
+									<blockquote align="CENTER">
+										<p><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">Good Morning. It is a pleasure to see such a distinguished audience at this
+										early hour for a topic as arcane as the Rule of Law in Japan. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										I have been instructed not to put you back to sleep with too much detail. That suits me since I have been away
+										from day to day involvement with this subject for some time. But perhaps that distance will make it possible to
+										give you a somewhat broader overview. Needless to say, the views I shall express are my own and in no way should
+										they be taken as representing the views of my employer. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Actually the topic of the rule of law is not quite as arcane as it might, at first, appear. The issues involved
+										in the current debate about the rule of law of law go close to the heart of what ails Japanese politics and the
+										Japanese economy. The </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">incomplete</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">
+										development of the rule of law in Japan is part and parcel of a system that has tried to achieve its ends through
+										paternalistic guidance and control rather than through providing scope for individual autonomy and creativity.
+										The thrust behind current efforts to reform the legal system in Japan, is as a former Minister of Justice put it,
+										to transform an "advance-control" (or prior restraint) system into a "post-check" (post facto
+										review) system. The goal of that effort is to release individual creativity and vitality. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										While I would like to focus on what is happening today, I think the only way to understand that properly is against
+										the historical background. I propose to review that history briefly and then examine the system that resulted from
+										it, especially in the economic area, in relation to the challenges of today's globalization revolution. How are
+										the Japanese responding to this revolution and what are the implications for Japan and for those who do business
+										with Japan?</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Let me begin with a caveat: I am an American lawyer and naturally tend to look at law in Japan with an American
+										perspective. At the same time I am very conscious of the fact that our highly litigious country, with its nearly
+										one million lawyer population, is at least as exceptional in its way as is Japan, with a mere 17,000 lawyers. Most
+										countries of Europe have under a hundred thousand lawyers (Germany being the exception with 110,000) and are probably
+										much better points of comparison for Japan. We should try to avoid thinking of ourselves as representing a norm.
+										</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										The first thing to be said about the rule of law in Japan is that it is hardly an indigenous concept. Before the
+										Meiji restoration in the latter part of the Nineteenth Century, there were laws in Japan, to be sure, but law was
+										far from being considered a central organizing principle for society. The "ideology," so-to speak, of
+										pre-modern Japan was built around Confucianism, imported from China in the 6th Century. Confucius and his followers
+										had little interest in law, considering it suitable only for dealing with the lower orders of humanity. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										The core of Confucianism was its focus on achieving social harmony based on hierarchical, non- reciprocal relationships.
+										The role of the superior was to educate the inferior in righteous conduct through moral example and benevolence.
+										The role of the inferior was obedience and loyalty. Punishment was reserved only for those who were not responsive
+										to benevolent rule. The righteous conduct that the superior taught came from the example of his own teachers and
+										ancestors as well as from the study of classic works. The thing about human relationships in the Confucian system
+										is that they are specific relationships- master and subject, husband and wife, elder brother-younger brother, etc.
+										Confucius and his followers had no use for universal principles equally binding on all people, which after all,
+										is what the rule of law is all about. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										No one in Japan today speaks much about Confucianism, but anyone who has observed Japanese officials dealing with
+										Japanese citizens will recognize the legacy of Confucianism in the spirit of benevolent paternalism shown by the
+										officials and the extravagant respect for authority shown by most citizens. Without this background, it would be
+										hard to imagine how "administrative guidance" could have become the principal mechanism for Japan's economic
+										governance. More about that in a moment.</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Japan's adoption of Western law came about as a result of </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-90">gaiatsu</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">, i.e. foreign pressure. After Commodore Perry showed up in Tokyo Bay with his Black
+										Ships, Japan was under constant threat of suffering the same humiliation as China in having to accept the extraterritorial
+										jurisdiction of Western imperial nations. To fend off extraterritoriality, Japan needed not only a strong army
+										but also a "modern" code of laws. Only by demonstrating that it had such a system of its own would Japan
+										be able to terminate the "unequal treaties" it signed with Western countries. Over the last decades of
+										the 19th Century Japanese leaders studied Western legal systems to find a suitable model for their new legal institutions.
+										</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										For some time, by the way, the strongest faction among the Meiji innovators favored adopting English law. Had they
+										succeeded, perhaps Japan's modern history would have been quite different. Alas, however, English common law is
+										not codified and hence not easy for others to adopt. In the end, the Japanese turned principally to German legal
+										codes, which, to complicate things, were rendered into Japanese under the direction of a Frenchman. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										The fact that Japan's legal system is not an indigenous development but rather something adopted in order to stave
+										off extraterritoriality goes far to explain Japanese attitudes toward the law even today. Japanese remain highly
+										ambivalent about the law. It is theirs and not theirs. It is something to have, but not necessarily something to
+										use. It is important for one's dealings with foreigners, but an awkward intrusion into traditional domestic relationships.
+										A popular expression analogizes the law to a sacred sword, to be kept and occasionally displayed, but never used.</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										In order to establish a Western-style legal system, the Japanese had to invent words for concepts that were new
+										to them. They had no trouble with the concept of duties, which already existed, but for "rights," they
+										needed to make up the word "kenri." Still the new system that was established was in the authoritarian
+										German tradition. When we speak of the "rule of law" today, we generally mean a system in which law acts
+										as a constraint on those who govern as well as on those who are governed. Under the Meiji Constitution, there were
+										no such constraints on the powers of government. The system could be described as representing, at most, rule </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">by</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100"> law but certainly nothing in the
+										nature of the rule </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">of</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">
+										law.</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										The modern concept of "rule of law" was brought to Japan courtesy of General MacArthur and the Allied
+										Occupation. The new Constitution, drafted by MacArthur's GHQ, conferred a cornucopia of human rights, including
+										all of those familiar to Americans, plus the right to work, the right to education and even the right to "wholesome
+										and cultured living." The Occupation authorities also imported many other elements of American law, including
+										antitrust law, labor law, securities regulation and the income tax. Under its current Constitution Japan has clearly
+										taken its place high in the ranks of free and democratic countries. Still, it is far easier to proclaim the rule
+										of law than it is to change views and practices imbedded in centuries of tradition, and in many ways the rule of
+										law is an unachieved vision. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Japanese reluctance to use the law is reinforced by a system in which the number of lawyers is kept extraordinarily
+										low- - a nation of 126 million has about as many lawyers as K Street, or one for every 7325 citizens. In the United
+										States, the ratio is 1 for 288 citizens and in France, the European country with the lowest ratio, it is 1 for
+										every 1634 citizens. Japan has some 2900 judges, 2000 fewer than France -- in Japan, there is one judge for every
+										43,000 people, compared to one for every 12,000 in France. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Given these numbers, it is not surprising that access to courts in Japan is limited and justice is slow. It is
+										made even slower by the lack of consecutive day trials - -most trial are spread out over months or years of one-day
+										hearings, - - by the absence of discovery procedures, and by the lack of effective measures for enforcing judgments
+										in many cases, partly because it is easy to hide assets from judgment creditors. As a result of these constraints,
+										the number of civil cases litigated in Japan is extraordinarily low. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										There are American legal scholars who argue that cultural or historical explanations for the paucity of litigation
+										in Japan are bunk and that it is all to be explained by restrictive government policies and the protectionism of
+										Japan's legal associations. I find this sort of explanation to be question-begging. The fact that such restrictions
+										are accepted or allowed to continue by the Japanese public is itself a reflection of Japanese history and culture.
+										One can push the cultural issues back a level, but you cannot eliminate them. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										A key factor in the restriction of the numbers of judges and lawyers is the training bottleneck. All receive their
+										training in one institute. After finishing undergraduate degrees, candidates for the bench or bar sit for an exam
+										that determines admission to the legal training institute. Within the institute, there are separate training tracks
+										for judges, lawyers and prosecutors. The pass rate for entry to the institute is extraordinarily low, less than
+										3%, and most who enter do so only after taking the exam several years running. Over the past thirty-five years
+										the number of trainees has gradually been expanded from 500 a year in 1965 to nearly 1000 a year today.</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										It goes without saying that those who pass the examination have done little with their lives except cram. As a
+										result they may know the law but know little about life or business. Not surprisingly judicial decisions are widely
+										thought to be overly theoretical or impractical. With their numbers so few and their training so limiting, it is
+										also not surprising that lawyers are used sparingly in Japan. An American lawyer is not just a litigator; he or
+										she is also frequently a personal advisor, a business consultant, and a key participant in business planning and
+										in the negotiation of agreements. The Japanese </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">bengoshi</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100"> is basically a litigator. Some few are involved in the international business process,
+										but usually in a very limited way. Whereas the American lawyer is likely to be part of a business deal from early
+										stages through completion, most Japanese international lawyers tell tales of being handed voluminous contracts
+										at 10 in the morning and asked to determine if they are legal in time for a signature ceremony at noon.</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										I might note that, in addition to </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">bengoshi</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">, there are various other professionals involved in specialized areas such as patent agents,
+										tax agents, and judicial scriveners. There are scholars who think that they should be counted as lawyers and that
+										our view of Japan as a grossly under-lawyered society should be revised. I disagree. These narrow specialists are
+										engaged merely in facilitation functions and do not have the authority or standing of a lawyer to challenge bureaucratic
+										actions. Moreover, if you are comparing the number of lawyers in Japan and the U.S., and if you add these kinds
+										of specialists to the left hand side of the equation, I think you would have to add H. &amp; R. Block employees
+										and numerous paralegals to the U.S. side of the equation, leaving the comparison little changed. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										With the growth of international business, many large Japanese firms have developed sizable legal departments staffed
+										not with</kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100"> bengoshi</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">
+										but with graduates of university legal departments. (The study of law is one of the most popular and prestigious
+										undergraduate majors). These legally trained people do play a significant role in business in drafting agreements,
+										backstopping litigation and conducting liaison with outside counsel. Does this mean that Japanese companies have
+										come to do business in a more international way? Well, yes and no. They key point is that these corporate legal
+										departments generally direct nearly all of their attention to international business affairs. Domestic business
+										still tends to be done in more or less traditional ways with little reliance on the written word. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Over the course of the 1980's, USTR led the charge to allow American and other foreign lawyers to practice in Japan
+										as foreign legal consultants or </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">gaikokuho jimubengoshi</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">, or </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">gaiben</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100"> for short. I was one of the first group to hit the beaches early in 1987. Much ink has been
+										spilled on the subject of</kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100"> gaiben</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">
+										and expanding their practice opportunities remains a priority for the American Chamber of Commerce (now headed
+										by a distinguished </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">gaiben</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">,
+										Robert Grondine) and occasionally for the U.S. Government. Overall, however, I think that </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">gaiben</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100"> represent something of a sideshow in
+										relation to the broader issues at hand and have had very little impact on the overall legal picture in Japan. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										As I said a moment ago, traditional business in Japan has little use for lawyers. Compared with business contracts
+										in Europe or the United States, those in Japan are typically short and vague. Many of the key elements of a business
+										deal are left for later determination as circumstances develop. In lieu of provisions for specifying how conflicts
+										are to be resolved, the parties often agree just to negotiate their differences in good faith. Because Japanese
+										like to think of their business deals in terms of human relationships, they like to work out problems as they arise
+										rather than negotiate a document that purports to cover all possible contingencies. There is a gradual movement
+										toward the use of more Western-style written contracts among certain Japanese businesses, but that is still the
+										exception rather than the rule.</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Reliance on relationships rather than legalities as the basis for business has much to be said for it and much
+										was said over the course of the 1980s by those who urged us to emulate the Japanese system. But while a personal
+										relationship may be stronger than law as between the parties to a business relationship, it gives third parties
+										nothing to hold onto. One can't securitize personal relationships. A banker may be happy to lend to friends, but
+										no one wants to buy bonds or notes on an open market without enforceable legal protections. In this respect, Japan's
+										approach to contracts has retarded the growth of modern financial markets and thus inhibited venture capital and
+										entrepreneurism. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Like contracts, legislation also tends to be terse and general. Especially in the economic sphere, broad discretion
+										is left in the hands of bureaucrats to interpret and apply the law. While some bureaucratic standards are set forth
+										in regulations, Japan has a long tradition of unpublished rules, or </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">naiki</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">, that may go far beyond written laws and regulations. Typically, government officials
+										do not make formal decisions; they merely offer administrative guidance, in the form of recommendations or advice.
+										Compliance with the guidance is, in theory, voluntary. Noncompliance, however, is rare both because of the Confucian
+										tradition and the various ways in which government officials can exercise leverage on the uncooperative. Moreover,
+										bureaucrats like to issue their guidance orally rather than in writing. These exercises of discretion, using secret
+										rules, issued orally, and deemed legally not binding are all but impossible to challenge in court. Several years
+										ago, an administrative procedures act was passed that requires bureaucrats to issue administrative guidance in
+										writing, if the recipient demands it. Since such a request risks incurring bureaucratic displeasure, it should
+										come as no surprise that that reform has not been particularly effective. More recently, the Cabinet decided that
+										further steps should be taken toward strict enforcement of the rules, though what that means is somewhat difficult
+										to discern.</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										It is customary to say that Japan must deregulate its economy. But that is not quite right. If by regulations we
+										mean transparent, publicly available rules of general application, then Japan needs </kw></font><i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">more
+										</kw></font></i><font face="Geneva, Arial" size="2"><kw class="krdwrd-tag-3-100">regulations, not fewer. What Japan needs less of is bureaucratic
+										control. It is only through strengthening laws and regulations, as a constraint on the governing as well as the
+										governed, that the economy can be free to operate in accordance with market principles. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										In fairness, I should point out that administrative guidance is not what it used to be. A generation ago, Japan
+										operated on the principle that everything is prohibited except that which is expressly permitted. This meant that
+										government approvals were needed for nearly everything that businessmen did, whether it was signing international
+										contracts, importing, acquiring foreign currency or any of a vast number of things. Authorities often declined
+										to receive applications they didn't like and could simply leave applicants in limbo with no legal recourse. Or
+										they could impose various conditions before granting applications. Over time Japan has relaxed many of those requirements
+										for bureaucratic approvals and moved closer to a system of allowing everything except that which is specifically
+										prohibited. But there is still plenty of room for progress. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										In the past, foreign investors had to jump through a complicated array of hoops and hurdles to do business in Japan.
+										Today the Japanese Government is much more positively disposed toward foreign investment and complaints of unfair
+										treatment are far less frequent. Nevertheless, the lack of transparency and predictability in the Japanese process
+										places a special burden on foreign investors, because of their very different expectations. The foreign investment
+										community has therefore been in the forefront in pressing for a more effective rule of law. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Until the mid-1990's most Japanese felt that their peculiar social and economic model was highly successful, despite
+										whatever grumbling might be heard from some about the rule of law or a more participatory democracy. While it was
+										necessary for the Government to make some concessions to overseas opinion and complaints, the brilliant achievements
+										of Japanese industry and of government-business collaboration meant that mainstream opinion rejected fundamental
+										change. Foreign businesses in Japan might present something of an irritant to the Japanese system, since foreign
+										businesses and bureaucrats did not know how to deal with each other, but it was minor and eventually most foreign
+										businesses learned to adapt to Japanese business norms. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										But now Japan finds itself in a totally new situation. The country has been mired in low growth for a decade. Benevolent
+										paternalism, which worked so well in marshalling the troops for success in manufacturing industries, turns out
+										to be a bust when it comes to unleashing the entrepreneurism or creative juices of the Japanese people. This is
+										a major problem for Japan in today's new economy. Globalization poses an even greater problem. It exposes the Achilles
+										heel of the Japanese economy, namely the inward orientation of most of Japan's industrial establishment. For Japan
+										to participate fully in the global economy it needs not just Carlos Ghosn of Renault/Nissan but a whole host of
+										international business leaders able to help reshape the Japanese economy for global competitiveness. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										If the Meiji Restoration and the American Occupation can be described as revolutionary changes, the new challenges
+										confronting Japan call for a third revolution, one in which the rule of law constitutes a key element. How has
+										Japan reacted? At one level, there is a kind of revolution underway in the way that Japanese think about their
+										system. No one holds up the Japanese model anymore as a formula for success or as a system to be emulated abroad.
+										The image of wise and incorruptible bureaucratic government has been completely destroyed by well-publicized mistakes
+										and the seemingly endless string of scandals that have punctuated Japan's recent history. There is a new readiness
+										to question nearly all of Japan's political and economic institutions. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										At the practical level, however, things move much more slowly. I see three basic reasons for this. Japan's lack
+										of political leadership is one, but only one of the reasons. A more basic barrier is simply the strength of entrenched
+										interest groups that would be threatened by a more transparent system. A third reason relates to timing: despite
+										low growth, Japan is still doing pretty well. The standard of living remains high, income distribution is fairly
+										even and crime is low. The Japanese people do not yet feel a need for radical change. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Against this background of new thinking and old realities, we see the Japanese Government undertaking numerous
+										initiatives with sweeping objectives but producing only the most modest proposals for change. Thus, in order to
+										"revitalize" Japan, the Government has launched programs of political reform, administrative reform,
+										deregulation, and judicial reform. The Judicial Reform Council, established in 1999 is charged with considering
+										fundamental changes to the legal system. While the express goal of the reform is to respond to Japanese social
+										needs, the element of foreign pressure is clearly important. In fact the Council explains its mission by noting
+										that the international community is demanding that Japan become "more rule oriented, transparent, and open."</kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Among the issues being debated by the Council are further gradual expansion of the number of lawyers and judges,
+										a change in the training system that would include the creation of graduate law schools along American lines, and
+										the possibility of appointing mid-career lawyers to the judiciary so that they can bring a wider range of life
+										experiences to their judicial functions. The Council is also looking at more exotic issues like the introduction
+										of a jury system, though that particular change appears unlikely. The Judicial Reform Council is scheduled to present
+										its findings and recommendations to the Diet by July of this year. We shall soon see what they conclude. I would
+										expect the results to be positive but marginal. </kw><br>
+										<br><kw class="krdwrd-tag-3-100">
+										Whether Japan's revolution in slow-motion will be adequate to meet the challenges of a rapidly changing world,
+										or the aspirations of the Japanese people themselves, is an open question. In the long run I am cautiously optimistic
+										that Japan will rise to the challenge as it has to the other challenges it has faced since the arrival of Commodore
+										Perry. But it will not be easy. And the changes that we are likely to see in the near future represent just the
+										beginning and not the end of a long process. </kw><br>
+										</font>
+									</p></blockquote>
+									<p><!-- #EndEditable -->
+<!--/EXTRACTED-->
+
+                </p>
+                <!-- END: MainContent -->
+              </td>
+              
+              <td id="rightcolumn" class="columnpadding" background="/images/shared/table_line.gif">
+                <!-- BEGIN Optional RightColumn -->
+                
+                <!-- END Optional RightColumn -->
+              </td>
+
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+      <tr> 
+        <td><img src="/images/shared/space.gif" width="1" height="1"></td>
+      </tr>
+    </tbody></table>
+    <!-- BEGIN footer -->
+        <table id="footer" align="center" bgcolor="#edf0f3" border="0" cellpadding="0" cellspacing="0" width="750">
+      <tbody><tr> 
+        
+    <td class="foot"><kw class="krdwrd-tag-1-90"> ©2008 Asia Society | 725 Park Avenue at 70th Street NY, NY 10021 | </kw><a href="/pressroom/"><kw class="krdwrd-tag-1-90">Press 
+      Releases</kw></a><kw class="krdwrd-tag-1-80"> | </kw><a href="/about/privacy.html"><kw class="krdwrd-tag-1-90">Privacy Statement</kw></a><kw class="krdwrd-tag-1-90"> | </kw><a href="/about/terms.html"><kw class="krdwrd-tag-1-90">Terms</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="/about/faq.html"><kw class="krdwrd-tag-1-90">FAQ</kw></a><kw class="krdwrd-tag-1-80"> 
+      | </kw><span class="footMember"><a href="/membership/"><kw class="krdwrd-tag-1-90">Become a Member</kw></a></span> 
+    </td>
+      </tr>
+    </tbody></table>
+
+    <!-- END footer -->
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3032279-1";
+urchinTracker();
+</script>
+
+</body>

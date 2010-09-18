@@ -1,0 +1,309 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://www.siliconbeat.com/entries/2005/11/30/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>SiliconBeat: Asia Firefox now ships with Yahoo as default search...Will it matter?</title>
+
+
+
+<link rel="stylesheet" href="http://www.siliconbeat.com/blog-styles.css" type="text/css">
+
+
+<link rel="start" href="http://www.siliconbeat.com/" title="Home">
+<link rel="prev" href="http://www.siliconbeat.com/entries/2005/11/29/rss_meet_yahoo_mail.html" title="Previous entry">
+
+<link rel="next" href="http://www.siliconbeat.com/entries/2005/11/30/now_is_the_time_to_raise_money.html" title="Next entry">
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.siliconbeat.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script><!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html"
+    trackback:ping="http://www.siliconbeat.com/cgi-bin/mt331/mt-tb.cgi/919"
+    dc:title="Asia Firefox now ships with Yahoo as default search...Will it matter?"
+    dc:identifier="http://www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html"
+    dc:subject=""
+    dc:description="There&apos;s no question that the Google-Firefox browser partnership has been a boon to both parties. Google ships as the default search engine in the Firefox search box and as the default start page when the browser loads. That kind of distribution has to rank up there with Internet Explorer shipping with every PC. And the Mozilla Foundation has benefitted too, reaping untold millions from Google as part of the deal. So the news that Yahoo has nailed the same kind of agreement with Firefox in China, Japan, Korea and Taiwan could be a big deal. We don&apos;t know what kind of usage Firefox has in those countries. But it would be a fascinating social experiment to see how many people actually use Yahoo Search instead of Google just because Yahoo&apos;s the default the search engine. &quot;This is obviously really important to us,&apos;&apos; Yahoo&apos;s Gaude Paez told us. Yahoo will pay Mozilla based on the number of searches that come through Firefox. We wonder what kind of competition there was for this deal. It&apos;s hard to imagine Google would lose this partnership without a fight. And if there was competition between Yahoo and Google, that could only be good financially for Mozilla. UPDATE: We&apos;re told there was competition...."
+    dc:creator=""
+    dc:date="2005-11-30T11:53:53-08:00" />
+</rdf:RDF>
+-->
+
+
+
+
+
+
+
+<script language="javascript" src="http://blogs.icerocket.com/cit.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="http://extras.mnginteractive.com/live/js/tacoda/DartInclude.js"></script>
+<script type="text/javascript" language="javascript1.1">
+partner_group = "blogs|siliconbeat";
+</script></head><body>
+
+<div id="omniture" style="">
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript"><!--//
+            /* Specify the Report Suite ID(s) to track here */
+            var s_account="mngimercurynews";
+            //--></script>
+<script language="JavaScript" src="http://extras.mnginteractive.com/live/js/omniture/SiteCatalystCode_H_1.js"></script><img src="https://102.112.2O7.net/b/ss/mngimercurynews/1/H.1-pdv-2/s43639604642217?%5BAQB%5D&amp;ndh=1&amp;t=31/0/2009%2014%3A5%3A25%206%20-60&amp;g=https%3A//krdwrd.org/pages/dat/dumped/890&amp;cc=USD&amp;ch=Blogs&amp;events=event1&amp;c1=Blogs&amp;c2=Blogs%20/%20Silicon%20Beat&amp;c26=siliconbeat.com&amp;c29=krdwrd.org%20/%20SiteCatalystCode_H_1.js&amp;s=1024x768&amp;c=24&amp;j=1.3&amp;v=Y&amp;k=Y&amp;bw=1024&amp;bh=1&amp;%5BAQE%5D" name="s_i_mngimercurynews" alt="" border="0" width="1" height="1"><img src="http://mngimercurynews.112.2O7.net/b/ss/mngimercurynews/1/H.1-pdv-2/s45462958786213?%5BAQB%5D&amp;ndh=1&amp;t=30/5/2008%2015%3A28%3A28%201%20-120&amp;g=http%3A//www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html&amp;cc=USD&amp;ch=Blogs&amp;events=event1&amp;c1=Blogs&amp;c2=Blogs%20/%20Silicon%20Beat&amp;c26=siliconbeat.com&amp;c29=www.siliconbeat.com%20/%20SiteCatalystCode_H_1.js&amp;s=1024x768&amp;c=24&amp;j=1.3&amp;v=Y&amp;k=Y&amp;bw=1024&amp;bh=1&amp;%5BAQE%5D" name="s_i_mngimercurynews" alt="" border="0" width="1" height="1">
+<script language="JavaScript" src="http://extras.mnginteractive.com/live/js/omniture/OmnitureHelper.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="" 
+s.channel="Blogs"
+s.prop1="Blogs"
+s.prop2="Blogs / Silicon Beat"
+s.prop26="siliconbeat.com"
+/* E-commerce Variables */
+s.campaign=getCiQueryString("EADID")+getCiQueryString("CREF")
+s.events="event1"
+s.eVar4=s.pageName
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><kw><img src="http://mngimercurynews.112.2O7.net/b/ss/mngimercurynews/1/H.1--NS/0" alt="" border="0" width="1" height="1"></kw></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+
+
+<center>
+<div align="center"><!-- begin ad tag (tile=1) -->
+<script language="JavaScript" type="text/javascript">
+ord=Math.random()*10000000000000000;
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/www.mercurynews.com/siliconbeat_section;pos=0;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/www.mercurynews.com/siliconbeat_section;pos=0;tile=1;dcopt=ist;sz=728x90;ord=2114968064066672.2?" type="text/javascript"></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/www.mercurynews.com/siliconbeat_section;pos=0;tile=1;dcopt=ist;sz=728x90;ord=4728667086026629?" type="text/javascript"></script><noscript><kw><a href="http://ad.doubleclick.net/jump/www.mercurynews.com/siliconbeat_section;pos=0;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/www.mercurynews.com/siliconbeat_section;pos=0;tile=1;sz=728x90;ord=123456789?" alt="" border="0" width="728" height="90"></a></kw></noscript><!-- End ad tag -->
+</div>
+<br>
+<table border="0" cellpadding="0" cellspacing="0" width="720">
+  <tbody><tr>
+    <td colspan="2" valign="top"><div id="header">
+<div><img src="http://www.siliconbeat.com/images/darker-green-map-white-merc.gif" usemap="#Map" border="0" width="720" height="128"> 
+<map name="Map" id="Map"><area shape="rect" coords="499,2,722,42" href="http://www.mercurynews.com">
+
+</map>
+</div></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff" valign="top" width="580"><div id="main-w-ads"><p align="center"><a href="http://www.siliconbeat.com/entries/2005/11/29/rss_meet_yahoo_mail.html"><kw class="krdwrd-tag-1">« Previous entry</kw></a><kw class="krdwrd-tag-1"> |
+
+</kw><a href="http://www.siliconbeat.com/"><kw class="krdwrd-tag-1">Home</kw></a><kw class="krdwrd-tag-1">
+| </kw><a href="http://www.siliconbeat.com/entries/2005/11/30/now_is_the_time_to_raise_money.html"><kw class="krdwrd-tag-1">Next entry »</kw></a>
+
+</p>
+<div class="post">
+<h3 class="post-title"><kw class="krdwrd-tag-2">Asia Firefox now ships with Yahoo as default search...Will it matter?</kw></h3>
+<div class="post-body">
+<p><kw class="krdwrd-tag-3">There's no question that the Google-Firefox browser partnership has been a boon to both parties. Google ships as the default search engine in the Firefox search box and as the default start page when the browser loads. That kind of distribution has to rank up there with Internet Explorer shipping with every PC. And the Mozilla Foundation has benefitted too,</kw><a href="http://www.siliconbeat.com/entries/2005/06/07/firefox_foxy_cash_cow.html"><kw class="krdwrd-tag-3"> reaping untold millions</kw></a><kw class="krdwrd-tag-3"> from Google as part of the deal.</kw></p>
+
+<p><kw class="krdwrd-tag-3">So the news that Yahoo has nailed the same kind of agreement with Firefox in China, Japan, Korea and Taiwan could be a big deal. We don't know what kind of usage Firefox has in those countries. But it would be a fascinating social experiment to see how many people actually use Yahoo Search instead of Google just because Yahoo's the default the search engine.</kw></p>
+
+<p><kw class="krdwrd-tag-3">"This is obviously really important to us,'' Yahoo's Gaude Paez told us.</kw></p>
+
+<p><kw class="krdwrd-tag-3">Yahoo will pay Mozilla based on the number of searches that come through Firefox.</kw></p>
+
+<p><kw class="krdwrd-tag-3">We wonder what kind of competition there was for this deal. It's hard to imagine Google would lose this partnership without a fight. And if there was competition between Yahoo and Google, that could only be good financially for Mozilla.</kw></p>
+
+<p><kw class="krdwrd-tag-3">UPDATE: We're told there was competition.</kw></p>
+<a name="more"></a>
+
+</div>
+<p class="post-footer"><kw class="krdwrd-tag-1">Posted by Michael Bazeley on November 30, 2005 11:53 AM | </kw><span id="blogcitation" link="http://www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html"><a href="http://blogs.icerocket.com/search?q=http://www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html"><kw class="krdwrd-tag-1">Linking Posts</kw></a></span>
+<br>
+<br><kw class="krdwrd-tag-1">Tags: 
+</kw><br></p>
+
+<br>
+<div class="comments-head"><a name="comments"></a><kw class="krdwrd-tag-1">Trackbacks</kw></div>
+<div class="post-body"><strong><kw class="krdwrd-tag-1">TrackBack URL for this entry:</kw></strong><br><kw class="krdwrd-tag-1">http://www.siliconbeat.com/cgi-bin/mt331/mt-tb.cgi/919 </kw><br><br><strong><kw class="krdwrd-tag-1"> Links to blogs that reference this entry:</kw></strong></div>
+<br>
+
+
+<br>
+
+<div class="comments-head"><a name="comments"></a><kw class="krdwrd-tag-2">Comments</kw></div>
+<div class="comments-body">
+<a name="comment-3742"></a>
+<p><kw class="krdwrd-tag-3">I'm a bit confused.  I and friends here in Tokyop recently downloaded the Japanese version of Firefox 1.5 from this site. </kw></p>
+
+<p><a href="http://www.mozilla.com/firefox/all.html" rel="nofollow"><kw class="krdwrd-tag-1">http://www.mozilla.com/firefox/all.html</kw></a></p>
+
+<p><kw class="krdwrd-tag-3">The default splash screen is the same Fireofox/Google page that it was  in 1.0.7.  </kw></p>
+<span class="comments-post"><a href="http://kanai.net/weblog/" rel="nofollow"><kw class="krdwrd-tag-1">Gen Kanai</kw></a><kw class="krdwrd-tag-1"> on November 30, 2005  6:14 PM</kw><br>
+
+
+<a href="http://www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html#comment-3742" title="link to comment"><kw class="krdwrd-tag-1">Comment link</kw></a></span>
+</div>
+<div class="comments-body">
+<a name="comment-3744"></a>
+<p><kw class="krdwrd-tag-3">The Google Fast didn't make it much past breakfast . . . </kw></p>
+<span class="comments-post"><kw class="krdwrd-tag-1">Rooffire on November 30, 2005  9:57 PM</kw><br>
+
+
+<a href="http://www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html#comment-3744" title="link to comment"><kw class="krdwrd-tag-1">Comment link</kw></a></span>
+</div>
+<div class="comments-body">
+<a name="comment-3754"></a>
+<p><kw class="krdwrd-tag-3">"But it would be a fascinating social experiment to see how many people actually use Yahoo Search instead of Google just because Yahoo's the default the search engine."</kw></p>
+
+<p><kw class="krdwrd-tag-3">I think you are forgeting exactly how popular Yahoo and its "Social Media" search with integrated blogs and tagging is in the Asian market. Take Japan for instance. The country is crazy about blogging, with over 5.9 million blogs tracked in September of this year and 10 million blogs indexed in Bloglines Japan.</kw></p>
+
+<p><kw class="krdwrd-tag-3">Yahoo Blogs is the premier stop for Bloggers in Japan, and most blogs are personal blogs, and a large percentage are females... meaning that blogging is an everyday part of life.</kw></p>
+
+<p><kw class="krdwrd-tag-3">If a Japanese user blogs on Yahoo Japan, shops on Yahoo Japan, bids on Yahoo Japan Auctions, and finds local shops via Yahoo Japan Local, roots for the Fukuoka Hawks baseball team which plays in the Yahoo Dome, and has Yahoo BB as their ISP, chances are they will enjoy having Yahoo Japan as their default search engine in the Firefox browser.</kw></p>
+<span class="comments-post"><a href="http://www.searchenginejournal.com" rel="nofollow"><kw class="krdwrd-tag-1">Loren</kw></a><kw class="krdwrd-tag-1"> on December  1, 2005  3:39 AM</kw><br>
+
+
+<a href="http://www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html#comment-3754" title="link to comment"><kw class="krdwrd-tag-1">Comment link</kw></a></span>
+</div>
+<div class="comments-body">
+<a name="comment-3756"></a>
+<p><kw class="krdwrd-tag-3">Does anyone know the URL of the Yahoo Firefox start page?</kw></p>
+
+<p><kw class="krdwrd-tag-3">Have been hunting around, but without luck.</kw></p>
+<span class="comments-post"><a href="http://davidnaylor.org/blog/" rel="nofollow"><kw class="krdwrd-tag-1">David Naylor</kw></a><kw class="krdwrd-tag-1"> on December  1, 2005  8:53 AM</kw><br>
+
+
+<a href="http://www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html#comment-3756" title="link to comment"><kw class="krdwrd-tag-1">Comment link</kw></a></span>
+</div>
+<div class="comments-body">
+<a name="comment-3757"></a>
+<p><kw class="krdwrd-tag-3">It's true that Yahoo is very popular in Asia. It would beat Google over familiarity rather than superior search capability.</kw></p>
+<span class="comments-post"><kw class="krdwrd-tag-1">Tam on December  1, 2005  9:00 AM</kw><br>
+
+
+<a href="http://www.siliconbeat.com/entries/2005/11/30/asia_firefox_now_ships_with_yahoo_as_default_searchwill_it_matter.html#comment-3757" title="link to comment"><kw class="krdwrd-tag-1">Comment link</kw></a></span>
+</div>
+
+<div class="comments-head"><kw class="krdwrd-tag-2">Post a comment</kw></div>
+<div class="comments-body">
+<form method="post" action="http://www.siliconbeat.com/cgi-bin/mt331/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input name="static" value="1" type="hidden">
+<input name="entry_id" value="1050" type="hidden">
+<div style="border-right: 1px dotted rgb(187, 187, 187); width: 180px; padding-right: 15px; margin-right: 15px; float: left; text-align: left;">
+	<label for="author"><kw class="krdwrd-tag-1">Name:</kw></label><br>
+	<input tabindex="1" id="author" name="author"><br><br>
+
+	<label for="email"><kw class="krdwrd-tag-1">Email Address (won't appear on site):</kw></label><br>
+	<input tabindex="2" id="email" name="email"><br><br>
+
+       <label for="sb"><kw class="krdwrd-tag-1">For anti-spam purposes, please type the word "siliconbeat" :</kw></label><br> 
+       <input tabindex="3" id="sb" name="sb"><br><br>
+
+	<label for="url"><kw class="krdwrd-tag-1">URL (not required):</kw></label><br>
+	<input tabindex="4" id="url" name="url"><br><br>
+</div><kw class="krdwrd-tag-1">
+Remember personal info?</kw><br>
+<input id="bakecookie" name="bakecookie" type="radio"><label for="bakecookie"><kw class="krdwrd-tag-1">Yes</kw></label><input id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" type="radio"><label for="forget"><kw class="krdwrd-tag-1">No</kw></label><br style="clear: both;">
+<label for="text"><kw class="krdwrd-tag-1">Comments:</kw></label><br>
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea><br><br>
+<input name="preview" value="&nbsp;Preview&nbsp;" type="submit">
+<input style="font-weight: bold;" name="post" value="&nbsp;Post&nbsp;" type="submit"><br><br>
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+
+
+<div class="comments-body"></div></div></div></td>
+    <td align="center" bgcolor="#ffffff" valign="top" width="140"><div id="side-w-ads">
+<!-- begin ad tag (tile=10) -->
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/www.mercurynews.com/siliconbeat_section;pos=10;tile=10;dcopt=ist;sz=160x600;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/www.mercurynews.com/siliconbeat_section;pos=10;tile=10;dcopt=ist;sz=160x600;ord=2114968064066672.2?" type="text/javascript"></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/www.mercurynews.com/siliconbeat_section;pos=10;tile=10;dcopt=ist;sz=160x600;ord=4728667086026629?" type="text/javascript"></script><noscript><kw><a href="http://ad.doubleclick.net/jump/www.mercurynews.com/siliconbeat_section;pos=10;tile=10;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/www.mercurynews.com/siliconbeat_section;pos=10;tile=10;sz=160x600;ord=123456789?" alt="" border="0" width="160" height="600"></a></kw></noscript><!-- End ad tag -->
+
+
+</div>
+
+
+
+
+<img src="http://www.siliconbeat.com/images/spacer.gif" width="140" height="1">
+</td>
+  </tr>
+</tbody></table>
+</center>
+</div></body></html>

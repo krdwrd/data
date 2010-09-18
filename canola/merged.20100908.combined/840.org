@@ -1,0 +1,315 @@
+<head><base href="http://www.latimes.com/extras/hawaiiguide/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Hawaii: Islands of Surprise</title>
+
+
+
+<link href="/extras/latimes_nav_bar.css" rel="stylesheet" type="text/css">
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+function pop_window(theUrl) {
+ popup=window.open(theUrl, 'popup','width=600,height=390,scrollbars=no,location=no,resizable=no,status=no,toolbars=no,top=0,left=0');
+	popup.focus()
+}
+function socal_window(theUrl) {
+ popup=window.open(theUrl, 'popup','width=585,height=500,scrollbars=yes,location=no,resizable=no,status=no,toolbars=no,top=0,left=0');
+	popup.focus()
+}
+// -->
+</script>
+<style type="text/css">
+<!--
+.content {
+	background: url(images/lobsterBG.gif) no-repeat right top;
+}
+-->
+</style></head><body>
+<div id="wrapper">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+      <!--begin latimes.com navBar as include-->
+      <td class="siteNav"><a name="top"></a>
+    <table id="latheader" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr><td><a target="_top" href="http://www.latimes.com"><img src="http://www.latimes.com/extras/images/latimes_subhead.gif" alt="latimes.com" border="0" width="139" height="23"> </a></td>
+  </tr>
+</tbody></table>
+</td>
+    </tr>
+    <tr class="adTable">
+      <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+            <td><img src="images/adBug.gif" width="14" height="60"></td>
+            <!-- place ad call in this cell -->
+            <td> <!-- Ad Space html.ng/site=latimes&edition=newspaper&color=none&content=advertorial&channel=hawaiiGuide&tag=std&adplacement=top&adtype=leader --><kw class="krdwrd-tag-1">
+[an error occurred while processing this directive]
+          </kw></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <tr>
+      <td class="adDisclaimer"><kw class="krdwrd-tag-1">Advertising Supplement </kw></td>
+    </tr>
+    <tr>
+      <td class="borderTable1"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+            <td id="navigation"><table border="0" cellpadding="0" cellspacing="0" width="242">
+                <tbody><tr>
+                  <td><img src="images/icon_1.gif" width="59" height="48"></td>
+                  <td><img src="images/icon_2.gif" width="61" height="48"></td>
+                  <td><img src="images/icon_3.gif" width="61" height="48"></td>
+                  <td><img src="images/icon_4.gif" width="61" height="48"></td>
+                </tr>
+              </tbody></table>
+              <img src="images/cuisine_main.jpg" class="mainPic" width="242" height="154">
+              <ul>
+  <li><a href="index.html"><kw class="krdwrd-tag-1">Water Fun</kw></a></li>
+  <li><a href="relaxation.html"><kw class="krdwrd-tag-1">Relaxation</kw></a></li>
+  <li><a href="culture.html"><kw class="krdwrd-tag-1">Culture</kw></a></li>
+  <li><a href="cuisine.html"><kw class="krdwrd-tag-1">Cuisine</kw></a></li>
+</ul>
+
+            </td>
+            <td class="content"><a href="index.html"><img src="images/storyHead.gif" border="0" width="374" height="48"></a><img src="images/cuisineTitle.gif" width="374" height="79">
+              <p><kw class="krdwrd-tag-3">Go to Hawaii to eat Spam? That’s probably not one of the
+                top reasons most people visit the islands, but the canned processed
+                pork is popular at restaurants catering to locals, sharing the
+                menu with other classic Hawaiian dishes such as lau lau (fish,
+                beef or pork wrapped in taro leaves), loco moco (steamed rice
+                topped with a hamburger, a fried egg and brown gravy) and shredded
+                Kalua pig. </kw></p><p><kw class="krdwrd-tag-3">
+                American soldiers introduced the Hawaiians to Spam during World
+                War II. Now nearly 7 million cans are sold annually in the islands,
+                according to the Hormel website. But if Spam doesn’t appeal
+                to your tastebuds, it’s not a problem. There’s plenty
+                of other grind (food) that locals find ono (delicious).</kw></p><p><kw class="krdwrd-tag-3">
+                One favorite is the inexpensive but generously portioned Hawaiian
+                plate lunch. It can incorporate Chinese, Japanese, Korean, Filipino,
+                Hawaiian and American dishes — often all on one plate — and
+                is best eaten on a day when there’s nothing planned for
+                the afternoon except a nap on the beach.</kw></p><p><kw class="krdwrd-tag-3">
+                Here are some fun, funky and fabulous places for local grind.</kw></p>
+       
+          <h1><kw class="krdwrd-tag-2">Maui</kw></h1>
+            <table class="inlinePicRight" cellpadding="0" cellspacing="0">
+				  <tbody><tr><td>
+				<img src="images/A-Saigon-Cafe_story4.jpg" width="140" height="143"></td>
+				  </tr>
+                <tr>
+                  <td class="caption"><kw class="krdwrd-tag-2">The exterior of the restaurant, which
+                    has no sign. Top left: The clay pot at A Saigon Cafe</kw></td>
+                </tr>
+         </tbody></table>  <p>  <b><kw class="krdwrd-tag-2">A Saigon Cafe</kw></b> <br><kw class="krdwrd-tag-3">
+                There is no sign for A Saigon Cafe, but people
+                  find it anyway, says manager Nguyan Nguyan (friends call him
+                  Chicken Wing.) Located in Wailuku Town, about 15 minutes from
+                  Kahului Airport (Maui’s main airport), A Saigon Café uses
+                  fresh, local ingredients for its Vietnamese dishes, which have
+                  attracted an enthusiastic local following. </kw></p>
+              <p><kw class="krdwrd-tag-3">
+                Nguyan said the Food Network’s Rachael Ray recently featured
+                the restaurant for a Maui segment of “$40 A Day” and
+                interviewed him. “I’m a movie star,” he said.</kw></p><p><kw class="krdwrd-tag-3">
+                Favorites include calamari, shrimp and clay pot (shrimp and fried
+                rice), sauteed string beans, chicken salad, stuffed tofu, steamed
+                fresh fish of the day (served whole) and spring rolls.</kw></p>
+                <p><kw class="krdwrd-tag-1">
+                A Saigon Cafe, 1792 Main St., Wailuku; (808) 243-9560 </kw></p>
+                <table class="inlinePicLeft" border="0" cellpadding="0" cellspacing="0">
+				    <tbody><tr><td>
+				   <img src="images/DK_Fish-Tempura_story4.jpg" width="137" height="113"></td>
+				    </tr>
+				   <tr><td class="caption"><kw class="krdwrd-tag-1">Da Kitchen’s fish tempura</kw></td>
+				   </tr> </tbody></table><p>
+                <b><kw class="krdwrd-tag-2">Da Kitchen</kw></b> <br><kw class="krdwrd-tag-3">
+                “People will eat any kind of food, the same
+                food two or three times a week, as long as it’s good food,” said
+                Da Kitchen’s owner Les Tomita, explaining the restaurant’s
+                philosophy. </kw></p>
+                <p><kw class="krdwrd-tag-3">
+                Five minutes from Kahului Airport, Da Kitchen is popular with
+                tourists and locals, who drop by to enjoy traditional Hawaiian
+                food — Kalua pork, lomi (salted salmon chopped with tomatoes
+                and onion), lau lau, chicken long rice, poi and plate lunches
+                with such entreés as teriyaki chicken, Korean Kobe ribs,
+                hamburger steak cutlets and fish tempura served with rice and
+                macaroni salad.</kw></p>
+              <p><kw class="krdwrd-tag-1">
+                  Da Kitchen, 425 Koloa St., Kahului; (808) 871-7782</kw><br>
+                  <br>
+                  <i><kw class="krdwrd-tag-1">For more information about Maui restaurants and cuisine
+                  visit, </kw><a href="http://www.visitmaui.com/"><kw class="krdwrd-tag-1">www.visitmaui.com</kw></a><kw class="krdwrd-tag-1">.</kw></i></p>
+                <h1><kw class="krdwrd-tag-2">Kauai</kw></h1>
+             <p>   <b><kw class="krdwrd-tag-2">Caffe Coco</kw></b> <br><kw class="krdwrd-tag-3">
+               Located on the edge of a cane field, with a view of
+                  Sleeping Giant Mountain across the fields, Caffe Coco’s
+                  courtyard dining room is all lush vines, exotic foliage and
+                  tropical flowers. At night, tiki torches blaze, live jazz plays
+                  and the food is, according to owner Ginger Carlson, “unpretentious,
+                  healthful and world class. No deep frying.” </kw></p>
+             <p><kw class="krdwrd-tag-3">
+                Offerings include macadamia nut and black sesame crusted ahi
+                with wasabi cream, Moroccan-spiced tofu and roast-veggie wraps,
+                curried sweet potato samosas and silver noodle salad. </kw></p><p><kw class="krdwrd-tag-3">
+                Carlson also sells a line of condiments used in the restaurant.
+                A favorite is Jungle Jazz, a guava-based grilling sauce ($4 a
+                jar). </kw></p>
+                <p><kw class="krdwrd-tag-1">
+                Caffe Coco, 4-369 Kuhio Highway, Kapaa; (808) 822-7990</kw></p>
+                <p>
+  <b><kw class="krdwrd-tag-2">Tropical Taco </kw></b><br><kw class="krdwrd-tag-3">
+  Surfer and restaurant owner Roger Kennedy is something of a local
+  legend on Kauai. Back in the ’70s, the California native was given a
+  one-way ticket to Hawaii from his father as a high school graduation present.
+  After stints working in the pineapple and cane fields, Kennedy started looking
+  for a way to “teach surfing and not starve.” </kw></p>
+                <p><kw class="krdwrd-tag-3">
+  He bought a lunch wagon and parked it, loaded with surfing paraphernalia, on
+  the edge of Hanalei and waited for the lunch crowd to show up. They arrived
+  in droves, ravenous for his tacos, burritos and Fat Jacks (10-inch burritos).</kw></p><p><kw class="krdwrd-tag-3">
+  Five years ago, he opened a sit-down place (24 chairs and 17 stools) outside
+  in Hanalei Town. All the food is made to order which, Kennedy admitted, can
+  sometimes lead to a 25-minute wait for a taco, especially since he likes to
+  talk to customers as he cooks. Said manager Celine Molina, “Everything
+  is made with love. We just ask for patience.”</kw></p>
+  <p><kw class="krdwrd-tag-1">
+  Tropical Taco, Halele’a Building, 5-5088 Kuhio Hwy. Hanalei; (808)
+  827-8226</kw></p>
+
+              <h1><kw class="krdwrd-tag-2">Hawaii</kw></h1>
+         <table class="inlinePicRight" cellpadding="0" cellspacing="0">
+				  <tbody><tr><td>
+				<img src="images/Huggos_story4.jpg" width="150" height="100"></td>
+				  </tr>
+                <tr>
+                  <td class="caption"><kw class="krdwrd-tag-1">The main dining room at Huggo’s.</kw></td>
+                </tr>
+         </tbody></table> <p>      <b><kw class="krdwrd-tag-2">Huggo’s (indoor dining) and Huggo’s On The
+              Rocks (informal)</kw></b> <br><kw class="krdwrd-tag-3">
+              When Hugo and Shirley von Platen Luder opened Huggo’s
+                back in 1969, it quickly became a gathering spot where local
+                fishermen met to “talk story” (Hawaiian for shoot
+                the breeze). </kw></p><p><kw class="krdwrd-tag-3">
+                Today, it’s still the place to go for fish macadamia nut-crusted
+                mahi mahi, crab-crusted ono (the No. 1 requested dish) and Asian-seared
+                ahi. Times change, though. Where commercial fishermen once called
+                in on two-way radios to report their catch, they now use cellphones,
+                says the von Platen Luders’ son, Eric, who now manages
+                the restaurant. The yellow fin tuna caught in the morning, he
+                said, may end up as the dinner special that night. Live entertainment
+                is featured at the spectacular oceanfront location.</kw></p>
+                <p><kw class="krdwrd-tag-1">
+                Huggo’s, 75-5828 Kahakai Road, Kailua-Kona; (808)
+                329-1493</kw></p>
+                <p>
+                <b><kw class="krdwrd-tag-2">Ocean View Inn</kw></b> <br><kw class="krdwrd-tag-3">
+                In business for 70 years, the family-owned Ocean
+                View Inn, across from the Kailua Pier, is the oldest restaurant
+                in Kona. Jeannette Kuwadu, the restaurant’s manager and
+                granddaughter of the original owners, said that except for the
+                prices, which have gone up a bit, the menu hasn’t changed
+                much over the years. One can still find chopstick rice, tripe
+                stew, poi, lau lau, Kalua pork, raw fish and Spam with eggs or
+                cabbage. Inexpensive and popular with locals, the restaurant
+                has a casual and friendly service. Go with an appetite — the
+                plate lunches are large, fried and carb laden.</kw></p>
+                <p><kw class="krdwrd-tag-1">
+                Ocean View Inn, 75-5683 Alii Drive; (808) 329-9998</kw></p>
+        
+                <h1><kw class="krdwrd-tag-2">Oahu</kw></h1>
+              <p>  <b><kw class="krdwrd-tag-2">Wally Ho’s Garage &amp; Grill </kw></b><br><kw class="krdwrd-tag-3">
+                Wally Ho ran a gas station
+                and repair shop at this location for 40 years. But a few years
+                back, the gas tanks sprang a leak so they were hauled away, a
+                commercial kitchen was installed and Wally’s became a garage
+                and grill. </kw></p><p><kw class="krdwrd-tag-3">
+                Ho is retired now, but his daughter, Willette — who manages
+                the family-owned business — describes the fare as healthy
+                Hawaiian with an emphasis on fresh. This means, for example,
+                you can choose brown rice instead of white for your plate lunch,
+                order a green salad and know that the food is prepared without
+                a lot of fat. The fish is fresh.</kw></p><p><kw class="krdwrd-tag-3">
+                On Fridays and Saturdays, Wally’s serves Hawaiian food — lau
+                lau, Kalua pig, lomi, a choice of rice or poi and, for dessert,
+                haupia, described by one aficionado as a sinful but angelically
+                white coconut desert.</kw></p>
+                <p><kw class="krdwrd-tag-1">
+                Wally Ho’s Garage &amp; Grill, 98-380 Kamehameha
+                Highway, Aiea; (808) 488-2220</kw></p>
+                <p>
+              </p><p><kw class="krdwrd-tag-1">Janice MacDonald is a freelance writer based in Vista.</kw></p>
+            <p><a href="#top"><kw class="krdwrd-tag-1">Top of Page</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="index.html"><kw class="krdwrd-tag-1">Home</kw></a> </p></td>
+            <td class="rightRail" bgcolor="#a24100">
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+  <tbody><tr align="center">
+    <td><a href="http://travelstoreusa.com/"><img src="images/travelStore_120X90.gif" border="0"></a>
+</td>
+  </tr>
+  <tr align="center">
+    <td><!-- Ad Space html.ng/site=latimes&edition=newspaper&color=none&content=advertorial&channel=hawaiiGuide&adsize=120xn&tag=std&adplacement=1&adtype=rail --><kw class="krdwrd-tag-1">
+[an error occurred while processing this directive]
+</kw></td>
+  </tr>
+  <tr align="center">
+    <td><!-- Ad Space html.ng/site=latimes&edition=newspaper&color=none&content=advertorial&channel=hawaiiGuide&adsize=120xn&tag=std&adplacement=2&adtype=rail --><kw class="krdwrd-tag-1">
+[an error occurred while processing this directive]
+</kw></td>
+  </tr>
+  <tr align="center">
+    <td><!-- Ad Space html.ng/site=latimes&edition=newspaper&color=none&content=advertorial&channel=hawaiiGuide&adsize=120xn&tag=std&adplacement=3&adtype=rail --><kw class="krdwrd-tag-1">
+[an error occurred while processing this directive]
+</kw></td>
+  </tr>
+  <tr align="center">
+    <td><!-- Ad Space html.ng/site=latimes&edition=newspaper&color=none&content=advertorial&channel=hawaiiGuide&adsize=120xn&tag=std&adplacement=4&adtype=rail --><kw class="krdwrd-tag-1">
+[an error occurred while processing this directive]</kw></td>
+  </tr>
+  <tr align="center">
+    <td><!-- Ad Space html.ng/site=latimes&edition=newspaper&color=none&content=advertorial&channel=hawaiiGuide&adsize=120xn&tag=std&adplacement=5&adtype=rail --><kw class="krdwrd-tag-1">
+[an error occurred while processing this directive]</kw></td>
+  </tr>
+  <tr align="center">
+    <td><!-- Ad Space html.ng/site=latimes&edition=newspaper&color=none&content=advertorial&channel=hawaiiGuide&adsize=120xn&tag=std&adplacement=6&adtype=rail --><kw class="krdwrd-tag-1">
+[an error occurred while processing this directive]
+</kw></td>
+  </tr>
+  
+</tbody></table>
+</td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <!-- new row =================================================================================== -->
+    <tr>
+      <td class="adDisclaimer"><kw class="krdwrd-tag-1">Advertising Supplement</kw></td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- SAGE -->
+<script language="JavaScript">
+	var st_v=1.0; var st_pg=""; var st_ci="703"; 
+	var st_di="d001"; var st_dd="st.sageanalyst.net"; 
+	var st_tai="v:1.2.1";
+	var st_ai="";	
+</script>
+<script language="JavaScript1.1"><!--
+	st_v=1.1;
+//--></script>
+<script language="JavaScript1.2"><!--
+	st_v=1.2;
+//--></script>
+<script language="JavaScript1.1" src="//st.sageanalyst.net/tag-703.js">	
+</script>
+<script language="JavaScript">
+	if (st_v==1.0) {
+		var st_uj;
+		var st_dn = (new Date()).getTime();
+		var st_rf = escape(document.referrer);
+		st_uj = "//"+st_dd+"/"+st_dn+"/JS?ci="+st_ci+"&di="+st_di+
+		"&pg="+st_pg+"&rf="+st_rf+"&jv="+st_v+"&tai="+st_tai+"&ai="+st_ai;
+		var iXz = new Image();
+		iXz.src = st_uj;
+	}
+</script>
+<noscript><kw>
+<img src="//st.sageanalyst.net/NS?ci=703&di=d001&pg=&ai=">
+</kw></noscript>
+</body>

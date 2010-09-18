@@ -1,0 +1,398 @@
+<head><base href="http://www.myoutislands.com/bahamas-fishing/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+	<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script><title>Bonefishing | The Out Islands of the Bahamas</title>
+
+		
+		
+			
+			<base href="http://www.myoutislands.com/">
+			<meta name="description" content="Bonefishing is an addiction, and the Bahamas Out Islands are the best place in the world to feed it.">
+			<meta name="keywords" content="Fly fishing, bahamas bonefishing, bahamas fishing, andros bonefishing, long island bahamas bonefishing, fishing lodges">
+			<meta name="robots" content="all, index, follow">
+		
+		<link href="/assets/css/outislands_screen.css" rel="stylesheet" type="text/css"><!--[if lte IE 6]>
+			<link rel="stylesheet" type="text/css" href="/assets/css/ie_outislands_screen.css" />
+		<![endif]-->
+		
+		<script src="/assets/scripts/preload_images.js" language="javascript" type="text/javascript"></script>
+	
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['promo_email_address']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checksubscribeForm = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element Email Address required check
+        if( _CF_hasValue(_CF_this['Email Address'], "TEXT", false ) )
+        {
+            //form element Email Address 'EMAIL' validation checks
+            if (!_CF_checkEmail(_CF_this['Email Address'].value, true))
+            {
+                _CF_onError(_CF_this, "Email Address", _CF_this['Email Address'].value, "Please enter a valid email address.");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "Email Address", _CF_this['Email Address'].value, "Please enter a valid email address.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script></head><body>
+		<div id="dbl-click"></div>
+		<div id="outer_wrapper">
+			<div id="inner_wrapper">
+				
+			<script language="JavaScript" src="/admin/assets/scripts/wgExitLog.js" type="text/javascript"></script>
+			<div id="header">
+				<div id="nav">
+					<p class="nav_block"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/resorts.cfm"><kw class="krdwrd-tag-1">Where to Stay</kw></a></p>
+					<p class="nav_block"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/activities.cfm"><kw class="krdwrd-tag-1">What to Do</kw></a></p>
+					<p class="nav_block2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-wedding-and-honeymoons/wedding-honeymoon.cfm"><kw class="krdwrd-tag-1">Weddings &amp; </kw><br><kw class="krdwrd-tag-1">Honeymoons</kw></a></p>
+					<p class="nav_block2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/getting-to-bahamas.cfm"><kw class="krdwrd-tag-1">Getting to </kw><br><kw class="krdwrd-tag-1">the Out Islands</kw></a></p>
+					<p class="nav_block3"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/reservation-inquiry.cfm"><kw class="krdwrd-tag-1">Reservation </kw><br><kw class="krdwrd-tag-1">Inquiries</kw></a></p>
+				</div>
+				<div id="top_small_nav">
+					<a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/index.cfm"><kw class="krdwrd-tag-1">Home</kw></a>
+					<a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-faq.cfm"><kw class="krdwrd-tag-1">FAQ</kw></a>
+					<a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/news.cfm/type/In-the-Press"><kw class="krdwrd-tag-1">News</kw></a>
+					<a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-jobs.cfm"><kw class="krdwrd-tag-1">Jobs</kw></a>					
+					<a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/press/index.cfm"><kw class="krdwrd-tag-1">Press</kw></a>
+					<a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/contact.cfm"><kw class="krdwrd-tag-1">Contact</kw></a>	
+				</div>
+				<div id="logo"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/"><img src="assets/images/trans.gif" alt="Bahamas Out Islands Logo" height="125" width="210"></a></div>	
+			</div>
+		
+				<div id="content">
+					<div id="main">
+						<div id="resort_left">
+							<div id="main_image"><img src="/assets/images/pages/abaco-bonefish.jpg" alt="Bonefishing or fly fishing in the flats of the Bahamas Out Islands" border="0" height="325" width="520"></div> <div id="copy">
+
+		<h1><kw class="krdwrd-tag-2">Bonefishing The Bahamas Out Islands</kw></h1>
+		<h2><kw class="krdwrd-tag-3">Bonefishing is an addiction, and the Bahamas Out Islands are the best place in the world to feed it.</kw></h2>
+<p><kw class="krdwrd-tag-3">Why all the fuss about a little silver fish? Anyone asking that question has never stalked the beautiful flats of the Out Islands. Bonefishing brings together skill, finesse and stealth like no other form of fishing. There’s no half-million dollars of boat under you, no big winch of a reel and thick rod. Instead, you’re either wading on foot or balancing on the casting deck of a small boat designed for “skinny” water. Your equipped with good sunglasses, a wisp of a rod and a lure about the size and weight of a… well, a fly. Your quarry is the bonefish, a mirror-finished flash of a fish with bright eyes and a soft under slung mouth designed to suck down clams, crabs and shrimp.</kw></p>
+<p><b><kw class="krdwrd-tag-2">The Out Islands — The Perfect Bonefish Habitat</kw></b><br><kw class="krdwrd-tag-3">
+The Out Islands, with miles and miles of pristine flats and productive seagrass beds, are perfect bonefish habitat, and the fish reside in vast numbers throughout the entire chain. There are so many bonefish in the Bahamas that they often form schools so large that when they’re feeding on the bottom they kick up enough sand – called “mudding” – that it’s visible from your plane as you fly over. In other fishing destinations you may have just a few chances to cast to fish each day, but in the Out Islands, steady action is the norm. That doesn’t mean, however, that they’re easy to catch. Bonefish are notoriously wary – they’re hunted by lightning fast barracuda, and stay on constant alert, spooking and running at any strange vibration, splash or even a shadow.</kw></p>
+<p><b><kw class="krdwrd-tag-2"> Test your bonefishing prowess in the Out Islands</kw></b><br><kw class="krdwrd-tag-3">
+Fishermen must use stealth in their approach, and have to spot the fish before making a well-placed cast that presents the lure without spooking the bonefish. Fortunately, the Bahamas is home to the finest set of bonefish guides in the world. Until your eyes begin to adapt, you’ll swear the guide is pointing at nothing. Trust him, though, cast where he says, then give your line a little tickle… and suddenly, the line will pull taught and begin tearing off the reel. Try to lift your rod and it will bend double as the bonefish takes off on one of their truly incredible, blistering runs. Play the fish right, and after another spectacular run, you’ll have him next to you for a quick photo, a “thanks for the memory!” and a release back into the water.</kw></p>
+<p><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-fishing/bonefishing-lodges.cfm"><kw class="krdwrd-tag-1">Locations</kw></a><kw class="krdwrd-tag-1"> for the best bonefishing in the Bahamas.</kw></p> 
+</div>
+						</div>
+						<div id="resort_right">
+							<!-- start subnavigation -->
+							
+	<div id="col2">
+		<h3><kw class="krdwrd-tag-1">Things to do in The </kw><br><kw class="krdwrd-tag-1">Bahamas Out Islands</kw></h3>
+			<ul class="second-nav">
+				
+							<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-diving/overview.cfm"><kw class="krdwrd-tag-1">Diving</kw></a></li>
+						
+							<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-fishing/overview.cfm"><kw class="krdwrd-tag-1">Fishing</kw></a></li>
+						
+							<li class="nav3"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-fishing/fishing-deep-sea.cfm"><kw class="krdwrd-tag-1">-&nbsp;Bahamas Big Game Fishing</kw></a></li>
+						
+							<li class="nav3_current"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-fishing/bonefishing.cfm"><kw class="krdwrd-tag-1">-&nbsp;Bahamas Bonefishing</kw></a></li>
+						
+							<li class="nav3"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-fishing/bonefishing-lodges.cfm"><kw class="krdwrd-tag-1">-&nbsp;Best Bonefishing Locations</kw></a></li>
+						
+							<li class="nav3"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-fishing/sportfishing-bimini.cfm"><kw class="krdwrd-tag-1">-&nbsp;Bimini Sport Fishing</kw></a></li>
+						
+							<li class="nav3"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-fishing/regulations.cfm"><kw class="krdwrd-tag-1">-&nbsp;Fishing Regulations</kw></a></li>
+						
+							<li class="nav3"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-fishing/gamefish-chart.cfm"><kw class="krdwrd-tag-1">-&nbsp;Game Fishing Chart</kw></a></li>
+						
+							<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/natural-vacations/snorkeling.cfm"><kw class="krdwrd-tag-1">Snorkeling</kw></a></li>
+						
+							<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/natural-vacations/kayaking.cfm"><kw class="krdwrd-tag-1">Kayaking</kw></a></li>
+						
+							<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-sailing/overview.cfm"><kw class="krdwrd-tag-1">Boating</kw></a></li>
+						
+							<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/natural-vacations/hiking.cfm"><kw class="krdwrd-tag-1">Nature Hiking</kw></a></li>
+						
+							<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/natural-vacations/golf.cfm"><kw class="krdwrd-tag-1">Golfing</kw></a></li>
+						
+							<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/island-hopping.cfm"><kw class="krdwrd-tag-1">Island Hopping</kw></a></li>
+						
+							<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-flying/overview.cfm"><kw class="krdwrd-tag-1">Flying to The Out Islands</kw></a></li>
+						
+			</ul>
+			
+		
+			<ul class="second-nav bottom">
+				<li class="nav2 nav2-bottom"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-faq.cfm"><kw class="krdwrd-tag-1">FAQ</kw></a></li>
+				<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/news.cfm"><kw class="krdwrd-tag-1">News</kw></a></li>
+				<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-jobs.cfm"><kw class="krdwrd-tag-1">Jobs</kw></a></li>
+				<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/press/index.cfm"><kw class="krdwrd-tag-1">Press</kw></a></li>
+				<li class="nav2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/contact.cfm"><kw class="krdwrd-tag-1">Contact</kw></a></li>
+			</ul>
+	
+	</div>
+
+							<!-- end subnavigation -->
+						</div>
+		
+						<!-- Still working on this
+					
+<div id="photo_tab">
+					
+	<div id="left_photo_tab"></div>
+						
+	<div id="middle_photo_tab">
+						
+		<div class="photo_description"></div>
+						
+		<div class="photo_credit"><a href="#"></a></div>
+							
+	</div>
+						
+	<div id="right_photo_tab"></div>
+					
+</div> -->
+						
+					</div>
+					<div id="side">
+						
+				<div id="resort_finder_top"><kw class="krdwrd-tag-1">Resort Finder</kw></div>
+				<div id="resort_finder">
+					<form action="/bahamas-resorts/resort-finder-results.cfm" method="post" name="resort_finder">
+						
+						<label><kw class="krdwrd-tag-1">Filter By: Hotel Type</kw></label>
+						<select name="resort_type_id" class="hotel_type">
+							<option class="krdwrd-tag-1" value="0">All Types</option>
+							
+							<option class="krdwrd-tag-1" value="1">Boutique Hotel</option>
+							
+							<option class="krdwrd-tag-1" value="10">Eco-resort</option>
+							
+							<option class="krdwrd-tag-1" value="7">Fishing Lodge</option>
+							
+							<option class="krdwrd-tag-1" value="4">Marina</option>
+							
+							<option class="krdwrd-tag-1" value="8">Rentals</option>
+							
+							<option class="krdwrd-tag-1" value="3">Resort</option>
+							
+						</select>
+						
+						<div class="spacer"></div>
+						
+						<label><kw class="krdwrd-tag-1">Filter By: Room Rate</kw></label>
+						<div class="resort_finder_small_text"><kw class="krdwrd-tag-1">(per room/per night)</kw></div>
+						<table border="0" cellpadding="0" cellspacing="0">
+							
+								<tbody><tr>
+									<td><input name="rate_id" value="2" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Under $200                                        </kw></td>
+								</tr>
+							
+								<tr>
+									<td><input name="rate_id" value="1" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">$200 - $500                                       </kw></td>
+								</tr>
+							
+								<tr>
+									<td><input name="rate_id" value="4" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">$500 - $800                                       </kw></td>
+								</tr>
+							
+								<tr>
+									<td><input name="rate_id" value="7" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">$800 and Above                                    </kw></td>
+								</tr>
+							
+						</tbody></table>
+						
+						<div class="spacer"></div>
+						
+						<label><kw class="krdwrd-tag-1">Activities &amp; Interests</kw></label>
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								
+									<td><input name="activity_id" value="15" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Biking&nbsp;</kw></td>
+									
+									<td><input name="activity_id" value="21" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Boating</kw></td>
+									
+							</tr>
+							<tr>
+									
+									<td><input name="activity_id" value="7" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Diving&nbsp;</kw></td>
+									
+									<td><input name="activity_id" value="14" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Eco-Tours</kw></td>
+									
+							</tr>
+							<tr>
+									
+									<td><input name="activity_id" value="5" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Fishing&nbsp;</kw></td>
+									
+									<td><input name="activity_id" value="8" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Golfing</kw></td>
+									
+							</tr>
+							<tr>
+									
+									<td><input name="activity_id" value="11" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Hiking&nbsp;</kw></td>
+									
+									<td><input name="activity_id" value="2" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Kayaking</kw></td>
+									
+							</tr>
+							<tr>
+									
+									<td><input name="activity_id" value="4" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Snorkeling&nbsp;</kw></td>
+									
+									<td><input name="activity_id" value="12" type="checkbox"></td>
+									<td><kw class="krdwrd-tag-1">Tennis</kw></td>
+									
+							</tr>
+						</tbody></table>
+						
+						<div class="spacer"></div>
+						
+						<label><kw class="krdwrd-tag-1">Keyword</kw></label>
+						<input class="keyword" value="" name="keyword" type="text"><input src="/assets/images/go_resort_finder.gif" class="resort_finder_button" type="image">
+						
+						
+						
+					</form>
+				</div> 
+					<div id="promo">
+						<div id="promo_top"></div>
+						<div id="promo_middle">
+							
+							<div id="promo_text">
+								<p class="promo_title"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/bahamas-vacation-packages.cfm"><kw class="krdwrd-tag-1">Bahamas Out Island Packages &amp; Promotions</kw></a></p>
+								<p><kw class="krdwrd-tag-1">Be the first to hear about the latest Bahamas Out Island resort packages and offers.</kw></p>
+								<form name="subscribeForm" id="subscribeForm" action="http://cl.exct.net/subscribe.aspx?lid=1056438" method="post" preloader="no" onsubmit="return _CF_checksubscribeForm(this)"><input name="thx" id="thx" value="http://www.myoutislands.com/thanks.cfm" type="hidden"> <input name="err" id="err" value="http://www.myoutislands.com/error.cfm" type="hidden"> <input name="usub" id="usub" value="http://www.myoutislands.com/success.cfm" type="hidden"> <input name="MID" id="MID" value="69887" type="hidden"> <input name="SubAction" id="SubAction" value="sub_add_update" checked="checked" type="hidden"> <input name="Email Address" value="Enter Email Address" class="email_box" onfocus="eraseEmail();" id="promo_email_address" onblur="fillEmail();" type="text"> <input name="submit" class="email_button" id="promo_submit" src="/assets/images/go_button.gif" type="image"> </form>
+
+							</div>
+							<div class="tab_link"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/bahamas-vacation-packages.cfm"><img src="/assets/images/promo_tab_text.gif" alt="Promotions" height="90" width="27"></a></div>
+						</div>
+						<div id="promo_bottom"></div>
+					</div>
+				
+					<div id="event_calendar">
+						<div id="event_top"></div>
+						<div id="event_middle">
+							<div id="event_text">
+								<p class="event_title"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/contact.cfm"><kw class="krdwrd-tag-1">Order your Out Islands Destination Guide</kw></a></p>
+								<p><kw class="krdwrd-tag-1">Get all the information you need about the Out Islands. We'll mail it to you right away!</kw></p>
+								<p><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/contact.cfm"><kw class="krdwrd-tag-1">Order Now »</kw></a></p>
+							</div>
+							<div class="tab_link"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/contact.cfm"><img src="/assets/images/guide_tab_text.gif" alt="Order an Official Out Islands Travel Guide" height="137" width="27"></a></div>
+							
+						</div>
+						<div id="event_bottom"></div>
+					</div>
+				
+					<div id="mypage">
+						<div id="mypage_top"></div>
+						<div id="mypage_middle">
+							<div id="mypage_text">
+								<p class="mypage_title"><kw class="krdwrd-tag-1">See a page you'd like to save or read later?</kw></p>
+								<p><kw class="krdwrd-tag-1">Simply click the “Save Page for later” button to save any page and read it later.</kw></p>
+								<div id="mypage_count"><kw class="krdwrd-tag-1">You have&nbsp;&nbsp;</kw><!-- Saved page number output here --><span class="mypage_number"><kw class="krdwrd-tag-1">0</kw></span><!-- Saved page number output here --><kw class="krdwrd-tag-1">&nbsp;&nbsp;pages saved.</kw></div>
+								<p><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/saved-pages.cfm"><kw class="krdwrd-tag-1">Learn more about this feature »</kw></a></p>
+							</div>
+							<div class="tab_link"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/saved-pages.cfm"><img src="/assets/images/my_page_tab_text.gif" alt="My Saved Pages"></a></div>
+						</div>	
+						<div id="mypage_bottom"></div>
+					</div>
+				
+					<div id="passport">
+						<div id="passport_top"></div>
+						<div id="passport_middle">
+							<div id="passport_text">
+								<p class="passport_title"><kw class="krdwrd-tag-1">New U.S. Passport Regulations</kw></p>
+								<p><kw class="krdwrd-tag-1">As of January 23, 2007 all U.S. citizens are required to carry valid U.S. passports when traveling to and from The Bahamas.</kw></p>
+								<p><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/bahamas-passport.cfm"><kw class="krdwrd-tag-1">Learn More »</kw></a></p>
+							</div>
+							<div class="tab_link"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/bahamas-passport.cfm"><img src="/assets/images/passport_tab_text.gif" alt="Passport Info" height="107" width="27"></a></div>
+						</div>
+						<div id="passport_bottom"></div>
+					</div>
+				
+					</div>
+					
+				<div id="footer">
+					<div id="footer_logo"><img src="assets/images/footer_logo.gif" alt=""></div>
+					<div id="footer_links">
+						<div id="tier1"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/resorts.cfm"><kw class="krdwrd-tag-1">Where to Stay</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/activities.cfm"><kw class="krdwrd-tag-1">What to Do</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-wedding-and-honeymoons/wedding-honeymoon.cfm"><kw class="krdwrd-tag-1">Weddings &amp; Honeymoons</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/getting-to-bahamas.cfm"><kw class="krdwrd-tag-1">Getting to the Out Islands</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/reservation-inquiry.cfm"><kw class="krdwrd-tag-1">Reservation Inquiries</kw></a>
+						</div>		
+						<div id="tier2"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/abaco-map.cfm"><kw class="krdwrd-tag-1">The Abacos</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/acklins-map.cfm"><kw class="krdwrd-tag-1">Acklins</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/andros-map.cfm"><kw class="krdwrd-tag-1">Andros</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/bimini-map.cfm"><kw class="krdwrd-tag-1">Bimini</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/cat-island-map.cfm"><kw class="krdwrd-tag-1">Cat Island</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/eleuthera-map.cfm"><kw class="krdwrd-tag-1">Eleuthera</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/harbour-island-map.cfm"><kw class="krdwrd-tag-1">Harbour Island</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/exuma-map.cfm"><kw class="krdwrd-tag-1">The Exumas</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/long-island-map.cfm"><kw class="krdwrd-tag-1">Long Island</kw></a>
+						</div>
+						<div id="tier3"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-faq.cfm"><kw class="krdwrd-tag-1">FAQ</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/bahamas-passport.cfm"><kw class="krdwrd-tag-1">Passport Info</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/news.cfm/type/News-Story"><kw class="krdwrd-tag-1">News</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-jobs.cfm"><kw class="krdwrd-tag-1">Jobs</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/press/index.cfm"><kw class="krdwrd-tag-1">Press</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/contact.cfm"><kw class="krdwrd-tag-1">Contact</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/terms-of-use.cfm"><kw class="krdwrd-tag-1">Terms of Use</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/privacy-policy.cfm"><kw class="krdwrd-tag-1">Privacy Policy</kw></a>
+						</div>	
+						<div id="copyright"><kw class="krdwrd-tag-1">Copyright © 2008 Bahama Out Islands Promotion Board&nbsp;&nbsp;&nbsp;1-800-OUT-ISLANDS</kw></div>	
+					</div>	
+				</div>
+				
+				<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+				<script type="text/javascript">
+				_uacct = "UA-2720841-1";
+				urchinTracker();
+				</script>
+				<!-- 15 -->
+			
+	<div id="save_page"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/act_save_page.cfm?page=YmFoYW1hcy1maXNoaW5nL2JvbmVmaXNoaW5nLmNmbQ%253D%253D&amp;pagetitle=Qm9uZWZpc2hpbmcgfCBUaGUgT3V0IElzbGFuZHMgb2YgdGhlIEJhaGFtYXM%253D"><img src="/assets/images/folder_icon.gif" alt="Save this page for later."><kw class="krdwrd-tag-1">&nbsp;&nbsp;«&nbsp;&nbsp;Save this page for later. </kw></a></div>
+
+				</div>
+				
+			<div id="island_tab_bar">
+				<div id="tabs">			
+					<div id="out_island_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/real-bahamas.cfm"><img src="/assets/images/trans.gif" alt="The Bahama Out Islands" height="30" width="112"></a></div>
+					<div id="abaco_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/abaco-map.cfm"><img src="/assets/images/trans.gif" alt="The Abacos, Bahamas" height="30" width="78"></a></div>
+					<div id="acklins_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/acklins-map.cfm"><img src="/assets/images/trans.gif" alt="Acklins, Bahamas" height="30" width="51"></a></div>
+					<div id="andros_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/andros-map.cfm"><img src="/assets/images/trans.gif" alt="Andros Island, Bahamas" height="30" width="51"></a></div>
+					<div id="bimini_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/bimini-map.cfm"><img src="/assets/images/trans.gif" alt="Bimini, Bahamas" height="30" width="47"></a></div>
+					<div id="cat_island_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/cat-island-map.cfm"><img src="/assets/images/trans.gif" alt="Cat Island, Bahamas" height="30" width="67"></a></div>
+					<div id="eleuthera_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/eleuthera-map.cfm"><img src="/assets/images/trans.gif" alt="Eleuthera, Bahamas" height="30" width="65"></a></div>
+					<div id="harbour_island_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/harbour-island-map.cfm"><img src="/assets/images/trans.gif" alt="Harbour Island, Bahamas" height="30" width="92"></a></div>
+					<div id="exuma_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/exuma-map.cfm"><img src="/assets/images/trans.gif" alt="The Exumas, Bahamas" height="30" width="80"></a></div>
+					<div id="long_island_tab"><a href="/act_exitlog.cfm?address_from=krdwrd.org&amp;address_to=http://www.myoutislands.com/bahamas-resorts/long-island-map.cfm"><img src="/assets/images/trans.gif" alt="Long Island, Bahamas" height="30" width="76"></a></div>
+					<div id="search">
+						<form action="/search-results.cfm" method="post" name="search" onsubmit="return submitSearch();">
+							<input class="search_box" onblur="fillSearch()" onfocus="eraseSearch();" value="Search" name="search" type="text">
+							<input class="search_button" src="assets/images/go_button.gif" type="image">
+						</form>
+					</div>
+				</div>
+				<div id="border_top"></div>
+			</div>
+		
+			</div>
+		</div>
+	</body>

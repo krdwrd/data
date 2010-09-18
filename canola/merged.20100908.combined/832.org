@@ -1,0 +1,729 @@
+<head><base href="http://www.incrysis.com/forums/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>inCrysis Crysis Forums / Game Trailers doesn't even nominate Crysis for best GRAPHICS!</title>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="style/Oxygen.css">
+<link rel="stylesheet" href="../templates/Default/css/joomla.css" type="text/css">
+
+<link rel="stylesheet" href="../templates/Default/css/custom.css" type="text/css"></head><body>
+<div>
+<div id="wrapper" align="center">
+<a href="http://www.incrysis.com/"><div id="head"></div></a>
+<div class="core" align="center">
+<div id="nav">
+<div id="topmenu">
+<div id="navcontainer">
+<ul id="navlist">
+<li><a href="../index.php?option=com_frontpage&amp;Itemid=1" class="images" id="current"><kw class="krdwrd-tag-1">Home</kw></a></li>
+<li><a href="../index.php?option=com_content&amp;task=view&amp;id=22&amp;Itemid=" class="images"><kw class="krdwrd-tag-1">Info</kw></a></li>
+<li><a href="../ndex.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="images"><kw class="krdwrd-tag-1">News</kw></a></li>
+<li><a href="../index.php?option=com_incvideo" class="images"><kw class="krdwrd-tag-1">Downloads</kw></a></li>
+<li><a href="../index.php?option=com_incgallery&amp;Itemid=29" class="images"><kw class="krdwrd-tag-1">Screenshots</kw></a></li>
+<li><a href="../wiki/index.php/Main_Page" class="images"><kw class="krdwrd-tag-1">Wiki</kw></a></li>
+<li><a href="../forums/" class="images"><kw class="krdwrd-tag-1">Forum</kw></a></li>
+<li><a href="../index.php?option=com_weblinks&amp;Itemid=23" class="images"><kw class="krdwrd-tag-1">Links</kw></a></li>
+<li><a href="../index.php?option=com_contact&amp;Itemid=3" class="images"><kw class="krdwrd-tag-1">Contact Us</kw></a></li>
+</ul>
+</div>
+</div>
+</div></div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="885">
+  <tbody><tr>
+    <td bgcolor="#000000"><div align="center">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" height="88" width="478">
+          <param name="movie" value="http://www.incrysis.com/images/NV_Bring_It_S01_478x88_REV1.swf">
+          <param name="quality" value="high">
+          <embed src="http://www.incrysis.com/images/NV_Bring_It_S01_478x88_REV1.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" height="88" width="478"></object>
+      </div></td>
+  </tr>
+</tbody></table>
+<div id="punwrap">
+<div id="punviewtopic" class="pun">
+<div id="brdheader" class="block">
+<div class="box">
+		<div id="brdtitle" class="inbox">
+			<h1><span><kw class="krdwrd-tag-1">inCrysis Crysis Forums</kw></span></h1>
+			<p><span><kw class="krdwrd-tag-1">Discussion of Crytek's new game - Crysis</kw></span></p>
+		</div>
+		<div id="brdmenu" class="inbox">
+			<ul>
+				<li id="navindex"><a href="index.php"><kw class="krdwrd-tag-1">Index</kw></a></li>
+				<li id="navuserlist"><a href="userlist.php"><kw class="krdwrd-tag-1">User list</kw></a></li>
+				<li id="navsearch"><a href="search.php"><kw class="krdwrd-tag-1">Search</kw></a></li>
+				<li id="navregister"><a href="register.php"><kw class="krdwrd-tag-1">Register</kw></a></li>
+				<li id="navlogin"><a href="login.php"><kw class="krdwrd-tag-1">Login</kw></a></li>
+			</ul>
+		</div>
+		<div id="brdwelcome" class="inbox">
+			<p><kw class="krdwrd-tag-1">You are not logged in.</kw></p>
+		</div>
+	</div>
+</div>
+
+<div id="announce" class="block">
+	<h2><span><kw class="krdwrd-tag-1">Announcement</kw></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div><center><b><kw class="krdwrd-tag-1">
+! ! CRYSIS: WARHEAD FORUMS OPENED ! !</kw><br>
+<a href="http://incrysis.com/forums/viewtopic.php?id=7410"><kw class="krdwrd-tag-1"> * * * DONATE TO INCRYSIS * * *</kw></a><br>
+</b></center></div>
+		</div>
+	</div>
+</div>
+
+<div class="linkst">
+	<div class="inbox">
+		<p class="pagelink conl"><kw class="krdwrd-tag-1">Pages: </kw><strong><kw class="krdwrd-tag-1">1</kw></strong>&nbsp;<a href="viewtopic.php?id=17197&amp;p=2"><kw class="krdwrd-tag-1">2</kw></a>&nbsp;<a href="viewtopic.php?id=17197&amp;p=3"><kw class="krdwrd-tag-1">3</kw></a><kw class="krdwrd-tag-1">&nbsp;…&nbsp;</kw><a href="viewtopic.php?id=17197&amp;p=6"><kw class="krdwrd-tag-1">6</kw></a></p>
+		<p class="postlink conr"><kw class="krdwrd-tag-1">Topic closed</kw></p>
+		<ul><li><a href="index.php"><kw class="krdwrd-tag-1">Index</kw></a></li><li><kw class="krdwrd-tag-1">&nbsp;»&nbsp;</kw><a href="viewforum.php?id=2"><kw class="krdwrd-tag-1">General Discussion</kw></a></li><li><kw class="krdwrd-tag-1">&nbsp;»&nbsp;Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></li></ul>
+		<div class="clearer"></div>
+	</div>
+</div>
+
+<div id="p301255" class="blockpost rowodd firstpost">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#1&nbsp;</kw></span><a href="viewtopic.php?pid=301255#p301255"><kw class="krdwrd-tag-1">29-12-2007 16:01:12</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=8441"><kw class="krdwrd-tag-1">FAcTor-X</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">CryChild</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/8441.jpg" alt="" height="118" width="123"></dd>
+					<dd><kw class="krdwrd-tag-1">From: New York</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 20-04-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 48</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1">Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">WEll, I jsut wanted to let you know of a little biased site known as Game Trailers. This site has been against PC gamers and PC games by undrating each and every game that comes out. However, this time they crossed the line and didn't even nominate Crysis for best Graphics. </kw><br><br><kw class="krdwrd-tag-3">See for your self in this pathetic excuse of a GOTY award:</kw><br><br><a href="http://www.gametrailers.com/player/29276.html#new_comment"><kw class="krdwrd-tag-1">http://www.gametrailers.com/player/2927 … ew_comment</kw></a></p>
+					<p class="postedit"><em><kw class="krdwrd-tag-1">Last edited by FAcTor-X (29-12-2007 16:04:13)</kw></em></p>
+				</div>
+				<div class="postsignature"><hr><img class="sigimage" src="http://img130.imageshack.us/img130/4141/26724932ok3.png" alt="http://img130.imageshack.us/img130/4141/26724932ok3.png"><br><img class="sigimage" src="http://img154.imageshack.us/img154/4026/47133243ff2.png" alt="http://img154.imageshack.us/img154/4026/47133243ff2.png"></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301275" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#2&nbsp;</kw></span><a href="viewtopic.php?pid=301275#p301275"><kw class="krdwrd-tag-1">29-12-2007 16:17:23</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=4179"><kw class="krdwrd-tag-1">warfjm</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Moderating your civilization.</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/4179.jpg" alt="" height="150" width="142"></dd>
+					<dd><kw class="krdwrd-tag-1">From: Arizona</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 02-02-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 3828</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">They couldn't separate art style from graphics?&nbsp; What a stupid decision.</kw></p>
+				</div>
+				<div class="postsignature"><hr><span style="color: orange;"><kw class="krdwrd-tag-1">Come check out our sister sites!&nbsp; </kw><img src="img/smilies/big_smile.png" alt="big_smile" height="15" width="15"></span><br><a href="http://www.on-mirrors-edge.com/"><img class="sigimage" src="http://img2.freeimagehosting.net/uploads/7df7468a7d.jpg" alt="http://img2.freeimagehosting.net/uploads/7df7468a7d.jpg"></a><a href="http://www.infarcry.com/"><img class="sigimage" src="http://img2.freeimagehosting.net/uploads/9746b42fe0.jpg" alt="http://img2.freeimagehosting.net/uploads/9746b42fe0.jpg"></a></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301277" class="blockpost rowodd">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#3&nbsp;</kw></span><a href="viewtopic.php?pid=301277#p301277"><kw class="krdwrd-tag-1">29-12-2007 16:19:50</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=22222"><kw class="krdwrd-tag-1">TriangleMan</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">CryTeen</kw></strong></dd>
+					<dd class="postavatar"></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 27-10-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 75</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">there are definitely plenty of computers out there that can run crysis... just because </kw><em><kw class="krdwrd-tag-3">theirs</kw></em><kw class="krdwrd-tag-3"> didn't doesn't mean they couldn't have found one. crysis is definitely not just "theoretical" graphics.</kw><br><br><kw class="krdwrd-tag-3">Even if u turned settings down and tweaked, the graphics still surpassed CoD4 at least.</kw><br><br><kw class="krdwrd-tag-3">altho while bioshock doesn't have as much photo realistic-ness, it has way too much style to not have the best graphics. superb art. awesome. actually one of the things i don't like about games like crysis is the design and the atmosphere. lots of ppl don't pay attention much to the art direction.</kw></p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301283" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#4&nbsp;</kw></span><a href="viewtopic.php?pid=301283#p301283"><kw class="krdwrd-tag-1">29-12-2007 16:22:17</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=21657"><kw class="krdwrd-tag-1">thabullet</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Crysis Shark</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/21657.gif" alt="" height="100" width="100"></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 23-10-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 169</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">They said they didn't even nominate Crysis because they didn't have the rig to run it... definitely a biased critic. Everybody here can pretty much run it smoothly on med settings with a dual core, but with GT it seems like if it's not a ready made console game it doesn't have a chance.</kw></p>
+				</div>
+				<div class="postsignature"><hr><a href="http://test.crystats.com/crysis_player/"><img class="sigimage" src="http://sign.crytools.com/01/91.png" alt="http://sign.crytools.com/01/91.png"></a><br><a href="http://www.teambulletproof.com"><kw class="krdwrd-tag-1">http://www.teambulletproof.com</kw></a><kw class="krdwrd-tag-1"> [team homepage]</kw><br><a href="http://s271.photobucket.com/albums/jj154/thabullet/"><kw class="krdwrd-tag-1">http://s271.photobucket.com/albums/jj154/thabullet/</kw></a><kw class="krdwrd-tag-1"> [FarCry/Crysis pics]</kw><br><a href="http://www.youtube.com/bpthabullet"><kw class="krdwrd-tag-1">http://www.youtube.com/bpthabullet</kw></a><kw class="krdwrd-tag-1"> [vids]</kw></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301312" class="blockpost rowodd">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#5&nbsp;</kw></span><a href="viewtopic.php?pid=301312#p301312"><kw class="krdwrd-tag-1">29-12-2007 16:49:33</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=12230"><kw class="krdwrd-tag-1">Shletten</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Crysis Shark</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/12230.jpg" alt="" height="150" width="120"></dd>
+					<dd><kw class="krdwrd-tag-1">From: Canada</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 14-07-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 230</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">They definitely are morons, gotta be hella stupid to not class Crysis as the most advanced technological innovation of the year, the rig is freaking out of place, it doesn't even make sense. It's beautiful and it is, it's not because it does 24 FPS that it isn't as beautiful as a jerky 2004 game running at 200 fps. Well let's stay calm, it's just plain idiotic.</kw></p>
+				</div>
+				<div class="postsignature"><hr><img class="sigimage" src="http://img120.imageshack.us/img120/162/siggamesminisz3.jpg" alt="http://img120.imageshack.us/img120/162/siggamesminisz3.jpg"><br><kw class="krdwrd-tag-1">Intel Core 2 Quad Q6600 @ 2.4 GHz / 2 Gb RAM / Geforce 8800 GT </kw><br><kw class="krdwrd-tag-1">Feels Good to be hyped for a new Crysis installement </kw><img src="img/smilies/big_smile.png" alt="big_smile" height="15" width="15"></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301313" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#6&nbsp;</kw></span><a href="viewtopic.php?pid=301313#p301313"><kw class="krdwrd-tag-1">29-12-2007 16:50:23</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=21494"><kw class="krdwrd-tag-1">Think Science</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Alien Scout</kw></strong></dd>
+					<dd class="postavatar"></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 21-10-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 824</kw></dd>
+					<dd class="usercontacts"><a href="http://0"><kw class="krdwrd-tag-1">Website</kw></a></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">Hm , too bad . But that bs they cold run it on hig but with lower res for sure ! and it still beats any othere game on the market gfx wise !</kw></p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301319" class="blockpost rowodd">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#7&nbsp;</kw></span><a href="viewtopic.php?pid=301319#p301319"><kw class="krdwrd-tag-1">29-12-2007 16:56:21</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=17793"><kw class="krdwrd-tag-1">Rad64</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Crysis Shark</kw></strong></dd>
+					<dd class="postavatar"></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 14-09-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 189</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">i am a bit mad, first off Crysis graphics are gorgeous, and second there is destructability. Thats one thing Call of Duty did not have. They should have atleast nominated it, but cmon, seriously it still would have not won. The one thing that sets these graphics from every other game is performance. What they meant by not being able to run Crysis smooth, was at maxed. They could have put graphics to med but the whole point of the awards is best graphics maxed at great performance. All those games mentioned were run at maxed at smooth framerates on consoles. Most PCs beat console hardware by a mile, but i mean, on a console they were able to get great looking graphics at 60 fps in Call of Duty 4. So, they should have atleast nominated it, but the other thing that builds up on good graphics is good performance to go with it, which Crysis unfortunatly does not have. </kw><img src="img/smilies/sad.png" alt="sad" height="15" width="15"></p>
+				</div>
+				<div class="postsignature"><hr><kw class="krdwrd-tag-1">Windows XP, PNY 8800gts 640mb, Pentium 4 3ghz, 2 GB of Ram</kw><br><br><kw class="krdwrd-tag-1">One Shot, One Kill. Thats all i need, One bullet, one trigger, one shot. Thats all i need for One Kill. Its not luck, its skill.</kw></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301338" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#8&nbsp;</kw></span><a href="viewtopic.php?pid=301338#p301338"><kw class="krdwrd-tag-1">29-12-2007 17:21:31</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=23131"><kw class="krdwrd-tag-1">Ahrek</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Alien Scout</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/23131.jpg" alt="" height="120" width="120"></dd>
+					<dd><kw class="krdwrd-tag-1">From: Wonderland...with mushrooms :D</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 05-11-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 909</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">From the GT vid:</kw><br><br><kw class="krdwrd-tag-3">PS3 = "Sony's number crunching behemoth"</kw><br><kw class="krdwrd-tag-3">PC = "one of the big players..."</kw><br><br><kw class="krdwrd-tag-3">Is that not seriously biased towards PS3? Then again...GT has always been biased towards PS3. They're also the ONLY ones not nominating Crysis for best graphics.</kw></p>
+					<p class="postedit"><em><kw class="krdwrd-tag-1">Last edited by Ahrek (29-12-2007 17:23:30)</kw></em></p>
+				</div>
+				<div class="postsignature"><hr><img class="sigimage" src="http://i213.photobucket.com/albums/cc277/Mharek/Punchyssigcopy.jpg" alt="http://i213.photobucket.com/albums/cc277/Mharek/Punchyssigcopy.jpg"></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301351" class="blockpost rowodd">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#9&nbsp;</kw></span><a href="viewtopic.php?pid=301351#p301351"><kw class="krdwrd-tag-1">29-12-2007 18:01:08</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=4179"><kw class="krdwrd-tag-1">warfjm</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Moderating your civilization.</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/4179.jpg" alt="" height="150" width="142"></dd>
+					<dd><kw class="krdwrd-tag-1">From: Arizona</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 02-02-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 3828</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">They made Halo 3 best shooter of the year......that should tell you something.</kw><br><br><kw class="krdwrd-tag-3">They also nominated Assasins Creed as one of the most disappointing games of the year.&nbsp; WTF?!?&nbsp; Maybe a little over hyped but by no means was the game terrible or even mediocre.</kw></p>
+				</div>
+				<div class="postsignature"><hr><span style="color: orange;"><kw class="krdwrd-tag-1">Come check out our sister sites!&nbsp; </kw><img src="img/smilies/big_smile.png" alt="big_smile" height="15" width="15"></span><br><a href="http://www.on-mirrors-edge.com/"><img class="sigimage" src="http://img2.freeimagehosting.net/uploads/7df7468a7d.jpg" alt="http://img2.freeimagehosting.net/uploads/7df7468a7d.jpg"></a><a href="http://www.infarcry.com/"><img class="sigimage" src="http://img2.freeimagehosting.net/uploads/9746b42fe0.jpg" alt="http://img2.freeimagehosting.net/uploads/9746b42fe0.jpg"></a></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301363" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#10&nbsp;</kw></span><a href="viewtopic.php?pid=301363#p301363"><kw class="krdwrd-tag-1">29-12-2007 18:08:20</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=14489"><kw class="krdwrd-tag-1">Firebird</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Crysis Shark</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/14489.gif" alt="" height="150" width="150"></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 02-09-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 151</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">Well they just nominated it as the most </kw><em><kw class="krdwrd-tag-3">disappointing</kw></em><kw class="krdwrd-tag-3"> game of the year, not the flat-out worst </kw><img src="img/smilies/tongue.png" alt="tongue" height="15" width="15"><kw class="krdwrd-tag-3">.</kw><br><br><kw class="krdwrd-tag-3">But to not nominate Crysis for best graphics?</kw><br><br><kw class="krdwrd-tag-3">* GameTrailers instantly loses all credibility</kw></p>
+				</div>
+				<div class="postsignature"><hr><img class="sigimage" src="http://crysis.nbtxathcx.net/kona-iCavatars.png" alt="http://crysis.nbtxathcx.net/kona-iCavatars.png"></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301382" class="blockpost rowodd">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#11&nbsp;</kw></span><a href="viewtopic.php?pid=301382#p301382"><kw class="krdwrd-tag-1">29-12-2007 18:44:57</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=9213"><kw class="krdwrd-tag-1">EddyVercetti</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">CryChild</kw></strong></dd>
+					<dd class="postavatar"></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 03-05-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 40</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">I bet those game companies paid them to nominate them, either through advertisements or bribes.&nbsp; All those games suck at graphics.&nbsp; Crysis is still the best.</kw></p>
+				</div>
+				<div class="postsignature"><hr><img class="sigimage" src="http://img72.imageshack.us/img72/6619/eddyvercettiradioactiveox6.gif" alt="http://img72.imageshack.us/img72/6619/eddyvercettiradioactiveox6.gif"></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301385" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#12&nbsp;</kw></span><a href="viewtopic.php?pid=301385#p301385"><kw class="krdwrd-tag-1">29-12-2007 18:51:20</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=258"><kw class="krdwrd-tag-1">Nappy</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">&lt;3 Me, I'm An Admin</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/258.jpg" alt="" height="90" width="104"></dd>
+					<dd><kw class="krdwrd-tag-1">From: Maryland</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 31-05-2006</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 1835</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">Hard to take them seriously after that. Funny, I remember them having a video of them playing the demo, and they were amazed with the graphics. It was also playing extremely well. That should have been enough to get Best Graphics. I wish I could contact them directly lol.</kw></p>
+				</div>
+				<div class="postsignature"><hr><img class="sigimage" src="http://img173.imageshack.us/img173/4215/e8nappyblur21eh.png" alt="http://img173.imageshack.us/img173/4215/e8nappyblur21eh.png"><br><kw class="krdwrd-tag-1">Quote from: Mocib, Mowaza, Antimerc191, ehal256: OM NOM NOM NOM</kw></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301387" class="blockpost rowodd">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#13&nbsp;</kw></span><a href="viewtopic.php?pid=301387#p301387"><kw class="krdwrd-tag-1">29-12-2007 18:54:24</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=23618"><kw class="krdwrd-tag-1">mal32dll</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">CryChild</kw></strong></dd>
+					<dd class="postavatar"></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 14-11-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 35</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">Lets be honest here... who really cares what Gametrailers thinks? I mean, thats their take on it, and I don't know about you guys, but I generally don't even follow "Best Game of the year awards!1!" Its all about what I think personally anyways, and its nothing to loose sleep over.</kw></p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301399" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#14&nbsp;</kw></span><a href="viewtopic.php?pid=301399#p301399"><kw class="krdwrd-tag-1">29-12-2007 19:27:47</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=25070"><kw class="krdwrd-tag-1">ubernoob</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Colonel</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/25070.jpg" alt="" height="80" width="80"></dd>
+					<dd><kw class="krdwrd-tag-1">From: With the Klingons</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 28-11-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 441</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<blockquote><div class="incqbox"><h4><kw class="krdwrd-tag-1">mal32dll wrote:</kw></h4><p><kw class="krdwrd-tag-1">Lets be honest here... who really cares what Gametrailers thinks? I mean, thats their take on it, and I don't know about you guys, but I generally don't even follow "Best Game of the year awards!1!" Its all about what I think personally anyways, and its nothing to loose sleep over.</kw></p></div></blockquote><p><kw class="krdwrd-tag-3">We start to care when reviews over there start to convice EA that this franchise isn't worth investing money in.</kw><br><br><kw class="krdwrd-tag-3">Especially when idiots (aka the 10 million people that buy halo) don't buy Crysis and make it harder for US to get crysis 2.</kw><br><br><kw class="krdwrd-tag-3">That, or ht enext crysis is gonna have the master chief in it.</kw></p>
+					<p class="postedit"><em><kw class="krdwrd-tag-1">Last edited by ubernoob (29-12-2007 19:28:35)</kw></em></p>
+				</div>
+				<div class="postsignature"><hr><kw class="krdwrd-tag-1">Team America: "America!.....**** YEA!"</kw><br><a href="http://www.youtube.com/watch?v=DqaWdkdFb3Y"><kw class="krdwrd-tag-1">http://www.youtube.com/watch?v=DqaWdkdFb3Y</kw></a><kw class="krdwrd-tag-1"> SeaWarriors</kw><br><a href="http://www.youtube.com/watch?v=puVmKfCwb4M&amp;feature=related"><kw class="krdwrd-tag-1">http://www.youtube.com/watch?v=puVmKfCw … re=related</kw></a><kw class="krdwrd-tag-1"> Enterprise</kw><br><kw class="krdwrd-tag-1">THERE IS AN EXTREMELY HIGH LIKELYHOOD 'SARCASM' IS INCLUDED IN THE POST ABOVE!</kw></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301401" class="blockpost rowodd">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#15&nbsp;</kw></span><a href="viewtopic.php?pid=301401#p301401"><kw class="krdwrd-tag-1">29-12-2007 19:36:13</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=26055"><kw class="krdwrd-tag-1">Uylear</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Colonel</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/26055.jpg" alt="" height="126" width="139"></dd>
+					<dd><kw class="krdwrd-tag-1">From: AY, UK</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 01-12-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 442</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">aye. its a two bit site that belongs to idiots. Who here goes "Oh! i must check gametrailers today for their amazing insights!"</kw><br><br><kw class="krdwrd-tag-3">i guess when the right hardware comea out, they'll be able to play it properly...as we all will. Then people 'll be amazed...</kw></p>
+					<p class="postedit"><em><kw class="krdwrd-tag-1">Last edited by Uylear (29-12-2007 19:38:24)</kw></em></p>
+				</div>
+				<div class="postsignature"><hr><kw class="krdwrd-tag-1">Instigating that I own a PC, are you?</kw><br><kw class="krdwrd-tag-1">Well be assured I do not.</kw><br><kw class="krdwrd-tag-1">Sheer mind power is what propels me here. Mind power, boy!</kw></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301486" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#16&nbsp;</kw></span><a href="viewtopic.php?pid=301486#p301486"><kw class="krdwrd-tag-1">29-12-2007 20:48:58</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=23218"><kw class="krdwrd-tag-1">Girland</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">CryChild</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/23218.jpg" alt="" height="150" width="150"></dd>
+					<dd><kw class="krdwrd-tag-1">From: Dallas, TX</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 07-11-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 51</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><span style="color: pink;"><kw class="krdwrd-tag-1">[Cool down, okay? -RTsa]</kw></span></p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301498" class="blockpost rowodd">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#17&nbsp;</kw></span><a href="viewtopic.php?pid=301498#p301498"><kw class="krdwrd-tag-1">29-12-2007 21:10:41</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=9379"><kw class="krdwrd-tag-1">Axulciex</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">You're 500, great</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/9379.jpg" alt="" height="150" width="150"></dd>
+					<dd><kw class="krdwrd-tag-1">From: Aus</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 06-05-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 516</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">They also said Xbox360 had dx10. hahahah</kw><br><br><kw class="krdwrd-tag-3">We can bitch all we want, there needs to be a place that counters for console fanboys. lucky theres just one actually.</kw><br><kw class="krdwrd-tag-3">Still this pisses me off; it was blatant admission of console bias in review form, if thats not unprofessional journalism I don't know what is.</kw></p>
+				</div>
+				<div class="postsignature"><hr><kw class="krdwrd-tag-1">.</kw><br><img class="sigimage" src="http://img145.imageshack.us/img145/5733/bcomp2io2.gif" alt="http://img145.imageshack.us/img145/5733/bcomp2io2.gif"></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301510" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#18&nbsp;</kw></span><a href="viewtopic.php?pid=301510#p301510"><kw class="krdwrd-tag-1">29-12-2007 21:22:38</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=8441"><kw class="krdwrd-tag-1">FAcTor-X</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">CryChild</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/8441.jpg" alt="" height="118" width="123"></dd>
+					<dd><kw class="krdwrd-tag-1">From: New York</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 20-04-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 48</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">Here's an edited video on youtube that expresses the extent of this debacle:</kw><br><br><a href="http://www.youtube.com/watch?v=QYQzWYYZPwY"><kw class="krdwrd-tag-1">http://www.youtube.com/watch?v=QYQzWYYZPwY</kw></a></p>
+					<p class="postedit"><em><kw class="krdwrd-tag-1">Last edited by FAcTor-X (29-12-2007 21:23:24)</kw></em></p>
+				</div>
+				<div class="postsignature"><hr><img class="sigimage" src="http://img130.imageshack.us/img130/4141/26724932ok3.png" alt="http://img130.imageshack.us/img130/4141/26724932ok3.png"><br><img class="sigimage" src="http://img154.imageshack.us/img154/4026/47133243ff2.png" alt="http://img154.imageshack.us/img154/4026/47133243ff2.png"></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301533" class="blockpost rowodd">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#19&nbsp;</kw></span><a href="viewtopic.php?pid=301533#p301533"><kw class="krdwrd-tag-1">29-12-2007 21:54:16</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=17193"><kw class="krdwrd-tag-1">excessiveplayer</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">I Wish I Was An Admin</kw></strong></dd>
+					<dd class="postavatar"><img src="img/avatars/17193.jpg" alt="" height="113" width="150"></dd>
+					<dd><kw class="krdwrd-tag-1">From: the dawn of time!</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 13-09-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 4506</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">I lost complete respect towards Gametrailers. I would understand Crysis not winning the GOTY but not even nominate it? wow, that's weak. 3/4 of those games are all Console ones. Although I find COD4 very attractive. I would still nominate Crysis.</kw></p>
+					<p class="postedit"><em><kw class="krdwrd-tag-1">Last edited by excessiveplayer (29-12-2007 21:54:36)</kw></em></p>
+				</div>
+				<div class="postsignature"><hr><strong><kw class="krdwrd-tag-1">E6420 @ 3.45Ghz, CoolerMaster Stacker 830, EVGA 8800GT @ SSC speeds 4GB DDR3 1800Mhz, Asus Maximus Extreme motherboard w/ water cooled North and South brigdes, D-tek FuZion CPU block, Swiftech MCP655 Pump, 640GB SATA2 7200RPM HDs&nbsp; Thermaltake Toughpower 1200W PSU 22" LCD</kw></strong><br><a href="http://youtube.com/watch?v=eBGIQ7ZuuiU"><img class="sigimage" src="http://img398.imageshack.us/img398/3657/crysissigcopyiq5.jpg" alt="http://img398.imageshack.us/img398/3657/crysissigcopyiq5.jpg"></a><br><span style="color: red;"><strong><kw class="krdwrd-tag-1">IF IT AIN'T BROKEN, DON'T TRY TO FIX IT!!!</kw></strong></span></div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><strong><kw class="krdwrd-tag-1">Online</kw></strong></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p301560" class="blockpost roweven">
+	<h2><span><span class="conr"><kw class="krdwrd-tag-1">#20&nbsp;</kw></span><a href="viewtopic.php?pid=301560#p301560"><kw class="krdwrd-tag-1">29-12-2007 22:45:35</kw></a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=13693"><kw class="krdwrd-tag-1">Sinergy</kw></a></strong></dt>
+					<dd class="usertitle"><strong><kw class="krdwrd-tag-1">Crysis Chicken</kw></strong></dd>
+					<dd class="postavatar"></dd>
+					<dd><kw class="krdwrd-tag-1">Registered: 11-08-2007</kw></dd>
+					<dd><kw class="krdwrd-tag-1">Posts: 148</kw></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3><kw class="krdwrd-tag-1"> Re: Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></h3>
+				<div class="postmsg">
+					<p><kw class="krdwrd-tag-3">They didn't nominate it because of "theoretical </kw><em><kw class="krdwrd-tag-3">performance</kw></em><kw class="krdwrd-tag-3">'.</kw><br><br><kw class="krdwrd-tag-3">This was a best GRAPHICS award, not best graphics with 60fps.</kw></p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p><kw class="krdwrd-tag-1">Offline</kw></p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div class="postlinksb">
+	<div class="inbox">
+		<p class="postlink conr"><kw class="krdwrd-tag-1">Topic closed</kw></p>
+		<p class="pagelink conl"><kw class="krdwrd-tag-1">Pages: </kw><strong><kw class="krdwrd-tag-1">1</kw></strong>&nbsp;<a href="viewtopic.php?id=17197&amp;p=2"><kw class="krdwrd-tag-1">2</kw></a>&nbsp;<a href="viewtopic.php?id=17197&amp;p=3"><kw class="krdwrd-tag-1">3</kw></a><kw class="krdwrd-tag-1">&nbsp;…&nbsp;</kw><a href="viewtopic.php?id=17197&amp;p=6"><kw class="krdwrd-tag-1">6</kw></a></p>
+		<ul><li><a href="index.php"><kw class="krdwrd-tag-1">Index</kw></a></li><li><kw class="krdwrd-tag-1">&nbsp;»&nbsp;</kw><a href="viewforum.php?id=2"><kw class="krdwrd-tag-1">General Discussion</kw></a></li><li><kw class="krdwrd-tag-1">&nbsp;»&nbsp;Game Trailers doesn't even nominate Crysis for best GRAPHICS!</kw></li></ul>
+		<div class="clearer"></div>
+	</div>
+</div>
+	
+<div id="brdfooter" class="block">
+	<h2><span><kw class="krdwrd-tag-1">Board footer</kw></span></h2>
+	<div class="box">
+		<div class="inbox">
+
+			<div class="conl">
+				<form id="qjump" method="get" action="viewforum.php">
+					<div><label><kw class="krdwrd-tag-1">Jump to
+					</kw><br><select name="id" onchange="window.location=('viewforum.php?id='+this.options[this.selectedIndex].value)">
+						<optgroup label="inCrysis">
+							<option class="krdwrd-tag-1" value="17">Introduction</option>
+							<option class="krdwrd-tag-1" value="7">inCrysis Site Development</option>
+						</optgroup>
+						<optgroup label="Crysis: Warhead">
+							<option class="krdwrd-tag-1" value="30">News &amp; Info</option>
+							<option class="krdwrd-tag-1" value="31">General Discussion</option>
+							<option class="krdwrd-tag-1" value="32">Crysis: Warhead Wallpapers &amp; Fan Art</option>
+						</optgroup>
+						<optgroup label="Crysis">
+							<option class="krdwrd-tag-1" value="3">News &amp; Info</option>
+							<option class="krdwrd-tag-1" value="2" selected="selected">General Discussion</option>
+							<option class="krdwrd-tag-1" value="25">Single Player</option>
+							<option class="krdwrd-tag-1" value="22">Multiplayer</option>
+							<option class="krdwrd-tag-1" value="26">Technical Support</option>
+							<option class="krdwrd-tag-1" value="4">CryEngine 2</option>
+							<option class="krdwrd-tag-1" value="11">Crysis Wallpapers &amp; Fan Art</option>
+						</optgroup>
+						<optgroup label="Crysis Modding">
+							<option class="krdwrd-tag-1" value="24">SandBox 2 Editor</option>
+							<option class="krdwrd-tag-1" value="18">Mod Discussion</option>
+							<option class="krdwrd-tag-1" value="29">Map Discussion</option>
+						</optgroup>
+						<optgroup label="Off Topic">
+							<option class="krdwrd-tag-1" value="5">Off Topic</option>
+							<option class="krdwrd-tag-1" value="16">Other Gaming</option>
+							<option class="krdwrd-tag-1" value="8">Tech Section</option>
+							<option class="krdwrd-tag-1" value="14">Off Topic Wallpapers &amp; Art</option>
+						</optgroup>
+						<optgroup label="Archive">
+							<option class="krdwrd-tag-1" value="15">The Outhouse</option>
+							<option class="krdwrd-tag-1" value="20">Crysis Beta Discussion</option>
+							<option class="krdwrd-tag-1" value="21">Crysis Demo Discussion</option>
+					</optgroup>
+					</select>
+					<input value=" Go " accesskey="g" type="submit">
+					</label></div>
+				</form>
+			</div>
+<p class="conr"><br><kw class="krdwrd-tag-1">© Copyright 2002–2005 Rickard Andersson</kw></p>
+	<div class="clearer"></div>	
+		</div>
+	</div>
+</div>	
+</div>
+</div>
+</div>
+</div>
+<div id="footer" style="margin-top: -12px;">
+<table style="margin: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="885">
+
+        <tbody><tr>
+		 <td height="17" width="265"></td>
+          <td height="17" width="42"></td>
+          <td height="17" width="607"></td>
+        </tr>
+        <tr>
+		 <td width="265"><a href=""><img src="http://www.incrysis.com/templates/Default/images/spacer.gif" border="0" height="50" width="50"></a><a href=""><img src="http://www.incrysis.com/templates/Default/images/spacer.gif" border="0" height="50" width="160"></a></td>
+          <td align="right" valign="top"><a href="http://www.incrysis.com/index.php?option=com_rss&amp;feed=RSS0.91&amp;no_html=1"><img src="http://www.incrysis.com/templates/Default/images/feeds.gif" border="0" height="32" width="32"></a>&nbsp;&nbsp;</td>
+          <td align="left" valign="top"><a href="http://www.incrysis.com/index.php?option=com_frontpage&amp;Itemid=1"><kw class="krdwrd-tag-1">HOME</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.incrysis.com/index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2"><kw class="krdwrd-tag-1">NEWS</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="../index.php?option=com_content&amp;task=view&amp;id=22&amp;Itemid="><kw class="krdwrd-tag-1">INFO</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.incrysis.com/index.php?option=com_incvideo"><kw class="krdwrd-tag-1">DOWNLOADS</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.incrysis.com/index.php?option=com_incgallery"><kw class="krdwrd-tag-1">SCREENSHOTS</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.incrysis.com/wiki/index.php/Main_Page"><kw class="krdwrd-tag-1">WIKI</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.incrysis.com/forums/"><kw class="krdwrd-tag-1">FORUMS</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.incrysis.com/index.php?option=com_weblinks&amp;Itemid=23"><kw class="krdwrd-tag-1">LINKS</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.incrysis.com/index.php?option=com_contact&amp;Itemid=3"><kw class="krdwrd-tag-1">CONTACT</kw></a> <br>
+<a href="http://www.incrysis.com/index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid="><kw class="krdwrd-tag-1">Terms Of Use</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.incrysis.com/index.php?option=com_content&amp;task=view&amp;id=21&amp;Itemid="><kw class="krdwrd-tag-1">Privacy Policy</kw></a><br>
+            <span style="font-size: 10px; color: rgb(204, 204, 204);"><kw class="krdwrd-tag-1">Copyright 2008 InCrysis.com All Rights Reserved</kw><br><kw class="krdwrd-tag-1">
+            Electronic Arts, EA, and the EA logo are trademarks or registered trademarks of Electronic Arts Inc.</kw><br><kw class="krdwrd-tag-1">
+            Crysis, CryEngine, CryEngine 2, Polybump, and Crytek are trademarks or registered trademarks of Crytek GMBH</kw></span>
+</td>
+        </tr>
+
+  </tbody></table>
+</div>
+
+
+</body>

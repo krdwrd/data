@@ -1,0 +1,563 @@
+<head><base href="http://pub9.bravenet.com/forum/768225695/show/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Scatterwalk Academy Forum - A Bravenet.com Forum</title> 
+
+
+
+    
+    <link rel="shortcut icon" href="http://www.bravenet.com/favicon.ico">
+   
+        
+       	
+    <meta name="host" content="">
+    <meta name="remoteip" content="131.173.33.8">
+	<meta http-equiv="imagetoolbar" content="no">
+
+
+	<script language="javascript" type="text/javascript">
+
+
+    
+    function mailto(domain,user) 
+    { 
+        document.location.href = "mailto:" + user + "@" + domain; 
+    }
+
+    function PopupWindow(href, w, h, settings)
+    {
+        leftpos = (screen.width) ? (screen.width-w)/2 : 0;
+        toppos = (screen.height) ? (screen.height-h)/2 : 0;
+        settings = 'height='+h+',width='+w+',top='+toppos+',left='+leftpos+' '+settings;
+        window.open(href, 'popupwindow', settings)
+    }
+        </script>
+        <style type="text/css">
+
+		#headerWrapper { background: url('http://assets.bravenet.com/bravenet/images/secure_service/background_secure.gif') repeat-x;}
+		.menuText { display: none; } 
+		#toolsHeader { background: url('http://assets.bravenet.com/bravenet/images/secure_service/tools_header.gif') no-repeat; width: 980px; height: 114px; margin: auto; }
+		#toolsHeaderConduit { background: url('http://assets.bravenet.com/common/images/webtools/default_tools_top.gif') no-repeat; width: 980px; height: 114px; margin: auto; }
+		#viewUpgrade a { color: #ff5b0a; }
+		#viewUpgrade { float: right; font-family: trebuchet MS, arial; height: 79px; font-weight: bold; font-size: 12pt; margin: 0px; }
+		#upgradeWrapper { padding-top: 25px; color: #666; }
+		#upgradeWrapper a, #upgradeWrapper a:visited { color: #FF5B0A; }
+		
+		#toolsNav { height: 35px; width: 920px; clear: both; }
+		
+		.conduitBar { position: relative; top: 80px; }
+		
+		
+		ul#toolsNavBar { list-style-type: none;  width: 950px; height: 35px; }
+		ul#toolsNavBar li { float: right; margin-top: 8px; padding: 0 10px; border-left: 1px solid #fff;}
+		ul#toolsNavBar li a, ul#toolsNavBar li a:visited { float: left }
+		
+		ul#toolsNavBar li a#membersarea, ul#toolsNavBar li a#membersarea:visited { background: url('http://assets.bravenet.com/bravenet/images/secure_service/menu_members_area.gif') no-repeat; width: 99px; height: 17px; }
+		ul#toolsNavBar li a#membersarea:hover { background: url('http://assets.bravenet.com/bravenet/images/secure_service/menu_members_area2.gif') no-repeat; width: 99px; height: 17px; }
+		
+		ul#toolsNavBar li a#servicemanager, ul#toolsNavBar li a#servicemanager:visited { background: url('http://assets.bravenet.com/bravenet/images/secure_service/menu_service_menu.gif') no-repeat; width: 115px; height: 17px; }
+		ul#toolsNavBar li a#servicemanager:hover { background: url('http://assets.bravenet.com/bravenet/images/secure_service/menu_service_menu2.gif') no-repeat; width: 115px; height: 17px; }
+				
+		ul#toolsNavBar li a#viewloggedout, ul#toolsNavBar li a#viewloggedout:visited { background: url('http://assets.bravenet.com/bravenet/images/secure_service/menu_logged_out_view.gif') no-repeat; width: 182px; height: 17px; }
+		ul#toolsNavBar li a#viewloggedout:hover {  background: url('http://assets.bravenet.com/bravenet/images/secure_service/menu_logged_out_view2.gif') no-repeat; width: 182px; height: 17px; }
+
+		ul#toolsNavBar li a#gethosting, ul#toolsNavBar li a#gethosting:visited { background: url('http://assets.bravenet.com/common/images/webtools/menu_gethosting.gif') no-repeat; width: 143px; height: 17px; }
+		ul#toolsNavBar li a#gethosting:hover { background: url('http://assets.bravenet.com/common/images/webtools/menu_gethosting2.gif') no-repeat; width: 143px; height: 17px; }
+
+		ul#toolsNavBar li a#gettools, ul#toolsNavBar li a#gettools:visited { background: url('http://assets.bravenet.com/common/images/webtools/menu_gettools.gif') no-repeat; width: 128px; height: 17px; }
+		ul#toolsNavBar li a#gettools:hover { background: url('http://assets.bravenet.com/common/images/webtools/menu_gettools2.gif') no-repeat; width: 128px; height: 17px; }
+
+        .formbutton {border:1px solid #969696;font:11px tahoma,arial,helvetica;background-color: #eeeeee;}
+
+        #colorSwatch {z-index: 20; display: none; text-align: center; position: absolute; left: 9px; top: 0px; background-color: #fff; border: 1px solid black; padding: 1px 6px 1px 6px;}
+        
+		#sponsorBar { text-align: center;}
+		#sponsorBar ul li a, #sponsorBar ul li a:visited {font: bold 11px tahoma,arial; text-decoration: underline; color: #004891;}
+
+        #miniBarList { text-align: center; margin: auto; padding: 0px; height: 29px; margin-bottom: 10px; width: 728px; background-color: #fff; border: 1px solid #dfdfdf; }
+        #miniBarList li { list-style-type: none; margin: 7px 13px 0 13px; padding: 0; float: left; }        
+        #miniBarList li.trial { padding: 0px; margin: 0px; float: none;}
+        #miniBarList li.trial img { float: right;}
+        
+        .blackBorder { border: 1px solid black; }
+		.cancelButton { text-align: left; font: 10px tahoma; padding-top: 2px; text-align: center; }
+		.centeringBar { margin-top: 30px; margin-bottom: 5px; }
+		.colorTable { cursor: pointer; border-collapse: collapse; }
+		.tableColorBorder { border: 1px solid #000000; font-size: 2px; width: 6px; height: 6px; background-color: #000000; }
+		
+                .pagerbutton 			{ text-align: center; padding:2px; border:1px solid #ff4400;font:12px verdana,arial,helvetica;background-color: #000000;cursor:pointer; color: #ffffff; }
+        .pagerbutton_over 		{ background-color: #ffff88; color: #55ccff; }
+        .pagerbutton_disabled 	{ cursor: default; padding:2px; color: #aaaaaa;}
+        
+body { margin: 0px; padding:0px;background-color: #000000; font: 12px lucida sans unicode; color: #FFFFFF; font-weight: bold; font-style: normal; text-decoration: none; background-image: url(http://inmemoryofwwr.com/myPictures/Ocean%20Wave.jpg);}
+.tablea { background-color: #000000; font: 13px Verdana; color: #FFFFFF; font-weight: normal; font-style: normal; text-decoration: none;}
+.tableb { background-color: #000000; font: 13px Verdana; color: #FFFFFF; font-weight: normal; font-style: normal; text-decoration: none;}
+.title { font: 50px lucida sans unicode; color: #FFFFFF; font-weight: bold; font-style: italic; text-decoration: underline; }
+.text { font: 12px lucida sans unicode; color: #FFFFFF; font-weight: bold; font-style: normal; text-decoration: none; }
+
+.subject { font: 12px lucida sans unicode; color: #FFFFFF; font-weight: bold; font-style: normal; text-decoration: none; }
+.subject a { font: 16px lucida sans unicode; color: #ffcc00; font-weight: bold; font-style: normal; text-decoration: underline; }
+.subject a:visited { font: 16px lucida sans unicode; color: #ee4400; font-weight: bold; font-style: normal; text-decoration: underline; }
+.subject a:hover { font: 16px lucida sans unicode; color: #ee4400; font-weight: bold; font-style: normal; text-decoration: underline; }
+
+
+a                 { font: 16px lucida sans unicode; color: #ffcc00; font-weight: bold; font-style: normal; text-decoration: underline; }
+a:visited         { font: 16px lucida sans unicode; color: #ffcc00; font-weight: bold; font-style: normal; text-decoration: underline; }
+a:hover           { font: 16px lucida sans unicode; color: #ffcc00; font-weight: bold; font-style: normal; text-decoration: underline; }
+
+.tablea a         { font: 16px lucida sans unicode; color: #ffcc00; font-weight: bold; font-style: normal; text-decoration: underline; text-decoration: underline; }
+.tablea a:visited { font: 16px lucida sans unicode; color: #ee4400; font-weight: bold; font-style: normal; text-decoration: underline; text-decoration: underline; }
+.tablea a:hover   { font: 16px lucida sans unicode; color: #ee4400; font-weight: bold; font-style: normal; text-decoration: underline; text-decoration: underline; }
+
+    </style>
+    
+        
+	<style type="text/css">
+.withborder tr td {
+    border: 1px solid #000000;
+}
+.withborder tr th {
+    border: 1px solid #000000;
+}
+.withborder {
+    border-collapse: collapse;
+}
+</style></head><body>
+
+
+
+
+
+
+
+<script type="text/javascript" charset="utf-8">
+var redvase_ad = { version: 1.6 };
+redvase_ad.publisher = 'bravenet';
+redvase_ad.kind = 'popunder';
+redvase_ad.content = 'pop';
+redvase_ad.alternate = 'floatingblock';
+redvase_ad.core = '0';
+redvase_ad.serv = '005';
+redvase_ad.bncat = '000';
+</script>
+<script src="http://redvase.bravenet.com/javascripts/redvase.js" type="text/javascript" charset="utf-8"></script><script src="http://redvase.bravenet.com/pop/bravenet/popunder/floatingblock?bncat=000&amp;serv=005&amp;core=0&amp;r=1233405179322" type="text/javascript" charset="utf-8"></script>
+<script src="http://redvase.bravenet.com/pop/bravenet/popunder/floatingblock?bncat=000&amp;serv=005&amp;core=0&amp;r=1214824844977" type="text/javascript" charset="utf-8"></script>
+
+
+
+	<div class="centeringBar" align="center">		
+				<div id="sponsorBar" style="">
+			<ul id="miniBarList">
+	            <li><a href="http://www.bravenet.com/webhosting/" target="_new"><kw class="krdwrd-tag-1">Web Hosting</kw></a></li>
+	            <li><a href="http://www.bravenet.com/webtools/guestbook/" target="_new"><kw class="krdwrd-tag-1">Guestbooks</kw></a></li>
+	            <li><a href="http://www.bravenet.com/webtools/forum/" target="_new"><kw class="krdwrd-tag-1">Message Forum</kw></a></li>
+	            <li><a href="http://www.bravenet.com/webtools/journal/" target="_new"><kw class="krdwrd-tag-1">Blogs</kw></a></li>
+	            <li><a href="http://www.bravenet.com/webtools/elist/" target="_new"><kw class="krdwrd-tag-1">Mailing List</kw></a></li>
+	            <li><a href="http://www.bravenetmedia.com" target="_new"><kw class="krdwrd-tag-1">Advertise</kw></a></li>
+	            <li class="trial"><a href="http://www.trialpay.com/t/productpage/?c=7fgdtm&amp;tid=6rGU1Cp&amp;sid=768225695%3aforum"><img src="http://assets.bravenet.com/common/images/partners/trialpay.gif" border="0"></a></li>
+	        </ul>
+        </div>
+		<!-- BRAVENET INJECTION --><script language="javascript" type="text/javascript" src="http://mercury.bravenet.com/rover/a?dbfile=SPONSORBAR_DB&amp;xs=582732&amp;core=0&amp;serv=forum&amp;bncat=000&amp;term=005"></script><script type="text/javascript" charset="utf-8">
+var redvase_ad = { version: 1.4 };
+redvase_ad.publisher = 'bravenet';
+redvase_ad.kind      = 'leaderboard';
+redvase_ad.core = '0';
+redvase_ad.serv = 'forum';
+</script>
+<script src="http://redvase.bravenet.com/javascripts/redvase.js" type="text/javascript" charset="utf-8"></script><script src="http://redvase.bravenet.com/creative/bravenet/leaderboard?serv=forum&amp;core=0&amp;r=1233405179373" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" charset="utf-8">
+document.writeln('<img src="http://mercury.bravenet.com/network/v/trans.gif?aid=47254&r='+(new Date().getTime())+'"/>')
+</script><img src="http://mercury.bravenet.com/network/v/trans.gif?aid=47254&amp;r=1233405179379">
+
+<script type="text/javascript" charset="utf-8">
+var redvase_ad = { version: 1.4 };
+redvase_ad.publisher = 'bravenet';
+redvase_ad.kind      = 'leaderboard';
+redvase_ad.core = '0';
+redvase_ad.serv = 'forum';
+</script>
+<script src="http://redvase.bravenet.com/javascripts/redvase.js" type="text/javascript" charset="utf-8"></script><script src="http://redvase.bravenet.com/creative/bravenet/leaderboard?serv=forum&amp;core=0&amp;r=1233405179388" type="text/javascript" charset="utf-8"></script>
+<script src="http://redvase.bravenet.com/creative/bravenet/leaderboard?serv=forum&amp;core=0&amp;r=1214824845043" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" charset="utf-8">
+document.writeln('<img src="http://mercury.bravenet.com/network/v/trans.gif?aid=47254&r='+(new Date().getTime())+'"/>')
+</script><img src="http://mercury.bravenet.com/network/v/trans.gif?aid=47254&amp;r=1233405179398">
+<img src="http://mercury.bravenet.com/network/v/trans.gif?aid=47254&amp;r=1214824845048">
+
+<!-- BRAVENET INJECTION -->	
+	</div>
+
+
+<div align="center">
+<div style="width: 100%; margin-left: auto; margin-right: auto;">
+
+<table border="0">
+    <tbody><tr><td valign="top"></td>
+        <!--td>&nbsp;&nbsp;</td-->
+                <td align="center" valign="top"><div class="title"><kw class="krdwrd-tag-mrgtie">Scatterwalk Academy Forum</kw></div>
+                        <div class="text" style="padding-top: 10px; text-align: center;"><p><font size="5"><kw class="krdwrd-tag-1">Welcome to Our New Home !</kw></font></p>  <p><font size="3"><kw class="krdwrd-tag-1">Brought to you by </kw><a href="http://www.inmemoryofwwr.com/"><kw class="krdwrd-tag-1">www.InMemoryOfWWR.com</kw></a></font></p></div>
+                <br>
+                </td>
+            </tr>
+    <tr>
+        <td colspan="3" align="center">
+                                                            <a href="http://www.bravenet.com/search/forum.php"><kw class="krdwrd-tag-1">Search For Similar Forums</kw></a><kw class="krdwrd-tag-1">
+                        &nbsp; · &nbsp;
+                                        </kw><a href="http://www.Scatterwalk.com" target="_self"><kw class="krdwrd-tag-1">Return to Website</kw></a>
+                        </td>
+    </tr>
+</tbody></table>
+<br>
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+            <tbody><tr>
+                <td><div class="pagerbutton pagerbutton_disabled"><img src="http://assets.bravenet.com/common/images/pager/7/pagefirst.gif" align="absmiddle" border="0"><kw class="krdwrd-tag-1">&nbsp;&nbsp;First</kw></div></td>
+                <td><div class="pagerbutton pagerbutton_disabled"><img src="http://assets.bravenet.com/common/images/pager/7/pageback.gif" align="absmiddle" border="0"><kw class="krdwrd-tag-1">&nbsp;&nbsp;Prev</kw></div></td>
+                <td><div class="pagerbutton" style="text-align: center;" onmouseover="this.className='pagerbutton pagerbutton_over'" onmouseout="this.className='pagerbutton'" onclick="location.href='/forum/add.php?usernum=768225695&amp;reply=518898&amp;cp='"><img src="http://assets.bravenet.com/common/images/pager/7/postmessage.gif" align="absmiddle" border="0"><kw class="krdwrd-tag-1">&nbsp;&nbsp;Reply</kw></div></td>
+                <td><div class="pagerbutton" onmouseover="this.className='pagerbutton pagerbutton_over'" onmouseout="this.className='pagerbutton'" onclick="location.href='/forum/768225695/'"><img src="http://assets.bravenet.com/common/images/pager/7/home.gif" align="absmiddle" border="0"><kw class="krdwrd-tag-1">&nbsp;&nbsp;Home</kw></div></td>
+                <td><div class="pagerbutton pagerbutton_disabled"><kw class="krdwrd-tag-1">Next&nbsp;&nbsp;</kw><img src="http://assets.bravenet.com/common/images/pager/7/pageahead.gif" align="absmiddle" border="0"></div></td>
+                <td><div class="pagerbutton pagerbutton_disabled"><kw class="krdwrd-tag-1">Last&nbsp;&nbsp;</kw><img src="http://assets.bravenet.com/common/images/pager/7/pagelast.gif" align="absmiddle" border="0"></div></td>
+            </tr>
+        </tbody></table><div style="text-align: center; float: right; padding-right: 5px;">
+<form action="/forum/show.php" method="post" style="display: inline;"><input name="usernum" value="768225695" type="hidden"><kw class="krdwrd-tag-1">Search this Forum: </kw><input name="searchfor" value="" type="text"> &nbsp; <input value="Search" type="submit"></form>
+</div>
+<table><tbody><tr><td colspan="3" align="left"><span class="text"><kw class="krdwrd-tag-1">Viewing Page 1 of 1 (Total Posts: 5)</kw></span></td></tr></tbody></table><br>
+<br>
+
+
+
+
+
+<table class="withborder" border="0" cellpadding="10" cellspacing="0" width="100%">
+    <tbody><tr class="tableb">
+        <td style="font-weight: bold;" width="220"><kw class="krdwrd-tag-1"> Author  </kw></td>
+        <td style="font-weight: bold;"><kw class="krdwrd-tag-mrgtie">Comment &nbsp; &nbsp; 
+                                </kw></td>
+    </tr>
+        <tr class="tablea">
+        <td align="left" valign="top">
+                        <b><kw class="krdwrd-tag-1">Teleri Grimm</kw></b>
+            <br><br>
+            <div style="margin-top: 2px;" onmouseover="javascript:window.status='Click to view details';" onmouseout="javascript:window.status='';">
+                                    <span style="cursor: pointer;" onclick="javascript: document.getElementById('info518898').style.display = (document.getElementById('info518898').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/mail.gif" alt=",3" border="0"></span>
+                                <span style="cursor: pointer;" onclick="javascript: document.getElementById('info518898').style.display = (document.getElementById('info518898').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/link.gif" alt="" border="0"></span>            </div>
+                        <br><br><kw class="krdwrd-tag-1">
+            Jul 14, 06 - 1:54 PM        </kw></td>
+        <td align="left" valign="top">
+                        <b><kw class="krdwrd-tag-2">Second Floor - The Divine Hall</kw></b>
+            <br><br><kw class="krdwrd-tag-3">
+            The Divine Order is led by Master Teleri Grimm and teaches the magic of nature along with the history, religion and culture of the celtic people. </kw><br><kw class="krdwrd-tag-3">
+This chamber is filled with celtic and viking artifacts and decorated with a fusion of the two distinct cultures. Among the various relics, statues, and tapestries is a decorated door and a fountain lit from a small window near the ceiling. In the sunlit water the misty face of Master Grimm can be seen.            </kw><div id="info518898" style="margin-top: 15px; display: none;">
+                                    <b><kw class="krdwrd-tag-3">Character E-mail (optional)</kw></b> <a href="javascript:mailto('',',3');"><kw class="krdwrd-tag-3">,3</kw></a><br><br>
+                                </div>
+        </td>
+    </tr>
+        <tr class="tablea">
+       <td align="left" valign="top">
+                        <b><kw class="krdwrd-tag-1">Teleri Grimm</kw></b>
+            <br><br>
+            <div style="margin-top: 2px;" onmouseover="javascript:window.status='Click to view details';" onmouseout="javascript:window.status='';">
+                                    <span style="cursor: pointer;" onclick="javascript: document.getElementById('info519670').style.display = (document.getElementById('info519670').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/mail.gif" border="0"></span>
+                                <span style="cursor: pointer;" onclick="javascript: document.getElementById('info519670').style.display = (document.getElementById('info519670').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/link.gif" alt="www.scatterwalk.com/divine/index.html" border="0"></span>            </div>
+                        <br><br><kw class="krdwrd-tag-1">
+            Jul 18th, 2006 - 12:11 PM        </kw></td>
+        <td align="left" valign="top">
+                        <img src="http://assets.bravenet.com/common/images/forum/icons/set11.gif" align="absmiddle">
+                        <b><kw class="krdwrd-tag-2">Grimm's Order</kw></b>
+            <br><br><kw class="krdwrd-tag-3">
+            Anyone that comes to Scatterwalk Academy will wander through my classroom.  You may begin your studies here:  http://www.scatterwalk.com/divine/index.html            </kw><div id="info519670" style="margin-top: 15px; display: none;">
+                                    <b><kw class="krdwrd-tag-2">Character E-mail (optional)</kw></b> <a href="javascript:mailto('',',1');"><kw class="krdwrd-tag-2">,1</kw></a><br><br>
+                                            <b><kw class="krdwrd-tag-2">Personal Web Page (optional)</kw></b> <a href="http://www.scatterwalk.com/divine/index.html"><kw class="krdwrd-tag-2">http://www.scatterwalk.com/divine/index.html</kw></a><br><br>
+                                </div>
+        </td>
+    </tr>
+    <tr class="tablea">
+       <td align="left" valign="top">
+                        <b><kw class="krdwrd-tag-1">Teleri Grimm</kw></b>
+            <br><br>
+            <div style="margin-top: 2px;" onmouseover="javascript:window.status='Click to view details';" onmouseout="javascript:window.status='';">
+                                    <span style="cursor: pointer;" onclick="javascript: document.getElementById('info519671').style.display = (document.getElementById('info519671').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/mail.gif" border="0"></span>
+                                <span style="cursor: pointer;" onclick="javascript: document.getElementById('info519671').style.display = (document.getElementById('info519671').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/link.gif" alt="www.scatterwalk.com/divine/index.html" border="0"></span>            </div>
+                        <br><br><kw class="krdwrd-tag-1">
+            Jul 18th, 2006 - 12:15 PM        </kw></td>
+        <td align="left" valign="top">
+                        <img src="http://assets.bravenet.com/common/images/forum/icons/set11.gif" align="absmiddle">
+                        <b><kw class="krdwrd-tag-2">First Reading - The Celts</kw></b>
+            <br><br><kw class="krdwrd-tag-2">
+            The Medieval Celtic Fringe</kw><br>
+<br><kw class="krdwrd-tag-3">
+Celtic-speaking peoples once ranged across most of northern Europe, from Ireland to the Ukraine, and as far south as the Iberian peninsula and Asia Minor. But the expansion of both the Romans and the Germanic peoples pushed the Celtic world increasingly into the northwestern fringes of Europe, and after Caesar's conquest of Gaul in the first century BC, the only autonomous Celtic-speakers were those living in the British Isles. These Celts too were threatened by both Romans and Germans. The emperor Claudius began the Roman conquest of lowland Britain in AD 43, after which the Britons, like the Gauls, became in varying degrees Romanized. No sooner did they gain their political independence from Rome, in AD 410, than did they face a serious threat from Germanic-speaking raiders living along the North Sea. These peoples, including the Angles and the Saxons, first arrived in Britain as mercenaries, and would eventually come to dominate the same lowland regions that the Romans had conquered and give that land a new name--England. </kw><br>
+<br><kw class="krdwrd-tag-3">
+In the early Middle Ages, Celtic-speaking populations survived in an even smaller fringe, which included Ireland (which was never conquered by the Romans), Cornwall, the Isle of Man, and Wales and Scotland (whose mountainous regions never became Romanized), as well as Brittany and Galicia, settled by Britons in the fifth and sixth centuries AD. Celtic languages predominated in these areas throughout the medieval period, a period in which Christianity mixed with indigenous pagan custom to produce a unique and dynamic culture. The Age of the Saints in the early Celtic churches, which lasted up to the Viking invasions of the ninth century, produced such figures as Patrick, Brigid, David, and Columba. Less famous Celtic monks and craftsmen from the period gave us such masterpieces as the Ardagh Chalice and the Book of Kells, while Celtic bards and clerks composed the Ulster Cycle, the Mabinogi, and the Arthurian legends.</kw><br>
+<br><kw class="krdwrd-tag-mrgtie">
+Who were the Celts?</kw><br>
+<br><kw class="krdwrd-tag-3">
+The Celts were a group of peoples that occupied lands stretching from the British Isles to Gallatia. The Celts had many dealings with other cultures that bordered the lands occupied by these peoples, and even though there is no written record of the Celts stemming from their own documents, we can piece together a fair picture of them from archeological evidence as well as historical accounts from other cultures. </kw><br>
+<br><kw class="krdwrd-tag-3">
+The first historical recorded encounter of a people displaying the cultural traits associated with the Celts comes from northern Italy around 400 BC, when a previously unkown group of barbarians came down from the Alps and displaced the Etruscans from the fertile Po valley, a displacment that helped to push the Etruscans from history's limelight. The next encounter with the Celts came with the still young Roman Empire, directly to the south of the Po. The Romans in fact had sent three envoys to the beseiged Etruscans to study this new force. We know from Livy's The Early History of Rome that this first encounter with Rome was quite civilized: </kw><br>
+<br><kw class="krdwrd-tag-3">
+The Celts told the Roman envoys that this was indeed the first time they had heard of them, but they assumed the Romans must be a courageous people because it was to them that the Etruscans had turned to in their hour of need. And since the Romans had tried to help with an embassy and not with arms, they themselves would not reject the offer of peace, provided the Etruscans ceded part of their seperfluous agricultural land; that was what they, the Celts, wanted.... If it were not given, they would launch an attack before the Romans' eyes, so that the Romans could report back how superior the Gauls were in battle to all others...The Romans then asked whether it was right to demand land from its owners on pain of war, indeed what were the Celts going in Etruria in the first place? The latter defiantly retorted that their right lay in their arms: To the brave belong all things. </kw><br>
+<br><kw class="krdwrd-tag-3">
+The Roman envoys then preceded to break their good faith and helped the Etruscans in their fight; in fact, one of the envoys, Quintas Fabius killed one of the Celtic tribal leaders. The Celts then sent their own envoys to Rome in protest and demand the Romans hand over all members of the Fabian family, to which all three of the original Roman envoys belonged, be given over to the Celts, a move completely in line with current Roman protocol. This of course presented problems for the Roman senate, since the Fabian family was quite powerful in Rome. Indeed, Livy says that: </kw><br>
+<br><kw class="krdwrd-tag-3">
+The party structure would allow no resolution to be made against such nobleman as justice would have required. The Senate...therefore passed examination of the Celts' request to the popular assembly, in which power and influence naturally counted for more. So it happened that those who ought to have been punished were instead appointed for the coming year military tribunes with consular powers (the highest that could be granted). </kw><br>
+<br><kw class="krdwrd-tag-3">
+The Celts saw this as a mortal insult and a host marched south to Rome. The Celts tore through the countryside and several battalions of Roman soilders to lay seige to the Capitol of the Roman Empire. Seven months of seige led to negotiations wherby the Celts promised to leave their seige for a tribute of one thousand pounds of gold, which the historian Pliny tells was very difficult for the entire city to muster. When the gold was being weighed, the Romans claimed the Celts were cheating with faulty weights. It was then that the Celts' leader, Brennus, threw his sword into the balance and and uttered the words vae victis "woe to the Defeated". Rome never withstood another more humiliating defeat and the Celts made an initial step of magnificent proportions into history. </kw><br>
+<br><kw class="krdwrd-tag-mrgtie">
+Other Roman historians tell us more of the Celts. Diodorus notes that: </kw><br>
+<br><kw class="krdwrd-tag-3">
+Their aspect is terrifying...They are very tall in stature, with ripling muscles under clear white skin. Their hair is blond, but not naturally so: they bleach it, to this day, artificially, washing it in lime and combing it back from their foreheaads. They look like wood-demons, their hair thick and shaggy like a horse's mane. Some of them are cleanshaven, but others - especially those of high rank, shave their cheeks but leave a moustache that covers the whole mouth and, when they eat and drink, acts like a sieve, trapping particles of food...The way they dress is astonishing: they wear brightly coloured and embroidered shirts, with trousers called bracae and cloaks fastened at the shoulder with a brooch, heavy in winter, light in summer. These cloaks are striped or checkered in design, with the seperate checks close together and in various colours. </kw><br>
+<br><kw class="krdwrd-tag-3">
+The Celts wear bronze helmets with figures picked out on them, even horns, which made them look even taller than they already are...while others cover themselves with breast-armour made out of chains. But most content themselves with the weapons nature gave them: they go naked into battle...Weird, discordant horns were sounded, they shouted in chorus with their deep and harsh voices, they beat their swords rythmically against their shields. </kw><br>
+<br><kw class="krdwrd-tag-3">
+Diodorus also describes how the Celts cut off their enemies' heads and nailed them over the doors of their huts, as Diodorus states: </kw><br>
+<br><kw class="krdwrd-tag-3">
+In exactly the same way as hunters do with their skulls of the animals they have slain...they preserved the heads of their most high-ranking victims in cedar oil, keeping them carefully in wooden boxes. </kw><br><kw class="krdwrd-tag-3">
+Diodorus Siculus, History. </kw><br>
+<br>
+<br><kw class="krdwrd-tag-3">
+What is a Celt and who are the Glasgow Celtics?</kw><br>
+<br><kw class="krdwrd-tag-3">
+The people who made up the various tribes of concern were called Galli by the Romans and Galatai or Keltoi by the Greeks, terms meaning barbarian. It is from the greek Keltoi that Celt is derived. Since no soft c exists in greek, Celt and Celtic and all permutations should be pronounced with a hard k sound. </kw><br>
+<br><kw class="krdwrd-tag-3">
+It is interesting to note that when the British Empire was distinguishing itself as better and seperate from the rest of humanity, it was decided that British Latin should have different pronunciation from other spoken Latin. Therefore, one of these distinguishing pronunciational differences was to make many of the previously hard k sounds move to a soft s sound, hence the Glasgow and Boston Celtics. It is the view of many today that this soft c pronunciation should be reserved for sports teams since there is obviously nothing to link them with the original noble savegery and furor associated with the Celts. </kw><br>
+<br>
+<br><kw class="krdwrd-tag-2">
+The Six Celtic Languages</kw><br>
+<br><kw class="krdwrd-tag-3">
+There was a unifying language spoken by the Celts, called not suprisingly, old Celtic. Philogists have shown the descendence of Celtic from the original Ur-language and from the Indo-European language tradition. In fact, the form of old Celtic was the closest cousin to Italic, the precursor of Latin. </kw><br>
+<br><kw class="krdwrd-tag-3">
+The original wave of Celtic immigrants to the British Isles are called the q-Celts and spoke Goidelic. It is not known exactly when this immigration occurred but it may be placed somtime in the window of 2000 to 1200 BC. The label q-Celtic stems from the differences between this early Celtic tounge and Italic. Some of the differences between Italic and Celtic included that lack of a p in Celtic and an a in place of an the Italic o. </kw><br>
+<br><kw class="krdwrd-tag-3">
+At a later date, a second wave of immigrants took to the British Isles, a wave of Celts referred to as the p-Celts speaking Brythonic. Goidelic led to the formation of the three Gaelic languages spoken in Ireland, Man and later Scotland. Brythonic gave rise to two British Isles languages, Welsh and Cornish, as well as surviving on the Continent in the form of Breton, spoken in Brittany. </kw><br>
+<br><kw class="krdwrd-tag-3">
+The label q-Celtic stems from the differences between this early Celtic tounge and the latter formed p-Celtic. The differences between the two Celtic branches are simple in theoretical form. Take for example the word ekvos in Indo-European, meaning horse. In q-Celtic this was rendered as equos while in p-Celtic it became epos, the q sound being replaced with a p sound. Another example is the Latin qui who. In q-Celtic this rendered as cia while in p-Celtic it rendered as pwy. It should also be noted that there are still words common to the two Celtic subgroups. </kw><br>
+<br><kw class="krdwrd-tag-3">
+As an aside, take note that when the Irish expansion into Pictish Britain occurred (see below), several colonies were established in present day Wales. The local inhabitants called the Irish arrivals gwyddel savages from which comes geídil and goidel and thus the Goidelic tounge. </kw><br>
+<br>
+<br><kw class="krdwrd-tag-2">
+The Irish and the Scots Are From the Same Tribe</kw><br>
+<br><kw class="krdwrd-tag-3">
+Ireland used to be divided up into five parts, the five fifths. There was a northern fifth, Ulster, a western fifth, Connaught, a southern fifth, Munster, an eastern fifth, Leinster and a middle fifth, Mide. Click here to see a map of the five fifths. </kw><br>
+<br><kw class="krdwrd-tag-3">
+The Ulster Cycle is a set of stories which are grounded in the five fifths. Indeed, they are primarily concerned with Cú Chulainn, the Ulster hero and his king, Conor Mac Nessa in their wars against the king and queen of Connaught, Ailill and Maeve. These figures play a prominent role in the what may be the greatest story of the Ulster Cycle, the Táin Bó Cúailnge, The Cattle Raid of Cooley. </kw><br>
+<br><kw class="krdwrd-tag-3">
+Sometime after 300 AD, Ulster became steadily less important in status among the five farthings and the ruling family of Mide, the Uí Néill Sons of Niall started to take over large parts of Connaught and most of Ulster. A similar move was made in Muster by the ruling family of Munster, the Eoganachta family. Thus was Ireland divided almost entirely into two halves. </kw><br>
+<br><kw class="krdwrd-tag-3">
+The people of Ulster were pushed to a small coastal strip bordering the Irish Sea. The kingdom changed it's name to Dál Riata. Yet eventually Dál Riata fell under the rule and influence of the Uí Néill. This family, not content with the boundry presented by the sea, launched colonies across the Irish Sea into then Pictish Britain. Thus was Scotland founded, for it was these Uí Néill that the Romans called Scotti, not the original Picts. </kw><br>
+<br><kw class="krdwrd-tag-3">
+Indeed, it was this Irish Expansion which led to Christianity in Scotland in 563 AD. St. Columba, the patron saint of Scotland, was a member of a powerful family in Dál Riata and in order to keep his ties in Ireland he settled on an island that was close to both Scotland and Ireland, Iona. Of course, even more bizarre is the fact that St. Patrick, the man responsible for bringing Christianity to Ireland in the first place, was from Wales. </kw><br>
+<br>
+<br><kw class="krdwrd-tag-mrgtie">
+--------------------</kw><br>
+<br><kw class="krdwrd-tag-2">
+The first adventure is the most exciting...</kw><br>
+<br><kw class="krdwrd-tag-2">
+"Ye will stand together, or divided fall."</kw><br>
+<br><kw class="krdwrd-tag-2">
+Scatterwalk: Teleri's Outrageously New Educational Resource Services            </kw><div id="info519671" style="margin-top: 15px; display: none;">
+                                    <b><kw class="krdwrd-tag-3">Character E-mail (optional)</kw></b> <a href="javascript:mailto('',',1');"><kw class="krdwrd-tag-3">,1</kw></a><br><br>
+                                            <b><kw class="krdwrd-tag-3">Personal Web Page (optional)</kw></b> <a href="http://www.scatterwalk.com/divine/index.html"><kw class="krdwrd-tag-3">http://www.scatterwalk.com/divine/index.html</kw></a><br><br>
+                                </div>
+        </td>
+    </tr>
+    <tr class="tablea">
+       <td align="left" valign="top">
+                        <b><kw class="krdwrd-tag-1">Teleri Grimm</kw></b>
+            <br><br>
+            <div style="margin-top: 2px;" onmouseover="javascript:window.status='Click to view details';" onmouseout="javascript:window.status='';">
+                                    <span style="cursor: pointer;" onclick="javascript: document.getElementById('info519672').style.display = (document.getElementById('info519672').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/mail.gif" border="0"></span>
+                                <span style="cursor: pointer;" onclick="javascript: document.getElementById('info519672').style.display = (document.getElementById('info519672').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/link.gif" alt="www.scatterwalk.com/divine/index.html" border="0"></span>            </div>
+                        <br><br><kw class="krdwrd-tag-1">
+            Jul 18th, 2006 - 12:17 PM        </kw></td>
+        <td align="left" valign="top">
+                        <img src="http://assets.bravenet.com/common/images/forum/icons/set11.gif" align="absmiddle">
+                        <b><kw class="krdwrd-tag-2">Second Reading - The Vikings</kw></b>
+            <br><br><kw class="krdwrd-tag-2">
+            The Vikings</kw><br>
+<br><kw class="krdwrd-tag-3">
+Vikings were Norse warriors who raided the coasts of Scandinavia, the British Isles, and other parts of Europe from the late 8th century to the 11th century. This period of European history (generally dated to AD 793 - AD 1066) is often referred to as the Viking Age. Famed for their navigation ability and long ships, Vikings had in a few hundred years colonized the coasts and rivers of Europe, the islands of Shetland, Orkney, the Faroe Islands, Iceland, Greenland, and even a short expedition to Newfoundland, circa AD 1000 while still reaching as far south as North Africa for raiding. The Vikings declined with the introduction of Christianity to Scandinavia by the 11th century, thus ending the Viking Age into the Middle Ages.</kw><br>
+<br><kw class="krdwrd-tag-2">
+Historical Records</kw><br>
+<br><kw class="krdwrd-tag-3">
+The earliest date given for a Viking raid is 787 AD when, according to the Anglo-Saxon Chronicle, a group of men from Norway sailed to Portland, in Dorset. There, they were mistaken for merchants by a royal official, and they murdered him when he tried to get them to accompany him to the king's manor to pay a trading tax on their goods. The next recorded attack, dated June 8, 793 AD, was on the monastery at Lindisfarne – the "Holy Island" – on the east coast of England. For the next 200 years, European history is filled with tales of Vikings and their plundering.</kw><br>
+<br><kw class="krdwrd-tag-3">
+Vikings exerted influence throughout the coastal areas of Ireland and Scotland, and conquered and colonized large parts of England (see Danelaw). They travelled up the rivers of France and Spain, and gained control of areas in Russia and along the Baltic coast. Stories tell of raids in the Mediterranean and as far east as the Caspian Sea.</kw><br>
+<br><kw class="krdwrd-tag-3">
+Adam of Bremen records in his book Gesta Hammaburgensis Ecclesiae Pontificum, (volume four): - :Aurum ibi plurimum, quod raptu congeritur piratico. Ipsi enim piratae, 'quos illi Wichingos as appellant, nostri Ascomannos regi Danico tributum solvunt. - :"There is much gold here (in Zealand), accumulated by piracy. These pirates, which are called wichingi by their own people, and Ascomanni by our own people, pay tribute to the Danish king."</kw><br>
+<br><kw class="krdwrd-tag-2">
+Viking raids in Iberia</kw><br>
+<br><kw class="krdwrd-tag-3">
+By the mid 9th century, though apparently not before (Fletcher 1984, ch. 1, note 51), there were Viking attacks on coastal Kingdom of Asturias in the far northwest of the peninsula, though historical sources are too meagre to assess how frequent or how early raiding was. By the reign of Alfonso III Vikings were stifling the already weak threads of sea communications that tied Galicia (a province of the Kingdom) to the rest of Europe. Richard Fletcher attests raids on the Galician coast in 844 and 858: "Alfonso III was sufficiently worried by the threat of Viking attack to establish fortified strong points near his coastline, as other rulers were doing elsewhere." In 968 bishop Sisnando of Compostela was killed, the monastery of Curtis was sacked, and measures were ordered for the defence of the inland town of Lugo. After Tuy was sacked early in the 11th century, its bishopric remained vacant for the next half-century. Ransom was a motive for abductions: Fletcher instances Amarelo Mestáliz, who was forced to raise money on the security of his land in order to ransom his daughters who had been captured by the Vikings in 1015. Bishop Cresconio of Compostela (ca. 1036–66) repulsed a Viking foray and built the fortress at Torres del Oeste to protect Compostela from the Atlantic approaches.</kw><br>
+<br><kw class="krdwrd-tag-3">
+In the Islamic south, the first navy of the Emirate was called into being after the humiliating Viking ascent of the Guadalquivir, 844, and was tested in repulsing Vikings in 859. Soon the dockyards at Seville were extended, it was employed to patrol the Iberian coastline under the caliphs Abd al-Rahman III (912–61) and Al-Hakam II (961–76). By the next century piracy from Saracens superseded the Viking scourge.</kw><br>
+<br><kw class="krdwrd-tag-2">
+Rune stones</kw><br>
+<br><kw class="krdwrd-tag-3">
+Many rune stones in Scandinavia record the names of participants in Viking expeditions. Other rune stones mention men who died on Viking expeditions, among them the around 25 Ingvar stones in the Mälardalen district of Sweden erected to commemorate members of a disastrous expedition into present-day Russia in the early 11th century. The rune stones are important sources in the study of the entire Norse society and early medieval Scandinavia, not only of the 'Viking' segment of the population.</kw><br>
+<br><kw class="krdwrd-tag-2">
+Icelandic sagas</kw><br>
+<br><kw class="krdwrd-tag-3">
+Norse mythology, Norse sagas and Old Norse literature tell us about their religion through tales of heroic and mythological heroes. However, the transmission of this information was primarily oral, and we are reliant upon the writings of Christian scholars, such as the Icelanders Snorri Sturluson and Sæmundr fróði, for much of this. An overwhelming amount of these sagas were written in Iceland.</kw><br>
+<br><kw class="krdwrd-tag-3">
+Vikings in those sagas are described as if they often struck at accessible and poorly defended targets, usually with impunity. The sagas state that the Vikings built settlements and were skilled craftsmen and traders.</kw><br>
+<br><kw class="krdwrd-tag-2">
+Etymology</kw><br>
+<br><kw class="krdwrd-tag-3">
+The etymology of "Viking" is somewhat vague. One path might be from the Old Norse word, vík, meaning "bay," "creek," or "inlet," and the suffix -ing, meaning "coming from" or "belonging to." Thus, viking would be a 'person of the bay', or "bayling" for lack of a better word. An area called Viken to the south of the Norwegian capital Oslo may have been the source for this name. In Old Norse, this would be spelled vikingr. Later on, the term, viking, became synonymous with "naval expedition" or "naval raid", and a vikingr was a member of such expeditions. A second etymology suggested that the term is derived from Old English, wíc, ie. "trading city" (cognate to Latin vicus, "village").</kw><br>
+<br><kw class="krdwrd-tag-3">
+The word viking appears on several rune stones found in Scandinavia. In the Icelandic sagas, víking refers to an overseas expedition (Old Norse farar i vikingr "to go on an expedition"), and víkingr, to a seaman or warrior taking part in such an expedition. In Old English, the word wicing appears first in the Anglo-Saxon poem, “Widsith”, which probably dates from the 9th century. In icelandic use (according to the sagas), a man was called a "viking" to mean not only he participated in such raids, but to call him a brute, a lout and a generally violent and dangerous person. A typical example could be "So and so was a great viking who often boasted of having killed many men without ever paying weregild".</kw><br>
+<br><kw class="krdwrd-tag-3">
+In medieval use (eg. Widsith, and the writings of Adam von Bremen), a viking is a pirate, and not a name for the people or culture in general. Indeed, when Scandinavian raiders left their boats, stole horses and rode across country, they were never referred to as "vikings" in English sources.</kw><br>
+<br><kw class="krdwrd-tag-3">
+The word disappeared in Middle English, and was reintroduced as viking during 18th century Romanticism. During the 20th century, the meaning of the term was expanded to refer not only to the raiders, but also to the entire period; it is now, somewhat confusingly, used as a noun both in the original meaning of raiders, warriors or navigators, and sometimes to refer to the Scandinavian population in general. As an adjective, the word is used in expressions like "Viking age," "Viking culture," "Viking colony," etc., generally referring to medieval Scandinavia.</kw><br>
+<br><kw class="krdwrd-tag-3">
+During the last century, speculations began about whether foreign traders, known as varyags who had trade posts along the Russian rivers down to the Byzantine Empire were of Scandinavian origin, and since then, the term has been interpreted also to refer to tradesmen from Scandinavia who established colonies in Russia. Early Scandinavian colonies in North America are also labelled as "Viking" by modern English speakers. It should be noted, however, that no written sources, in the cases of Vinland, Rus', or Varyags, use the term "Viking."</kw><br>
+<br><kw class="krdwrd-tag-3">
+Scandinavians, in general, were not Vikings. They were farmers, fishers and hunters, as were most other people in Europe at the time. As the Scandinavian shores were attacked by enemy forces, they established the defence fleet called leidang, which was also used as protection against Vikings. Though a common practice today, calling all northmen (Scandinavians) Vikings, rather than reserving the word solely for those involved in piracy, can lead to misunderstanding and confusion. As members of the leidang fleet, as well as farmers and fishers now and then, were attacked by Vikings, most Scandinavians probably saw Vikings as their enemies and fought against them with all their might.</kw><br>
+<br>
+<br><kw class="krdwrd-tag-2">
+Ships</kw><br>
+<br><kw class="krdwrd-tag-3">
+There were two distinct classes of Viking ships: the Viking longships and warship. The Viking longships ranged from 70 to 140 feet, while the more practical Viking warship ranged from 70 to 80 feet. There were also smaller boats, which could be from 10 feet to 50 feet. Such boats could have been fishing or ferry boats.</kw><br>
+<br><kw class="krdwrd-tag-3">
+These boats were identical to those used by the Scandinavian defense fleets, known as the ledung. The term "Viking ships" has entered common usage, however, possibly because of its Romantic associations.</kw><br>
+<br><kw class="krdwrd-tag-3">
+The faster warships were used for coastal patrol and policing, as well transport for Viking troops. In Roskilde are the well-preserved remains of five longships and Warships. The ships were scuttled there in the 11th century to block a navigation channel, thus protecting the city which was then the Danish capital, from seaborne assault. These five ships represent two distinct classes of Viking Ships, the Longship and Warship.</kw><br>
+<br><kw class="krdwrd-tag-2">
+The Viking Age</kw><br>
+<br><kw class="krdwrd-tag-3">
+The period of North Germanic expansion, usually taken to last from the earliest recorded raids in the 790s until the Norman Conquest of England in 1066, is commonly called the 'Viking Age.' The Vikings may be seen as late joiners in the Migrations period, and thus the period links Late Antiquity with the high Middle Ages. Geographically, a "Viking Age" may be assigned not only to the Scandinavian lands (modern Denmark, and southern Norway and Sweden), but also to territories under North Germanic dominance, mainly the Danelaw, Scotland, the Isle of Man and Ireland. Contemporary with the European Viking Age, the Byzantine Empire experienced the greatest period of stability (circa 800–1071) it would enjoy after the initial wave of Arab conquests in the mid-seventh century.</kw><br>
+<br><kw class="krdwrd-tag-3">
+Viking navigators also opened the road to new lands to the north and to the west, resulting in the colonization of Shetland, Orkney, the Faroe Islands, Iceland, Greenland, and even a short expedition to Newfoundland, circa AD 1000.</kw><br>
+<br><kw class="krdwrd-tag-3">
+During three centuries, Vikings appeared along the coasts and rivers of Europe, as raiders, but increasingly also as traders, and even as settlers. From 839, there were Varangian mercenaries in Byzantine service (most famously Harald Hardrada, who campaigned in North Africa and Jerusalem in the 1030s). Important trading ports during the period include Birka, Hedeby, Kaupang, Jorvik, Staraja Ladoga, Novgorod and Kiev. Generally speaking, the Norwegians expanded to the north and west, the Danes to England, settling in the Danelaw, and the Swedes to the east. But the three nations were not yet clearly separated, and still united by the common Old Norse language. The names of Scandinavian kings are known only for the later part of the Viking Age, and only after the end of the Viking Age did the separate kingdoms acquire a distinct identity as nations, which went hand in hand with their christianization. Thus it may be noted that the end of the Viking Age (9th–11th ct.) for the Scandinavians also marks the start of their relatively brief Middle Ages.</kw><br>
+<br><kw class="krdwrd-tag-3">
+In 793 A.D., the Vikings raid on Lindisfarne made their presence known to the powerful empires of Europe at the time. Lindisfarne was a monastery in England, where the people of Lindisfarne kept their treasury.</kw><br>
+<br><kw class="krdwrd-tag-3">
+Small scattered Viking raids began in the last years of the 8th century; in the 9th century large-scale plundering incursions were made in Britain and in the Frankish empire as well. Though Egbert defeated a large Viking force in 838 that had combined with the Britons of Cornwall and Aethelwulf won a great victory in 851 over a Viking army that had stormed Canterbury and London and put the Mercian king to flight, it was difficult to deal with an enemy that could attack anywhere on a long and undefended coastline. Destructive raids are recorded for Northumbria, East Anglia, Kent, and Wessex. </kw><br>
+<br><kw class="krdwrd-tag-3">
+A large Danish army came to East Anglia in the autumn of 865, apparently intent on conquest. By 871, when it first attacked Wessex, it had already captured York, been bought off by Mercia, and had taken possession of East Anglia. Many battles were fought in Wessex, including one that led to a Danish defeat at Ashdown in 871. Alfred the Great, a son of Aethelwulf, succeeded to the throne in the course of the year and made peace; this gave him a respite until 876. Meanwhile the Danes drove out Burgred of Mercia, putting a puppet king in his place, and one of their divisions made a permanent settlement in Northumbria. </kw><br>
+<br><kw class="krdwrd-tag-3">
+Alfred was able to force the Danes to leave Wessex in 877, and they settled northeastern Mercia; but a Viking attack in the winter of 878 came near to conquering Wessex. That it did not succeed is to be attributed to Alfred's tenacity. He retired to the Somerset marshes, and in the spring he secretly assembled an army that routed the Danes at Edington. Their king, Guthrum, accepted Christianity and took his forces to East Anglia, where they settled. </kw><br>
+<br><kw class="krdwrd-tag-3">
+The importance of Alfred's victory cannot be exaggerated. It prevented the Danes from becoming masters of the whole of England. Wessex was never again in danger of falling under Danish control, and in the next century the Danish areas were reconquered from Wessex. Alfred's capture of London in 886 and the resultant acceptance of him by all the English outside the Danish areas was a preliminary to this reconquest. That Wessex stood when the other kingdoms had fallen must be put down to Alfred's courage and wisdom, to his defensive measures in reorganizing his army, to his building fortresses and ships, and to his diplomacy, which made the Welsh kings his allies. Renewed attacks by Viking hosts in 892–896, supported by the Danes resident in England, caused widespread damage but had no lasting success.</kw><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><kw class="krdwrd-tag-1">
+--------------------</kw><br>
+<br><kw class="krdwrd-tag-2">
+The first adventure is the most exciting...</kw><br>
+<br><kw class="krdwrd-tag-2">
+"Ye will stand together, or divided fall."</kw><br>
+<br><kw class="krdwrd-tag-2">
+Scatterwalk: Teleri's Outrageously New Educational Resource Services            </kw><div id="info519672" style="margin-top: 15px; display: none;">
+                                    <b><kw class="krdwrd-tag-3">Character E-mail (optional)</kw></b> <a href="javascript:mailto('',',1');"><kw class="krdwrd-tag-3">,1</kw></a><br><br>
+                                            <b><kw class="krdwrd-tag-3">Personal Web Page (optional)</kw></b> <a href="http://www.scatterwalk.com/divine/index.html"><kw class="krdwrd-tag-3">http://www.scatterwalk.com/divine/index.html</kw></a><br><br>
+                                </div>
+        </td>
+    </tr>
+    <tr class="tablea">
+       <td align="left" valign="top">
+                        <b><kw class="krdwrd-tag-1">Teleri Grimm</kw></b>
+            <br><br>
+            <div style="margin-top: 2px;" onmouseover="javascript:window.status='Click to view details';" onmouseout="javascript:window.status='';">
+                                    <span style="cursor: pointer;" onclick="javascript: document.getElementById('info519674').style.display = (document.getElementById('info519674').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/mail.gif" border="0"></span>
+                                <span style="cursor: pointer;" onclick="javascript: document.getElementById('info519674').style.display = (document.getElementById('info519674').style.display == 'block') ? 'none':'block';"><img src="http://assets.bravenet.com/common/images/forum/link.gif" alt="www.scatterwalk.com/divine/index.html" border="0"></span>            </div>
+                        <br><br><kw class="krdwrd-tag-1">
+            Jul 18th, 2006 - 12:22 PM        </kw></td>
+        <td align="left" valign="top">
+                        <img src="http://assets.bravenet.com/common/images/forum/icons/set11.gif" align="absmiddle">
+                        <b><kw class="krdwrd-tag-2">Where you are and who should be here</kw></b>
+            <br><br><kw class="krdwrd-tag-3">
+            You enter a small hall, or entryway. It is rather non-descript aside from the stone walls, which are intricately woven with Celtic knots and Viking runes in silver. It’s rather subtle, but one can sense the amount of care and time the artisan put into it. There is a locked door on the right and a bend as you walk forward. Just between the two there is a small archway. </kw><br>
+<br><kw class="krdwrd-tag-3">
+You enter a room maybe 12 x 12. The floor is tiled in alternating squares of black and white. There are 4 chairs in the room. Two gold to the left and two silver to the right. What appears to be small, human-sized statues you may recognize as chess pieces. </kw><br>
+<br><kw class="krdwrd-tag-3">
+Following along the bend, you enter into a large, circular chamber. The room is pleasantly filled with sunlight from the many windows, prismic beams of light dance through the stained glass windows at the top of the room. In the center of the rotunda, a bone white marble altar stands covered with a green, silk cloth, embroidered in silver and gold, the emblem of The Divine; a winged horse. Several squares of cloth mats lie in a perfect circle surrounding the altar. Unlit candles and incense decanters line the altar. Atop the altar lies a large, very old, worn book; the original tome of The Manteis.</kw><br>
+<br><kw class="krdwrd-tag-3">
+On the walls are great tapestries, telling of the history of the Celtic &amp; Viking people. As well as carvings, paintings and other works of art. There are busts and sculpture and a green colored stone statue. At the north there is a basin, with a bluish liquid churning upon itself from a stream of water that looked like it was coming right out of the stone wall. . The water is moving, but silently. A faint hum sounding slightly musical fills the room and then a voice sings out, “If you desire the time of the Master of the Divine you must leave a tithe then make your wish.” </kw><br>
+<br>
+<br><kw class="krdwrd-tag-1">
+--------------------</kw><br>
+<br><kw class="krdwrd-tag-2">
+The first adventure is the most exciting...</kw><br>
+<br><kw class="krdwrd-tag-2">
+"Ye will stand together, or divided fall."</kw><br>
+<br><kw class="krdwrd-tag-2">
+Scatterwalk: Teleri's Outrageously New Educational Resource Services</kw><br>
+<br>
+<br><kw class="krdwrd-tag-1">
+Theus Amarus</kw><br><kw class="krdwrd-tag-1">
+Emerald Autumn</kw><br>
+<br><kw class="krdwrd-tag-1">
+Avalaine Caresh</kw><br>
+<br><kw class="krdwrd-tag-1">
+Ashly Jamison</kw><br>
+<br><kw class="krdwrd-tag-1">
+Miranda O'Brien</kw><br>
+<br><kw class="krdwrd-tag-1">
+Joren Renner</kw><br><kw class="krdwrd-tag-1">
+Bailey Rivers</kw><br><kw class="krdwrd-tag-1">
+Elizabeth Rose</kw><br>
+<br><kw class="krdwrd-tag-1">
+Ranpin Sorlen</kw><br><kw class="krdwrd-tag-1">
+Honey Summers</kw><br>
+<br><kw class="krdwrd-tag-1">
+Thomas Vaughan</kw><br>
+<br><kw class="krdwrd-tag-1">
+Mia Zhang</kw><br>
+<br><kw class="krdwrd-tag-1">
+Anyone that is not on this list, contact me.            </kw><div id="info519674" style="margin-top: 15px; display: none;">
+                                    <b><kw class="krdwrd-tag-3">Character E-mail (optional)</kw></b> <a href="javascript:mailto('',',1');"><kw class="krdwrd-tag-3">,1</kw></a><br><br>
+                                            <b><kw class="krdwrd-tag-3">Personal Web Page (optional)</kw></b> <a href="http://www.scatterwalk.com/divine/index.html"><kw class="krdwrd-tag-3">http://www.scatterwalk.com/divine/index.html</kw></a><br><br>
+                                </div>
+        </td>
+    </tr>
+
+</tbody></table>
+
+
+
+
+<br><br>
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+            <tbody><tr>
+                <td><div class="pagerbutton pagerbutton_disabled"><img src="http://assets.bravenet.com/common/images/pager/7/pagefirst.gif" align="absmiddle" border="0"><kw class="krdwrd-tag-1">&nbsp;&nbsp;First</kw></div></td>
+                <td><div class="pagerbutton pagerbutton_disabled"><img src="http://assets.bravenet.com/common/images/pager/7/pageback.gif" align="absmiddle" border="0"><kw class="krdwrd-tag-1">&nbsp;&nbsp;Prev</kw></div></td>
+                <td><div class="pagerbutton" style="text-align: center;" onmouseover="this.className='pagerbutton pagerbutton_over'" onmouseout="this.className='pagerbutton'" onclick="location.href='/forum/add.php?usernum=768225695&amp;reply=518898&amp;cp='"><img src="http://assets.bravenet.com/common/images/pager/7/postmessage.gif" align="absmiddle" border="0"><kw class="krdwrd-tag-1">&nbsp;&nbsp;Reply</kw></div></td>
+                <td><div class="pagerbutton" onmouseover="this.className='pagerbutton pagerbutton_over'" onmouseout="this.className='pagerbutton'" onclick="location.href='/forum/768225695/'"><img src="http://assets.bravenet.com/common/images/pager/7/home.gif" align="absmiddle" border="0"><kw class="krdwrd-tag-1">&nbsp;&nbsp;Home</kw></div></td>
+                <td><div class="pagerbutton pagerbutton_disabled"><kw class="krdwrd-tag-1">Next&nbsp;&nbsp;</kw><img src="http://assets.bravenet.com/common/images/pager/7/pageahead.gif" align="absmiddle" border="0"></div></td>
+                <td><div class="pagerbutton pagerbutton_disabled"><kw class="krdwrd-tag-1">Last&nbsp;&nbsp;</kw><img src="http://assets.bravenet.com/common/images/pager/7/pagelast.gif" align="absmiddle" border="0"></div></td>
+            </tr>
+        </tbody></table></div>
+
+<br><br>
+   <!-- BRAVENET INJECTION --><script language="javascript" type="text/javascript" src="http://mercury.bravenet.com/rover/a?dbfile=ROTATOR_468_DB&amp;xs=803572&amp;core=0&amp;serv=forum&amp;bncat=000&amp;term=005"></script><script type="text/javascript" charset="utf-8">
+var redvase_ad = { version: 1.4 };
+redvase_ad.publisher = 'bravenet';
+redvase_ad.kind      = 'full_banner';
+redvase_ad.core = '0';
+redvase_ad.serv = 'forum';
+</script>
+<script src="http://redvase.bravenet.com/javascripts/redvase.js" type="text/javascript" charset="utf-8"></script><script src="http://redvase.bravenet.com/creative/bravenet/full_banner?serv=forum&amp;core=0&amp;r=1233405179987" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" charset="utf-8">
+var redvase_ad = { version: 1.4 };
+redvase_ad.publisher = 'bravenet';
+redvase_ad.kind      = 'full_banner';
+redvase_ad.core = '0';
+redvase_ad.serv = 'forum';
+</script>
+<script src="http://redvase.bravenet.com/javascripts/redvase.js" type="text/javascript" charset="utf-8"></script><script src="http://redvase.bravenet.com/creative/bravenet/full_banner?serv=forum&amp;core=0&amp;r=1233405179998" type="text/javascript" charset="utf-8"></script>
+<script src="http://redvase.bravenet.com/creative/bravenet/full_banner?serv=forum&amp;core=0&amp;r=1214824845659" type="text/javascript" charset="utf-8"></script>
+
+<!-- BRAVENET INJECTION -->
+<br><br>
+<a style="font: bold 11px tahoma,arial; text-decoration: none;" href="http://www.bravenet.com/webtools/forum" target="_new"><kw class="krdwrd-tag-1">
+Get your FREE&nbsp;forum&nbsp;service!&nbsp;</kw></a><br><a href="http://www.bravenet.com/webtools/history" style="text-decoration: underline;" target="_blank"><kw class="krdwrd-tag-1">Today in History</kw></a><kw class="krdwrd-tag-1">&nbsp;·&nbsp;</kw><a href="http://www.bravenet.com/webtools/" style="text-decoration: underline;" target="_blank"><kw class="krdwrd-tag-1">Web Tools</kw></a><kw class="krdwrd-tag-1">&nbsp;·&nbsp;</kw><a href="http://www.bravenet.com/webtools/cartoon" style="text-decoration: underline;" target="_blank"><kw class="krdwrd-tag-1">Daily Cartoons</kw></a><kw class="krdwrd-tag-1">&nbsp;·&nbsp;</kw><a href="http://www.bravenet.com/webtools/horoscope" style="text-decoration: underline;" target="_blank"><kw class="krdwrd-tag-1">Daily Horoscopes</kw></a>&nbsp;<a style="display: block; padding-top: 4px; font: bold 10px tahoma,arial; text-decoration: none;" href="http://www.bravenet.com" target="_new"><kw class="krdwrd-tag-1">
+powered&nbsp;by&nbsp;</kw><img src="http://assets.bravenet.com/bravenet/images/poweredby.gif" alt="Powered by Bravenet" align="absmiddle" border="0"><kw class="krdwrd-tag-1">&nbsp;bravenet.com</kw></a><br><br>
+</div>
+
+
+</body>

@@ -1,0 +1,1318 @@
+<head><base href="http://www.funagain.com/control/product/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- Copyright (c) 2001-2004 The Open For Business Project - www.ofbiz.org --><title>Funagain Games: Merchants of Amsterdam</title>
+
+
+
+
+
+    
+    
+    <meta name="description" content="Merchants of Amsterdam">
+    <meta name="keywords" content="Merchants of Amsterdam, Funagain Games Catalog, Family, Board Games, Auction &amp; Bidding, Merchants of Amsterdam / Die Kaufleute von Amsterdam">
+    <link rel="shortcut icon" href="http://images.funagain.com/favicon.ico" type="image/x-icon">
+    <meta name="robots" content="index, follow">
+    <script language="javascript" src="/images/selectall.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/images/ecommercemaincss.css" type="text/css">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-105010-2";
+urchinTracker("/control/product?product_id=011401");
+</script></head><body class="ecbody">
+
+<table class="MainBodyContainer" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+   <td align="left"><a href="/control/main;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/funagain_logo.gif" alt="Funagain Games - The Internet's Largest Selection of Board Games &amp; Card Games" title="Funagain Games - The Internet's Largest Selection of Board Games &amp; Card Games" border="0" width="237" height="48"></a></td>
+   <td align="center"><div class="HeaderTagLine">
+      <nobr><kw class="krdwrd-tag-1">&nbsp;&nbsp;"The World's Best </kw></nobr><nobr><kw class="krdwrd-tag-1">Game Source"</kw></nobr>
+   </div></td>
+   <td align="right" valign="bottom"><nobr><a href="/control/showcart;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/header/cart.gif" alt="Shopping Cart" title="View your Shopping Cart" border="0" width="41" height="41"></a><img src="/images/header/border.gif" border="0" width="6" height="41"><a href="/control/policy;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/header/policies.gif" alt="Policies" title="Funagain's Policies" border="0" width="60" height="41"></a><img src="/images/header/border.gif" border="0" width="6" height="41"><a href="/control/faq;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/header/help.gif" alt="Help" title="Help" border="0" width="40" height="41"></a><img src="/images/header/border.gif" border="0" width="6" height="41"><a href="https://www.funagain.com/control/contactform;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/header/contact.gif" alt="Contact Us" title="Contact Us" border="0" width="78" height="41"></a><img src="/images/spacer.gif" border="0" width="20" height="41"><!-- START SCANALERT CODE --><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.funagain.com"><img src="//images.scanalert.com/meter/survey/www.funagain.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" border="0" width="65" height="37"></a><!-- END SCANALERT CODE --><img src="/images/spacer.gif" border="0" width="6" height="41"></nobr></td>
+</tr>
+<tr>
+   <td colspan="3"><img src="/images/spacer.gif" width="1" height="5"></td>
+</tr>
+<tr>
+   <td colspan="3" bgcolor="#29527b"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+</tr>
+<tr>
+   <td colspan="3" align="center"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr class="HeaderMenu">
+         <td><div class="HeaderMenuItem"><a href="/control/main;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="HeaderMenuLink"><kw class="krdwrd-tag-1">Home</kw></a></div></td>
+         <td class="HeaderItemSep"><img src="/images/spacer.gif" width="1" height="1"></td>
+            <td><div class="HeaderMenuItem"><a href="https://www.funagain.com/control/checkLogin/product;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="HeaderMenuLink"><kw class="krdwrd-tag-1">Login</kw></a></div></td>
+         <td class="HeaderItemSep"><img src="/images/spacer.gif" width="1" height="1"></td>
+         <td><div class="HeaderMenuItem"><a href="https://www.funagain.com/control/viewprofile;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="HeaderMenuLink"><kw class="krdwrd-tag-1">Profile</kw></a></div></td>
+         <td class="HeaderItemSep"><img src="/images/spacer.gif" width="1" height="1"></td>
+
+         <td align="center" width="90%"><div class="HeaderSearchBox">
+            <form name="keywordsearchform" method="post" action="/control/keywordsearch;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" style="margin: 0pt;">
+            <input name="VIEW_SIZE" value="10" type="hidden">
+            <input name="SEARCH_CATEGORY_ID" value="" type="hidden">
+            <span class="HeaderSearchTitle"><kw class="krdwrd-tag-1">Search:&nbsp;</kw></span><input class="HeaderSearchText" name="SEARCH_STRING" size="18" maxlength="50" value="" type="text"><select class="HeaderSearchSelect" name="SEARCH_OPERATOR">
+               <option class="krdwrd-tag-1" value="AND" selected="selected">All</option>
+               <option class="krdwrd-tag-1" value="OR">Any</option>
+               <option class="krdwrd-tag-1" value="EXACT">Exact</option>
+            </select><input src="/images/search/go-blue-back.gif" alt="Search" align="top" type="image"><nobr><a href="/control/advancedsearch;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="HeaderSearchAdvancedSubmit"><kw class="krdwrd-tag-1">Advanced Search &gt;</kw></a></nobr>
+         </form></div></td>
+         <td class="HeaderItemSep"><img src="/images/spacer.gif" width="1" height="1"></td>
+         <td><div class="HeaderMenuItem"><a href="https://www.funagain.com/control/orderhistory;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="HeaderMenuLink"><kw class="krdwrd-tag-1">Order&nbsp;History</kw></a></div></td>
+         <td class="HeaderItemSep"><img src="/images/spacer.gif" width="1" height="1"></td>
+         <td><div class="HeaderMenuItem"><a href="/control/listShoppingLists;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="HeaderMenuLink"><kw class="krdwrd-tag-1">Shopping&nbsp;Lists</kw></a></div></td>
+      </tr>
+      <tr>
+         <td colspan="11" bgcolor="#29527b"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+      </tr>
+      <tr>
+         <td colspan="11" align="center">
+            <div class="HeaderCategoryList">
+               <nobr>
+                  <span class="HeaderCategoryItem" title="Click here for Kids Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_KIDS/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Kids</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for Family Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_FAMILY/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Family</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for Strategy Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_STRATEGY/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Strategy</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for Party Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_PARTY/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Party</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for Classic Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_CLASSIC/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Classic</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for 2-Player Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_2PLAYER/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">2-Player</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+               </nobr>
+               <nobr>
+                  <span class="HeaderCategoryItem" title="Click here for Puzzles"><a href="/control/storelanding/%7EproductCategoryId=STORE_PUZZLES/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Puzzles</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for Card Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_CARD/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Card</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for War Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_WAR/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">War</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for Word Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_WORD/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Word</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for Sale Board Games &amp; Card Games"><a href="/control/storelanding/%7EproductCategoryId=STORE_SALE/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Sale</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for Used Board Games &amp; Card Games"><a href="/control/usedlist;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Used</kw></a></span>
+                  <span class="browsecategoryitem"><kw class="krdwrd-tag-1">|</kw></span>
+                  <span class="HeaderCategoryItem" title="Click here for Ding &amp; Dent Board Games &amp; Card Games"><a href="/control/dingedlist;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="browsecategorybutton"><kw class="krdwrd-tag-1">Ding &amp; Dent</kw></a></span>
+               </nobr>
+            </div>
+         </td>
+      </tr>
+      <tr>
+         <td colspan="11" bgcolor="#009c67"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+      </tr>
+      </tbody></table></td>
+</tr>
+</tbody></table>
+
+
+<table class="MainBodyContainer" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+   <td align="left" bgcolor="#edede6" valign="top" width="950">
+      
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+   <td background="/images/misc/left-column-top-shadow.gif" width="100%"><img src="/images/spacer.gif" width="1" height="4"></td>
+</tr>
+<tr>
+   <td>
+         <div class="LeftColumnBox">
+<script type="text/javascript" src="/images/js/swfobject.js"></script>
+
+<table bgcolor="#edede6" border="0" cellpadding="0" cellspacing="0" width="193">
+<tbody><tr>
+   <td rowspan="2" background="/images/misc/box-left-tan.gif" valign="top" width="2"><img src="/images/misc/box-top-left-corner-tan.gif" alt="" width="2" height="6"></td>
+   <td background="/images/misc/box-top-tan.gif" width="100%"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
+   <td rowspan="2" background="/images/misc/box-right-tan.gif" valign="top" width="3"><img src="/images/misc/box-top-right-corner-tan.gif" alt="" width="3" height="6"></td>
+</tr>
+<tr>
+   <td>
+      <div class="BoxHeaderRecommended"><kw class="krdwrd-tag-1">
+         Recommended
+      </kw></div>
+      <div class="BoxBodyRecommended">
+        <a href="/redir/14784;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="http://images.funagain.com/graphicprm/main/uptown.gif" alt="Uptown" title="Uptown" border="0" width="186" height="186"></a>
+        <div class="BoxRecommendedFooter"><a class="BoxRecommendedLink" href="/control/viewallpromos;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">...view all</kw></a>
+
+
+      </div>
+   </div></td>
+</tr>
+<tr>
+   <td><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+   <td background="/images/misc/box-bottom-tan.gif"><img src="/images/misc/box-bottom-left-corner-tan.gif" alt="" width="3" height="3"></td>
+   <td><img src="/images/misc/box-bottom-right-corner-tan.gif" alt="" width="3" height="3"></td>
+</tr>
+</tbody></table>
+
+</div>
+      <div class="LeftColumnBox">
+
+
+<table bgcolor="#edede6" border="0" cellpadding="0" cellspacing="0" width="193">
+<tbody><tr>
+   <td rowspan="2" background="/images/misc/box-left-tan.gif" valign="top" width="2"><img src="/images/misc/box-top-left-corner-tan.gif" alt="" width="2" height="6"></td>
+   <td background="/images/misc/box-top-tan.gif" width="100%"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
+   <td rowspan="2" background="/images/misc/box-right-tan.gif" valign="top" width="3"><img src="/images/misc/box-top-right-corner-tan.gif" alt="" width="3" height="6"></td>
+</tr>
+<tr>
+   <td>
+      <div class="BoxHeaderPrimary"><kw class="krdwrd-tag-1">
+         Top Sellers
+      </kw></div>
+      <div class="BoxBodyPrimary">
+
+  <table border="0" cellpadding="0" cellspacing="2" width="100%">
+        <tbody><tr><td colspan="3" align="center"><a href="/control/product/%7Eproduct_id=017242;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="http://images.funagain.com/cover/small/17242.jpg" class="imageborder" alt="HeroScape: Ticalla Jungle" title="HeroScape: Ticalla Jungle" border="0"></a><br clear="all"></td></tr>
+
+
+      <tr>
+          <td></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 1"><b><kw class="krdwrd-tag-1">1</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=017242;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">HeroScape: Ticalla Jungle</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+
+
+      <tr>
+          <td></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 2"><b><kw class="krdwrd-tag-1">2</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=017241;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">HeroScape: Aquilla's Alliance</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+
+
+      <tr>
+          <td></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 3"><b><kw class="krdwrd-tag-1">3</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=018736;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">Ticket to Ride: The Card Game</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+
+
+      <tr>
+          <td></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 4"><b><kw class="krdwrd-tag-1">4</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=016366;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">Incan Gold</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+
+
+      <tr>
+          <td></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 5"><b><kw class="krdwrd-tag-1">5</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=017239;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">Heroscape: Defenders of Kinsland</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+
+
+      <tr>
+          <td align="right" valign="top"><nobr><div class="ColumnMenuText"><img src="/images/catalog/arrowdown.gif" alt="[Down]" title="Last position: 5" width="8" height="11"></div></nobr></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 5"><b><kw class="krdwrd-tag-1">6</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=014100;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">Queen's Necklace</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+
+
+      <tr>
+          <td></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 7"><b><kw class="krdwrd-tag-1">7</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=016992;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">Catan: Dice Game</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+
+
+      <tr>
+          <td></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 8"><b><kw class="krdwrd-tag-1">8</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=018038;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">Heroscape: Defenders of Kinsland: Marro Cavalry</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+
+
+      <tr>
+          <td></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 9"><b><kw class="krdwrd-tag-1">9</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=018037;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">Heroscape: Defenders of Kinsland: Soldiers &amp; Wolves</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+
+
+      <tr>
+          <td></td>
+        <td align="right" valign="top" width="1%">
+          <div class="ColumnMenuText"><span title="Last position: 10"><b><kw class="krdwrd-tag-1">10</kw></b>&nbsp;</span></div>
+        </td>
+        <td valign="top">
+          <a href="/control/product/%7Eproduct_id=014528;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">The Werewolves of Millers Hollow</kw></a><span class="ColumnMenuText"> </span>
+</td>
+      </tr>
+
+<tr>
+  <td colspan="3" align="right">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+      <td align="left"><a href="/control/xml_feeds;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/misc/rss.gif" alt="RSS" title="Click here to learn about an XML feed for this item" border="0" vspace="3" width="35" height="15" hspace="2"></a></td>
+         <td align="right"><a href="/control/bestsellerlist;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnBoxMoreLink"><kw class="krdwrd-tag-1">...more</kw></a></td>
+    </tr>
+    </tbody></table>
+  </td>
+</tr>
+</tbody></table>
+
+      </div>
+   </td>
+</tr>
+<tr>
+   <td><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+   <td background="/images/misc/box-bottom-tan.gif"><img src="/images/misc/box-bottom-left-corner-tan.gif" alt="" width="3" height="3"></td>
+   <td><img src="/images/misc/box-bottom-right-corner-tan.gif" alt="" width="3" height="3"></td>
+</tr>
+</tbody></table>
+
+</div>
+         <div class="LeftColumnBox"></div>
+      <div class="LeftColumnBox">
+<table bgcolor="#edede6" border="0" cellpadding="0" cellspacing="0" width="193">
+<tbody><tr>
+   <td rowspan="2" background="/images/misc/box-left-tan.gif" valign="top" width="2"><img src="/images/misc/box-top-left-corner-tan.gif" alt="" width="2" height="6"></td>
+   <td background="/images/misc/box-top-tan.gif" width="100%"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
+   <td rowspan="2" background="/images/misc/box-right-tan.gif" valign="top" width="3"><img src="/images/misc/box-top-right-corner-tan.gif" alt="" width="3" height="6"></td>
+</tr>
+<tr>
+   <td>
+      <div class="BoxHeaderRecommended"><kw class="krdwrd-tag-1">Gift Certificates</kw></div>
+      
+      <div class="BoxBodyRecommended"><div style="padding: 2px 0px 4px 2px;">
+         <a href="http://www.funagain.com/redir/14523;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/misc/gift-cert-button.gif" alt="Funagain Gift Certificates" title="Funagain Gift Certificates" border="0" width="182" height="72"></a>
+         <div style="padding-left: 5px; padding-top: 3px;"><a class="ColumnMenuText" style="text-decoration: none;" href="http://www.funagain.com/redir/14523;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">...the perfect gift when you're not sure exactly what to get!</kw></a></div>
+      </div></div>
+   </td>
+</tr>
+<tr>
+   <td><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+   <td background="/images/misc/box-bottom-tan.gif"><img src="/images/misc/box-bottom-left-corner-tan.gif" alt="" width="3" height="3"></td>
+   <td><img src="/images/misc/box-bottom-right-corner-tan.gif" alt="" width="3" height="3"></td>
+</tr>
+</tbody></table>
+
+</div>
+   </td>
+</tr>
+</tbody></table>
+
+
+   </td>
+   <td bgcolor="#999973" valign="top" width="1">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tbody><tr><td><img src="/images/misc/left-column-right-border-top-shadow.gif" width="1" height="4"></td></tr>
+      </tbody></table>
+   </td>
+   <td background="/images/spacer.gif" valign="top"><img src="/images/misc/center-column-top-shadow.gif" width="6" height="4"></td>
+   <td align="left" valign="top" width="100%">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr><td background="/images/misc/center-column-top-shadow.gif" width="100%"><img src="/images/spacer.gif" width="1" height="4"></td></tr>
+      </tbody></table>
+      <div class="CenterColumn">
+         
+
+
+
+
+           
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+
+
+<script language="Javascript">
+<!--
+   function popupFAQ(anchorTarget) {
+      window.open("/control/popupfaq#" + anchorTarget, "popupFaq", "width=500,height=500,resizeable=yes,scrollbars=yes");
+      return(false);
+   }
+//-->
+</script>
+
+
+
+<tbody><tr>
+   <td colspan="2" align="left" valign="top">
+      <div class="ProductHeader"><kw class="krdwrd-tag-2">Merchants of Amsterdam</kw></div>
+      <div class="ProductHeaderSubText"><kw class="krdwrd-tag-1">English language edition of Die Kaufleute von Amsterdam</kw></div>
+   </td>
+</tr>
+<tr>
+   <td valign="top" width="45%">
+         <img src="http://images.funagain.com/cover/medium/11401.jpg" alt="Merchants of Amsterdam" title="Merchants of Amsterdam" name="mainImage" align="right" border="0" vspace="5" hspace="5"><br clear="all">
+      <br>
+
+
+      <table border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr><td valign="top"><div class="ProductCategoryTitle"><kw class="krdwrd-tag-1">Store:&nbsp;</kw></div></td><td valign="top"><div class="ProductCategoryLink"> <a href="/control/category/%7Ecategory_id=STORE_FAMILY;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Family Games</kw></a> </div></td></tr>
+                      <tr><td valign="top"><div class="ProductCategoryTitle"><kw class="krdwrd-tag-1">Genre:&nbsp;</kw></div></td><td valign="top"><div class="ProductCategoryLink"> <a href="/control/category/%7Ecategory_id=GENRE_0411;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Auction &amp; Bidding</kw></a> </div></td></tr>
+                      <tr><td valign="top"><div class="ProductCategoryTitle"><kw class="krdwrd-tag-1">Format:&nbsp;</kw></div></td><td valign="top"><div class="ProductCategoryLink"> <a href="/control/category/%7Ecategory_id=FORMAT_0425;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Board Games</kw></a> </div></td></tr>
+                      <tr><td valign="top"><div class="ProductCategoryTitle"><kw class="krdwrd-tag-1">Edition:&nbsp;</kw></div></td><td valign="top"><div class="ProductCategoryLink"> <a href="/control/category/%7Ecategory_id=EDITION_0900;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Merchants of Amsterdam / Die Kaufleute von Amsterdam</kw></a> </div></td></tr>
+      </tbody></table>
+
+   </td>
+
+   <td align="left" valign="top">
+
+
+         <div class="ProductPriceText">
+            <div>
+               <span class="ProductPriceActualText"><kw class="krdwrd-tag-1">Your Price: </kw><span class="ProductPriceActualText"><kw class="krdwrd-tag-1">$39.95</kw></span></span>
+                  <nobr><kw class="krdwrd-tag-1">(</kw><i><kw class="krdwrd-tag-1">Worth </kw><span class="ProductPriceActualText"><kw class="krdwrd-tag-1">3,995</kw></span> <a href="/control/points;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Funagain Points</kw></a><kw class="krdwrd-tag-1">!</kw></i><kw class="krdwrd-tag-1">)</kw></nobr>
+            </div>
+         </div>
+
+
+      <hr class="SepBar">
+
+
+      <form method="post" action="/control/additem/product;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" name="addform" style="margin: 0pt;">
+
+
+
+
+
+              <select name="add_product_id" class="FormField"><option class="krdwrd-tag-1" value="011401N">New - $39.95</option></select>
+              <nobr><input class="FormField" size="3" name="quantity" value="1" type="text"><span class="PageTitle1">&nbsp;</span><input src="/images/cart/add_to_cart.gif" alt="Add to Cart" align="absmiddle" border="0" width="90" height="21" type="image"></nobr>
+              <input name="product_id" value="011401" type="hidden">
+
+
+
+        </form>
+
+      <hr class="SepBar">
+
+
+
+        <table border="0" cellpadding="0" cellspacing="2">
+        <tbody><tr>
+         <td>
+           <a href="#reviews"><nobr><img src="/images/catalog/rating-star-10.gif" title="3.65" alt="3.65" border="0"><img src="/images/catalog/rating-star-10.gif" title="3.65" alt="3.65" border="0"><img src="/images/catalog/rating-star-10.gif" title="3.65" alt="3.65" border="0"><img src="/images/catalog/rating-star-06.gif" title="3.65" alt="3.65" border="0"><img src="/images/catalog/rating-star-00.gif" title="3.65" alt="3.65" border="0"></nobr></a>
+           <span class="ProductText">
+             <nobr><kw class="krdwrd-tag-1">from 10 customer reviews</kw></nobr>
+           </span>
+         </td>
+        </tr>
+        </tbody></table>
+
+            <table border="0" cellpadding="0" cellspacing="2">
+            <tbody><tr>
+               <td><a href="/control/productaward/%7Eaward_type=IGA/%7Eaward_year=2001;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/catalog/IGA_small.gif" title="International Gamers Awards" alt="International Gamers Awards" align="left" border="0" width="40" height="40"></a></td>
+               <td><span class="ProductAwardText"><kw class="krdwrd-tag-1">
+                  International Gamers Awards</kw><br><kw class="krdwrd-tag-1">
+                  Best Strategy Game Nominee
+                  2001
+               </kw></span></td>
+            </tr>
+            </tbody></table>
+            <table border="0" cellpadding="0" cellspacing="2">
+            <tbody><tr>
+               <td><a href="/control/productaward/%7Eaward_type=DEUTSP/%7Eaward_year=2000;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/catalog/DEUTSP_small.gif" title="Deutscher SpielePreis" alt="Deutscher SpielePreis" align="left" border="0" width="40" height="40"></a></td>
+               <td><span class="ProductAwardText"><kw class="krdwrd-tag-1">
+                  Deutscher SpielePreis</kw><br><kw class="krdwrd-tag-1">
+                  10th place
+                  2000
+               </kw></span></td>
+            </tr>
+            </tbody></table>
+         <hr class="SepBar">
+      
+         <div class="ProductAttribute">
+            <span class="ProductAttributeTitle"><kw class="krdwrd-tag-1">Designer(s):</kw></span>
+               <nobr><a href="/control/keywordsearch/%7EPARTY_ID=010161:DESIGNER/%7ESHOW_UNAVAIL=N/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Reiner  Knizia</kw></a></nobr>
+	     </div>
+         <div class="ProductAttribute">
+            <span class="ProductAttributeTitle"><kw class="krdwrd-tag-1">Manufacturer(s):</kw></span>
+               <nobr><a href="/control/keywordsearch/%7EPARTY_ID=010365:MANUFACTURER/%7ESHOW_UNAVAIL=N/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Rio Grande Games</kw></a><kw class="krdwrd-tag-1">,</kw></nobr>
+               <nobr><a href="/control/keywordsearch/%7EPARTY_ID=010821:MANUFACTURER/%7ESHOW_UNAVAIL=N/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Jumbo International</kw></a></nobr>
+         </div>
+
+         <div class="ProductAttribute">
+            <span class="ProductAttributeTitle"><kw class="krdwrd-tag-1">Year:</kw></span><kw class="krdwrd-tag-1">
+            2001
+         </kw></div>
+
+         <div class="ProductAttribute">
+            <span class="ProductAttributeTitle"><kw class="krdwrd-tag-1">Players:</kw></span><kw class="krdwrd-tag-1">
+            3
+                     - 5
+         </kw></div>
+
+         <div class="ProductAttribute">
+            <span class="ProductAttributeTitle"><kw class="krdwrd-tag-1">Time:</kw></span><kw class="krdwrd-tag-1">
+            90
+            minutes
+         </kw></div>
+
+         <div class="ProductAttribute">
+            <span class="ProductAttributeTitle"><kw class="krdwrd-tag-1">Ages:</kw></span><kw class="krdwrd-tag-1">
+            10
+                     and up
+         </kw></div>
+
+
+         <div class="ProductAttribute">
+            <span class="ProductAttributeTitle"><kw class="krdwrd-tag-1">Weight:</kw></span><kw class="krdwrd-tag-1">
+            1,276 grams 
+         </kw></div>
+
+
+         <div class="ProductAttribute">
+            <span class="ProductAttributeTitle"><kw class="krdwrd-tag-1">All-Time Sales Rank:</kw></span>
+            <a href="/control/alltimebestsellers/%7EVIEW_SIZE=50/%7EVIEW_INDEX=2;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">#146</kw></a>
+         </div>
+
+
+
+         <div class="ProductAttribute">
+            <span class="ProductAttributeTitle">
+               <br><kw class="krdwrd-tag-1">
+               Language Requirements:
+                            This is an international edition or domestic edition of an imported item.
+                            Game components are language-independent.
+                            Manufacturer's rules are printed in English.
+            </kw></span>
+         </div>
+
+      <hr class="SepBar">
+        <a href="https://www.funagain.com/control/checkLogin/product/%7Eproduct_id=011401;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="TextButton"><kw class="krdwrd-tag-1">Login</kw></a><span class="TextButton"><kw class="krdwrd-tag-1"> to use shopping lists.</kw></span>
+
+
+   </td>
+</tr>
+
+  <tr>
+    <td colspan="2">
+      <a name="requires"></a>
+      <table>
+      </table>
+    </td>
+  </tr>
+
+        <tr><td colspan="2"><hr class="SepBar"></td></tr>
+
+     <tr>
+       <td colspan="2">
+         <div class="ProductText"><p><kw class="krdwrd-tag-3">In the year 1600, Amsterdam was a city of 50,000 and a bright future. Trade flourished and many new buildings graced the harbor. Enterprising Dutch merchants traveled to the Americas, Africa, and the Orient in search of the new commodities valued at home. This period of history is the basis for this game. The players take the roles of the powerful Merchant families of that time. The players invest in the commodity market, build warehouses in Amsterdam, and open trade offices in the colonies as they compete to become the most successful merchant in Amsterdam and win the game.
+</kw></p></div>
+       </td>
+     </tr>
+
+     <tr><td colspan="2"><hr class="SepBar"></td></tr>
+   <tr>
+      <td colspan="2">
+         <table border="0" cellpadding="0" cellspacing="0" width="97%">
+         <tbody><tr>
+            <td><div class="ProductSubHeader"><kw class="krdwrd-tag-1">Image Gallery:</kw></div></td>
+            <td><div class="ProductSubHeader"><kw class="krdwrd-tag-1">Contents:</kw></div></td>
+         </tr>
+         <tr>
+
+         <td valign="top"><img src="/images/spacer.gif" alt="" width="1" height="4">
+
+                  <table border="0" cellpadding="3" cellspacing="0">
+                  <tbody><tr>
+                           <td valign="bottom">
+                                 <img src="http://images.funagain.com/cover/small/11401.jpg"><br>
+                           </td>
+                           <td width="20">&nbsp;</td>
+                           <td valign="bottom">
+                                 <img src="http://images.funagain.com/back/small/11401.jpg"><br>
+                           </td>
+                           <td width="20">&nbsp;</td>
+                  </tr>
+                  <tr>
+                           <td valign="top">
+                              <div class="ProductAttribute">
+                                 <div class="ProductAttributeStrong"><kw class="krdwrd-tag-1">Cover</kw></div>
+                                       <div class="ProductAttributeText">
+                                          <a href="http://images.funagain.com/cover/medium/11401.jpg"><kw class="krdwrd-tag-1">Medium</kw></a><br>
+                                       </div>
+                                       <div class="ProductAttributeText">
+                                          <a href="http://images.funagain.com/cover/large/11401.jpg"><kw class="krdwrd-tag-1">Large</kw></a><br>
+                                       </div>
+                                       <div class="ProductAttributeText">
+                                          <a href="http://images.funagain.com/cover/huge/11401.jpg"><kw class="krdwrd-tag-1">Huge</kw></a><br>
+                                       </div>
+                              </div>
+                           </td>
+                           <td width="20">&nbsp;</td>
+                           <td valign="top">
+                              <div class="ProductAttribute">
+                                 <div class="ProductAttributeStrong"><kw class="krdwrd-tag-1">Back</kw></div>
+                                       <div class="ProductAttributeText">
+                                          <a href="http://images.funagain.com/back/medium/11401.jpg"><kw class="krdwrd-tag-1">Medium</kw></a><br>
+                                       </div>
+                                       <div class="ProductAttributeText">
+                                          <a href="http://images.funagain.com/back/large/11401.jpg"><kw class="krdwrd-tag-1">Large</kw></a><br>
+                                       </div>
+                                       <div class="ProductAttributeText">
+                                          <a href="http://images.funagain.com/back/huge/11401.jpg"><kw class="krdwrd-tag-1">Huge</kw></a><br>
+                                       </div>
+                              </div>
+                           </td>
+                           <td width="20">&nbsp;</td>
+                  </tr>
+                  <tr>
+                     <td colspan="2"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
+                  </tr>
+                  </tbody></table>
+
+         </td>
+
+            <td valign="top"><span class="ProductText"><ul>
+<li><kw class="krdwrd-tag-1">game board
+</kw></li><li><kw class="krdwrd-tag-1">auction clock
+</kw></li><li><kw class="krdwrd-tag-1">120 game tiles (in 5 colors, 24 per player)
+</kw></li><li><kw class="krdwrd-tag-1">84 cards
+</kw></li><li><kw class="krdwrd-tag-1">3 discs (mayor, auction clock, bucket with cards)
+</kw></li><li><kw class="krdwrd-tag-1">large pawn (used as a time marker)
+</kw></li><li><kw class="krdwrd-tag-1">play money (20 x 10,000, 20 x 20,000, 15 x 50,000, 30 x 100,000 and 12 x 500,000 florins)
+</kw></li><li><kw class="krdwrd-tag-1">5 credit markers
+</kw></li><li><kw class="krdwrd-tag-1">rules booklet
+</kw></li></ul></span></td>
+      </tr>
+      </tbody></table>
+   </td>
+  </tr>
+
+
+
+
+
+  <tr><td colspan="2"><hr class="SepBar"></td></tr>
+  <tr>
+    <td colspan="2">
+       <div class="ProductSubHeader"><kw class="krdwrd-tag-2">GAMES Magazine Reviews:</kw></div>
+    </td>
+  </tr>
+  <tr>
+     <td colspan="2"><hr class="SepBar"></td>
+  </tr>
+      <tr>
+        <td colspan="2">
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+             <td><div class="ProductReviewTitle"></div></td>
+             <td align="right">
+                <div class="ProductReviewName"><kw class="krdwrd-tag-1">John McCallion</kw></div>
+                <div class="ProductReviewDate"><kw class="krdwrd-tag-1">Jan 01, 2002</kw></div>
+             </td>
+          </tr>
+          <tr>
+             <td colspan="2">
+                <div class="ProductReviewBody"><p><kw class="krdwrd-tag-3">In this game, Rio Grande's English translation of a Games 100 selection from last year, time appears in two guises. The Time Marker zips hurriedly around the board representing 17th-century Amsterdam; when it reaches the end of the track, the player with the most money wins. Auctions, on the other hand, are conducted with a really cool clock that gradually lowers the price until someone pounces to tap it--the seconds pass with excruciating tension and the sweat flows profusely. The cards won at Auction allow you to increase your income in local or international markets, making this the most thematically convincing of Dr. Knizia's great games.</kw></p></div>
+             </td>
+          </tr>
+          </tbody></table>
+        </td>
+      </tr>
+         <tr>
+            <td colspan="2"><hr class="SepBar"></td>
+         </tr>
+      <tr>
+        <td colspan="2">
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+             <td><div class="ProductReviewTitle"></div></td>
+             <td align="right">
+                <div class="ProductReviewName"><kw class="krdwrd-tag-1">Greg  Schloesser</kw></div>
+                <div class="ProductReviewDate"><kw class="krdwrd-tag-1">Jan 01, 2001</kw></div>
+             </td>
+          </tr>
+          <tr>
+             <td colspan="2">
+                <div class="ProductReviewBody"><p><kw class="krdwrd-tag-3">Join us in this adventure set in 17th-century Holland. Compete to acquire the most commodities, overseas trading settlements, and houses. You, the mayor for this turn, draw three cards. Keep one, discard another, and auction the third, using a really cool clock that gradually lowers the price until someone taps it. The cards allow players to advance their standings in one of the three areas of competition. The Time Marker, controlled by an hourglass card, affects players' fortunes and precipitates scoring rounds in which cash is awarded to those who are furthest and second furthest ahead in the competitions. The player with the most money wins when the Time Marker reaches the end of the track. The Time Marker passes through the years quickly enough, but the seconds that tick by as the auction clock winds down pass with excruciating tension.</kw></p>
+</div>
+             </td>
+          </tr>
+          </tbody></table>
+        </td>
+      </tr>
+
+  <tr><td colspan="2"><hr class="SepBar"></td></tr>
+  <tr>
+    <td colspan="2">
+       <div class="ProductSubHeader"><kw class="krdwrd-tag-2">Counter Magazine Reviews:</kw></div>
+    </td>
+  </tr>
+  <tr>
+     <td colspan="2"><hr class="SepBar"></td>
+  </tr>
+      <tr>
+        <td colspan="2">
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+             <td align="right">
+                <div class="ProductReviewName"><kw class="krdwrd-tag-1">Stuart Dagger</kw></div>
+                <div class="ProductReviewDate"><kw class="krdwrd-tag-1">May 01, 2000</kw></div>
+             </td>
+          </tr>
+          <tr>
+             <td colspan="2">
+                <div class="ProductReviewBody"><p><kw class="krdwrd-tag-3">On a par with the notion that "a single man in possession of a good fortune,
+must be in want of a wife" is the equally acknowledged truth that German
+games tend to be light on theme.  Elegant mechanics, enjoyable to play,
+but with a theme that is added very late in the design process and which
+often seems to be little other than an excuse for some nice graphics from
+Franz Vohwinkel or Doris Matthäus; the game itself is primarily abstract.
+It is also widely held that the high priest of this particular style is
+Reiner Knizia.  Even in Germany his games are often criticised as being rather
+dry and lacking in atmosphere.  All of which means that this game comes as
+something of a surprise.  It is the most strongly themed German game, certainly
+since </kw><a href="/control/product/%7Eproduct_id=005228;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-3">TurfMaster</kw></a><kw class="krdwrd-tag-3">, and possibly since </kw><a href="/control/product/%7Eproduct_id=000358;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-3">Die Macher</kw></a><kw class="krdwrd-tag-3">.  And it has been designed by the man who is supposedly at his weakest in the matter of themes and their relation to what is the real content of a game.  The elegant and carefully constructed mechanics that are usually a feature of his designs are still here, but this time they have come with some real history and a genuine feeling of time and place.</kw></p>
+
+<p><kw class="krdwrd-tag-3">According to our spy in the camp, the genesis of this one came when Jumbo sent Reiner a game for evaluation.  It wasn't very good, being little more than
+another instance of "throw a die and move", but it did feature a wonderful
+toy in the form of a Dutch auction clock.  The game was rejected, but the
+clock took his fancy and round it he has built a game about Amsterdam's rise
+to mercatile prominence in the century that followed the Dutch rebellion
+against Spanish rule.</kw></p>
+
+<p><kw class="krdwrd-tag-3">The centre of the gameboard shows a map of Amsterdam as it was in 1580,
+before the building of the three great U-shaped canals that are the most
+prominent feature of the city today.  This oldest part of the city is
+split into four quarters, divided by canals and linked by bridges.
+At the base of the map is a set of four commodity tracks, one each for
+silk, spices, sugar and precious stones, and surrounding all this are maps
+of the four parts of the world from which the Dutch obtained these items--the Americas, Africa, the East Indies and the Far East.</kw></p>
+
+<p><kw class="krdwrd-tag-3">Players compete for prominence in these twelve areas: the four overseas areas, the four quarters of Amsterdam and the four commodity tracks.  Tokens
+placed overseas represent trading settlements and each is tied to one of the
+four commodities.  Placing a token on, say, a spice settlement in the East
+Indies raises your status in the East Indies and also your importance as a
+spice merchant, with this latter being noted by an advance of your marker on
+the spice commodity track.  There is a similar double effect when you expand
+in Amsterdam: your placement increases your status in the appropriate area
+of the city and, because the new building represents an expansion of your
+business activity, there will also be an advance of your marker on one of
+the commodity tracks.</kw></p>
+
+<p><kw class="krdwrd-tag-3">In your turn you are the mayor and have control of the deck of cards that
+drives the game.  You turn up three cards: one you will keep for your own
+use, one you will discard (and thus deny anyone the use of) and one you will
+put up for auction.  It is an enviable position to be in, with the only slight
+drawback being that you have to decide what to do with each card as it is
+turned over, before you know what the others are going to be.  With a small
+handful of exceptions that are there mainly to enable you to vary the size
+of the deck in order ensure that everyone has the same number of turns at
+being mayor irrespective of whether you are playing with 3, 4 or 5 players,
+the cards are of two types.  One will result in the placement of a token
+overseas and one the placement of a token at home.  An overseas card will
+do one of two things:
+</kw></p><ul>
+<li><kw class="krdwrd-tag-3">enable you to found a trading settlement for a fixed commodity anywhere
+in the world;
+</kw></li><li><kw class="krdwrd-tag-3">enable you to found a trading settlement in a stated area of the world
+but in a commodity of your own choosing.
+</kw></li></ul><kw class="krdwrd-tag-3">
+Both options carry the proviso "subject to the availability of a suitable
+site".
+
+</kw><p><kw class="krdwrd-tag-3">A similar division into two sub-types exists for the home placements, one
+giving you a choice of two quarters of the city but no choice of commodity
+and the other dictating the quarter but allowing you to choose the commodity.</kw></p>
+
+<p><kw class="krdwrd-tag-3">After the mayor has made his free placement, he conducts the auction for
+the right to make the other one.  This is done using the clock.  The hand
+is wound round until it points at 200 and then released to tick back round
+to 50.  The first person to stop the clock gains the card and pays whatever
+price the clock now indicates.  In the unlikely event of the pointer reaching
+50, nobody gets the card.  (This type of Dutch auction, using a clock which
+the bidders can stop, is the traditional method used by fruit and vegetable
+wholesalers in the Netherlands.).</kw></p>
+
+<p><kw class="krdwrd-tag-3">After the successful bidder has placed the relevant token and moved the
+corresponding marker on the commodity track, the mayor's period of office
+ends and the job moves to the next player.</kw></p>
+
+<p><kw class="krdwrd-tag-3">Mixed in with these cards are another set, each of which shows an hourglass.
+These control the passage of time.  Running round three sides of the board
+is a time track with each space dated and tied to an historical event of
+commercial significance to 17th century Amsterdam.  When the mayor turns
+up one of these, it doesn't count as one of his three cards, but is instead
+an extra whose purpose is to advance the time marker along this track.
+Most spaces on the track contain either an event, or a scoring table or both.
+When the marker moves into the space, the instructions are followed: enact
+the event or score the indicated area.  The events all translate into either
+gaining a token, losing a token or moving a marker on the commodity track
+and they affect everybody equally.  In the first part of the period, when
+Amsterdam's rise was unopposed, they are all favourable; in the later part
+you get the setbacks (the Anglo-Dutch wars, the loss of the trading outpost
+in Formosa, etc).</kw></p>
+
+<p><kw class="krdwrd-tag-3">The scoring tables that you reach during the game each relate to one of
+the three sectors: home, overseas, commodity tracks.  Then, at the end, there
+is a final "double points" one that affects all three.  Each table shows
+four sets of figures: 100/60, 80/40, 60/40 and 40/20.  The four areas of the
+appropriate sector are then ranked according to their importance.  Overseas
+the most important area is the one containing the most trading settlements;
+in Amsterdam it is the one with the most houses.  In the highest ranked
+area the leader receives a payout of 100 and the runner-up 60; in the next it
+is 80 and 40; and so on down the line.  (Am I the only person who has often
+wondered what would have happened to game design if Sid Sackson had "done
+a Garfield" and patented this particular mechanism?)</kw></p>
+
+<p><kw class="krdwrd-tag-3">In addition to these pay-offs, all of which are encouraging you to concentrate your resources, there are some significant bonuses pulling you in the other direction.  You get these for having trading settlements in all four overseas areas, for being sufficiently far advanced on all four commodity tracks, for having houses in all four quarters of Amsterdam and for occupying sites which mean that you "control city bridges".</kw></p>
+
+<p><kw class="krdwrd-tag-3">As I hope you can tell from that description, this is a game where what you
+are doing on the board makes sense in real life terms--something that
+could not be said of either of Reiner's other two recent major releases,
+</kw><a href="/control/product/%7Eproduct_id=007574;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-3">Stephenson's Rocket</kw></a><kw class="krdwrd-tag-3"> and </kw><a href="/control/product/%7Eproduct_id=007573;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-3">Taj Mahal</kw></a><kw class="krdwrd-tag-3">, where complicated scoring systems coupled with artificial mechanics mean that you spend the first few games in something of a fog.  Here everything is natural: You are a merchant seeking to expand your business both at home and overseas.  You will do this by a combination of investment and making use of the political advantages that come from your periods as mayor.  Your aim in each area is to be one of the major players, because that is where the profits lie, though there are also advantages to be got from being the sort of businessman who has a finger in every pie. The things that you need to do are to keep an eye on your rivals and to make sure that you don't pay more for an investment than it is worth.  The second of these ought to be easy, as the scoring tables are there for all to see, but the interactions create some confusion and the competitiveness that tends to come over you during an auction causes a lot more.  You need to keep a cool head and if you think that the others are bidding too high, back your judgement: the object is to be richest, not to have the biggest empire.</kw></p>
+
+<p><kw class="krdwrd-tag-3">Kaufleute is lighter than Taj Mahal or Stephenson's Rocket, something
+you should bear in mind if you are the sort of gamer who likes to formulate
+strategic plans and to keep his brow properly furrowed.  If you are that sort,
+this game will quite possibly not be to your taste and you would be better
+buying one of the other two.  For myself, I prefer this one: it is more fun
+and I like the historical feel and the sense of realism.</kw></p>
+
+<p><kw class="krdwrd-tag-3">The other thing that will divide people is the clock.  Gerard Mulder of Jumbo
+reckons that it is responsible for about a third of the fun you get when
+playing and many will agree with him.  Others will be irritated by the fact
+that it is noisy and that there is a problem of where to position it so as to
+have it within equal reach of everybody.  There will also be those who don't 
+like the reaction/dexterity element it introduces.  My group belongs to the
+grumpy school on this one.  However, it hasn't put us off the game: we just
+leave the clock in the box.  It is quite simple for the mayor to run a Dutch
+auction by calling out the numbers and for the players to bid by rapping the
+table.  All you need to do is devise a tie-breaking mechanism to deal with
+the close calls that, were you using the clock, would be settled by seeing
+whose hand was on the button.  This will also solve the problem of what to
+do should the clock break, which has to be a possibility, as there is always
+is a bottom line of cost with these things which ensures that they aren't
+built to last for generations.</kw></p>
+
+<p><kw class="krdwrd-tag-3">As Derek Carver has pointed out, any game whose scoring system is based on
+"Wertung cards" is biased towards the original start player unless you take
+steps to rectify it.  This one is no exception.  It is caused by the fact
+that whenever a scoring card comes up, the likelihood is that some players 
+will have had one more shot at being mayor than others and that means one
+more free token on the board.  If this worries you will have to come up with
+your own fix--just as you did in </kw><a href="/control/product/%7Eproduct_id=006609;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-3">Union Pacific</kw></a><kw class="krdwrd-tag-3">--because the rules don't do it for you.</kw></p>
+
+<p><kw class="krdwrd-tag-3">At present the game is not available in an English language edition.
+However, using the German edition will not present you with any
+problems: neither the board nor the cards carry any text and an English
+translation of the rules is available.</kw></p>
+</div>
+             </td>
+          </tr>
+          </tbody></table>
+        </td>
+      </tr>
+
+
+  <tr><td colspan="2"><hr class="SepBar"></td></tr>
+  <tr>
+    <td colspan="2">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+         <td><a name="reviews"></a><div class="ProductSubHeader"><a name="reviews"><kw class="krdwrd-tag-1">Customer Reviews:</kw></a></div>
+<img src="/images/catalog/rating-star-10.gif" title="3.65" alt="3.65" border="0"><img src="/images/catalog/rating-star-10.gif" title="3.65" alt="3.65" border="0"><img src="/images/catalog/rating-star-10.gif" title="3.65" alt="3.65" border="0"><img src="/images/catalog/rating-star-06.gif" title="3.65" alt="3.65" border="0"><img src="/images/catalog/rating-star-00.gif" title="3.65" alt="3.65" border="0">            <div class="ProductText"><kw class="krdwrd-tag-1">
+               Average rating: 3.6 in 10 reviews.
+            </kw></div>
+         </td>
+         <td align="right">
+            <table border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr><td align="right"><a href="/control/reviewProduct;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1?category_id=STORE_FAMILY&amp;product_id=011401" class="TextButton"><img src="/images/catalog/submit-customer-review.gif" alt="Submit a Customer Review" title="Submit a customer review for this product" border="0" width="198" height="21"></a></td></tr>
+            <tr><td><img src="/images/spacer.gif" width="1" height="14"></td></tr>
+            <tr>
+               <td align="right"></td>
+            </tr>
+            </tbody></table>
+         </td>
+      </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+     <td colspan="2"><hr class="SepBar"></td>
+  </tr>
+
+
+
+
+
+
+
+      <tr>
+        <td colspan="2">
+          <a name="rev_008336"></a>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+             <td><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"><div class="ProductReviewTitle"><kw class="krdwrd-tag-2">This is a Knizia game?</kw></div>
+             </td>
+             <td align="right"><span class="ProductReviewName"><kw class="krdwrd-tag-1"> Coldfoot </kw><a href="/control/customerReviews;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1?user=010009" title="View all reviews from this customer"><img src="/images/misc/arrow_right_1.gif" align="absbottom" border="0"></a></span>
+                <div class="ProductReviewDate"><kw class="krdwrd-tag-1">Dec 15, 2003</kw></div>
+             </td>
+          </tr>
+          <tr>
+             <td colspan="2">
+                <div class="ProductReviewBody"><p><kw class="krdwrd-tag-3">I like this game. I only bought it because it was in the bargain bin of my local game store. I wasn't expecting much, it seemed like a typical, dry Knizia game. Surpise! Merchants of Amsterdam is quite non-Knizia-esque (to coin a phrase). The theme doesn't feel 'pasted on', it works very well with the mechanics of the game. Also, in non-Knizia-esque fashion the game is not only challenging, but fun.</kw></p>
+
+<p><kw class="krdwrd-tag-3">For those of you with too little time to read Stuart Daggar's review from Counter magazine printed above, let me use one of his lines. '...the object is to be richest, not to have the biggest empire.' Keep that in mind, and you will enjoy the game more than if you try to crush your opponents. If your goal is to crush, you will lose. You get paid if you lead a category, it doesn't matter by how much. The second place player gets paid nearly as much, regardless of how far back they are.</kw></p>
+
+<p><kw class="krdwrd-tag-3">There are some good reviews of the game mechanics on this site, so let me only add that a game lasts about 1-1 1/2 hours. Final scores are generally quite close, it can be difficult to know who is winning as the game winds down. You can't do everything you want to do in Merchants of Amsterdam, which leads to some tough choices. Play is simple, and the clock causes tension between players. Unlike some other reviewers I have had no problems with the Dutch Auction Clock, it works quite well, thank you. Did I mention that the game is simply fun?</kw></p>
+
+<p><kw class="krdwrd-tag-3">Merchants of Amsterdam may not be everyone's cup of tea, but its mine. A fine game.</kw></p>
+</div>
+             </td>
+          </tr>
+          </tbody></table>
+        </td>
+      </tr>
+         <tr>
+            <td colspan="2"><hr class="SepBar"></td>
+         </tr>
+
+
+
+
+
+
+
+      <tr>
+        <td colspan="2">
+          <a name="rev_20525"></a>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+             <td><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-00.gif" title="4.00" alt="4.00" border="0"><div class="ProductReviewTitle"><kw class="krdwrd-tag-2">A Unique Auction Game</kw></div>
+             </td>
+             <td align="right"><span class="ProductReviewName"><kw class="krdwrd-tag-1">Andrew MacLeod </kw><a href="/control/customerReviews;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1?user=14119" title="View all reviews from this customer"><img src="/images/misc/arrow_right_1.gif" align="absbottom" border="0"></a></span>
+                <div class="ProductReviewDate"><kw class="krdwrd-tag-1">Jan 08, 2008</kw></div>
+             </td>
+          </tr>
+          <tr>
+             <td colspan="2">
+                <div class="ProductReviewBody"><p><kw class="krdwrd-tag-3">Very well-themed, for a </kw><a href="/control/keywordsearch/%7EPARTY_ID=010161:DESIGNER/%7ESHOW_UNAVAIL=N/;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-3">Knizia</kw></a><kw class="krdwrd-tag-3"> game! In a short period of time, it has
+become not only my favourite area control game, but also my fave
+auction game! No analysis paralysis here, folks, during the
+bidding...mind you there's no bidding! When the auction clock has
+ticked to a price LOW enough for your liking, hit the clock and pay!
+The problem is: what if Ned hits it before I do? Thus, a fair bit of
+psychological brinksmanship is in these Dutch auctions.</kw></p></div>
+             </td>
+          </tr>
+          </tbody></table>
+        </td>
+      </tr>
+         <tr>
+            <td colspan="2"><hr class="SepBar"></td>
+         </tr>
+
+
+
+
+
+
+
+      <tr>
+        <td colspan="2">
+          <a name="rev_003475"></a>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+             <td><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-00.gif" title="4.00" alt="4.00" border="0"><div class="ProductReviewTitle"><kw class="krdwrd-tag-2">Very approachable Knizia</kw></div>
+             </td>
+             <td align="right"><span class="ProductReviewName"><kw class="krdwrd-tag-1">Randall Peek </kw><a href="/control/customerReviews;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1?user=010069" title="View all reviews from this customer"><img src="/images/misc/arrow_right_1.gif" align="absbottom" border="0"></a></span>
+                <div class="ProductReviewDate"><kw class="krdwrd-tag-1">Jul 20, 2001</kw></div>
+             </td>
+          </tr>
+          <tr>
+             <td colspan="2">
+                <div class="ProductReviewBody"><p><kw class="krdwrd-tag-3">Sometimes Dr. Knizia wants to hurt our heads with games of deep  strategy. Other times he intends the game to be a lighter, more frivolous experience. The Merchants of Amsterdam is in the latter camp, and happily fills out the entry-level end of his many-paths-to-victory trilogy. The other games in this informal trio are the middleweight </kw><a href="/control/product/%7Eproduct_id=007573;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-3">Taj Mahal</kw></a><kw class="krdwrd-tag-3">, and the heavyweight of </kw><a href="/control/product/%7Eproduct_id=007574;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-3">Stephensons Rocket</kw></a><kw class="krdwrd-tag-3">. Each is a heady mixture of strategies, and Merchants is easily the most approachable of the group.</kw></p>
+
+<p><kw class="krdwrd-tag-3">The auction clock is what makes and breaks opinions of this game. Some people love the tension of guessing when is the LAST possible moment one can get in a bid, while others feel that it detracts from the game by inserting a mechanism that rewards fast reflexes.</kw></p>
+
+<p><kw class="krdwrd-tag-3">My reflexes are pretty lousy, and I very nearly won the game. Faking out opponents is definitely a part of the game, as is convincing other players to spend more than they should for activities. </kw></p>
+
+<p><kw class="krdwrd-tag-3">One aspect that I really like is the tension of deciding what to do with each of the three cards that are turned up on each turn. Few choices are really obvious, as a card that may be of no benefit to one player may be solid gold to someone else. Take the middling value card for yourself, or hope that the next card is exactly what you need? Tough choices abound.</kw></p>
+
+<p><kw class="krdwrd-tag-3">As one of the most heavily themed of Dr. Knizia's games, I think that Merchants of Amsterdam has gotten something of a bum rap. From any other designer this would have been seen as a major acheivement, but due to the good doctor's fabled output, this is only seen as a lightweight in his canon.</kw></p>
+
+<p><kw class="krdwrd-tag-3">Recommended for those wanting a good strategy game and aren't scared off by 'The Clock'.</kw></p>
+</div>
+             </td>
+          </tr>
+          </tbody></table>
+        </td>
+      </tr>
+         <tr>
+            <td colspan="2"><hr class="SepBar"></td>
+         </tr>
+         <tr>
+            <td colspan="2">
+               <a href="/control/product/%7Eproduct_id=011401/%7EreviewsShowAll=true;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1#reviews" class="TextButton"><kw class="krdwrd-tag-1">See all Merchants of Amsterdam reviews</kw></a>
+            </td>
+         </tr>
+
+  <tr><td colspan="2"><hr class="SepBar"></td></tr>
+
+</tbody></table>
+
+
+
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+
+
+</table>
+
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tbody><tr><td><div class="ProductSubHeader"><br><kw class="krdwrd-tag-1">Other resources for Merchants of Amsterdam:</kw></div></td></tr>
+<tr><td><hr class="SepBar"></td></tr>
+<tr>
+  <td>
+
+  <table cellpadding="5" width="100%">
+  <tbody><tr>
+    <td>
+      <a href="http://www.boardgamegeek.com/game/531" target="_blank"><img src="/images/misc/link_geek.gif" title="Board Game Geek" alt="Board Game Geek" align="middle" border="0"></a>
+    </td>
+    <td>
+       <span class="ProductTextStrong"><kw class="krdwrd-tag-1">Board Game Geek </kw></span><span class="ProductText"><kw class="krdwrd-tag-1">is an incredible compilation of information about board and card games with many descriptions, photographs, reviews, session reports, and other commentary.</kw></span>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="http://luding.org/Skripte/GameData.py/ENgameid/12636" target="_blank"><img src="/images/misc/link_luding.gif" alt="Luding Database" title="Luding Database" align="middle" border="0"></a>
+    </td>
+    <td>
+       <span class="ProductTextStrong"><kw class="krdwrd-tag-1">The Luding Database </kw></span><span class="ProductText"><kw class="krdwrd-tag-1">is a game database that contains several thousand games, authors and publishers. There are also links to discussion of games at more than 60 sites around the WWW.
+    </kw></span></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="http://www.gamecabinet.com/search/searchgc.cgi?keywords=Merchants+of+Amsterdam&amp;dbselect=Everything" target="_blank"><img src="/images/misc/link_gamecabinet.gif" alt="Game Cabinet" title="Game Cabinet" align="middle" border="0"></a>
+    </td>
+    <td>
+       <span class="ProductTextStrong"><kw class="krdwrd-tag-1">The Game Cabinet </kw></span><span class="ProductText"><kw class="krdwrd-tag-1">is the original online game resource.  While it has not been updated in several years, it remains a valuable archive of information about older games.
+    </kw></span></td>
+  </tr>
+  </tbody></table>
+
+  </td>
+</tr>
+<tr><td><hr class="SepBar"></td></tr>
+</tbody></table>
+<br>
+
+
+
+
+      </div>
+   </td>
+   <td background="/images/spacer.gif" valign="top"><img src="/images/misc/center-column-top-shadow.gif" width="6" height="4"></td>
+   <td align="right" valign="top">
+      
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td background="/images/misc/center-column-top-shadow.gif" width="100%"><img src="/images/spacer.gif" width="1" height="4"></td></tr>
+<tr><td>
+   <div class="RightColumnBox">
+
+<table border="0" cellpadding="0" cellspacing="0" width="163">
+<tbody><tr>
+   <td rowspan="2" background="/images/misc/box-left-white.gif" valign="top" width="2"><img src="/images/misc/box-top-left-corner-white.gif" alt="" width="2" height="6"></td>
+   <td background="/images/misc/box-top-white.gif" width="100%"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
+   <td rowspan="2" background="/images/misc/box-right-white.gif" valign="top" width="3"><img src="/images/misc/box-top-right-corner-white.gif" alt="" width="3" height="6"></td>
+</tr>
+<tr>
+   <td>
+      <div class="BoxHeaderPrimary"><kw class="krdwrd-tag-1">
+         Shopping Cart
+      </kw></div>
+      <div class="BoxBodyPrimary">
+
+<table border="0" cellpadding="0" cellspacing="2" width="156">
+   <tbody><tr><td><div class="ColumnMenuTextWeak"><kw class="krdwrd-tag-1">Shopping Cart is empty.</kw></div></td></tr>
+</tbody></table>
+
+      </div>
+   </td>
+</tr>
+<tr>
+   <td><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+   <td background="/images/misc/box-bottom-white.gif"><img src="/images/misc/box-bottom-left-corner-white.gif" alt="" width="3" height="3"></td>
+   <td><img src="/images/misc/box-bottom-right-corner-white.gif" alt="" width="3" height="3"></td>
+</tr>
+</tbody></table>
+</div>
+         <div class="RightColumnBox">
+
+<table bgcolor="#edede6" border="0" cellpadding="0" cellspacing="0" width="163">
+<tbody><tr>
+   <td rowspan="2" background="/images/misc/box-left-white.gif" valign="top" width="2"><img src="/images/misc/box-top-left-corner-white.gif" alt="" width="2" height="6"></td>
+   <td background="/images/misc/box-top-white.gif" width="100%"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
+   <td rowspan="2" background="/images/misc/box-right-white.gif" valign="top" width="3"><img src="/images/misc/box-top-right-corner-white.gif" alt="" width="3" height="6"></td>
+</tr>
+<tr>
+   <td>
+      <div class="BoxHeaderSecondary"><kw class="krdwrd-tag-1">
+         Also Bought...
+      </kw></div>
+      <div class="BoxBodySecondary">
+
+  <table border="0" cellpadding="0" cellspacing="2" width="156">
+
+    <tbody><tr><td><div class="ColumnMenuText"><kw class="krdwrd-tag-1">Customers who bought this product also bought...</kw></div></td></tr>
+
+    <tr>
+      <td><hr class="SepBar"></td>
+    </tr>
+
+
+
+
+      <tr>
+        <td align="center" valign="top">
+            <a href="/control/product/%7Eproduct_id=016366;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="http://images.funagain.com/cover/small/16366.jpg" class="imageborder" alt="Incan Gold" title="Incan Gold" border="0"></a><br clear="all">
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+           <a class="ColumnMenuLink" href="/control/product/%7Eproduct_id=016366;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Incan Gold</kw></a>
+        </td>
+      </tr>
+        <tr>
+          <td><hr class="SepBar"></td>
+        </tr>
+
+
+
+      <tr>
+        <td align="center" valign="top">
+            <a href="/control/product/%7Eproduct_id=013930;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="http://images.funagain.com/cover/small/13930.jpg" class="imageborder" alt="Clans" title="Clans" border="0"></a><br clear="all">
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+           <a class="ColumnMenuLink" href="/control/product/%7Eproduct_id=013930;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Clans</kw></a>
+        </td>
+      </tr>
+        <tr>
+          <td><hr class="SepBar"></td>
+        </tr>
+
+
+
+      <tr>
+        <td align="center" valign="top">
+            <a href="/control/product/%7Eproduct_id=015529;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="http://images.funagain.com/cover/small/15529.jpg" class="imageborder" alt="Tatata!" title="Tatata!" border="0"></a><br clear="all">
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+           <a class="ColumnMenuLink" href="/control/product/%7Eproduct_id=015529;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><kw class="krdwrd-tag-1">Tatata!</kw></a>
+        </td>
+      </tr>
+
+  </tbody></table>
+
+      </div>
+   </td>
+</tr>
+<tr>
+   <td><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+   <td background="/images/misc/box-bottom-white.gif"><img src="/images/misc/box-bottom-left-corner-white.gif" alt="" width="3" height="3"></td>
+   <td><img src="/images/misc/box-bottom-right-corner-white.gif" alt="" width="3" height="3"></td>
+</tr>
+</tbody></table>
+
+</div>
+      <div class="RightColumnBox">
+<table border="0" cellpadding="0" cellspacing="0" width="163">
+<tbody><tr>
+   <td rowspan="2" background="/images/misc/box-left-white.gif" valign="top" width="2"><img src="/images/misc/box-top-left-corner-white.gif" alt="" width="2" height="6"></td>
+   <td background="/images/misc/box-top-white.gif" width="100%"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
+   <td rowspan="2" background="/images/misc/box-right-white.gif" valign="top" width="3"><img src="/images/misc/box-top-right-corner-white.gif" alt="" width="3" height="6"></td>
+</tr>
+<tr>
+   <td>
+      <div class="BoxHeaderPrimary"><kw class="krdwrd-tag-1">
+         Latest Reviews
+      </kw></div>
+      <div class="BoxBodyPrimary">
+
+<table border="0" cellpadding="0" cellspacing="2" width="156">
+    <tbody><tr>
+      <td align="center"><span class="ColumnMenuText"><kw class="krdwrd-tag-1">9,910</kw></span><span class="ColumnMenuTextWeak"><kw class="krdwrd-tag-1"> reviews to date</kw></span></td>
+    </tr>
+    <tr>
+      <td><hr class="SepBar"></td>
+    </tr>
+
+
+
+
+
+      <tr>
+        <td align="center" valign="top">
+            <a href="/control/product/%7Eproduct_id=018574/%7EreviewsShowAll=true;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1#rev_23719"><img src="http://images.funagain.com/cover/small/18574.jpg" class="imageborder" alt="Aquaretto" title="Aquaretto" border="0"></a><br clear="all">
+          <a href="/control/product/%7Eproduct_id=018574/%7EreviewsShowAll=true;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1#rev_23719"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.00" alt="4.00" border="0"><img src="/images/catalog/rating-star-00.gif" title="4.00" alt="4.00" border="0"></a>
+        </td>
+      </tr>
+      <tr>
+        <td align="left">
+          <span class="ColumnMenuText"><kw class="krdwrd-tag-1">"Zooloretto 2.0"</kw></span><span class="ColumnMenuTextWeak"><kw class="krdwrd-tag-1"> says </kw><i><kw class="krdwrd-tag-1"> Scott</kw></i><kw class="krdwrd-tag-1"> in the latest review of Aquaretto</kw></span>
+        </td>
+      </tr>
+        <tr>
+          <td><hr class="SepBar"></td>
+        </tr>
+
+
+
+
+
+      <tr>
+        <td align="center" valign="top">
+            <a href="/control/product/%7Eproduct_id=018579/%7EreviewsShowAll=true;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1#rev_23718"><img src="http://images.funagain.com/cover/small/18579.jpg" class="imageborder" alt="Blackbeard: The Golden Age of Piracy" title="Blackbeard: The Golden Age of Piracy" border="0"></a><br clear="all">
+          <a href="/control/product/%7Eproduct_id=018579/%7EreviewsShowAll=true;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1#rev_23718"><img src="/images/catalog/rating-star-10.gif" title="4.50" alt="4.50" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.50" alt="4.50" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.50" alt="4.50" border="0"><img src="/images/catalog/rating-star-10.gif" title="4.50" alt="4.50" border="0"><img src="/images/catalog/rating-star-05.gif" title="4.50" alt="4.50" border="0"></a>
+        </td>
+      </tr>
+      <tr>
+        <td align="left">
+          <span class="ColumnMenuText"><kw class="krdwrd-tag-1">"New Revision, Same Great Game!"</kw></span><span class="ColumnMenuTextWeak"><kw class="krdwrd-tag-1"> says </kw><i><kw class="krdwrd-tag-1">Todd Newman</kw></i><kw class="krdwrd-tag-1"> in the latest review of Blackbeard: The Golden Age of Piracy</kw></span>
+        </td>
+      </tr>
+        <tr>
+          <td><hr class="SepBar"></td>
+        </tr>
+
+
+
+
+
+      <tr>
+        <td align="center" valign="top">
+            <a href="/control/product/%7Eproduct_id=018529/%7EreviewsShowAll=true;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1#rev_23717"><img src="http://images.funagain.com/cover/small/18529.jpg" class="imageborder" alt="Stone Age" title="Stone Age" border="0"></a><br clear="all">
+          <a href="/control/product/%7Eproduct_id=018529/%7EreviewsShowAll=true;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1#rev_23717"><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"><img src="/images/catalog/rating-star-10.gif" title="5.00" alt="5.00" border="0"></a>
+        </td>
+      </tr>
+      <tr>
+        <td align="left">
+          <span class="ColumnMenuText"><kw class="krdwrd-tag-1">"So great, a caveman can do it!"</kw></span><span class="ColumnMenuTextWeak"><kw class="krdwrd-tag-1"> says </kw><i><kw class="krdwrd-tag-1">Todd Newman</kw></i><kw class="krdwrd-tag-1"> in the latest review of Stone Age</kw></span>
+        </td>
+      </tr>
+        <tr>
+          <td><hr class="SepBar"></td>
+        </tr>
+<tr>
+  <td colspan="3" align="right">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+      <td align="left"><a href="/control/xml_feeds;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1"><img src="/images/misc/rss.gif" alt="RSS" title="Click here to learn about an XML feed for this item" border="0" vspace="3" width="35" height="15" hspace="2"></a></td>
+      <td align="right"><a href="/control/allreviews;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnBoxMoreLink"><kw class="krdwrd-tag-1">...more</kw></a></td>
+    </tr>
+    </tbody></table>
+  </td>
+</tr>
+</tbody></table>
+
+      </div>
+   </td>
+</tr>
+<tr>
+   <td><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+   <td background="/images/misc/box-bottom-white.gif"><img src="/images/misc/box-bottom-left-corner-white.gif" alt="" width="3" height="3"></td>
+   <td><img src="/images/misc/box-bottom-right-corner-white.gif" alt="" width="3" height="3"></td>
+</tr>
+</tbody></table>
+</div>
+      <div class="RightColumnBox"><table border="0" cellpadding="0" cellspacing="0" width="163">
+<tbody><tr>
+   <td rowspan="2" background="/images/misc/box-left-white.gif" valign="top" width="2"><img src="/images/misc/box-top-left-corner-white.gif" alt="" width="2" height="6"></td>
+   <td background="/images/misc/box-top-white.gif" width="100%"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
+   <td rowspan="2" background="/images/misc/box-right-white.gif" valign="top" width="3"><img src="/images/misc/box-top-right-corner-white.gif" alt="" width="3" height="6"></td>
+</tr>
+<tr>
+   <td>
+      <div class="BoxHeaderPrimary"><kw class="krdwrd-tag-1">
+         History
+      </kw></div>
+      <div class="BoxBodyPrimary">
+
+  <table border="0" cellpadding="0" cellspacing="2" width="156">
+
+        <tbody><tr>
+          <td valign="top">
+            <div class="ColumnMenuText"><b><kw class="krdwrd-tag-1">1</kw></b>&nbsp;</div>
+          </td>
+          <td valign="top">
+            
+            
+            
+            <a href="/control/product/%7Eproduct_id=011401;jsessionid=6EB7B4FC88E9536F51362E000D320750.jvm1" class="ColumnMenuLink"><kw class="krdwrd-tag-1">Merchants of Amsterdam</kw></a><span class="ColumnMenuText"> </span><b><span class="ColumnMenuNormalPrice"><kw class="krdwrd-tag-1">$39.95</kw></span></b>
+          </td>
+        </tr>
+
+  </tbody></table>
+
+      </div>
+   </td>
+</tr>
+<tr>
+   <td><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+   <td background="/images/misc/box-bottom-white.gif"><img src="/images/misc/box-bottom-left-corner-white.gif" alt="" width="3" height="3"></td>
+   <td><img src="/images/misc/box-bottom-right-corner-white.gif" alt="" width="3" height="3"></td>
+</tr>
+</tbody></table>
+</div>
+</td></tr>
+</tbody></table>
+
+
+   </td>
+</tr>
+<tr>
+   <td background="/images/misc/left-column-bottom-shadow.gif"><img src="/images/spacer.gif" width="1" height="5"></td>
+   <td background="/images/misc/left-column-right-border-bottom-shadow.gif"><img src="/images/spacer.gif" width="1" height="5"></td>
+   <td colspan="5" background="/images/misc/center-column-bottom-shadow.gif"><img src="/images/spacer.gif" width="1" height="5"></td>
+</tr>
+</tbody></table>
+
+
+<div class="FooterContents MainBodyContainer" align="center">
+   <div class="FooterText"><kw class="krdwrd-tag-1">
+      All contents ©1997-2008 Funagain Games. All rights reserved.
+   </kw></div>
+</div>
+
+</body>

@@ -1,0 +1,359 @@
+<head><base href="http://www.halifaxcc.edu/ChildCar/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Child Care-Daily Schedule</title>
+
+
+
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document"><!--mstheme-->
+<link rel="stylesheet" type="text/css" href="../_themes/ice2/ice21011.css"><meta name="Microsoft Theme" content="ice2 1011">
+<meta name="Microsoft Border" content="t, default"></head><body topmargin="0" leftmargin="0" style="font-family: verdana,arial;" marginheight="0" marginwidth="0"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
+<font-family: verdana,="" arial,="" helvetica,="" sans-serif;="">
+<font face="Verdana">
+<table id="table1" border="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td align="center" bgcolor="#dadada" width="7%">
+		<a style="color: rgb(0, 56, 150);" href="../"><span style="font-size: 10px;"><kw class="krdwrd-tag-1">Home</kw></span></a></td>
+		<td align="center" bgcolor="#003896" width="10%">
+		<a style="color: rgb(255, 255, 255);" href="../Library/index.htm">
+		<span style="font-size: 10px;"><kw class="krdwrd-tag-1">Library</kw></span></a></td>
+		<td align="center" bgcolor="#dadada" width="12%">
+		<span style="font-size: 10px;">
+		<a style="color: rgb(0, 56, 150);" href="../Online/index.htm"><kw class="krdwrd-tag-1">Online Classes&nbsp;</kw></a></span></td>
+		<td align="center" bgcolor="#003896" width="14%">
+		<a style="color: rgb(255, 255, 255);" href="../StudntRe/index.htm">
+		<span style="font-size: 10px;"><kw class="krdwrd-tag-1">Student Resources</kw></span></a></td>
+		<td align="center" bgcolor="#dadada" width="12%">
+		<a style="color: rgb(0, 56, 150);" href="../CampDir/index.htm">
+		<span style="font-size: 10px;"><kw class="krdwrd-tag-1">Campus Directory</kw></span></a></td>
+		<td align="center" bgcolor="#003896" width="8%">
+		<a style="color: rgb(255, 255, 255);" href="../Schedule/index.htm">
+		<span style="font-size: 10px;"><kw class="krdwrd-tag-1">Schedule</kw></span></a></td>
+		<td align="center" bgcolor="#dadada" width="11%">
+		<a style="font-size: 10px; color: rgb(0, 56, 150);" href="../catalog/financial.htm">
+		<font color="#003896" face="Verdana"><kw class="krdwrd-tag-1">Financial Aid</kw></font></a></td>
+		<td align="center" bgcolor="#003896" width="12%">
+		<a style="color: rgb(255, 255, 255);" href="../ContED/index.htm">
+		<span style="font-size: 10px;"><kw class="krdwrd-tag-1">Continuing Ed</kw></span></a></td>
+		<td align="center" bgcolor="#dadada" width="11%">
+		<a style="color: rgb(0, 56, 150);" href="../Faculty/index.htm">
+		<span style="font-size: 10px;"><kw class="krdwrd-tag-1">Faculty &amp; Staff</kw></span></a></td>
+	</tr>
+	<tr>
+		<td colspan="9" align="center" width="100%">
+		<p align="left"><span style="font-size: 10px;">
+		<img src="../images/spacer.gif" style="border-width: 0px;" border="0" height="75" width="7"></span><a href="../index.htm"><span style="font-size: 10px;"><img src="../images/NewTopLogoSm2.gif" alt="Click here for HCC's Home Page" longdesc="Click here for HCC's Home Page" lowsrc="../_borders/Click%20here%20for%20HCC's%20Home%20Page" style="border-width: 0px;" border="0" height="67" width="530"></span></a></p></td>
+	</tr>
+</tbody></table>
+</font>
+</font-family:></td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><!--msnavigation--><td valign="top">
+
+<p align="center">
+<font face="Verdana">
+<span style="font-size: 10.5pt;">
+<img src="../images/nchilcare.gif" border="0" height="48" width="209"></span></font></p>
+<h3 align="center"><font face="Verdana"><font style="font-size: 10.5pt; font-weight: 700;"><kw class="krdwrd-tag-2">Daily Schedule - Group 1</kw></font></font></h3>
+<div align="center">
+<font face="Verdana">  </font><center>
+<font face="Verdana">  <table border="1" cellspacing="1" width="569">
+    <tbody><tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">7:30 - 8:15 a.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Arrival / Health Check / Free Choice in Activity 
+      Areas</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">8:15 - 8:45 a.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Breakfast</kw><br><kw class="krdwrd-tag-1">
+      Children engage in free choice activity areas after finishing</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">8:45 - 9:00 a.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Clean-up, toileting</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">9:00 - 9:30 a.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Group Time:</kw><br><kw class="krdwrd-tag-1">
+      Action songs ~ singing time ~ fingerplays ~ hello songs ~ 
+      concept games ~ discussion of daily activities&nbsp; ~ Story</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">9:30 - 9:45 a.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Outdoor play or vigorous indoor activity (including 
+      teacher-directed games)</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">9:45 - 10:00 a.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Toileting, clean-up, water</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">10:00 - 11:15 a.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Activity Areas</kw><br><kw class="krdwrd-tag-1">
+      - Children are allowed to select their activities from 
+      standard equipment and a changing variety of teacher provided materials.</kw><br><kw class="krdwrd-tag-1">
+      - Some teacher directed activities as well as some 
+      self-directed activities are included.</kw><br><kw class="krdwrd-tag-1">
+      - Example of activities: creative art, cooking, 
+      science/discovery, blockbuilding, dramatic play, language art/listening, 
+      sand and water play, dramatic role play, fine motor manipulatives, gross 
+      motor skills.</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">11:15 - 11:30 a.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Toileting</kw><br><kw class="krdwrd-tag-1">
+      Preparation for lunch&nbsp;</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">11:30 a.m. - 12:00 p.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Lunch</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">12:00 - 12:30 p.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Toileting</kw><br><kw class="krdwrd-tag-1">
+      Preparation for nap, perhaps a quiet story</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">12:30 - 2:30 p.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Naptime</kw><br><kw class="krdwrd-tag-1">
+      - Children are required to rest for a reasonable period but 
+      not required to sleep. Quiet activities are available for those who are 
+      awake before others, i.e., quiet books, puzzles done while sitting on 
+      cots.</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">2:30 - 3:00 p.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Toileting</kw><br><kw class="krdwrd-tag-1">
+      Snack</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">3:00 - 3:30 p.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Group Time</kw><br><kw class="krdwrd-tag-1">
+      Free choice in activity areas</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">3:30 - 3:45 p.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Toileting and preparation for outside play</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">3:45 - 4:45 p.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Outdoor play or vigorous indoor play</kw></span></td>
+    </tr>
+    <tr>
+      <td width="144">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">4:45 - 5:30 p.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Free choice in activity areas</kw><br><kw class="krdwrd-tag-1">
+      Preparations for departure</kw><br><kw class="krdwrd-tag-1">
+      Children leaving</kw></span></td>
+    </tr>
+  </tbody></table>
+  </font></center>
+</div>
+<h3 align="center"><font face="Verdana"><font style="font-size: 10.5pt; font-weight: 700;"><kw class="krdwrd-tag-1">&nbsp; Daily Schedule - Group 2</kw></font></font></h3>
+<div align="center">
+<font face="Verdana">  </font><center>
+<font face="Verdana">  <table border="1" cellspacing="1" width="573">
+    <tbody><tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">7:30 - 8:15 a.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Arrival / Health Check / Free Choice in Activity 
+      Areas</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">8:15 - 8:45 a.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Breakfast</kw><br><kw class="krdwrd-tag-1">
+      Children engage in free choice activity areas after 
+      finishing.</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">8:45 - 9:00 a.m.</kw></span></p></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Routine time, toileting, clean-up</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">9:00 - 9:30 a.m.</kw></span></p></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Group Time</kw><br><kw class="krdwrd-tag-1">
+      ~ action songs ~ singing time ~ fingerplays ~ stories ~ 
+      concept songs ~ discussion of daily activities ~ hello and other routine 
+      songs</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">9:30 - 10:45 a.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Free choice in activity areas</kw><br><kw class="krdwrd-tag-1">
+      - Children are allowed to select their activities from 
+      standard equipment and a changing variety of teacher provided materials.</kw><br><kw class="krdwrd-tag-1">
+      - Some teacher directed activities as well as some 
+      self-directed activities are included.</kw><br><kw class="krdwrd-tag-1">
+      - Example of activities: creative art, gross motor skills, 
+      sand and water play, cooking, blockbuilding, dramatic role play, fine 
+      motor manipulatives, science/discovery, language arts/listening.</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">10:45 - 11:00 a.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Routine time, toileting, preparation to go outside</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">11:00 - 11:30 a.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Outdoor play games or vigorous indoor activity 
+      (including teacher-directed games)</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">11:30 - 11:45 a.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Routine time</kw><br><kw class="krdwrd-tag-1">
+      Toileting, preparation for lunch</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">11:45 a.m. - 12:15 p.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Lunch</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">12:15 - 12:30 p.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Routine time</kw><br><kw class="krdwrd-tag-1">
+      Toileting, preparation for nap, perhaps a quiet story</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">12:45 - 2:30 p.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Naptime</kw><br><kw class="krdwrd-tag-1">
+      - Children are required to rest for a reasonable period but 
+      not required to sleep. Quiet activities are available for those who are 
+      awake before others, i.e., quiet books, puzzles done while sitting on 
+      cots.</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">2:30 - 3:00 p.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Routine time</kw><br><kw class="krdwrd-tag-1">
+      Toileting, snack</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">3:00 - 3:30 p.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Group Time</kw><br><kw class="krdwrd-tag-1">
+      Free choice in activity areas</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">3:30 - 3:45 p.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Toileting and preparation for outside play</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">3:45 - 4:45 p.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Outdoor play or vigorous indoor play</kw></span></td>
+    </tr>
+    <tr>
+      <td width="147"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">4:45 - 5:30 p.m.</kw></span></td>
+      <td width="426"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Free choice in activity areas, preparation for 
+      departure</kw></span></td>
+    </tr>
+  </tbody></table>
+  </font></center>
+</div>
+<h3 align="center"><font face="Verdana"><font style="font-size: 10.5pt; font-weight: 700;"><kw class="krdwrd-tag-1">&nbsp; Daily Schedule - Group 3</kw></font></font></h3>
+<div align="center">
+<font face="Verdana">  </font><center>
+<font face="Verdana">  <table border="1" cellspacing="1" width="577">
+    <tbody><tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">7:30 - 8:15 a.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Arrival / Health Check / Free Choice in Activity 
+      Areas</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">8:15 - 8:45 a.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Breakfast</kw><br><kw class="krdwrd-tag-1">
+      Children engage in free choice activity areas after finishing</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">8:45 - 9:00 a.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Routine time, toileting, clean-up</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">9:00 - 9:30 a.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Group Time</kw><br><kw class="krdwrd-tag-1">
+      ~ action songs ~ singing time ~ fingerplays ~ stories ~ 
+      concept songs ~ discussion of daily activities ~ hello and other routine 
+      songs</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">9:30 - 11:00 a.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Free choice in activity areas</kw><br><kw class="krdwrd-tag-1">
+      - Children are allowed to select their activities from 
+      standard equipment and a changing variety of teacher provided materials.</kw><br><kw class="krdwrd-tag-1">
+      - Some teacher directed activities as well as some 
+      self-directed activities are included.</kw><br><kw class="krdwrd-tag-1">
+      - Example of activities: creative art, gross motor skills, 
+      sand and water play, cooking, blockbuilding, dramatic role play, fine 
+      motor manipulatives, science/discovery, language arts/listening.</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152">
+      <p align="left"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">11:00 - 11:30 a.m.</kw></span></p></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Group Time - ex. story</kw><br><kw class="krdwrd-tag-1">
+      Routine time, toileting, preparation to go outside</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">11:30 a.m. - 12:00 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Outdoor play games or vigorous indoor activity 
+      (including teacher-directed games)</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">12:00 - 12:15 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Routine time</kw><br><kw class="krdwrd-tag-1">
+      Toileting, preparation for lunch</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">12:15 - 12:45 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Lunch</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">12:45 - 1:00 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Routine time</kw><br><kw class="krdwrd-tag-1">
+      Toileting, preparation for nap</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">1:00 - 2:30 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Naptime</kw><br><kw class="krdwrd-tag-1">
+      - Children are required to rest for a reasonable period but 
+      not required to sleep. Quiet activities are available for those who are 
+      awake before others, i.e., quiet books, puzzles done while sitting on 
+      cots.</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">2:30 - 3:00 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Routine time</kw><br><kw class="krdwrd-tag-1">
+      Toileting, snack</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">3:00 - 3:30 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Group Time</kw><br><kw class="krdwrd-tag-1">
+      Free choice in activity areas</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">3:30 - 3:45 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Toileting and preparation for outside play</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">3:45 - 4:45 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Outdoor play or vigorous indoor play</kw></span></td>
+    </tr>
+    <tr>
+      <td width="152"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">4:45 - 5:30 p.m.</kw></span></td>
+      <td width="425"><span style="font-size: 10.5pt;"><kw class="krdwrd-tag-1">Free choice in activity areas, preparation for 
+      departure</kw></span></td>
+    </tr>
+  </tbody></table>
+  </font></center>
+</div>
+<p align="left"><span style="font-size: 10.5pt;"><font face="Verdana">&nbsp; </font></span><font face="Verdana"> </font></p>
+<p align="left"><font face="Verdana">&nbsp;</font></p>
+<p align="left"><font face="Verdana">&nbsp;</font></p>
+<p align="left"><span style="font-size: 10.5pt;"><font face="Verdana">&nbsp;</font></span></p>
+
+<!--msnavigation--></td></tr><!--msnavigation--></tbody></table></body>

@@ -1,0 +1,249 @@
+<head><base href="http://www.celinedion.com/celinedion/english/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Céline Dion</title><link rel="stylesheet" href="../styleNN.css" type="text/css"><style type="text/css">
+
+@import url(../style.css);
+
+</style><script type="text/javascript" language="JavaScript" src="openclip.js"></script><script language="JavaScript">
+
+<!-- // Hide from older browsers
+var WSFormInputs = Array('albumid', 'songid', 'language', 'name', 'country', 'comments', 'songname');
+var WSFormLabels = Array('Album ID', 'Song ID', 'Language', 'Name', 'Country', 'Comments', 'Song Name');
+var WSFormFilters = Array(/^[0-9]+$/i, /^[0-9]+$/i, /.*/i, /.*/i, /.*/i, /.*/i, /.*/i);
+var WSFormRequired = Array(0, 1, 2, 3, 4, 5, 6);
+var WSErrorRequired = 'Please fill in all of the required fields. (%LABEL)';
+var WSErrorValid = 'Please enter a valid value for "%LABEL".';
+
+var B_checkRequired = true;
+var B_checkFilters = true;
+// Stop hiding -->
+
+</script><script src="http://www.sonybmg.ca/js/websubmit.js"></script><meta name="DCSext.art_name" content="Celine Dion"><meta name="WT.cg_n" content="Label;Domain;Genre;Artist;Selections"><meta name="WT.cg_s" content="SonyBMG Canada;celinedion.com;Adult Contemporary;Celine Dion;Discography"><meta name="DCSext.art_name" content="Celine Dion"><meta name="WT.cg_n" content="Label;Domain;Genre;Artist;Selections"><meta name="WT.cg_s" content="SonyBMG Canada;celinedion.com;Adult Contemporary;Celine Dion;Discography"></head><body><center><script type="text/javascript" language="JavaScript" src="http://www.celinedion.com/global/getCookies.js"></script><script type="text/javascript" language="JavaScript" src="globalnav.js"></script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=2,0,0,0" id="mcmario-middle" width="785" height="70">  <param name="movie" value="../cdglobalnav.swf?referer=https%3A//krdwrd.org/pages/dat/dumped/771">  <param name="quality" value="high">  <param name="bgcolor" value="#000000"><img src="images/cdglobalnav.gif" usemap="#cdglobalnav" border="0" width="785" height="70"><noembed class="krdwrd-tag-1">&amp;lt;IMG SRC="images/cdglobalnav.gif" usemap="#cdglobalnav" WIDTH=785 HEIGHT=70 BORDER=0&amp;gt;</noembed></object><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=2,0,0,0" id="mcmario-middle" width="785" height="70">  <param name="movie" value="../cdglobalnav.swf?referer=http%3A//www.celinedion.com/celinedion/english/music.cgi%3Falbum_id%3D5%26song_id%3D9">  <param name="quality" value="high">  <param name="bgcolor" value="#000000"><img src="images/cdglobalnav.gif" usemap="#cdglobalnav" border="0" width="785" height="70"><noembed class="krdwrd-tag-1">&amp;lt;kw&amp;gt;&amp;amp;lt;IMG SRC="images/cdglobalnav.gif" usemap="#cdglobalnav" WIDTH=785 HEIGHT=70 BORDER=0&amp;amp;gt;&amp;lt;/kw&amp;gt;</noembed></object><noscript><kw><img src="images/cdglobalnav.gif" usemap="#cdglobalnav" border="0" width="785" height="70"></kw></noscript><br><map id="cdnav" name="cdnav"><area shape="rect" coords="110,4,192,17" href="whatsgoinon.cgi" alt="WHAT'S GOIN' ON"><area shape="rect" coords="198,5,294,16" href="journey.html" alt="THE JOURNEY SO FAR"><area shape="rect" coords="300,5,331,17" href="music.cgi" alt="MUSIC"><area shape="rect" coords="337,4,420,18" href="phovid.html" alt="PHOTOS AND VIDEOS"><area shape="rect" coords="427,4,474,18" href="contests.html" alt="CONTESTS"><area shape="rect" coords="492,4,561,18" href="tellafriend.html" alt="TELL A FRIEND"><area shape="rect" coords="565,4,606,18" href="search.html" alt="SEARCH"><area shape="rect" coords="610,5,654,17" href="sitemap.html" alt="SITEMAP"></map><map id="cdglobalnav" name="cdglobalnav"><area shape="rect" coords="94,42,180,62" href="http://www.celinedion.com/celinedion/index.cgi?language=en&amp;bandwidth=lo" alt="CELINE DION"><area shape="rect" coords="188,38,251,57" href="http://www.teamceline.com/default.asp?lang=en&amp;band=lo" alt="TEAMCELINE"><area shape="rect" coords="265,38,337,57" href="http://www.shopsonymusic.ca/thestore/CelineDion/default.asp?lang=en&amp;band=lo" alt="THE BOUTIQUE"><area shape="rect" coords="443,38,514,56" href="http://www.celinedion.com/rendez-vous/index.cgi?language=en&amp;bandwidth=lo" alt="RENDEZ-VOUS"><area shape="rect" coords="523,27,607,66" href="http://www.celinedion.com/anewday/index.cgi?language=en&amp;bandwidth=lo" alt="A NEW DAY..."><area shape="rect" coords="610,42,668,56" href="../index.cgi?language=fr" alt="EN FRANCAIS"><area shape="rect" coords="678,41,722,58" href="http://www.shopsonymusic.ca/thestore/celinedion/contact.asp?lang=en" alt="CONTACT"></map><script type="text/javascript" language="JavaScript">
+
+<!--
+var sectionnav = 'music';
+//-->
+
+</script><script type="text/javascript" language="JavaScript" src="sectionnav.js"></script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=2,0,0,0" id="mcmario-middle" width="785" height="23"> <param name="movie" value="../cdcontent.swf?status=music"> <param name="quality" value="high"> <param name="bgcolor" value="#000000"><img src="images/cdnav.gif" usemap="#cdnav" border="0" width="785" height="23"><noembed class="krdwrd-tag-1">&amp;lt;img src="images/cdnav.gif" usemap="#cdnav" width="785" height="23" border="0" /&amp;gt;</noembed></object><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=2,0,0,0" id="mcmario-middle" width="785" height="23"> <param name="movie" value="../cdcontent.swf?status=music"> <param name="quality" value="high"> <param name="bgcolor" value="#000000"><img src="images/cdnav.gif" usemap="#cdnav" border="0" width="785" height="23"><noembed class="krdwrd-tag-1">&amp;lt;kw&amp;gt;&amp;amp;lt;img src="images/cdnav.gif" usemap="#cdnav" width="785" height="23" border="0" /&amp;amp;gt;&amp;lt;/kw&amp;gt;</noembed></object><noscript><kw><img src="images/cdnav.gif" usemap="#cdnav" border="0" width="785" height="23"></kw></noscript><br><table border="0" cellpadding="0" cellspacing="0" width="785" height="77"><tbody><tr><td background="images/content_topleft.gif" valign="top" width="189"><a href="http://www.celinedion.com/celinedion/english/whatsgoinon_tourdates.cgi"><img src="images/content_promo01.gif" border="0" vspace="0" width="189" height="77" hspace="0"></a></td><td background="images/content_middle.gif" valign="top" width="10"><img src="images/content_promomiddle.gif" border="0" vspace="0" width="10" height="77" hspace="0"></td><td background="images/content_middle.gif" valign="top" width="189"><a href="http://www.teamceline.com"><img src="images/content_promo02.gif" border="0" vspace="0" width="189" height="77" hspace="0"></a></td><td background="images/content_middle.gif" valign="top" width="10"><img src="images/1x1t.gif" border="0" vspace="0" width="10" height="10" hspace="0"></td><td background="images/content_topright.gif" valign="top" width="387"><nobr><img src="images/1x1t.gif" align="top" border="0" vspace="2" width="280" height="14" hspace="0"><script type="text/javascript" language="JavaScript" src="flashtoggle.js"></script><a href="/celinedion/index.cgi?language=en&amp;bandwidth=lo"><img src="images/nv_nonflash.gif" alt="NON-FLASH VERSION" border="0" vspace="0" width="88" height="9" hspace="0"></a><a href="/celinedion/index.cgi?language=en&amp;bandwidth=lo"><img src="images/nv_nonflash.gif" alt="NON-FLASH VERSION" border="0" vspace="0" width="88" height="9" hspace="0"></a></nobr><br><h1><a href="music.cgi" class="header"><kw class="krdwrd-tag-1">MUSIC</kw></a><div class="sm"><a href="music_discography.cgi" class="nav"><kw class="krdwrd-tag-1">DISCOGRAPHY</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music_videos.cgi" class="nav"><kw class="krdwrd-tag-1">DVD &amp; VIDEO</kw></a></div></h1></td></tr></tbody></table><br><table border="0" cellpadding="0" cellspacing="0" width="785"><tbody><tr><td valign="top" width="18"><img src="images/1x1t.gif" border="0" vspace="10" width="18" height="10" hspace="0"></td><td valign="top" width="370"><img src="http://www.celinedion.com/AlbumData/album5/cover5.jpg" alt="The Colour of My Love" border="0" vspace="0" hspace="0"><h1><kw class="krdwrd-tag-1">What This Song Means To Me</kw></h1><p><kw class="krdwrd-tag-3">
+Does this song hold a special place in your heart? Does it bring back memories? Is this "your" song? Share what it means to you with Celinedion.com. 
+</kw></p><form name="CelineSong" action="/cgi-bin/Canada/websubmit/websubmit.cgi?appname=CelineSong" method="post" onsubmit="return WSValidateForm(this)"><input name="function" value="handle_english" type="hidden"><input name="albumid" value="5" type="hidden"><input name="band" value="1" type="hidden"><input name="songid" value="9" type="hidden"><input name="language" value="en" type="hidden"><input name="songname" value="Love Doesn't Ask Why" type="hidden"><table border="0" cellpadding="2" cellspacing="0" width="370"><tbody><tr><td align="right"><b class="sm"><kw class="krdwrd-tag-1">Name</kw></b></td><td width="350"><input name="name" maxlength="128" size="25" type="text"></td></tr><tr><td align="right"><b class="sm"><kw class="krdwrd-tag-1">Country</kw></b></td><td><select name="country"><option class="krdwrd-tag-1" value="">Click to Select</option><option class="krdwrd-tag-1" value="CAN">Canada</option><option class="krdwrd-tag-1" value="USA">United States of America</option><option class="krdwrd-tag-1" value="">------</option><option class="krdwrd-tag-1" value="AFG">Afghanistan</option><option class="krdwrd-tag-1" value="ALB">Albania</option><option class="krdwrd-tag-1" value="DZA">Algeria</option><option class="krdwrd-tag-1" value="ASM">American Samoa</option><option class="krdwrd-tag-1" value="AND">Andorra</option><option class="krdwrd-tag-1" value="AGO">Angola</option><option class="krdwrd-tag-1" value="AIA">Anguilla</option><option class="krdwrd-tag-1" value="ATG">Antigua and Barbuda</option><option class="krdwrd-tag-1" value="ARG">Argentina</option><option class="krdwrd-tag-1" value="ARM">Armenia</option><option class="krdwrd-tag-1" value="ABW">Aruba</option><option class="krdwrd-tag-1" value="AUS">Australia</option><option class="krdwrd-tag-1" value="AUT">Austria</option><option class="krdwrd-tag-1" value="AZE">Azerbaijan</option><option class="krdwrd-tag-1" value="BHS">Bahamas</option><option class="krdwrd-tag-1" value="BHR">Bahrain</option><option class="krdwrd-tag-1" value="BGD">Bangladesh</option><option class="krdwrd-tag-1" value="BRB">Barbados</option><option class="krdwrd-tag-1" value="BLR">Belarus</option><option class="krdwrd-tag-1" value="BEL">Belgium</option><option class="krdwrd-tag-1" value="BLZ">Belize</option><option class="krdwrd-tag-1" value="BEN">Benin</option><option class="krdwrd-tag-1" value="BMU">Bermuda</option><option class="krdwrd-tag-1" value="BTN">Bhutan</option><option class="krdwrd-tag-1" value="BOL">Bolivia</option><option class="krdwrd-tag-1" value="BIH">Bosnia and Herzegovina</option><option class="krdwrd-tag-1" value="BWA">Botswana</option><option class="krdwrd-tag-1" value="BRA">Brazil</option><option class="krdwrd-tag-1" value="VGB">British Virgin Islands</option><option class="krdwrd-tag-1" value="BRN">Brunei Darussalam</option><option class="krdwrd-tag-1" value="BGR">Bulgaria</option><option class="krdwrd-tag-1" value="BFA">Burkina Faso</option><option class="krdwrd-tag-1" value="BDI">Burundi</option><option class="krdwrd-tag-1" value="KHM">Cambodia</option><option class="krdwrd-tag-1" value="CMR">Cameroon</option><option class="krdwrd-tag-1" value="CAN">Canada</option><option class="krdwrd-tag-1" value="CPV">Cape Verde</option><option class="krdwrd-tag-1" value="CYM">Cayman Islands</option><option class="krdwrd-tag-1" value="CAF">Central African Republic</option><option class="krdwrd-tag-1" value="TCD">Chad</option><option class="krdwrd-tag-1" value="CHL">Chile</option><option class="krdwrd-tag-1" value="CHN">China</option><option class="krdwrd-tag-1" value="COL">Colombia</option><option class="krdwrd-tag-1" value="COM">Comoros</option><option class="krdwrd-tag-1" value="COG">Congo</option><option class="krdwrd-tag-1" value="COK">Cook Islands</option><option class="krdwrd-tag-1" value="CRI">Costa Rica</option><option class="krdwrd-tag-1" value="CIV">Ctte d'Ivoire</option><option class="krdwrd-tag-1" value="HRV">Croatia</option><option class="krdwrd-tag-1" value="CUB">Cuba</option><option class="krdwrd-tag-1" value="CYP">Cyprus</option><option class="krdwrd-tag-1" value="CZE">Czech Republic</option><option class="krdwrd-tag-1" value="PRK">Democratic People's Republic</option><option class="krdwrd-tag-1" value="PRK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of Korea</option><option class="krdwrd-tag-1" value="COD">Democratic Republic of</option><option class="krdwrd-tag-1" value="COD">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the Congo</option><option class="krdwrd-tag-1" value="DNK">Denmark</option><option class="krdwrd-tag-1" value="DJI">Djibouti</option><option class="krdwrd-tag-1" value="DMA">Dominica</option><option class="krdwrd-tag-1" value="DOM">Dominican Republic</option><option class="krdwrd-tag-1" value="TLS">East Timor</option><option class="krdwrd-tag-1" value="ECU">Ecuador</option><option class="krdwrd-tag-1" value="EGY">Egypt</option><option class="krdwrd-tag-1" value="SLV">El Salvador</option><option class="krdwrd-tag-1" value="GNQ">Equatorial Guinea</option><option class="krdwrd-tag-1" value="ERI">Eritrea</option><option class="krdwrd-tag-1" value="EST">Estonia</option><option class="krdwrd-tag-1" value="ETH">Ethiopia</option><option class="krdwrd-tag-1" value="FRO">Faeroe Islands</option><option class="krdwrd-tag-1" value="FLK">Falkland Islands (Malvinas)</option><option class="krdwrd-tag-1" value="FJI">Fiji</option><option class="krdwrd-tag-1" value="FIN">Finland</option><option class="krdwrd-tag-1" value="FRA">France</option><option class="krdwrd-tag-1" value="GUF">French Guiana</option><option class="krdwrd-tag-1" value="PYF">French Polynesia</option><option class="krdwrd-tag-1" value="GAB">Gabon</option><option class="krdwrd-tag-1" value="GMB">Gambia</option><option class="krdwrd-tag-1" value="GEO">Georgia</option><option class="krdwrd-tag-1" value="DEU">Germany</option><option class="krdwrd-tag-1" value="GHA">Ghana</option><option class="krdwrd-tag-1" value="GIB">Gibraltar</option><option class="krdwrd-tag-1" value="GRC">Greece</option><option class="krdwrd-tag-1" value="GRL">Greenland</option><option class="krdwrd-tag-1" value="GRD">Grenada</option><option class="krdwrd-tag-1" value="GLP">Guadeloupe</option><option class="krdwrd-tag-1" value="GUM">Guam</option><option class="krdwrd-tag-1" value="GTM">Guatemala</option><option class="krdwrd-tag-1" value="GIN">Guinea</option><option class="krdwrd-tag-1" value="GNB">Guinea-Bissau</option><option class="krdwrd-tag-1" value="GUY">Guyana</option><option class="krdwrd-tag-1" value="HTI">Haiti</option><option class="krdwrd-tag-1" value="VAT">Holy See</option><option class="krdwrd-tag-1" value="HND">Honduras</option><option class="krdwrd-tag-1" value="HKG">Hong Kong</option><option class="krdwrd-tag-1" value="HUN">Hungary</option><option class="krdwrd-tag-1" value="ISL">Iceland</option><option class="krdwrd-tag-1" value="IND">India</option><option class="krdwrd-tag-1" value="IDN">Indonesia</option><option class="krdwrd-tag-1" value="IRN">Iran</option><option class="krdwrd-tag-1" value="IRQ">Iraq</option><option class="krdwrd-tag-1" value="IRL">Ireland</option><option class="krdwrd-tag-1" value="ISR">Israel</option><option class="krdwrd-tag-1" value="ITA">Italy</option><option class="krdwrd-tag-1" value="JAM">Jamaica</option><option class="krdwrd-tag-1" value="JPN">Japan</option><option class="krdwrd-tag-1" value="JOR">Jordan</option><option class="krdwrd-tag-1" value="KAZ">Kazakhstan</option><option class="krdwrd-tag-1" value="KEN">Kenya</option><option class="krdwrd-tag-1" value="KIR">Kiribati</option><option class="krdwrd-tag-1" value="KWT">Kuwait</option><option class="krdwrd-tag-1" value="KGZ">Kyrgyzstan</option><option class="krdwrd-tag-1" value="LAO">Laos</option><option class="krdwrd-tag-1" value="LVA">Latvia</option><option class="krdwrd-tag-1" value="LBN">Lebanon</option><option class="krdwrd-tag-1" value="LSO">Lesotho</option><option class="krdwrd-tag-1" value="LBR">Liberia</option><option class="krdwrd-tag-1" value="LBY">Libyan Arab Jamahiriya</option><option class="krdwrd-tag-1" value="LIE">Liechtenstein</option><option class="krdwrd-tag-1" value="LTU">Lithuania</option><option class="krdwrd-tag-1" value="LUX">Luxembourg</option><option class="krdwrd-tag-1" value="MAC">Macao</option><option class="krdwrd-tag-1" value="MKD">Macedonia</option><option class="krdwrd-tag-1" value="MDG">Madagascar</option><option class="krdwrd-tag-1" value="MWI">Malawi</option><option class="krdwrd-tag-1" value="MYS">Malaysia</option><option class="krdwrd-tag-1" value="MDV">Maldives</option><option class="krdwrd-tag-1" value="MLI">Mali</option><option class="krdwrd-tag-1" value="MLT">Malta</option><option class="krdwrd-tag-1" value="MHL">Marshall Islands</option><option class="krdwrd-tag-1" value="MTQ">Martinique</option><option class="krdwrd-tag-1" value="MRT">Mauritania</option><option class="krdwrd-tag-1" value="MUS">Mauritius</option><option class="krdwrd-tag-1" value="MYT">Mayotte</option><option class="krdwrd-tag-1" value="MEX">Mexico</option><option class="krdwrd-tag-1" value="FSM">Micronesia, Federated</option><option class="krdwrd-tag-1" value="FSM">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;States of</option><option class="krdwrd-tag-1" value="MCO">Monaco</option><option class="krdwrd-tag-1" value="MNG">Mongolia</option><option class="krdwrd-tag-1" value="MSR">Montserrat</option><option class="krdwrd-tag-1" value="MAR">Morocco</option><option class="krdwrd-tag-1" value="MOZ">Mozambique</option><option class="krdwrd-tag-1" value="MMR">Myanmar</option><option class="krdwrd-tag-1" value="NAM">Namibia</option><option class="krdwrd-tag-1" value="NRU">Nauru</option><option class="krdwrd-tag-1" value="NPL">Nepal</option><option class="krdwrd-tag-1" value="NLD">Netherlands</option><option class="krdwrd-tag-1" value="ANT">Netherlands Antilles</option><option class="krdwrd-tag-1" value="NCL">New Caledonia</option><option class="krdwrd-tag-1" value="NZL">New Zealand</option><option class="krdwrd-tag-1" value="NIC">Nicaragua</option><option class="krdwrd-tag-1" value="NER">Niger</option><option class="krdwrd-tag-1" value="NGA">Nigeria</option><option class="krdwrd-tag-1" value="NIU">Niue</option><option class="krdwrd-tag-1" value="NFK">Norfolk Island</option><option class="krdwrd-tag-1" value="MNP">Northern Mariana Islands</option><option class="krdwrd-tag-1" value="NOR">Norway</option><option class="krdwrd-tag-1" value="OMN">Oman</option><option class="krdwrd-tag-1" value="Other">Other</option><option class="krdwrd-tag-1" value="PAK">Pakistan</option><option class="krdwrd-tag-1" value="PLW">Palau</option><option class="krdwrd-tag-1" value="PSE">Palestinian Territory</option><option class="krdwrd-tag-1" value="PAN">Panama</option><option class="krdwrd-tag-1" value="PNG">Papua New Guinea</option><option class="krdwrd-tag-1" value="PRY">Paraguay</option><option class="krdwrd-tag-1" value="PER">Peru</option><option class="krdwrd-tag-1" value="PHL">Philippines</option><option class="krdwrd-tag-1" value="PCN">Pitcairn</option><option class="krdwrd-tag-1" value="POL">Poland</option><option class="krdwrd-tag-1" value="PRT">Portugal</option><option class="krdwrd-tag-1" value="PRI">Puerto Rico</option><option class="krdwrd-tag-1" value="QAT">Qatar</option><option class="krdwrd-tag-1" value="KOR">Republic of Korea</option><option class="krdwrd-tag-1" value="MDA">Republic of Moldova</option><option class="krdwrd-tag-1" value="REU">Riunion</option><option class="krdwrd-tag-1" value="ROU">Romania</option><option class="krdwrd-tag-1" value="RUS">Russian Federation</option><option class="krdwrd-tag-1" value="RWA">Rwanda</option><option class="krdwrd-tag-1" value="SHN">Saint Helena</option><option class="krdwrd-tag-1" value="KNA">Saint Kitts and Nevis</option><option class="krdwrd-tag-1" value="LCA">Saint Lucia</option><option class="krdwrd-tag-1" value="SPM">Saint Pierre and Miquelon</option><option class="krdwrd-tag-1" value="VCT">Saint Vincent and</option><option class="krdwrd-tag-1" value="VCT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the Grenadines</option><option class="krdwrd-tag-1" value="WSM">Samoa</option><option class="krdwrd-tag-1" value="SMR">San Marino</option><option class="krdwrd-tag-1" value="STP">Sao Tome and Principe</option><option class="krdwrd-tag-1" value="SAU">Saudi Arabia</option><option class="krdwrd-tag-1" value="SEN">Senegal</option><option class="krdwrd-tag-1" value="SYC">Seychelles</option><option class="krdwrd-tag-1" value="SLE">Sierra Leone</option><option class="krdwrd-tag-1" value="SGP">Singapore</option><option class="krdwrd-tag-1" value="SVK">Slovakia</option><option class="krdwrd-tag-1" value="SVN">Slovenia</option><option class="krdwrd-tag-1" value="SLB">Solomon Islands</option><option class="krdwrd-tag-1" value="SOM">Somalia</option><option class="krdwrd-tag-1" value="ZAF">South Africa</option><option class="krdwrd-tag-1" value="ESP">Spain</option><option class="krdwrd-tag-1" value="LKA">Sri Lanka</option><option class="krdwrd-tag-1" value="SDN">Sudan</option><option class="krdwrd-tag-1" value="SUR">Suriname</option><option class="krdwrd-tag-1" value="SJM">Svalbard and</option><option class="krdwrd-tag-1" value="SJM">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan Mayen Islands</option><option class="krdwrd-tag-1" value="SWZ">Swaziland</option><option class="krdwrd-tag-1" value="SWE">Sweden</option><option class="krdwrd-tag-1" value="CHE">Switzerland</option><option class="krdwrd-tag-1" value="SYR">Syrian Arab Republic</option><option class="krdwrd-tag-1" value="TWN">Taiwan</option><option class="krdwrd-tag-1" value="TJK">Tajikistan</option><option class="krdwrd-tag-1" value="THA">Thailand</option><option class="krdwrd-tag-1" value="TGO">Togo</option><option class="krdwrd-tag-1" value="TKL">Tokelau</option><option class="krdwrd-tag-1" value="TON">Tonga</option><option class="krdwrd-tag-1" value="TTO">Trinidad and Tobago</option><option class="krdwrd-tag-1" value="TUN">Tunisia</option><option class="krdwrd-tag-1" value="TUR">Turkey</option><option class="krdwrd-tag-1" value="TKM">Turkmenistan</option><option class="krdwrd-tag-1" value="TCA">Turks and Caicos Islands</option><option class="krdwrd-tag-1" value="TUV">Tuvalu</option><option class="krdwrd-tag-1" value="UGA">Uganda</option><option class="krdwrd-tag-1" value="UKR">Ukraine</option><option class="krdwrd-tag-1" value="ARE">United Arab Emirates</option><option class="krdwrd-tag-1" value="GBR">United Kingdom</option><option class="krdwrd-tag-1" value="TZA">United Republic of Tanzania</option><option class="krdwrd-tag-1" value="USA">United States of America</option><option class="krdwrd-tag-1" value="VIR">United States Virgin Islands</option><option class="krdwrd-tag-1" value="URY">Uruguay</option><option class="krdwrd-tag-1" value="UZB">Uzbekistan</option><option class="krdwrd-tag-1" value="VUT">Vanuatu</option><option class="krdwrd-tag-1" value="VEN">Venezuela</option><option class="krdwrd-tag-1" value="VNM">Viet Nam</option><option class="krdwrd-tag-1" value="WLF">Wallis and Futuna Islands</option><option class="krdwrd-tag-1" value="ESH">Western Sahara</option><option class="krdwrd-tag-1" value="YEM">Yemen</option><option class="krdwrd-tag-1" value="YUG">Yugoslavia</option><option class="krdwrd-tag-1" value="ZMB">Zambia</option><option class="krdwrd-tag-1" value="ZWE">Zimbabwe</option><option class="krdwrd-tag-1" value="Other">Other</option></select></td></tr><tr><td align="right" valign="top"><b class="sm"><kw class="krdwrd-tag-1">Your Comments On This Song</kw></b></td><td valign="top"><textarea name="comments" rows="6" cols="35" wrap="virtual"></textarea></td></tr><tr><td>&nbsp;</td><td><input value="Submit Your Comments" name="submit2" type="submit"></td></tr></tbody></table></form><br><img src="images/1x1t.gif" border="0" vspace="0" width="370" height="1" hspace="0"></td><td valign="top" width="10"><img src="images/1x1t.gif" border="0" vspace="0" width="10" height="10" hspace="0"></td><td valign="top" width="387"><h1><kw class="krdwrd-tag-2">The Colour of My Love</kw></h1><p class="sm"><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=1"><kw class="krdwrd-tag-1">The Power Of Love</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=2"><kw class="krdwrd-tag-1">Misled</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=3"><kw class="krdwrd-tag-1">Think Twice</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=4"><kw class="krdwrd-tag-1">Only One Road</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=5"><kw class="krdwrd-tag-1">Everybody's Talkin' My Baby Down</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=6"><kw class="krdwrd-tag-1">Next Plane Out</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=7"><kw class="krdwrd-tag-1">Real Emotion</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=8"><kw class="krdwrd-tag-1">When I Fall In Love</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=9"><kw class="krdwrd-tag-1">Love Doesn't Ask Why</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=10"><kw class="krdwrd-tag-1">Refuse To Dance</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=11"><kw class="krdwrd-tag-1">I Remember L.A.</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=12"><kw class="krdwrd-tag-1">No Living Without Loving You</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=13"><kw class="krdwrd-tag-1">Lovin' Proof</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=14"><kw class="krdwrd-tag-1">Just Walk Away</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi?album_id=5&amp;band=1&amp;song_id=15"><kw class="krdwrd-tag-1">The Colour Of My Love</kw></a></p><p><b><kw class="krdwrd-tag-2">Love Doesn't Ask Why</kw></b></p><blockquote><div class="sm"><kw class="krdwrd-tag-1">Listen:</kw></div><div class="sm"><kw class="krdwrd-tag-1">Real Media: 
+    </kw><a href="http://www.celinedion.com/Samples/lovedoes.ram"><kw class="krdwrd-tag-1">All Streams</kw></a></div><div class="sm"><kw class="krdwrd-tag-1">WAV: 
+    </kw><a href="http://www.celinedion.com/Samples/lovedoes.wav"><kw class="krdwrd-tag-1">High</kw></a></div></blockquote><header_html language="en">
+</header_html><p><lyrics><kw class="krdwrd-tag-3">Love doesn't ask why
+</kw><br><kw class="krdwrd-tag-3">
+
+
+It speaks from the heart
+</kw><br><kw class="krdwrd-tag-3">
+
+
+And never explains
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Don't you know that
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Love doesn't think twice
+</kw><br><kw class="krdwrd-tag-3">
+
+
+It can come all at once
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Or whisper from a distance
+</kw><br>
+
+
+
+<br><kw class="krdwrd-tag-3">
+
+
+Don't ask me if this feeling's right or wrong
+</kw><br><kw class="krdwrd-tag-3">
+
+
+It doesn't have to make much sense
+</kw><br><kw class="krdwrd-tag-3">
+
+
+It just has to be this strong
+</kw><br><kw class="krdwrd-tag-3">
+
+
+'Cause when you're in my arms I understand
+</kw><br><kw class="krdwrd-tag-3">
+
+
+We don't have a voice
+</kw><br><kw class="krdwrd-tag-3">
+
+
+When our hearts make the choices
+</kw><br><kw class="krdwrd-tag-3">
+
+
+There's no plan
+</kw><br><kw class="krdwrd-tag-3">
+
+
+It's not in our hands
+</kw><br>
+
+
+
+<br><kw class="krdwrd-tag-3">
+
+
+Love doesn't ask why
+</kw><br><kw class="krdwrd-tag-3">
+
+
+It speaks from the heart
+</kw><br><kw class="krdwrd-tag-3">
+
+
+And never explains
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Don't you know that
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Love doesn't think twice
+</kw><br><kw class="krdwrd-tag-3">
+
+
+It can come all at once
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Or whisper from a distance
+</kw><br>
+
+
+
+<br><kw class="krdwrd-tag-3">
+
+
+Now I can feel what you're afraid to say
+</kw><br><kw class="krdwrd-tag-3">
+
+
+If you give your soul to me
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Will you give too much away
+</kw><br><kw class="krdwrd-tag-3">
+
+
+But we can't let this moment pass us by
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Can't question this chance
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Or expect any answers
+</kw><br><kw class="krdwrd-tag-3">
+
+
+We can try
+</kw><br><kw class="krdwrd-tag-3">
+
+
+But love doesn't ask you why
+</kw><br>
+
+
+
+<br><kw class="krdwrd-tag-3">
+
+
+(Instrumental)
+</kw><br>
+
+
+
+<br><kw class="krdwrd-tag-3">
+
+
+So let's take what we found
+</kw><br><kw class="krdwrd-tag-3">
+
+
+And wrap it around us
+</kw><br>
+
+
+
+<br><kw class="krdwrd-tag-3">
+
+
+Love doesn't ask why
+</kw><br><kw class="krdwrd-tag-3">
+
+
+It speaks from the heart
+</kw><br><kw class="krdwrd-tag-3">
+
+
+And never explains
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Now I know that
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Love doesn't think twice
+</kw><br><kw class="krdwrd-tag-3">
+
+
+It can come all at once
+</kw><br><kw class="krdwrd-tag-3">
+
+
+Or whisper from a distance
+</kw><br>
+
+
+
+<br><kw class="krdwrd-tag-3">
+
+
+Love doesn't ask why
+</kw><br>
+
+
+
+<br><kw class="krdwrd-tag-1">
+
+
+Track Time: 4:09
+</kw><br><kw class="krdwrd-tag-1">
+
+
+Written By: Barry Mann, Cynthia Weil and Phil Galdston
+</kw><br><kw class="krdwrd-tag-1">
+
+
+Produced By: Walter Afanasieff
+</kw><br><kw class="krdwrd-tag-1">
+
+
+Published By: 1993 Dyad Music Ltd. (BMI)/Polygram International Publishing Inc. and Kazzoom Music, Inc. (ASCAP)</kw></lyrics></p><img src="images/1x1t.gif" border="0" vspace="0" width="387" height="1" hspace="0"></td></tr></tbody></table><img src="images/footer.gif" border="0" vspace="0" hspace="0"><div align="center"><img src="images/1x1t.gif" border="0" vspace="0" width="250" height="5" hspace="0"><br></div><div class="bottomnav"><a href="whatsgoinon.cgi"><kw class="krdwrd-tag-1">WHAT'S GOIN' ON</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="journey.html"><kw class="krdwrd-tag-1">THE JOURNEY SO FAR</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="music.cgi"><kw class="krdwrd-tag-1">MUSIC</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="phovid.html"><kw class="krdwrd-tag-1">PHOTOS &amp; VIDEOS</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="contests.html"><kw class="krdwrd-tag-1">CONTESTS</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="index.cgi"><kw class="krdwrd-tag-1">HOME</kw></a><br><p><script type="text/javascript" language="JavaScript" src="flashtoggle.js"></script><a href="/celinedion/index.cgi?language=en&amp;bandwidth=lo"><img src="images/nv_nonflash.gif" alt="NON-FLASH VERSION" border="0" vspace="0" width="88" height="9" hspace="0"></a><a href="/celinedion/index.cgi?language=en&amp;bandwidth=lo"><img src="images/nv_nonflash.gif" alt="NON-FLASH VERSION" border="0" vspace="0" width="88" height="9" hspace="0"></a></p><script type="text/javascript" language="JavaScript">
+
+<!--
+function openTerms( fileName, winName, xLocation, yLocation, width, height )
+{
+   gNewWindow = window.open(fileName, winName, 'toolbar=no,location=no,scrollbars=yes,resizable=no,width='+width+',height='+height );
+   gNewWindow.moveTo( xLocation, yLocation );
+   gNewWindow.focus();
+}
+//-->
+
+</script><a href="javascript:openTerms('http://www.teamceline.com/termsandconditions.asp','teamceline',100,100,550,300);"><kw class="krdwrd-tag-1">Terms of Use</kw></a><br><a href="http://www.sonymusic.ca" target="_blank"><img src="http://www.celinedion.com/images/copyright02.gif" border="0" vspace="5" hspace="0"></a></div><script language="JavaScript" type="text/javascript" src="http://sonybmg.com/wt/canada/wt_canada.js"></script><script type="text/javascript" src="https://statse.webtrendslive.com/dcse1hu3l000000cxdmgcpzbs_3b5q/wtid.js"></script><script type="text/javascript" src="http://statse.webtrendslive.com/dcse1hu3l000000cxdmgcpzbs_3b5q/wtid.js"></script><script language="JavaScript" type="text/javascript" src="http://sonybmg.com/wt/wt_sonybmg.js"></script><noscript><kw><img alt="" name="DCSIMG" src="http://statse.webtrendslive.com/dcse1hu3l000000cxdmgcpzbs_3b5q/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.0.0" border="0" width="1" height="1"></kw></noscript><br><br></center></body>

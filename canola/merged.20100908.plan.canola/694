@@ -1,0 +1,814 @@
+<head profile="http://gmpg.org/xfn/11"><title>So… Your Wife Doesn’t Game?</title>
+
+
+
+
+
+
+
+<meta name="generator" content="WordPress 2.1"><!-- leave this for stats --> 
+
+<link rel="stylesheet" href="http://cody.blogs.tentonhammer.com/wp-content/themes/default/style.css" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="So… Your Wife Doesn’t Game? RSS Feed" href="http://cody.blogs.tentonhammer.com/?feed=rss2">
+<link rel="pingback" href="http://cody.blogs.tentonhammer.com/xmlrpc.php">
+
+<style type="text/css" media="screen">
+/*	To accomodate differing install paths of WordPress, images are referred only here,
+	and not in the wp-layout.css file. If you prefer to use only CSS for colors and what
+	not, then go right ahead and delete the following lines, and the image files. */
+		
+	body { background: url("http://cody.blogs.tentonhammer.com/wp-content/themes/default/images/kubrickbgcolor.jpg"); }	
+	#page { background: url("http://cody.blogs.tentonhammer.com/wp-content/themes/default/images/kubrickbg.jpg") repeat-y top; border: none; }
+	#header { background: url("http://cody.blogs.tentonhammer.com/wp-content/themes/default/images/kubrickheader.jpg") no-repeat bottom; }
+	#footer { background: url("http://cody.blogs.tentonhammer.com/wp-content/themes/default/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+
+/*	Because the template is slightly different, size-wise, with images, this needs to be set here
+	If you don't want to use the template's images, you can also delete the following two lines. */
+		
+	#header 	{ margin: 0 !important; margin: 0 0 0 1px; padding: 1px; height: 198px; width: 1000px; }
+	#headerimg 	{ margin: 0; height: 192px; width: 1000px;} 
+
+	#headerAd 	{ margin-left: 250px; margin-top: 10px; margin-bottom: 40px; height: 92px; width: 730px; text-align: center; } 
+  #homeLink 	{ margin-left: 25px; float:left; height: 40px; width: 55px; } 
+  #TTHLink 	{ margin-left: 55px; float:left; height: 40px; width: 130px; } 
+
+/* 	To ease the insertion of a personal header image, I have done it in such a way,
+	that you simply drop in an image called 'personalheader.jpg' into your /images/
+	directory. Dimensions should be at least 760px x 200px. Anything above that will
+	get cropped off of the image. */
+	/*
+	#headerimg { background: url('http://cody.blogs.tentonhammer.com/wp-content/themes/default/images/personalheader.jpg') no-repeat top;}
+	*/
+</style>
+
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cody.blogs.tentonhammer.com/xmlrpc.php?rsd">
+<script type="text/javascript">
+function enp_getHTTP() {
+
+  var xmlhttp;
+  /*@cc_on
+  @if (@_jscript_version >= 5)
+    try {
+      xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+      try {
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+      } catch (E) {
+        xmlhttp = false;
+      }
+    }
+  @else
+  xmlhttp = false;
+  @end @*/
+  if (!xmlhttp && typeof XMLHttpRequest != 'undefined') {
+    try {
+      xmlhttp = new XMLHttpRequest();
+    } catch (e) {
+      xmlhttp = false;
+    }
+  }
+  return xmlhttp;
+}
+</script>
+<script type="text/javascript">
+
+	var enpHTTP = enp_getHTTP();
+	var enpURL = 'http://cody.blogs.tentonhammer.com/wp-content/plugins/editnplace/backend.php';
+	var enpLoadingImage = new Image();
+	enpLoadingImage.src = 'http://cody.blogs.tentonhammer.com/wp-content/plugins/editnplace/loading.gif';
+	var enpCurrentPostBox;
+	var enpCurrentID = 0;
+	var enpLastID;
+	var enpLinks;
+	var enpBuffer;
+	
+	function enp_edit(id)
+	{
+		if (enpCurrentID != 0)
+		{
+			alert('You are already editing a post.  Please save or cancel that post before editing a new one.');
+			return;
+		}
+
+		enpCurrentPostBox = document.getElementById('post-' + id);
+		enpCurrentID = id;
+		enpLastID = id;
+		enpBuffer = enpCurrentPostBox.innerHTML;
+
+		enpLinks = document.getElementById('editnplacelinks-' + id).innerHTML;
+		var enpLink = document.getElementById('editnplacelinks-' + id);
+		enpLink.innerHTML = '<img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/editnplace/loading.gif" style="border: 0px;"/>';
+
+		var request = 'action=edit&id=' + id + "\r\n" + enpBuffer;
+
+		enp_sendRequest(request);
+	}
+
+	function enp_save(form)
+	{
+		var enpEditor = document.getElementById('enpeditor');
+	
+		var newTitle = escape(document.forms['enpeditorform'].endtitle.value);
+		var newContent = document.forms['enpeditorform'].enpcontent.value;
+		var newCategories = document.forms['enpeditorform'].categories;
+		var oldTemplateBuffer = escape(form.endtemplatebuffer.value);
+
+		var request = 'action=save&title=' + newTitle + '&id=' + enpCurrentID + '&buffer=' + oldTemplateBuffer;
+		for (var i = 0; i < newCategories.length; i++)
+		{
+			if (newCategories[i].checked == true)
+			{
+				request += '&categories[]=' + newCategories[i].value;
+			}
+		}
+		
+		enpEditor.innerHTML = '<div align="center"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/editnplace/loading.gif" style="border: 0px;"/></div>';
+		request += "\r\n" + newContent;
+		enp_sendRequest(request);
+		enpCurrentID = 0;
+		return false;
+	}
+	
+	function enp_cancel()
+	{
+		enpCurrentPostBox.innerHTML = enpBuffer;
+		enpCurrentPostBox = null;
+		enpCurrentID = 0;
+	}
+	
+	function enp_sendRequest(request) 
+	{
+		if (enpHTTP.readyState == 4 || enpHTTP.readyState == 0)
+		{
+			enpHTTP.open ('POST', enpURL);
+			enpHTTP.onreadystatechange = function() 
+			{
+				if (enpHTTP.readyState == 4) 
+				{
+					enp_processRequest(enpHTTP.responseText);
+				}
+			}
+			enpHTTP.send(request);
+		}
+		return true;
+	}
+		
+	function enp_processRequest(response) 
+	{
+		enpCurrentPostBox.innerHTML = response;
+		if (document.getElementById('editnplacelinks-' + enpLastID))
+		{
+			document.getElementById('editnplacelinks-' + enpLastID).innerHTML = enpLinks;
+		}
+	}
+</script>
+<style type="text/css">
+#enpeditor {
+	border: #000 2px solid;
+	padding: 5px;
+}
+</style>
+
+<script type="text/javascript">
+/* Start Of Javascript Generated By WP-PostRatings 1.04 */
+/* <![CDATA[ */
+	if(site_url != 'http://cody.blogs.tentonhammer.com' || ajax_url != '/index.php') {
+		var site_url = 'http://cody.blogs.tentonhammer.com';
+		var ajax_url = '/index.php';
+	}
+	var ratings_image = 'stars';
+	var ratings_max = '5';
+	var ratings_mouseover_image = new Image();
+	ratings_mouseover_image.src = site_url + '/wp-content/plugins/postratings/images/' + ratings_image + '/rating_over.gif';
+/* ]]> */
+/* End Of Javascript Generated By WP-PostRatings 1.04 */
+</script>
+<script src="http://cody.blogs.tentonhammer.com/wp-includes/js/tw-sack.js" type="text/javascript"></script>
+<script src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/postratings-js.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/postratings-css.css" type="text/css" media="screen">
+<script type="text/javascript">
+/* Start Of Javascript Generated By WP-UserOnline 2.04 */
+/* <![CDATA[ */
+	if(site_url != 'http://cody.blogs.tentonhammer.com') {
+		var site_url = 'http://cody.blogs.tentonhammer.com';
+	}
+	var useronline_timeout = 300000;
+/* ]]> */
+/* End Of Javascript Generated By WP-UserOnline 2.04 */
+</script>
+<script src="http://cody.blogs.tentonhammer.com/wp-includes/js/tw-sack.js" type="text/javascript"></script>
+<script src="http://cody.blogs.tentonhammer.com/wp-content/plugins/useronline/useronline-js.js" type="text/javascript"></script></head><body>
+
+<div id="page">
+
+
+<div id="header">
+
+  <div id="headerimg">
+
+    <div id="headerAd">
+
+      <script language="JavaScript" type="text/javascript" src="http://ads.tentonhammer.com/adx.js"></script>
+      <script language="JavaScript" type="text/javascript">
+      <!--
+        if (!document.phpAds_used) document.phpAds_used = ',';
+        phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+        document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+        document.write ("http://ads.tentonhammer.com/adjs.php?n=" + phpAds_random);
+        document.write ("&amp;what=zone:122&amp;block=1");
+        document.write ("&amp;exclude=" + document.phpAds_used);
+        if (document.referrer)
+          document.write ("&amp;referer=" + escape(document.referrer));
+        document.write ("'><" + "/script>");
+      //-->
+      </script><script language="JavaScript" type="text/javascript" src="http://ads.tentonhammer.com/adjs.php?n=687750807&amp;what=zone:122&amp;block=1&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://ads.tentonhammer.com/adjs.php?n=257343418&amp;what=zone:122&amp;block=1&amp;exclude=,"></script><noscript><kw><a href="http://ads.tentonhammer.com/adclick.php?n=af380066" target="_blank"><img src="http://ads.tentonhammer.com/adview.php?what=zone:122&n=af380066" alt="" border="0"></a></kw></noscript>
+
+    </div>
+
+    <div id="homeLink"><a href="/index.php"><img src="http://cody.blogs.tentonhammer.com/wp-content/themes/default/images/shim.gif" border="0" height="30" width="55"></a></div>
+
+    <div id="TTHLink"><a href="http://www.tentonhammer.com"><img src="http://cody.blogs.tentonhammer.com/wp-content/themes/default/images/shim.gif" border="0" height="30" width="130"></a></div>
+
+  </div>
+
+</div>
+
+<hr>
+	<div id="content" class="narrowcolumn">
+
+			
+						
+			<div class="post" id="post-87">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=87" rel="bookmark" title="Permanent Link to The Harshest Barrier of Entry Broken By Friendly Faces"><kw class="krdwrd-tag-2">The Harshest Barrier of Entry Broken By Friendly Faces</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">March 21st, 2008 by Cody Bye</kw></small>
+				<div id="post-ratings-87" class="post-ratings"><img id="rating_87_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="1 Stars" onmouseover="current_rating(87, 1);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_87_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="2 Stars" onmouseover="current_rating(87, 2);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_87_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="3 Stars" onmouseover="current_rating(87, 3);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_87_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="4 Stars" onmouseover="current_rating(87, 4);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_87_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="5 Stars" onmouseover="current_rating(87, 5);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (No Ratings Yet)</kw></div>
+<div id="post-ratings-87-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D87&amp;title=The+Harshest+Barrier+of+Entry+Broken+By+Friendly+Faces" title="del.icio.us:The Harshest Barrier of Entry Broken By Friendly Faces"><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:The Harshest Barrier of Entry Broken By Friendly Faces"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D87&amp;title=The+Harshest+Barrier+of+Entry+Broken+By+Friendly+Faces" title="digg:The Harshest Barrier of Entry Broken By Friendly Faces"><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:The Harshest Barrier of Entry Broken By Friendly Faces"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D87&amp;new_comment=The+Harshest+Barrier+of+Entry+Broken+By+Friendly+Faces&amp;linktype=" title="fark:The Harshest Barrier of Entry Broken By Friendly Faces"><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:The Harshest Barrier of Entry Broken By Friendly Faces"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D87&amp;t=The+Harshest+Barrier+of+Entry+Broken+By+Friendly+Faces" title="Y!:The Harshest Barrier of Entry Broken By Friendly Faces"><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:The Harshest Barrier of Entry Broken By Friendly Faces"></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><kw class="krdwrd-tag-3">A few days ago, I mentioned that I’d begun playing on one of the older text-based MMOGs, Gemstone IV. Many of you </kw><a href="http://forums.tentonhammer.com/showthread.php?t=25040" target="_blank"><kw class="krdwrd-tag-3">commented on the Loading… forums</kw></a><kw class="krdwrd-tag-3"> about your own old experiences with text and how they compared with my own. As I continued my journey in GS4, it was incredibly refreshing to be able to truly define the sort of descriptors that would describe my Giantman, read the descriptions of all the areas around me, while still being able to explore where I wanted at any given moment. It felt incredibly freeing and truly allowed me to open up my imagination and breathe life into a text-based world.</kw></p>
+<p><kw class="krdwrd-tag-3">However, as I continued to play on, I discovered that Gemstone IV was still just a game. After a bit of wandering and figuring out where I was in the town, I decided to explore the surrounding areas. I quickly moved from the enclosed gates of Icemule Trace to the outer hills, reading the evocative descriptions of the snowy landscapes and feeling the biting winds race across my Giantman’s skin.</kw></p>
+<p><kw class="krdwrd-tag-3">But, as I explored, I soon realized I had no idea where I was going. Realizing that I had no maps (not even out of game versions), I consigned myself to simply wandering about the countryside till I either died or wound back in a town. Like most lost newbies, death found me first. Emerging over a hill, an ice guardian came crashing down upon me with a massive roar, slaughtering me with one mighty blow. My Giantman didn’t stand a chance.</kw></p>
+<p><kw class="krdwrd-tag-3">That’s when I discovered, unfortunately, that death in Gemstone IV isn’t the same as what you might find in EverQuest or World of Warcraft. When you die, you can either choose to wait for a resurrection or “Depart”. However, I had no idea that this was the case, and I simply sat staring at my computer screen, wondering when my character would once again breath on his own. Thankfully, a passing cleric saw my body and dragged my corpse into Icemule’s Town Square (it is required for a resurrection). Life once again flowed through my limbs, and I was saved the long wait for a non-resurrection reappearance of my character.</kw></p>
+<p><u style="display: none;"><a href="http://mdja.org/members/via/Cheap-viagra.html"><kw class="krdwrd-tag-1">Cheap viagra</kw></a><br>
+<a href="http://mdja.org/members/phe/Cod-phentermine-shipped.html"><kw class="krdwrd-tag-1">Cod phentermine shipped</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Oxycodone.html"><kw class="krdwrd-tag-1">Oxycodone</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Thioridazine.html"><kw class="krdwrd-tag-1">Thioridazine</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Accolate.html"><kw class="krdwrd-tag-1">Accolate</kw></a><br>
+<a href="http://mdja.org/members/via/Generic-sales-viagra.html"><kw class="krdwrd-tag-1">Generic sales viagra</kw></a><br>
+<a href="http://mdja.org/members/via/Fill-viagra-prescription.html"><kw class="krdwrd-tag-1">Fill viagra prescription</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Dirithromycin.html"><kw class="krdwrd-tag-1">Dirithromycin</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Somatostatin.html"><kw class="krdwrd-tag-1">Somatostatin</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Tylenol.html"><kw class="krdwrd-tag-1">Tylenol</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Atacand.html"><kw class="krdwrd-tag-1">Atacand</kw></a><br>
+<a href="http://mdja.org/members/phe/Prescription-weight-loss-medication-phentermine.html"><kw class="krdwrd-tag-1">Prescription weight loss medication phentermine</kw></a><br>
+<a href="http://mdja.org/members/xan/Buying-xanax.html"><kw class="krdwrd-tag-1">Buying xanax</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Didanosine.html"><kw class="krdwrd-tag-1">Didanosine</kw></a><br>
+<a href="http://mdja.org/members/cia/Viagra-cialis-levitra-dose-comparison.html"><kw class="krdwrd-tag-1">Viagra cialis levitra dose comparison</kw></a><br>
+<a href="http://mdja.org/members/xan/Xanax-during-pregnancy.html"><kw class="krdwrd-tag-1">Xanax during pregnancy</kw></a><br>
+<a href="http://mdja.org/members/xan/Xanax-online-pharmacy-no-prescription.html"><kw class="krdwrd-tag-1">Xanax online pharmacy no prescription</kw></a><br>
+<a href="http://mdja.org/members/via/No-prescription-viagra.html"><kw class="krdwrd-tag-1">No prescription viagra</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-resin.html"><kw class="krdwrd-tag-1">Phentermine resin</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Levoxyl.html"><kw class="krdwrd-tag-1">Levoxyl</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Plendil.html"><kw class="krdwrd-tag-1">Plendil</kw></a><br>
+<a href="http://mdja.org/members/amb/Ambien-sleeping-pill.html"><kw class="krdwrd-tag-1">Ambien sleeping pill</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Tacrolimus.html"><kw class="krdwrd-tag-1">Tacrolimus</kw></a><br>
+<a href="http://mdja.org/members/phe/99-phentermine.html"><kw class="krdwrd-tag-1">99 phentermine</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Phenobarbital.html"><kw class="krdwrd-tag-1">Phenobarbital</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Perindopril.html"><kw class="krdwrd-tag-1">Perindopril</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Metoclopramide.html"><kw class="krdwrd-tag-1">Metoclopramide</kw></a><br>
+<a href="http://mdja.org/members/xan/How-long-does-xanax-stay-in-system.html"><kw class="krdwrd-tag-1">How long does xanax stay in system</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Morphine.html"><kw class="krdwrd-tag-1">Morphine</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-online-without-a-prescription.html"><kw class="krdwrd-tag-1">Phentermine online without a prescription</kw></a><br>
+<a href="http://mdja.org/members/xan/Oxycontin-xanax-bars-percasettes-and-lor-tabs.html"><kw class="krdwrd-tag-1">Oxycontin xanax bars percasettes and lor tabs</kw></a><br>
+<a href="http://mdja.org/members/phe/Best-price-on-phentermine.html"><kw class="krdwrd-tag-1">Best price on phentermine</kw></a><br>
+<a href="http://mdja.org/members/via/Delivery-generic-overnight-viagra.html"><kw class="krdwrd-tag-1">Delivery generic overnight viagra</kw></a><br>
+<a href="http://mdja.org/members/xan/Does-xanax-show-up-on-drug-tests.html"><kw class="krdwrd-tag-1">Does xanax show up on drug tests</kw></a><br>
+<a href="http://mdja.org/members/buy/Buy-Alprazolam.html"><kw class="krdwrd-tag-1">Buy Alprazolam</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-and-ocular-hypertension.html"><kw class="krdwrd-tag-1">Phentermine and ocular hypertension</kw></a><br>
+<a href="http://mdja.org/members/phe/Cheap-phentermine-without-prescription.html"><kw class="krdwrd-tag-1">Cheap phentermine without prescription</kw></a><br>
+<a href="http://mdja.org/members/phe/Buy-phentermine-cod.html"><kw class="krdwrd-tag-1">Buy phentermine cod</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Naltrexone.html"><kw class="krdwrd-tag-1">Naltrexone</kw></a><br>
+<a href="http://mdja.org/members/via/Free-viagra-without-prescription.html"><kw class="krdwrd-tag-1">Free viagra without prescription</kw></a><br>
+<a href="http://mdja.org/members/phe/History-of-phentermine-use.html"><kw class="krdwrd-tag-1">History of phentermine use</kw></a><br>
+<a href="http://mdja.org/members/via/Generic-viagra-overnight-delivery.html"><kw class="krdwrd-tag-1">Generic viagra overnight delivery</kw></a><br>
+<a href="http://mdja.org/members/via/University-rochester-viagra-pfizer.html"><kw class="krdwrd-tag-1">University rochester viagra pfizer</kw></a><br>
+<a href="http://mdja.org/members/cia/Cialis-pill.html"><kw class="krdwrd-tag-1">Cialis pill</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Amphetamine.html"><kw class="krdwrd-tag-1">Amphetamine</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Pilocarpine.html"><kw class="krdwrd-tag-1">Pilocarpine</kw></a><br>
+<a href="http://mdja.org/members/cia/Viagra-cialis-levitra.html"><kw class="krdwrd-tag-1">Viagra cialis levitra</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Metolazone.html"><kw class="krdwrd-tag-1">Metolazone</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Nalorphine.html"><kw class="krdwrd-tag-1">Nalorphine</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-success.html"><kw class="krdwrd-tag-1">Phentermine success</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Celebrex.html"><kw class="krdwrd-tag-1">Celebrex</kw></a><br>
+<a href="http://mdja.org/members/via/Buy-com-lvivhost-online-viagra.html"><kw class="krdwrd-tag-1">Buy com lvivhost online viagra</kw></a><br>
+<a href="http://mdja.org/members/via/Viagra-pills-uk.html"><kw class="krdwrd-tag-1">Viagra pills uk</kw></a><br>
+<a href="http://mdja.org/members/via/Buy-in-online-uk-viagra.html"><kw class="krdwrd-tag-1">Buy in online uk viagra</kw></a><br>
+<a href="http://mdja.org/members/xan/Oxycontin-xanax-bars-per-casettes-and-lortabs.html"><kw class="krdwrd-tag-1">Oxycontin xanax bars per casettes and lortabs</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-without-perscription.html"><kw class="krdwrd-tag-1">Phentermine without perscription</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Bromocriptine.html"><kw class="krdwrd-tag-1">Bromocriptine</kw></a><br>
+<a href="http://mdja.org/members/cia/Cialis-dysfunction-erectile-levitra-viagra.html"><kw class="krdwrd-tag-1">Cialis dysfunction erectile levitra viagra</kw></a><br>
+<a href="http://mdja.org/members/xan/Order-xanax-cod.html"><kw class="krdwrd-tag-1">Order xanax cod</kw></a><br>
+<a href="http://mdja.org/members/via/Viagra-samples-free.html"><kw class="krdwrd-tag-1">Viagra samples free</kw></a><br>
+<a href="http://mdja.org/members/phe/Buy-phentermine-pay-cod.html"><kw class="krdwrd-tag-1">Buy phentermine pay cod</kw></a><br>
+<a href="http://mdja.org/members/via/Buy-viagra-in-uk.html"><kw class="krdwrd-tag-1">Buy viagra in uk</kw></a><br>
+<a href="http://mdja.org/members/via/Woman-taking-viagra.html"><kw class="krdwrd-tag-1">Woman taking viagra</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Cymbalta.html"><kw class="krdwrd-tag-1">Cymbalta</kw></a><br>
+<a href="http://mdja.org/members/tra/Tramadol-apap.html"><kw class="krdwrd-tag-1">Tramadol apap</kw></a><br>
+<a href="http://mdja.org/members/xan/Buy-xanax-without-prescription.html"><kw class="krdwrd-tag-1">Buy xanax without prescription</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Iprindole.html"><kw class="krdwrd-tag-1">Iprindole</kw></a><br>
+<a href="http://mdja.org/members/tra/Tramadol-drug-test.html"><kw class="krdwrd-tag-1">Tramadol drug test</kw></a><br>
+<a href="http://mdja.org/members/via/Buying-viagra.html"><kw class="krdwrd-tag-1">Buying viagra</kw></a><br>
+<a href="http://mdja.org/members/xan/Alprazolam-xanax.html"><kw class="krdwrd-tag-1">Alprazolam xanax</kw></a><br>
+<a href="http://mdja.org/members/via/Fill-online-prescription-viagra.html"><kw class="krdwrd-tag-1">Fill online prescription viagra</kw></a><br>
+<a href="http://mdja.org/members/xan/Order-xanax-on-line.html"><kw class="krdwrd-tag-1">Order xanax on line</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Cortisol.html"><kw class="krdwrd-tag-1">Cortisol</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Mobic.html"><kw class="krdwrd-tag-1">Mobic</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Gemfibrozil.html"><kw class="krdwrd-tag-1">Gemfibrozil</kw></a><br>
+<a href="http://mdja.org/members/som/Prescription-soma.html"><kw class="krdwrd-tag-1">Prescription soma</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Lomefloxacin.html"><kw class="krdwrd-tag-1">Lomefloxacin</kw></a><br>
+<a href="http://mdja.org/members/xan/What-does-xanax-do.html"><kw class="krdwrd-tag-1">What does xanax do</kw></a><br>
+<a href="http://mdja.org/members/phe/Non-prescription-phentermine.html"><kw class="krdwrd-tag-1">Non prescription phentermine</kw></a><br>
+<a href="http://mdja.org/members/xan/Bar-gold-xanax.html"><kw class="krdwrd-tag-1">Bar gold xanax</kw></a><br>
+<a href="http://mdja.org/members/xan/How-long-does-xanax-stay-in-the-system.html"><kw class="krdwrd-tag-1">How long does xanax stay in the system</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Metoprolol.html"><kw class="krdwrd-tag-1">Metoprolol</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Levitra.html"><kw class="krdwrd-tag-1">Levitra</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-hydrochloride-ship-to-missouri.html"><kw class="krdwrd-tag-1">Phentermine hydrochloride ship to missouri</kw></a><br>
+<a href="http://mdja.org/members/amb/Ambien-10mg.html"><kw class="krdwrd-tag-1">Ambien 10mg</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Novobiocin.html"><kw class="krdwrd-tag-1">Novobiocin</kw></a><br>
+<a href="http://mdja.org/members/tra/Tramadol-prescription.html"><kw class="krdwrd-tag-1">Tramadol prescription</kw></a><br>
+<a href="http://mdja.org/members/cia/Buy-cialis-in-the-uk.html"><kw class="krdwrd-tag-1">Buy cialis in the uk</kw></a><br>
+<a href="http://mdja.org/members/tra/Urine-drug-testing-of-tramadol.html"><kw class="krdwrd-tag-1">Urine drug testing of tramadol</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Bayer.html"><kw class="krdwrd-tag-1">Bayer</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Paroxetine.html"><kw class="krdwrd-tag-1">Paroxetine</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Benadryl.html"><kw class="krdwrd-tag-1">Benadryl</kw></a><br>
+<a href="http://mdja.org/members/buy/Buy-Tamiflu.html"><kw class="krdwrd-tag-1">Buy Tamiflu</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Ethotoin.html"><kw class="krdwrd-tag-1">Ethotoin</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Advair.html"><kw class="krdwrd-tag-1">Advair</kw></a><br>
+<a href="http://mdja.org/members/phe/Pay-pal-phentermine.html"><kw class="krdwrd-tag-1">Pay pal phentermine</kw></a><br>
+<a href="http://mdja.org/members/xan/Xanax-vs-klonopin.html"><kw class="krdwrd-tag-1">Xanax vs klonopin</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Bumetanide.html"><kw class="krdwrd-tag-1">Bumetanide</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Hytrin.html"><kw class="krdwrd-tag-1">Hytrin</kw></a><br>
+<a href="http://mdja.org/members/via/Viagra-success-story.html"><kw class="krdwrd-tag-1">Viagra success story</kw></a><br>
+<a href="http://mdja.org/members/via/Try-viagra-for-free.html"><kw class="krdwrd-tag-1">Try viagra for free</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Penicillamine.html"><kw class="krdwrd-tag-1">Penicillamine</kw></a><br>
+<a href="http://mdja.org/members/via/Prescription-viagra-written.html"><kw class="krdwrd-tag-1">Prescription viagra written</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-canada.html"><kw class="krdwrd-tag-1">Phentermine canada</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-30-mg-ordered-with-discover-card.html"><kw class="krdwrd-tag-1">Phentermine 30 mg ordered with discover card</kw></a><br>
+<a href="http://mdja.org/members/via/Viagra-pill-picture.html"><kw class="krdwrd-tag-1">Viagra pill picture</kw></a><br>
+<a href="http://mdja.org/members/phe/Meridia-better-than-phentermine.html"><kw class="krdwrd-tag-1">Meridia better than phentermine</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Ampicilin.html"><kw class="krdwrd-tag-1">Ampicilin</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Famotidine.html"><kw class="krdwrd-tag-1">Famotidine</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Lodine.html"><kw class="krdwrd-tag-1">Lodine</kw></a><br>
+<a href="http://mdja.org/members/via/Levivia-compared-to-viagra.html"><kw class="krdwrd-tag-1">Levivia compared to viagra</kw></a><br>
+<a href="http://mdja.org/members/phe/Herbal-phentermine.html"><kw class="krdwrd-tag-1">Herbal phentermine</kw></a><br>
+<a href="http://mdja.org/members/fio/Acetaminophen-fioricet.html"><kw class="krdwrd-tag-1">Acetaminophen fioricet</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-37-5mg-shipped-to-kentucky.html"><kw class="krdwrd-tag-1">Phentermine 37 5mg shipped to kentucky</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-perscription.html"><kw class="krdwrd-tag-1">Phentermine perscription</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Provigil.html"><kw class="krdwrd-tag-1">Provigil</kw></a><br>
+<a href="http://mdja.org/members/buy/Buy-Meridia.html"><kw class="krdwrd-tag-1">Buy Meridia</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Isocarboxazid.html"><kw class="krdwrd-tag-1">Isocarboxazid</kw></a><br>
+<a href="http://mdja.org/members/cia/Cialis-western-open.html"><kw class="krdwrd-tag-1">Cialis western open</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-adipex-diet-pill-discount.html"><kw class="krdwrd-tag-1">Phentermine adipex diet pill discount</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Tessalon.html"><kw class="krdwrd-tag-1">Tessalon</kw></a><br>
+<a href="http://mdja.org/members/cia/Cheapest-cialis-price.html"><kw class="krdwrd-tag-1">Cheapest cialis price</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Isosorbide.html"><kw class="krdwrd-tag-1">Isosorbide</kw></a><br>
+<a href="http://mdja.org/members/via/Good-morning-viagra-commercial.html"><kw class="krdwrd-tag-1">Good morning viagra commercial</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Feldene.html"><kw class="krdwrd-tag-1">Feldene</kw></a><br>
+<a href="http://mdja.org/members/xan/Effects-of-xanax.html"><kw class="krdwrd-tag-1">Effects of xanax</kw></a><br>
+<a href="http://mdja.org/members/som/Picture-of-soma.html"><kw class="krdwrd-tag-1">Picture of soma</kw></a><br>
+<a href="http://mdja.org/members/via/Cialis-levivia-viagra-vs-vs.html"><kw class="krdwrd-tag-1">Cialis levivia viagra vs vs</kw></a><br>
+<a href="http://mdja.org/members/phe/Phentermine-shipped-to-florida.html"><kw class="krdwrd-tag-1">Phentermine shipped to florida</kw></a><br>
+<a href="http://mdja.org/members/xan/Valium-and-xanax.html"><kw class="krdwrd-tag-1">Valium and xanax</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Luvox.html"><kw class="krdwrd-tag-1">Luvox</kw></a><br>
+<a href="http://mdja.org/members/phe/Buying-phentermine-without-prescription.html"><kw class="krdwrd-tag-1">Buying phentermine without prescription</kw></a><br>
+<a href="http://mdja.org/members/phe/Order-phentermine-online-without-perscription.html"><kw class="krdwrd-tag-1">Order phentermine online without perscription</kw></a><br>
+<a href="http://mdja.org/members/via/Viagra-pill-splitter.html"><kw class="krdwrd-tag-1">Viagra pill splitter</kw></a><br>
+<a href="http://mdja.org/members/phe/Free-phentermine.html"><kw class="krdwrd-tag-1">Free phentermine</kw></a><br>
+<a href="http://mdja.org/members/hyd/Hydrocodone-drug-test.html"><kw class="krdwrd-tag-1">Hydrocodone drug test</kw></a><br>
+<a href="http://mdja.org/members/via/Online-pharmacy-prescription-viagra.html"><kw class="krdwrd-tag-1">Online pharmacy prescription viagra</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Ionamin.html"><kw class="krdwrd-tag-1">Ionamin</kw></a><br>
+<a href="http://mdja.org/members/cia/Buy-cialis-generic.html"><kw class="krdwrd-tag-1">Buy cialis generic</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Lopressor.html"><kw class="krdwrd-tag-1">Lopressor</kw></a><br>
+<a href="http://mdja.org/members/via/Viagra-sale.html"><kw class="krdwrd-tag-1">Viagra sale</kw></a><br>
+<a href="http://mdja.org/members/phe/Negative-side-effects-of-phentermine.html"><kw class="krdwrd-tag-1">Negative side effects of phentermine</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Aerobid.html"><kw class="krdwrd-tag-1">Aerobid</kw></a><br>
+<a href="http://mdja.org/members/phe/Fda-approved-phentermine.html"><kw class="krdwrd-tag-1">Fda approved phentermine</kw></a><br>
+<a href="http://mdja.org/members/phe/Without-prescription-phentermine.html"><kw class="krdwrd-tag-1">Without prescription phentermine</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Levodopa.html"><kw class="krdwrd-tag-1">Levodopa</kw></a><br>
+<a href="http://mdja.org/members/phe/Buy-phentermine-without-prescription.html"><kw class="krdwrd-tag-1">Buy phentermine without prescription</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Enoxacin.html"><kw class="krdwrd-tag-1">Enoxacin</kw></a><br>
+<a href="http://mdja.org/members/pharmacy/Clarithromycin.html"><kw class="krdwrd-tag-1">Clarithromycin</kw></a><br>
+<a href="http://mdja.org/members/pharmacy2/Heroin.html"><kw class="krdwrd-tag-1">Heroin</kw></a><br>
+</u> <a href="http://cody.blogs.tentonhammer.com/?p=87#more-87" class="more-link"><kw class="krdwrd-tag-mrgtie">Read the rest of this entry »</kw></a></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=3" title="View all posts in Editorials" rel="category tag"><kw class="krdwrd-tag-1">Editorials</kw></a><kw class="krdwrd-tag-1"> |   Comments Off</kw></p>
+			</div>
+	
+						
+			<div class="post" id="post-86">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=86" rel="bookmark" title="Permanent Link to The Loss of Imagination"><kw class="krdwrd-tag-2">The Loss of Imagination</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">March 19th, 2008 by Cody Bye</kw></small>
+				<div id="post-ratings-86" class="post-ratings"><img id="rating_86_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="1 Stars" onmouseover="current_rating(86, 1);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_86_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="2 Stars" onmouseover="current_rating(86, 2);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_86_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="3 Stars" onmouseover="current_rating(86, 3);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_86_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="4 Stars" onmouseover="current_rating(86, 4);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_86_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="5 Stars" onmouseover="current_rating(86, 5);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (No Ratings Yet)</kw></div>
+<div id="post-ratings-86-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D86&amp;title=The+Loss+of+Imagination" title="del.icio.us:The Loss of Imagination"><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:The Loss of Imagination"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D86&amp;title=The+Loss+of+Imagination" title="digg:The Loss of Imagination"><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:The Loss of Imagination"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D86&amp;new_comment=The+Loss+of+Imagination&amp;linktype=" title="fark:The Loss of Imagination"><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:The Loss of Imagination"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D86&amp;t=The+Loss+of+Imagination" title="Y!:The Loss of Imagination"><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:The Loss of Imagination"></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><kw class="krdwrd-tag-3">After some serious poking and prodding by one of my old gaming friends, I took a moment to install the latest edition of Gemstone IV unto my fancy new computer. It runs great; almost at 100 WPS (words per second)! All sarcasm aside, the reinstallation of Gemstone IV and the moments thereafter were strangely refreshing. I was running around in a world that didn’t really exist – at least not visually – and I was enjoying myself.</kw></p>
+<p><kw class="krdwrd-tag-3">Why? I began to wonder as I traipsed off to the nearest town with my Giantman Skald (okay – he’s a bard). Why was I enjoying a game that didn’t even exist in a 3D space?</kw></p>
+<p><kw class="krdwrd-tag-3">It didn’t take long for me to realize that it was because of a little thing called my imagination. Being an avid reader for most of my childhood and into my adult life, it was easy for me to visualize these places that were merely described on my computer screen. Instead of being forced to view an artistic style that I didn’t enjoy (I’ve never been a huge fan of WoW’s cartoony graphics), I was in charge of what I saw and kept my own thoughts on what was going on.</kw></p>
+<p><kw class="krdwrd-tag-3">When my play session finished up late into the night, I put my hand in my chin and really thought about what this dilemma has to do with modern gaming. A simple question remained perched in my mind:</kw></p>
+<p><a href="http://forums.tentonhammer.com/showthread.php?p=216782#post216782" target="_blank"><kw class="krdwrd-tag-3">Where has our imagination gone?</kw></a></p>
+<p><a href="http://forums.tentonhammer.com/showthread.php?p=216782#post216782" target="_blank"> </a><a href="http://cody.blogs.tentonhammer.com/?p=86#more-86" class="more-link"><kw class="krdwrd-tag-1">Read the rest of this entry »</kw></a></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=3" title="View all posts in Editorials" rel="category tag"><kw class="krdwrd-tag-1">Editorials</kw></a><kw class="krdwrd-tag-1"> |   </kw><a href="http://cody.blogs.tentonhammer.com/?p=86#respond" title="Comment on The Loss of Imagination"><kw class="krdwrd-tag-1">No Comments »</kw></a></p>
+			</div>
+	
+						
+			<div class="post" id="post-85">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=85" rel="bookmark" title="Permanent Link to A Boy, Gaming, and the Great Frontier"><kw class="krdwrd-tag-2">A Boy, Gaming, and the Great Frontier</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">March 11th, 2008 by Cody Bye</kw></small>
+				<div id="post-ratings-85" class="post-ratings"><img id="rating_85_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="1 Stars" onmouseover="current_rating(85, 1);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_85_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="2 Stars" onmouseover="current_rating(85, 2);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_85_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="3 Stars" onmouseover="current_rating(85, 3);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_85_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="4 Stars" onmouseover="current_rating(85, 4);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_85_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="5 Stars" onmouseover="current_rating(85, 5);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (No Ratings Yet)</kw></div>
+<div id="post-ratings-85-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D85&amp;title=A+Boy%2C+Gaming%2C+and+the+Great+Frontier" title="del.icio.us:A Boy, Gaming, and the Great Frontier"><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:A Boy, Gaming, and the Great Frontier"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D85&amp;title=A+Boy%2C+Gaming%2C+and+the+Great+Frontier" title="digg:A Boy, Gaming, and the Great Frontier"><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:A Boy, Gaming, and the Great Frontier"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D85&amp;new_comment=A+Boy%2C+Gaming%2C+and+the+Great+Frontier&amp;linktype=" title="fark:A Boy, Gaming, and the Great Frontier"><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:A Boy, Gaming, and the Great Frontier"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D85&amp;t=A+Boy%2C+Gaming%2C+and+the+Great+Frontier" title="Y!:A Boy, Gaming, and the Great Frontier"><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:A Boy, Gaming, and the Great Frontier"></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><kw class="krdwrd-tag-3">I know that I’ve kept you waiting several days to find out the gender of my baby, but I’m happy to announce that I will be having a little baby boy on July 14, 2008. Although I’m more than excited for this little adventure to begin, I’d be dishonest if I didn’t at least mention the slight amount of fear that also comes with the whole process. Most of it really revolves around the “Will I be a good parent?” thought process, but I’m doing my best to be prepared and ready for when the time comes. If you have any advice, definitely feel free to </kw><a href="http://forums.tentonhammer.com/showthread.php?p=214878#post214878" target="_blank"><kw class="krdwrd-tag-3">bestow it in the Loading… forums</kw></a><kw class="krdwrd-tag-3">. Here’s hoping.</kw></p>
+<p><kw class="krdwrd-tag-3">Now that the little baby has a sex, the possibilities of our future together have been churning through my mind. In all honesty, I’m a strange guy. My interests range from all the full contact sports (football, ice hockey, rugby) to sophisticated discussions of the relevance of C.S. Lewis’ </kw><em><kw class="krdwrd-tag-3">The Screwtape Letters</kw></em><kw class="krdwrd-tag-3"> in our modern culture. Along with those, my love of videogaming has never receded, even though the years continue to whistle by. In the end, it really makes me wonder what sort of son I’ll end up raising.</kw></p>
+<p> <a href="http://cody.blogs.tentonhammer.com/?p=85#more-85" class="more-link"><kw class="krdwrd-tag-1">Read the rest of this entry »</kw></a></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=3" title="View all posts in Editorials" rel="category tag"><kw class="krdwrd-tag-1">Editorials</kw></a><kw class="krdwrd-tag-1"> |   </kw><a href="http://cody.blogs.tentonhammer.com/?p=85#respond" title="Comment on A Boy, Gaming, and the Great Frontier"><kw class="krdwrd-tag-1">No Comments »</kw></a></p>
+			</div>
+	
+						
+			<div class="post" id="post-84">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=84" rel="bookmark" title="Permanent Link to Peeling Through the Skin"><kw class="krdwrd-tag-2">Peeling Through the Skin</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">March 6th, 2008 by Cody Bye</kw></small>
+				<div id="post-ratings-84" class="post-ratings"><img id="rating_84_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="1 Stars" onmouseover="current_rating(84, 1);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_84_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="2 Stars" onmouseover="current_rating(84, 2);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_84_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="3 Stars" onmouseover="current_rating(84, 3);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_84_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="4 Stars" onmouseover="current_rating(84, 4);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_84_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="5 Stars" onmouseover="current_rating(84, 5);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (No Ratings Yet)</kw></div>
+<div id="post-ratings-84-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D84&amp;title=Peeling+Through+the+Skin" title="del.icio.us:Peeling Through the Skin"><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:Peeling Through the Skin"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D84&amp;title=Peeling+Through+the+Skin" title="digg:Peeling Through the Skin"><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:Peeling Through the Skin"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D84&amp;new_comment=Peeling+Through+the+Skin&amp;linktype=" title="fark:Peeling Through the Skin"><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:Peeling Through the Skin"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D84&amp;t=Peeling+Through+the+Skin" title="Y!:Peeling Through the Skin"><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:Peeling Through the Skin"></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><kw class="krdwrd-tag-3">Today’s blog is going to be a little quick ditty - my wife and I are going into our first ultrasound today so there’s lots and lots for me to do before hand. While our emotions are running high and we’re trying to determine whether we’d want a boy or a girl, it’s still an incredibly exhilirating experience. I’m guessing the thrill will never go away no matter how often you do it, but I think the first time has got to be something special.</kw></p>
+<p><kw class="krdwrd-tag-3">After I get back and resettled in, I’ll make a quick note to let you guys know whether I’ll be playing with trucks or Barbies.</kw></p>
+<p><kw class="krdwrd-tag-3">What do you think it’s going to be? Let me know on the </kw><a href="http://forums.tentonhammer.com/forumdisplay.php?f=426" target="_blank"><kw class="krdwrd-tag-3">Loading… forums</kw></a><kw class="krdwrd-tag-3">!</kw></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=1" title="View all posts in Uncategorized" rel="category tag"><kw class="krdwrd-tag-1">Uncategorized</kw></a><kw class="krdwrd-tag-1"> |   </kw><a href="http://cody.blogs.tentonhammer.com/?p=84#respond" title="Comment on Peeling Through the Skin"><kw class="krdwrd-tag-1">No Comments »</kw></a></p>
+			</div>
+	
+						
+			<div class="post" id="post-83">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=83" rel="bookmark" title="Permanent Link to Reformatting and an Addition"><kw class="krdwrd-tag-2">Reformatting and an Addition</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">March 5th, 2008 by Cody Bye</kw></small>
+				<div id="post-ratings-83" class="post-ratings"><img id="rating_83_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="1 Votes | Average: 5 out of 5" title="1 Stars" onmouseover="current_rating(83, 1);" onmouseout="ratings_off(5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_83_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="1 Votes | Average: 5 out of 5" title="2 Stars" onmouseover="current_rating(83, 2);" onmouseout="ratings_off(5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_83_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="1 Votes | Average: 5 out of 5" title="3 Stars" onmouseover="current_rating(83, 3);" onmouseout="ratings_off(5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_83_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="1 Votes | Average: 5 out of 5" title="4 Stars" onmouseover="current_rating(83, 4);" onmouseout="ratings_off(5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_83_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="1 Votes | Average: 5 out of 5" title="5 Stars" onmouseover="current_rating(83, 5);" onmouseout="ratings_off(5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (</kw><b><kw class="krdwrd-tag-1">1</kw></b><kw class="krdwrd-tag-1"> votes, average: </kw><b><kw class="krdwrd-tag-1">5</kw></b><kw class="krdwrd-tag-1"> out of 5)</kw></div>
+<div id="post-ratings-83-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D83&amp;title=Reformatting+and+an+Addition+" title="del.icio.us:Reformatting and an Addition "><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:Reformatting and an Addition "></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D83&amp;title=Reformatting+and+an+Addition+" title="digg:Reformatting and an Addition "><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:Reformatting and an Addition "></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D83&amp;new_comment=Reformatting+and+an+Addition+&amp;linktype=" title="fark:Reformatting and an Addition "><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:Reformatting and an Addition "></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D83&amp;t=Reformatting+and+an+Addition+" title="Y!:Reformatting and an Addition "><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:Reformatting and an Addition "></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><kw class="krdwrd-tag-3">*looks at watch*</kw></p>
+<p><kw class="krdwrd-tag-3">How long has it been since I posted on here?! Goodness gracious, I apologize to everyone that’s been taking the time to jump on and comment on the posts. There haven’t been too many of you (the all-seeing eye knows!), but I do appreciate your candor and enthusiasm (along with the dirty pictures). However, from now on I urge you all to post in the </kw><a href="http://forums.tentonhammer.com/forumdisplay.php?f=426" target="_blank"><kw class="krdwrd-tag-3">Loading… section of the Ten Ton Hammer forums</kw></a><kw class="krdwrd-tag-3"> or simply email me.</kw></p>
+<p><kw class="krdwrd-tag-3">What’s the reasoning behind this? In short, I just cleared out over 7,000 comments on here - almost all of which were spam - and spent a good deal of time trying to alleviate that burden from the Ten Ton Hammer servers. From now on it’s going to be a simple deleting action without the mind-numbingly stale task of sorting the legitimate comments from the “Buyz Ur Cialis from MEE!” type posts. I thank you all in advance.</kw></p>
+<p><kw class="krdwrd-tag-3">As for the reasoning behind the backlog on the blog - I have many excuses but most of which you probably don’t want to hear about. However, I will assume that you’re slightly interested in my personal thoughts and opinions (since this is a blog) and I’ll throw out the big, life-changing, world-altering event that happened in the last few months.</kw></p>
+<p><kw class="krdwrd-tag-3">My wife and I found out we were going to have a baby.</kw></p>
+<p> <a href="http://cody.blogs.tentonhammer.com/?p=83#more-83" class="more-link"><kw class="krdwrd-tag-1">Read the rest of this entry »</kw></a></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=5" title="View all posts in Advice" rel="category tag"><kw class="krdwrd-tag-1">Advice</kw></a><kw class="krdwrd-tag-1">,  </kw><a href="http://cody.blogs.tentonhammer.com/?cat=6" title="View all posts in Events" rel="category tag"><kw class="krdwrd-tag-1">Events</kw></a><kw class="krdwrd-tag-1"> |   </kw><a href="http://cody.blogs.tentonhammer.com/?p=83#respond" title="Comment on Reformatting and an Addition"><kw class="krdwrd-tag-1">No Comments »</kw></a></p>
+			</div>
+	
+						
+			<div class="post" id="post-82">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=82" rel="bookmark" title="Permanent Link to The Consequences Behind Kohnke’s Allegations"><kw class="krdwrd-tag-2">The Consequences Behind Kohnke’s Allegations</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">December 11th, 2007 by Cody Bye</kw></small>
+				<div id="post-ratings-82" class="post-ratings"><img id="rating_82_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="1 Votes | Average: 3 out of 5" title="1 Stars" onmouseover="current_rating(82, 1);" onmouseout="ratings_off(3, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_82_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="1 Votes | Average: 3 out of 5" title="2 Stars" onmouseover="current_rating(82, 2);" onmouseout="ratings_off(3, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_82_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="1 Votes | Average: 3 out of 5" title="3 Stars" onmouseover="current_rating(82, 3);" onmouseout="ratings_off(3, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_82_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt="1 Votes | Average: 3 out of 5" title="4 Stars" onmouseover="current_rating(82, 4);" onmouseout="ratings_off(3, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_82_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt="1 Votes | Average: 3 out of 5" title="5 Stars" onmouseover="current_rating(82, 5);" onmouseout="ratings_off(3, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (</kw><b><kw class="krdwrd-tag-1">1</kw></b><kw class="krdwrd-tag-1"> votes, average: </kw><b><kw class="krdwrd-tag-1">3</kw></b><kw class="krdwrd-tag-1"> out of 5)</kw></div>
+<div id="post-ratings-82-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D82&amp;title=The+Consequences+Behind+Kohnke%27s+Allegations" title="del.icio.us:The Consequences Behind Kohnke's Allegations"><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:The Consequences Behind Kohnke's Allegations"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D82&amp;title=The+Consequences+Behind+Kohnke%27s+Allegations" title="digg:The Consequences Behind Kohnke's Allegations"><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:The Consequences Behind Kohnke's Allegations"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D82&amp;new_comment=The+Consequences+Behind+Kohnke%27s+Allegations&amp;linktype=" title="fark:The Consequences Behind Kohnke's Allegations"><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:The Consequences Behind Kohnke's Allegations"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D82&amp;t=The+Consequences+Behind+Kohnke%27s+Allegations" title="Y!:The Consequences Behind Kohnke's Allegations"><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:The Consequences Behind Kohnke's Allegations"></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><em><kw class="krdwrd-tag-3">*Editor’s Note: Just a reminder to everyone reading this blog, Kohnke’s allegations are only that - allegations. This blog is merely pointing out the problems that will be caused by these allegations and deal nothing with whether Perpetual is innocent of these charges or not. Please do not assume that I lean one way or the other.*</kw></em></p>
+<p><kw class="krdwrd-tag-3">Before the Internet explodes with speculations, violent outbursts, and dandified language from the industry press, I wanted to take a few moment to weigh in on our </kw><a href="http://www.tentonhammer.com/node/15616" target="_blank"><kw class="krdwrd-tag-3">report of Kohnke leveraging a lawsuit against Perpetua</kw></a><a href="http://www.tentonhammer.com/node/15616" target="_blank"><kw class="krdwrd-tag-3">l</kw></a><kw class="krdwrd-tag-3"> and the consequences that will be felt for the supposed fraudulent behavior that Perpetual engaged in. These are real allegations pointed at Perpetual, and the maximum payout (somewhere around $280,000) is nothing to sneeze at. It’s a hefty sum of funds for any development studio, but the money isn’t really what’s at stake in this lawsuit.</kw></p>
+<p><kw class="krdwrd-tag-3">While Jeff argues that a lack of funding will slow down the development process of Star Trek Online, I’d like to argue that this sort of alleged fraudulent behavior by Perpetual, coupled with the layoffs they issued in earlier instances, will only sow the seeds of future dilemmas for the entire company. Even if Perpetual is deemed innocent in these matters, their reputation has already been tarnished within the industry community. Experienced developers have become extremely leery of any company that is willing to cut their losses and run, and without a solid development team behind their efforts, any future projects that Perpetual engages in may falter.</kw></p>
+<p> <a href="http://cody.blogs.tentonhammer.com/?p=82#more-82" class="more-link"><kw class="krdwrd-tag-1">Read the rest of this entry »</kw></a></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=3" title="View all posts in Editorials" rel="category tag"><kw class="krdwrd-tag-1">Editorials</kw></a><kw class="krdwrd-tag-1">,  </kw><a href="http://cody.blogs.tentonhammer.com/?cat=5" title="View all posts in Advice" rel="category tag"><kw class="krdwrd-tag-1">Advice</kw></a><kw class="krdwrd-tag-1"> |   </kw><a href="http://cody.blogs.tentonhammer.com/?p=82#respond" title="Comment on The Consequences Behind Kohnke’s Allegations"><kw class="krdwrd-tag-1">No Comments »</kw></a></p>
+			</div>
+	
+						
+			<div class="post" id="post-81">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=81" rel="bookmark" title="Permanent Link to Unjustified Hatred"><kw class="krdwrd-tag-2">Unjustified Hatred</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">November 29th, 2007 by Cody Bye</kw></small>
+				<div id="post-ratings-81" class="post-ratings"><img id="rating_81_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="1 Stars" onmouseover="current_rating(81, 1);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_81_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="2 Stars" onmouseover="current_rating(81, 2);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_81_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="3 Stars" onmouseover="current_rating(81, 3);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_81_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="4 Stars" onmouseover="current_rating(81, 4);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_81_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="5 Stars" onmouseover="current_rating(81, 5);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (No Ratings Yet)</kw></div>
+<div id="post-ratings-81-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D81&amp;title=Unjustified+Hatred" title="del.icio.us:Unjustified Hatred"><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:Unjustified Hatred"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D81&amp;title=Unjustified+Hatred" title="digg:Unjustified Hatred"><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:Unjustified Hatred"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D81&amp;new_comment=Unjustified+Hatred&amp;linktype=" title="fark:Unjustified Hatred"><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:Unjustified Hatred"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D81&amp;t=Unjustified+Hatred" title="Y!:Unjustified Hatred"><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:Unjustified Hatred"></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><kw class="krdwrd-tag-3">If there’s one thing that gets my goat, it’s a negative bias towards a person or product without a reasonable explanation. While partially hypocritical on my part (the entire iMac line just bothers me), it still rubs me the wrong way when people get on a soap box about something they know very little about.</kw></p>
+<p><kw class="krdwrd-tag-3">And in the gaming industry, this happens all the time. Whether it’s the latest generation of Guitar Hero (my wife despises the ‘air guitar’ game) or the simple machinations of WiiPlay, you’ll almost constantly find someone who’s willing to downplay a certain piece of software or hardware without giving it the proper due it deserves.</kw></p>
+<p> <a href="http://cody.blogs.tentonhammer.com/?p=81#more-81" class="more-link"><kw class="krdwrd-tag-1">Read the rest of this entry »</kw></a></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=3" title="View all posts in Editorials" rel="category tag"><kw class="krdwrd-tag-1">Editorials</kw></a><kw class="krdwrd-tag-1"> |   </kw><a href="http://cody.blogs.tentonhammer.com/?p=81#respond" title="Comment on Unjustified Hatred"><kw class="krdwrd-tag-1">No Comments »</kw></a></p>
+			</div>
+	
+						
+			<div class="post" id="post-80">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=80" rel="bookmark" title="Permanent Link to The Perfect Clone"><kw class="krdwrd-tag-2">The Perfect Clone</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">November 16th, 2007 by Cody Bye</kw></small>
+				<div id="post-ratings-80" class="post-ratings"><img id="rating_80_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="1 Stars" onmouseover="current_rating(80, 1);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_80_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="2 Stars" onmouseover="current_rating(80, 2);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_80_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="3 Stars" onmouseover="current_rating(80, 3);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_80_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="4 Stars" onmouseover="current_rating(80, 4);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_80_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="5 Stars" onmouseover="current_rating(80, 5);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (No Ratings Yet)</kw></div>
+<div id="post-ratings-80-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D80&amp;title=The+Perfect+Clone" title="del.icio.us:The Perfect Clone"><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:The Perfect Clone"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D80&amp;title=The+Perfect+Clone" title="digg:The Perfect Clone"><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:The Perfect Clone"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D80&amp;new_comment=The+Perfect+Clone&amp;linktype=" title="fark:The Perfect Clone"><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:The Perfect Clone"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D80&amp;t=The+Perfect+Clone" title="Y!:The Perfect Clone"><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:The Perfect Clone"></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><kw class="krdwrd-tag-3">What a crazy week it’s been here at Ten Ton Hammer! The trip that I recently took to the NCsoft Studios proved to be incredibly rewarding, grabbing us some new </kw><a href="http://www.tentonhammer.com/node/14666" target="_blank"><kw class="krdwrd-tag-3">info on Tabula Rasa</kw></a><kw class="krdwrd-tag-3"> and a </kw><a href="http://www.tentonhammer.com/node/14665" target="_blank"><kw class="krdwrd-tag-3">great initial preview of Lineage 2</kw></a><kw class="krdwrd-tag-3">. This weekend I’ll try to grab enough sleep to get a few things ready for Monday. Let’s just say that I’ve got more great footage from my experience with Lineage 2, and I absolutely can’t wait to show it off!With Tabula Rasa well into its first month of release, I have to give NCsoft props for creating such a really fun and exciting gameplay experience. The thrill of running around, blasting my enemies with my (expensive) chaingun is incredibly addictive. Although my review duties require me to spend a decent amount of time with the game, I would undoubtedly be playing Tabula Tasa anyway.</kw></p>
+<p><kw class="krdwrd-tag-3">So what is it about the game that draws people in so thoroughly? Is it the new combat system? The new landscapes? The cloning system? Completely integrated voice chat? Any number of these things put together? That’s a hard point to pin down, but – for me – the game really emerged for me just after I hit level five and created my first clone.</kw></p>
+<p> <a href="http://cody.blogs.tentonhammer.com/?p=80#more-80" class="more-link"><kw class="krdwrd-tag-1">Read the rest of this entry »</kw></a></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=3" title="View all posts in Editorials" rel="category tag"><kw class="krdwrd-tag-1">Editorials</kw></a><kw class="krdwrd-tag-1"> |   </kw><a href="http://cody.blogs.tentonhammer.com/?p=80#respond" title="Comment on The Perfect Clone"><kw class="krdwrd-tag-1">No Comments »</kw></a></p>
+			</div>
+	
+						
+			<div class="post" id="post-79">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=79" rel="bookmark" title="Permanent Link to Delays, Delays, and a…Release?!"><kw class="krdwrd-tag-2">Delays, Delays, and a…Release?!</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">November 6th, 2007 by Cody Bye</kw></small>
+				<div id="post-ratings-79" class="post-ratings"><img id="rating_79_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="2 Votes | Average: 4 out of 5" title="1 Stars" onmouseover="current_rating(79, 1);" onmouseout="ratings_off(4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_79_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="2 Votes | Average: 4 out of 5" title="2 Stars" onmouseover="current_rating(79, 2);" onmouseout="ratings_off(4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_79_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="2 Votes | Average: 4 out of 5" title="3 Stars" onmouseover="current_rating(79, 3);" onmouseout="ratings_off(4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_79_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="2 Votes | Average: 4 out of 5" title="4 Stars" onmouseover="current_rating(79, 4);" onmouseout="ratings_off(4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_79_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt="2 Votes | Average: 4 out of 5" title="5 Stars" onmouseover="current_rating(79, 5);" onmouseout="ratings_off(4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (</kw><b><kw class="krdwrd-tag-1">2</kw></b><kw class="krdwrd-tag-1"> votes, average: </kw><b><kw class="krdwrd-tag-1">4</kw></b><kw class="krdwrd-tag-1"> out of 5)</kw></div>
+<div id="post-ratings-79-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D79&amp;title=Delays%2C+Delays%2C+and+a...Release%3F%21" title="del.icio.us:Delays, Delays, and a...Release?!"><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:Delays, Delays, and a...Release?!"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D79&amp;title=Delays%2C+Delays%2C+and+a...Release%3F%21" title="digg:Delays, Delays, and a...Release?!"><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:Delays, Delays, and a...Release?!"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D79&amp;new_comment=Delays%2C+Delays%2C+and+a...Release%3F%21&amp;linktype=" title="fark:Delays, Delays, and a...Release?!"><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:Delays, Delays, and a...Release?!"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D79&amp;t=Delays%2C+Delays%2C+and+a...Release%3F%21" title="Y!:Delays, Delays, and a...Release?!"><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:Delays, Delays, and a...Release?!"></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><kw class="krdwrd-tag-3">Last week was full of strange occurrences. Beginning with the bi-weekly Age of Conan Q&amp;A that was unveiled to the various Tabula Rasa launch features that hit the jet stream, it was an incredibly busy week. Now that the rest of the crew has made it back from Iceland, things have slowed down a bit and I’ve been given an opportunity to sit back and masticate on the current events that have been popping up throughout the MMOG industry.</kw></p>
+<p><kw class="krdwrd-tag-3">First off, I totally saw the second Warhammer Online delay coming a mile away. EA Mythic has been loathe to give us concrete information on some of the bigger features in the game – castle sieging, the last Elven classes, detailed RvR stuff – which led me to believe that there were aspects of those areas that the developers wanted to improve. Coupled with that, the general attitude Electronic Arts has is to win at all costs. Blizzard has already set a precedent for how much money can be spent developing an MMOG, and if EA hasn’t crossed that limit yet, I’m sure they’re more than willing to give the crew a bit longer to tighten up the gameplay experience.</kw></p>
+<p> <a href="http://cody.blogs.tentonhammer.com/?p=79#more-79" class="more-link"><kw class="krdwrd-tag-1">Read the rest of this entry »</kw></a></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=3" title="View all posts in Editorials" rel="category tag"><kw class="krdwrd-tag-1">Editorials</kw></a><kw class="krdwrd-tag-1">,  </kw><a href="http://cody.blogs.tentonhammer.com/?cat=6" title="View all posts in Events" rel="category tag"><kw class="krdwrd-tag-1">Events</kw></a><kw class="krdwrd-tag-1"> |   </kw><a href="http://cody.blogs.tentonhammer.com/?p=79#respond" title="Comment on Delays, Delays, and a…Release?!"><kw class="krdwrd-tag-1">No Comments »</kw></a></p>
+			</div>
+	
+						
+			<div class="post" id="post-78">
+        <table border="0" width="100%">
+          <tbody><tr><td width="100%">
+				<h2><a href="http://cody.blogs.tentonhammer.com/?p=78" rel="bookmark" title="Permanent Link to We Want Free Stuff!"><kw class="krdwrd-tag-2">We Want Free Stuff!</kw></a></h2>
+				<small><kw class="krdwrd-tag-1">October 31st, 2007 by Cody Bye</kw></small>
+				<div id="post-ratings-78" class="post-ratings"><img id="rating_78_1" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="1 Stars" onmouseover="current_rating(78, 1);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_78_2" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="2 Stars" onmouseover="current_rating(78, 2);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_78_3" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="3 Stars" onmouseover="current_rating(78, 3);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_78_4" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="4 Stars" onmouseover="current_rating(78, 4);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><img id="rating_78_5" src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_off.gif" alt=" Votes | Average: 0 out of 5" title="5 Stars" onmouseover="current_rating(78, 5);" onmouseout="ratings_off(0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="border: 0px none; cursor: pointer;"><kw class="krdwrd-tag-1"> (No Ratings Yet)</kw></div>
+<div id="post-ratings-78-loading" class="post-ratings-loading"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/loading.gif" alt="Loading ..." title="Loading ..." class="post-ratings-image" height="16" width="16"><kw class="krdwrd-tag-1">&nbsp;Loading ...</kw></div>
+        <!-- Notable -->
+        <span id="wp-notable-line" class="wp-notable-line"><span class="wp-notable" id="wp-notable-delicious"><a href="http://del.icio.us/post?url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D78&amp;title=We+Want+Free+Stuff%21" title="del.icio.us:We Want Free Stuff!"><img src="/wp-content/plugins/blogbling/images/delicious.png" class="wp-notable_image" alt="del.icio.us:We Want Free Stuff!"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D78&amp;title=We+Want+Free+Stuff%21" title="digg:We Want Free Stuff!"><img src="/wp-content/plugins/blogbling/images/digg.png" class="wp-notable_image" alt="digg:We Want Free Stuff!"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-fark"><a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D78&amp;new_comment=We+Want+Free+Stuff%21&amp;linktype=" title="fark:We Want Free Stuff!"><img src="/wp-content/plugins/blogbling/images/fark.png" class="wp-notable_image" alt="fark:We Want Free Stuff!"></a></span>&nbsp;<span class="wp-notable" id="wp-notable-yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fcody.blogs.tentonhammer.com%2F%3Fp%3D78&amp;t=We+Want+Free+Stuff%21" title="Y!:We Want Free Stuff!"><img src="/wp-content/plugins/blogbling/images/yahoo.png" class="wp-notable_image" alt="Y!:We Want Free Stuff!"></a></span></span>        </td>
+        <td nowrap="nowrap"></td>
+        <td></td></tr></tbody></table>
+				<div class="entry">
+					<p><kw class="krdwrd-tag-3">Remember that tingly feeling you used to get when you opened your email inbox and a subject line read “Congratulations! You’ve won!” and you were so shocked your bladder constricted a little bit? Before the great Phishing Wars of 2000-2007, those types of emails typically indicated that you had actually won a prize of some sort through one of the various contests that you’d located on the gyrating mass that is the Interwebs. Back in the day I won a couple items from the then not-so-monolithic IGN and Gamespy, free games that certainly made me want to stay a long time user of the site. Eventually I quit reading those sites as their quality of journalism slowly dwindled into bland blather, but I still remember those contests I won so long ago.</kw></p>
+<p><kw class="krdwrd-tag-3">And now, Ten Ton Hammer is beginning a similar sort of promotional giveaway campaign, and we’d eventually like to offer you – the Ten Ton Hammer reader – a new prize to win on a fairly regular and consistent basis. This week we’re offering up a </kw><a href="http://www.tentonhammer.com/trlaunchgiveaway" target="_blank"><kw class="krdwrd-tag-3">signed Collector’s Edition of Tabula Rasa</kw></a><kw class="krdwrd-tag-3">. Now this isn’t signed by some office peon that’s been forcibly strapped to his or her desk for months on end, this is a signature from The Man, Richard Garriott. I know one of our staffers (*cough* Phil! *cough*) would die for a bit of the Garriott goodness, but thankfully he’s ineligible for the piece of gaming memorabilia.</kw></p>
+<p> <a href="http://cody.blogs.tentonhammer.com/?p=78#more-78" class="more-link"><kw class="krdwrd-tag-1">Read the rest of this entry »</kw></a></p>
+				</div>
+		
+				<p class="postmetadata"><kw class="krdwrd-tag-1">Posted in </kw><a href="http://cody.blogs.tentonhammer.com/?cat=3" title="View all posts in Editorials" rel="category tag"><kw class="krdwrd-tag-1">Editorials</kw></a><kw class="krdwrd-tag-1">,  </kw><a href="http://cody.blogs.tentonhammer.com/?cat=6" title="View all posts in Events" rel="category tag"><kw class="krdwrd-tag-1">Events</kw></a><kw class="krdwrd-tag-1"> |   </kw><a href="http://cody.blogs.tentonhammer.com/?p=78#respond" title="Comment on We Want Free Stuff!"><kw class="krdwrd-tag-1">No Comments »</kw></a></p>
+			</div>
+	
+		
+		<div class="navigation">
+			<div class="alignleft"><a href="http://cody.blogs.tentonhammer.com/index.php?paged=2"><kw class="krdwrd-tag-1">« Previous Entries</kw></a></div>
+			<div class="alignright"></div>
+		</div>
+		
+	
+	</div>
+
+	<div id="sidebar">
+		<ul>
+
+
+
+            <li>
+        <h2><kw class="krdwrd-tag-1">Users Online</kw></h2>
+        <div id="useronline-count"><a href="http://cody.blogs.tentonhammer.com/wp-content/plugins/useronline/wp-useronline.php"><b><kw class="krdwrd-tag-1">3</kw></b><kw class="krdwrd-tag-1"> Users Online</kw></a>
+</div>
+      </li>
+      
+              <li>
+        <h2><kw class="krdwrd-tag-1">Highest Rated</kw></h2>
+        <ul>
+         <li><a href="http://cody.blogs.tentonhammer.com/?p=83"><kw class="krdwrd-tag-1">Reformatting and an Addition </kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+<li><a href="http://cody.blogs.tentonhammer.com/?p=23"><kw class="krdwrd-tag-1">A Rock and a Hard Place</kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+<li><a href="http://cody.blogs.tentonhammer.com/?p=36"><kw class="krdwrd-tag-1">The Importance of Being Me...</kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+<li><a href="http://cody.blogs.tentonhammer.com/?p=6"><kw class="krdwrd-tag-1">The Console vs. PC War</kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+<li><a href="http://cody.blogs.tentonhammer.com/?p=50"><kw class="krdwrd-tag-1">Celebrating the 4th of July MMOG Style</kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+<li><a href="http://cody.blogs.tentonhammer.com/?p=49"><kw class="krdwrd-tag-1">More Than Meets The Eye</kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+<li><a href="http://cody.blogs.tentonhammer.com/?p=68"><kw class="krdwrd-tag-1">It's a Hate/Tolerate Relationship</kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+<li><a href="http://cody.blogs.tentonhammer.com/?p=28"><kw class="krdwrd-tag-1">A Starcraft MMO - Races</kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+<li><a href="http://cody.blogs.tentonhammer.com/?p=75"><kw class="krdwrd-tag-1">Cries of the Bioware Fanboi</kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+<li><a href="http://cody.blogs.tentonhammer.com/?p=10"><kw class="krdwrd-tag-1">World of Warcraft – An MMO Black Hole</kw></a> <img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><img src="http://cody.blogs.tentonhammer.com/wp-content/plugins/postratings/images/stars/rating_on.gif" alt="Average: 5 out of 5" title="Average: 5 out of 5" class="post-ratings-image"><kw class="krdwrd-tag-1"> (5 out of 5)</kw></li>
+        </ul>
+       </li>
+       
+      <li>
+        <h2><kw class="krdwrd-tag-1">Newsletter Signup</kw></h2>
+  <table style="border: 1px solid rgb(0, 0, 0);" bgcolor="#cccccc" border="0" cellpadding="3" cellspacing="2">
+  <tbody><tr>
+  <td align="center"><img src="http://images.tentonhammer.com/TTH/banners/newsletterBanner150x80_2.jpg" border="0" height="80" width="150"></td></tr>
+  <tr>
+  <td> <font color="black" face="arial" size="2"><kw class="krdwrd-tag-1">Hey, sign up for the  </kw><strong><kw class="krdwrd-tag-1">Ten Ton Hammer MMOG Daily News</kw></strong><kw class="krdwrd-tag-1"> mailing list!</kw></font></td>
+  </tr>
+  <tr>
+
+    <form action="http://newslist.tentonhammer.ocm/dada/index.cgi" method="get"></form>
+      <td>
+        <input name="list" value="mmognews" type="hidden">
+        <input name="f" value="subscribe" type="hidden">
+	  <strong><kw class="krdwrd-tag-1">eMail Address:</kw></strong></td>
+	</tr>
+	<tr>
+	  <td>
+	  <input name="email" value="email address" size="20" onfocus="this.value='';" style="font-size: 10pt;" type="text">
+        <br>
+        <input value="Submit" type="submit">
+      </td>
+    
+    </tr><tr><td style="font-size: 7pt;"><kw class="krdwrd-tag-1">A confirmation email will be sent.</kw></td></tr>
+</tbody></table><br><br>
+
+      </li>			
+			<li>
+				<form method="get" id="searchform" action="http://cody.blogs.tentonhammer.com/">
+<div><input value="" name="s" id="s" type="text">
+<input id="searchsubmit" value="Search" type="submit">
+</div>
+</form>
+			</li>
+
+			<!-- Author information is disabled per default. Uncomment and fill in your details if you want to use it.
+			<li><h2>Author</h2>
+			<p>A little something about you, the author. Nothing lengthy, just an overview.</p>
+			</li>
+			-->
+
+			<li>
+						</li>
+
+			<li class="pagenav"><h2><kw class="krdwrd-tag-1">Pages</kw></h2><ul><li class="page_item"><a href="http://cody.blogs.tentonhammer.com/?page_id=2" title="About"><kw class="krdwrd-tag-1">About</kw></a></li>
+</ul></li>
+			<li><h2><kw class="krdwrd-tag-1">Archives</kw></h2>
+				<ul>
+					<li><a href="http://cody.blogs.tentonhammer.com/?m=200803" title="March 2008"><kw class="krdwrd-tag-1">March 2008</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200712" title="December 2007"><kw class="krdwrd-tag-1">December 2007</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200711" title="November 2007"><kw class="krdwrd-tag-1">November 2007</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200710" title="October 2007"><kw class="krdwrd-tag-1">October 2007</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200709" title="September 2007"><kw class="krdwrd-tag-1">September 2007</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200708" title="August 2007"><kw class="krdwrd-tag-1">August 2007</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200707" title="July 2007"><kw class="krdwrd-tag-1">July 2007</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200706" title="June 2007"><kw class="krdwrd-tag-1">June 2007</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200705" title="May 2007"><kw class="krdwrd-tag-1">May 2007</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200704" title="April 2007"><kw class="krdwrd-tag-1">April 2007</kw></a></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?m=200703" title="March 2007"><kw class="krdwrd-tag-1">March 2007</kw></a></li>
+				</ul>
+			</li>
+
+			<li><h2><kw class="krdwrd-tag-1">Categories</kw></h2>
+				<ul>
+					<li><a href="http://cody.blogs.tentonhammer.com/?cat=5" title="View all posts filed under Advice"><kw class="krdwrd-tag-1">Advice</kw></a><kw class="krdwrd-tag-1"> (8)
+</kw></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?cat=3" title="View all posts filed under Editorials"><kw class="krdwrd-tag-1">Editorials</kw></a><kw class="krdwrd-tag-1"> (57)
+</kw></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?cat=6" title="View all posts filed under Events"><kw class="krdwrd-tag-1">Events</kw></a><kw class="krdwrd-tag-1"> (21)
+</kw></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?cat=4" title="View all posts filed under Reviews"><kw class="krdwrd-tag-1">Reviews</kw></a><kw class="krdwrd-tag-1"> (3)
+</kw></li>
+	<li><a href="http://cody.blogs.tentonhammer.com/?cat=1" title="View all posts filed under Uncategorized"><kw class="krdwrd-tag-1">Uncategorized</kw></a><kw class="krdwrd-tag-1"> (1)
+</kw></li>
+				</ul>
+			</li>
+
+							
+					<li id="linkcat-8" class="linkcat"><h2><kw class="krdwrd-tag-1">Gaming Links</kw></h2>
+	<ul>
+<li><a href="http://www.destructoid.com/"><kw class="krdwrd-tag-1">Destructoid</kw></a></li>
+<li><a href="http://www.raphkoster.com/"><kw class="krdwrd-tag-1">Raph Koster</kw></a></li>
+
+	</ul>
+</li>
+	<li id="linkcat-9" class="linkcat"><h2><kw class="krdwrd-tag-1">Our Communities</kw></h2>
+	<ul>
+<li><a href="http://ddo.tentonhammer.com"><kw class="krdwrd-tag-1">Dungeons and Dragons Online</kw></a></li>
+<li><a href="http://eq2.tentonhammer.com"><kw class="krdwrd-tag-1">Everquest 2</kw></a></li>
+<li><a href="http://gods.tentonhammer.com"><kw class="krdwrd-tag-1">Gods &amp; Heroes: Rome Rising</kw></a></li>
+<li><a href="http://lotro.tentonhammer.com"><kw class="krdwrd-tag-1">Lord of the Rings Online</kw></a></li>
+<li><a href="http://www.tentonhammer.com"><kw class="krdwrd-tag-1">Ten Ton Hammer</kw></a></li>
+<li><a href="http://vanguard.tentonhammer.com"><kw class="krdwrd-tag-1">Vanguard: Saga of Heroes</kw></a></li>
+<li><a href="http://warhammer.tentonhammer.com"><kw class="krdwrd-tag-1">Warhammer Online</kw></a></li>
+<li><a href="http://wow.tentonhammer.com"><kw class="krdwrd-tag-1">World of Warcraft</kw></a></li>
+
+	</ul>
+</li>
+	<li id="linkcat-10" class="linkcat"><h2><kw class="krdwrd-tag-1">Ten Ton Hammer Blogs</kw></h2>
+	<ul>
+<li><a href="http://coyote.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">Coyote's "Not Funny... Ever."</kw></a></li>
+<li><a href="http://ganked.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">Ethec's "Ganked!"</kw></a></li>
+<li><a href="http://loading.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">John Hoskin's "Loading..."</kw></a></li>
+<li><a href="http://messiah.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">Messiah's "Digital Haven"</kw></a></li>
+<li><a href="http://radarx.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">RadarX's Rantings</kw></a></li>
+<li><a href="http://wtf.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">Ralph's "WTF?"</kw></a></li>
+<li><a href="http://ralsu.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">Ralsu's "Told You So"</kw></a></li>
+<li><a href="http://ratboy.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">Ratboy's Nest</kw></a></li>
+<li><a href="http://shayalyn.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">Shay's Treehouse</kw></a></li>
+<li><a href="http://xerin.blogs.tentonhammer.com"><kw class="krdwrd-tag-1">Xerin's "Heal Plz"</kw></a></li>
+
+	</ul>
+</li>
+	<li id="linkcat-7" class="linkcat"><h2><kw class="krdwrd-tag-1">Writing Links</kw></h2>
+	<ul>
+<li><a href="http://pubrants.blogspot.com/"><kw class="krdwrd-tag-1">Pub Rants</kw></a></li>
+<li><a href="http://www.dragonmount.com/RobertJordan/"><kw class="krdwrd-tag-1">Robert Jordan</kw></a></li>
+
+	</ul>
+</li>
+				
+				<li><h2><kw class="krdwrd-tag-1">Meta</kw></h2>
+				<ul>
+										<li><a href="http://cody.blogs.tentonhammer.com/wp-login.php"><kw class="krdwrd-tag-1">Login</kw></a></li>
+					<li><a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional"><kw class="krdwrd-tag-1">Valid </kw><abbr title="eXtensible HyperText Markup Language"><kw class="krdwrd-tag-1">XHTML</kw></abbr></a></li>
+					<li><a href="http://gmpg.org/xfn/"><abbr title="XHTML Friends Network"><kw class="krdwrd-tag-1">XFN</kw></abbr></a></li>
+					<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform."><kw class="krdwrd-tag-1">WordPress</kw></a></li>
+									</ul>
+				</li>
+			
+
+			
+		</ul>
+	</div>
+
+
+
+<hr>
+<div id="footer">
+	<p><kw class="krdwrd-tag-1">
+		So… Your Wife Doesn’t Game? is proudly powered by 
+		</kw><a href="http://wordpress.org/"><kw class="krdwrd-tag-1">WordPress</kw></a>
+		<br><a href="feed:http://cody.blogs.tentonhammer.com/?feed=rss2"><kw class="krdwrd-tag-1">Entries (RSS)</kw></a><kw class="krdwrd-tag-1">
+		and </kw><a href="feed:http://cody.blogs.tentonhammer.com/?feed=comments-rss2"><kw class="krdwrd-tag-1">Comments (RSS)</kw></a><kw class="krdwrd-tag-1">.
+		</kw><!-- 37 queries. 0.432 seconds. -->
+	</p>
+</div>
+</div>
+
+<!-- Gorgeous design by Michael Heilemann - http://binarybonsai.com/kubrick/ -->
+
+		
+<script language="JavaScript" type="text/javascript" src="http://ads.tentonhammer.com/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://ads.tentonhammer.com/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:152&amp;block=1");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://ads.tentonhammer.com/adjs.php?n=961507739&amp;what=zone:152&amp;block=1&amp;exclude=,"></script><script language="JavaScript" type="text/javascript" src="http://ads.tentonhammer.com/adjs.php?n=945017930&amp;what=zone:152&amp;block=1&amp;exclude=,"></script><noscript><kw><a href="http://ads.tentonhammer.com/adclick.php?n=a7377fc5" target="_blank"><img src="http://ads.tentonhammer.com/adview.php?what=zone:152&n=a7377fc5" alt="" border="0"></a></kw></noscript>
+
+</body>

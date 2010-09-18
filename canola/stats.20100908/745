@@ -1,0 +1,548 @@
+<head><base href="http://www.allposters.com/-st/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- APC TEMPLATE CONTENT-FRAME-HTML BEGIN -->
+
+
+
+
+
+<meta name="CONTENT-LANGUAGE" content="en">
+<meta name="ROBOTS" content="NOODP"><title>Alexander the Great Posters at AllPosters.com</title>
+
+<meta name="keywords" content="Alexander the Great, Posters">
+<meta name="description" content="Alexander the Great Posters at AllPosters.com. Choose from over 500,000 Posters &amp; Art Prints. Value Framing, Fast Delivery, 100% Satisfaction Guarantee.">
+
+<link rel="StyleSheet" href="/css/mainb.css?v=18" type="text/css">
+<link rel="StyleSheet" href="/css/category.css?v=18" type="text/css">
+<script language="JavaScript" src="/scripts/js_GlobalContentFrame.js?v=18" type="text/javascript"></script>
+<script type="text/javascript">var CustomerZoneID=2;</script><script type="text/javascript" src="/scripts/browser_attr.js"></script><!-- APC TEMPLATE CONTENT-FRAME-HTML END -->
+
+<style type="text/css">
+.cellmainfpsearch  {vertical-align:top; }
+.cellmainfpinfo    {vertical-align:middle; height: 35px; background-color: #F9F1DC; border-bottom:  1px solid #B1B1B0 }
+.cellmaincategory  {vertical-align:top; width:215px; height:100%; padding-top: 5px; padding-left:3px;}
+.cellmainfpoptions {vertical-align:top; }
+.cellmaincontent   {vertical-align:top; padding-left: 10px; padding-top: 10px;}
+a.blacklink {color:black;}
+</style>
+<script language="JavaScript" src="/scripts/ajax_library.js?ver=2" type="text/javascript"></script>
+<script language="JavaScript" src="/scripts/ajax_popup.js?ver=2" type="text/javascript"></script>
+<style type="text/css">
+a.toplink {color: #FFFFFF;}
+a.toplink:hover {color: #FFFF99;}
+.itemlink {color: #FFFFFF;cursor:pointer;}
+.itemlink:hover {color: #FFFF99; }
+TABLE.toplink TD {vertical-align:top;margin:0px;padding:0px;}
+TABLE.NavStyle {border: 0px; margin:0px; padding:0px; vertical-align:top;}
+</style><link rel="StyleSheet" href="/css/gallery.css?v=18" type="text/css"><style type="text/css">.thmh {height:369px; }</style><style>
+FORM.link {margin:0px;padding:0px;display:inline;}
+</style></head><body onload="xs_pdEx();" style="margin: 0px;" bgcolor="white">
+<script language="javascript" type="text/javascript">
+   var isLoaded = true;
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+   <tbody><tr>
+      <td colspan="2" class="cellmainfpsearch">
+                  <!-- BEGIN - FPNavigation Frame --->
+                       
+   <script language="Javascript" type="text/javascript">
+   
+   var doExit = true;
+
+   function handleExit(e){
+   
+      if (doExit){
+         var evt = e || window.event;
+         var ClickedExit = userInitiateAppExit(e);
+         var bSaveCartConditionsMet = checkMarketingConditionsSaveCart();
+         var bSurveyConditionsMet = checkMarketingConditionsSurvey();
+         var objSaveCartWindow = '';
+         if (ClickedExit){
+            if (bSaveCartConditionsMet) {
+               objSaveCartWindow = popSaveCart();
+               objSaveCartWindow.focus();
+            }else if(bSurveyConditionsMet) {
+               objSaveCartWindow = popSurveyWindow();
+               objSaveCartWindow.focus();
+            }
+         }
+         doExit = false;
+      }
+   }
+   
+   function checkMarketingConditionsSaveCart(){
+      var retval = false;
+      //check count of cart items in over 0
+      //NOTE: "ct" = "cart total"
+      var CartTotal = GetCookieDictionary("ap","ct");
+      var CartTotalDate = GetCookieDictionary("ap","ctd");
+      
+      //-- CartTotalDate = new Date('2/9/2007');
+      //-- alert(new Date(CartTotalDate) + ' || ' + Date() + '||' + compareDates(CartTotalDate,Date()));
+      if (CartTotal != "" && CartTotalDate != ""){
+         if (!isNaN(CartTotal)){
+            CartTotalDate = new Date(CartTotalDate);
+            if (CartTotal > 0 && compareDates(CartTotalDate,Date())){
+               retval = true;
+            }
+         }
+      }
+
+      //NOTE: "vsc" = "Viewed Save Cart"
+      var SeenSaveCart = GetCookieDictionary("apc","vsc")
+      if (SeenSaveCart == "1"){
+         retval = false;
+      }
+      return retval;
+   }
+
+   function checkMarketingConditionsSurvey(){
+      var retval = false;
+      //check count of cart items in over 0
+      //NOTE: "ct" = "cart total"
+      var CartTotal = GetCookieDictionary("ap","ct");
+      if (CartTotal != ""){
+         if (!isNaN(CartTotal)){
+            //Code Altered  by krithiga on 15-Apr-2008 0r HDT 6594
+            if (('9' == '1') || ('9' == '2') || ('9' == '3') || ('9' == '4')){
+               retval = true;
+            }
+         }
+      }
+      return retval;
+   }
+   
+   function compareDates(pOne,pTwo){
+      var retval = false;
+      pOne = new Date(pOne);
+      pTwo = new Date(pTwo);
+      var oneMonth,oneDay,oneYear;
+      var twoMonth,twoDay,twoYear;
+      oneMonth = pOne.getMonth();
+      oneDay = pOne.getDate();
+      oneYear = pOne.getFullYear();
+      
+      twoMonth = pTwo.getMonth();
+      twoDay = pTwo.getDate();
+      twoYear = pTwo.getFullYear();
+      
+      if (oneYear == twoYear){
+         if (oneMonth == twoMonth){
+            if (oneDay == twoDay){
+               retval = true;
+            }
+         }
+      }
+      return retval;
+   }
+      function compareTimes(pOne,pTwo){
+      var retval = false;
+      pOne = new Date(pOne);
+      pTwo = new Date(pTwo);
+      var oneMonth,oneDay,oneMinute,oneYear;
+      var twoMonth,twoDay,twoMinute,twoYear;
+      oneMonth = pOne.getMonth();
+      oneDay = pOne.getDate();
+      oneYear = pOne.getFullYear();
+      oneMinute = pOne.getMinutes();
+            
+      twoMonth = pTwo.getMonth();
+      twoDay = pTwo.getDate();
+      twoYear = pTwo.getFullYear();
+      twoMinute = pTwo.getMinutes();
+           
+      if (oneYear == twoYear){
+         if (oneMonth == twoMonth){
+            if (oneDay == twoDay){
+              if(oneMinute == twoMinute)
+                retval = true;
+            }
+         }
+      }
+      return retval;
+   }
+   
+   function userInitiateAppExit(e){
+      retval = false;
+      if (exitBy_ClickExitButton(e) || exitBy_HotKey(e)){
+         retval = true;
+      }
+      return retval;
+   }
+   
+   function exitBy_ClickExitButton(e){
+      var retval = false;
+      var evt = e || window.event;
+      var adjacentFrameWidth = 178;
+      var exitButtonWidth = 50;
+      //if ((returnWindowWidth() + adjacentFrameWidth) - evt.clientX <= exitButtonWidth){
+      //   retval = true; //Clicked in the upper right-corner of window
+      //}
+      //So many other clicks up here can leave the site, we will account for them all for now
+      //if (evt.clientY < 0){
+      //   retval = true;
+      //}
+      return retval;
+   }
+   
+   function exitBy_HotKey(e){
+      var evt = e || window.event;
+      var retval = false;
+      if (evt.altKey){//For Windows ALT-F4
+         retval = true;
+      }else if (evt.ctrlKey){ //For MAC??
+         retval = true;
+      }
+      return retval; 
+   }
+   
+   function popSaveCart(){
+      var objWin;
+      var winWidth = 410;
+      var winHeight = 250;
+      var winX;
+      var winY;
+      winY = (window.screen.availHeight / 2) - (winHeight / 2);
+      winX = (window.screen.availWidth / 2) - (winWidth / 2);
+      objWin = window.open('/ViewCart_savecartpop.asp','savecart','width=' + winWidth + ',height=' + winHeight + ',menu=no,address=no,status=no,location=no,top=' + winY + ',left=' + winX);
+      return objWin;
+   }
+ 
+ function popSurveyWindow(){
+      var objWin;
+      var winWidth = 700;
+      var winHeight = 550;
+      var winX;
+      var winY;
+      winY = (window.screen.availHeight / 2) - (winHeight / 2);
+      winX = (window.screen.availWidth / 2) - (winWidth / 2);
+      objWin = window.open('/view_surveypop.asp','surveypop','width=' + winWidth + ',height=' + winHeight + ',menu=no,address=no,status=no,location=no,top=' + winY + ',left=' + winX);
+      return objWin;
+   }
+   
+ function returnWindowWidth(){
+      if (parseInt(navigator.appVersion)>3) {
+       if (navigator.appName=="Netscape") {
+        winW = window.innerWidth;
+        winH = window.innerHeight;
+       }
+       if (navigator.appName.indexOf("Microsoft")!=-1) {
+        winW = document.body.offsetWidth;
+        winH = document.body.offsetHeight;
+       }
+      }
+   return winW;
+ }
+   </script>
+<script language="javaScript">
+ //Added by Adesh on 09/18/2007 to add save cart popup in frameless code
+ //attach the event now to window  
+ if( window.addEventListener) 
+{
+  window.addEventListener('unload',handleExit,false);
+} 
+else if( document.addEventListener ) 
+{
+  document.addEventListener('unload',handleExit,false);  
+} 
+else if( window.attachEvent ) 
+{ //For IE
+  window.attachEvent('onunload',handleExit); 
+}    
+</script>
+
+<script language="Javascript" type="text/javascript">
+   function moveLogo(){
+      var minLeft = 745;
+      var objDiv = new Object();
+      if (document.getElementById){
+         objDiv = document.getElementById("hslogo");
+      }else if (document.layers){
+         objDiv = document.hslogo;
+      }else if (document.all){
+         objDiv = document.all.hslogo;
+      }
+      //objDiv.width altered by Sekher to keep the logo inside the screen width and to avoid horizontal scrolling, on 8/3/07
+     var mode = 0;
+     if(mode==1 )
+      {var MoveLeftTo = window.document.body.offsetWidth - (objDiv.width + 10);} // For Frameless
+     else
+      {var MoveLeftTo = window.document.body.offsetWidth - (objDiv.width + 90);} // For Framed
+      if (minLeft > MoveLeftTo){
+         objDiv.style.left = minLeft;
+      }else{
+         objDiv.style.left = MoveLeftTo;
+      }
+   }
+</script>
+
+
+
+<table class="NavStyle" background="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_bg.gif" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td><table class="NavStyle" border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td class="toplink" width="459"><table border="0" cellpadding="0" cellspacing="0" width="463"><tbody><tr><td><a href="http://www.allposters.com" target="_top"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_01_a.gif" alt="AllPosters.com" title="AllPosters.com" border="0"></a></td><td><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_01_b2.gif" alt="The World's Largest Poster and Print Store" title="The World's Largest Poster and Print Store"></td></tr></tbody></table></td>
+        <td valign="top"><table class="NavStyle" border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+            <td align="right" height="26"><table border="0" cellpadding="0" cellspacing="0" width="300"><tbody><tr><td width="80"><form name="84986" style="margin: 0px; padding: 0px; display: inline;" id="84986" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/viewcart.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('84986')" style="display: inline;"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_cart.gif" alt="Cart" border="0"></div></form></td><td width="100"><form name="76700" style="margin: 0px; padding: 0px; display: inline;" id="76700" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/status/default.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('76700')" style="display: inline;"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_track.gif" alt="Track Your Order" border="0"></div></form></td><td width="50"><form name="54674" style="margin: 0px; padding: 0px; display: inline;" id="54674" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/help/index.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('54674')" style="display: inline;"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_help.gif" alt="Help" border="0"></div></form></td><td width="50"></td></tr></tbody></table></td>
+          </tr>
+          <tr>
+            <td align="left" height="32"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="45"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/US_header_search2.gif" alt="Search"></td><td width="151"><form method="get" id="forSearch" name="forSearch" style="margin: 0px; padding: 0px;" action="/gallery.asp" target="_top"><input name="startat" value="/gallery.asp" type="hidden"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="txtSearch" id="txtSearch" class="inputTextbox" style="height: 19px; width: 116px; font-size: 10px; font-family: Verdana,Arial,Helvetica,sans-serif; margin-top: 3px;" type="text"></td><td><input name="imageField2" src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_searchbtn.gif" alt="GO" type="image"></td></tr></tbody></table></form></td><td align="left"><form name="75632" style="margin: 0px; padding: 0px; display: inline;" id="75632" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/searchadvanced.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('75632')" style="display: inline;"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/advanced.gif" alt="advanced" name="advsearch" onmouseout="this.src='http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/advanced.gif';" onmouseover="this.src='http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/advanced2.gif';" border="0"></div></form></td></tr></tbody></table></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" height="24"><table border="0" cellpadding="0" cellspacing="0" width="730"><tbody><tr><td><a href="/-st/Fine-Art-Posters_c1013_.htm"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_03_a.gif" alt="Fine Art Posters" title="Fine Art Posters" border="0"></a></td><td><a href="/-st/Photography-Posters_c623_.htm"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_03_b.gif" alt="Photography Posters" title="Photography Posters" border="0"></a></td><td><a href="/-st/Vintage-Art-Posters_c2152_.htm"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_03_c.gif" alt="Vintage Posters" title="Vintage Posters" border="0"></a></td><td><a href="/-st/Travel-Posters_c621_.htm"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_03_d.gif" alt="Travel Posters" title="Travel Posters" border="0"></a></td><td><a href="/-st/Animal-Posters_c622_.htm"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_03_e.gif" alt="Animal Posters" title="Animal Posters" border="0"></a></td><td><a href="/-st/Movie-Posters_c101_.htm"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_03_f.gif" alt="Movie Posters" title="Movie Posters" border="0"></a></td><td><a href="/-st/Music-Posters_c122_.htm"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_03_g.gif" alt="Music Posters" title="Music Posters" border="0"></a></td><td><a href="/-st/Best-Seller-Posters_c18979_.htm"><img src="http://imagecache2.allposters.com/images/INTL/1/2007_NewHeader/header_03_h.gif" alt="Best Sellers" title="Best Sellers" border="0"></a></td></tr></tbody></table></td>
+  </tr>
+</tbody></table>
+
+<form name="57878" style="margin: 0px; padding: 0px; display: inline;" id="57878" action="https://www.scanalert.com/RatingVerify" method="get"><input name="ref" value="www.allposters.com" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="stopExit();submit_form('57878')" style="display: inline;"><img style="position: absolute; z-index: 1000; left: 910px; top: 33px;" id="hslogo" src="//images.scanalert.com/meter/www.allposters.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" border="0"></div></form><script>
+moveLogo();
+window.onresize = moveLogo;
+</script><div></div>
+                  <!-- END --- FPNavigation Frame --->
+      </td>
+   </tr>
+   
+   <tr>
+      <td style="border-right: 1px solid rgb(177, 177, 176); border-bottom: 1px solid rgb(177, 177, 176); width: 215px; min-height: 400px;" valign="top" width="215">
+               <!-- BEGIN - Category Tree --->
+
+      <div id="fraOptions" class="cellmaincategory" style="width: 215px; min-height: 400px;">
+				
+<script>
+SetCookie('apt', 'cppXZcftXZcfsYQ0-13094-1014-60578XZ84678XZ84678','','/','.allposters.com','');
+</script>
+<p style="margin-top: 0pt; margin-bottom: 0pt;">&nbsp;<a href="http://www.allposters.com" target="_top"><kw class="krdwrd-tag-1-100">Top</kw></a></p><p style="margin-top: 0pt; margin-bottom: 0pt;">&nbsp;&nbsp;<img src="http://imagecache2.allposters.com/images/branch.gif" border="0"><a href="/-st/Education-Posters_c13094_.htm"><kw class="krdwrd-tag-1-100">Education</kw></a></p><p style="margin-top: 0pt; margin-bottom: 0pt;">&nbsp;&nbsp;&nbsp;<img src="http://imagecache2.allposters.com/images/branch.gif" border="0"><a href="/-st/History-Posters_c1014_.htm"><kw class="krdwrd-tag-1-100">History</kw></a></p><p style="margin-top: 0pt; margin-bottom: 0pt;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://imagecache2.allposters.com/images/branch.gif" border="0"><a href="/-st/Historic-Figures-Posters_c60578_.htm"><kw class="krdwrd-tag-1-100">Historic Figures</kw></a></p><div class="cthdr"><kw class="krdwrd-tag-1-100">Browse Historic Figures:</kw></div>
+
+<div class="ctdiv"><a title="Queen Elizabeth II" class="ctlnk" href="/-st/Queen-Elizabeth-II-Posters_c9249_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Queen&nbsp;Elizabeth&nbsp;II</kw></a></div>
+<div class="ctdiv"><a title="Napoleon Bonaparte" class="ctlnk" href="/-st/Napoleon-Bonaparte-Posters_c9586_.htm"><img src="http://imagecache2.allposters.com/images/for.gif" border="0"><kw class="krdwrd-tag-1-100">Napoleon&nbsp;Bonaparte</kw></a></div>
+<div class="ctdiv"><a title="Queen Victoria" class="ctlnk" href="/-st/Queen-Victoria-Posters_c9251_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Queen&nbsp;Victoria</kw></a></div>
+<br>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">African Figures</kw></div>
+<div class="ctdiv"><a title="Muammar Al-Gaddafi" class="ctlnk" href="/-st/Muammar-Al-Gaddafi-Posters_c58177_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Muammar&nbsp;Al-Gaddafi</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">Asian Figures</kw></div>
+<div class="ctdiv"><a title="Emperor Shah Jahan" class="ctlnk" href="/-st/Emperor-Shah-Jahan-Posters_c8745_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Emperor&nbsp;Shah&nbsp;Jahan</kw></a></div>
+<div class="ctdiv"><a title="Mao Zedong" class="ctlnk" href="/-st/Mao-Zedong-Posters_c18680_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Mao&nbsp;Zedong</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">British Figures</kw></div>
+<div class="ctdiv"><a title="King Richard I" class="ctlnk" href="/-st/King-Richard-I-Posters_c55559_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;Richard&nbsp;I</kw></a></div>
+<div class="ctdiv"><a title="King Henry VII" class="ctlnk" href="/-st/King-Henry-VII-Posters_c73578_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;Henry&nbsp;VII</kw></a></div>
+<div class="ctdiv"><a title="King Henry VIII" class="ctlnk" href="/-st/King-Henry-VIII-Posters_c10119_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;Henry&nbsp;VIII</kw></a></div>
+<div class="ctdiv"><a title="Queen Elizabeth" class="ctlnk" href="/-st/Queen-Elizabeth-Posters_c18977_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Queen&nbsp;Elizabeth</kw></a></div>
+<div class="ctdiv"><a title="King George I" class="ctlnk" href="/-st/King-George-I-Posters_c18905_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;George&nbsp;I</kw></a></div>
+<div class="ctdiv"><a title="Queen Victoria" class="ctlnk" href="/-st/Queen-Victoria-Posters_c9251_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Queen&nbsp;Victoria</kw></a></div>
+<div class="ctdiv"><a title="King Edward VII" class="ctlnk" href="/-st/King-Edward-VII-Posters_c19063_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;Edward&nbsp;VII</kw></a></div>
+<div class="ctdiv"><a title="Queen Elizabeth II" class="ctlnk" href="/-st/Queen-Elizabeth-II-Posters_c9249_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Queen&nbsp;Elizabeth&nbsp;II</kw></a></div>
+<div class="ctdiv"><a title="Winston Churchill" class="ctlnk" href="/-st/Winston-Churchill-Posters_c9247_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Winston&nbsp;Churchill</kw></a></div>
+<div class="ctdiv"><a title="Margaret Thatcher" class="ctlnk" href="/-st/Margaret-Thatcher-Posters_c15995_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Margaret&nbsp;Thatcher</kw></a></div>
+<div class="ctdiv"><a title="Tony Blair" class="ctlnk" href="/-st/Tony-Blair-Posters_c21716_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Tony&nbsp;Blair</kw></a></div>
+<div class="ctdiv"><a title="Princess Diana" class="ctlnk" href="/-st/Princess-Diana-Posters_c20299_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Princess&nbsp;Diana</kw></a></div>
+<div class="ctdiv"><a title="King Charles I" class="ctlnk" href="/-st/King-Charles-I-Posters_c99248_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;Charles&nbsp;I</kw></a></div>
+<div class="ctdiv"><a title="King Charles II" class="ctlnk" href="/-st/King-Charles-II-Posters_c99249_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;Charles&nbsp;II</kw></a></div>
+<div class="ctdiv"><a title="T.E. Lawrence" class="ctlnk" href="/-st/T-E-Lawrence-Posters_c90296_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">T.E.&nbsp;Lawrence</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">Egyptian Figures</kw></div>
+<div class="ctdiv"><a title="Thutmose" class="ctlnk" href="/-st/Thutmose-Posters_c9969_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Thutmose</kw></a></div>
+<div class="ctdiv"><a title="Amenhotep III (Amenophis III)" class="ctlnk" href="/-st/Amenhotep-III-Amenophis-III-Posters_c20450_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Amenhotep&nbsp;III&nbsp;(Amenophis&nbsp;III)</kw></a></div>
+<div class="ctdiv"><a title="Nefertiti" class="ctlnk" href="/-st/Nefertiti-Posters_c11066_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Nefertiti</kw></a></div>
+<div class="ctdiv"><a title="Tutankhamen" class="ctlnk" href="/-st/Tutankhamen-Posters_c11065_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Tutankhamen</kw></a></div>
+<div class="ctdiv"><a title="Cleopatra" class="ctlnk" href="/-st/Cleopatra-Posters_c10789_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Cleopatra</kw></a></div>
+<div class="ctdiv"><a title="Ramses" class="ctlnk" href="/-st/Ramses-Posters_c10828_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Ramses</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">French Figures</kw></div>
+<div class="ctdiv"><a title="Francis I" class="ctlnk" href="/-st/Francis-I-Posters_c9283_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Francis&nbsp;I</kw></a></div>
+<div class="ctdiv"><a title="Joan of Arc" class="ctlnk" href="/-st/Joan-of-Arc-Posters_c9935_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Joan&nbsp;of&nbsp;Arc</kw></a></div>
+<div class="ctdiv"><a title="King Louis XIV" class="ctlnk" href="/-st/King-Louis-XIV-Posters_c72988_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;Louis&nbsp;XIV</kw></a></div>
+<div class="ctdiv"><a title="King Louis XV" class="ctlnk" href="/-st/King-Louis-XV-Posters_c20810_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;Louis&nbsp;XV</kw></a></div>
+<div class="ctdiv"><a title="Marie Antoinette" class="ctlnk" href="/-st/Marie-Antoinette-Posters_c11079_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Marie&nbsp;Antoinette</kw></a></div>
+<div class="ctdiv"><a title="Marie de Medici" class="ctlnk" href="/-st/Marie-de-Medici-Posters_c20869_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Marie&nbsp;de&nbsp;Medici</kw></a></div>
+<div class="ctdiv"><a title="Napoleon Bonaparte" class="ctlnk" href="/-st/Napoleon-Bonaparte-Posters_c9586_.htm"><img src="http://imagecache2.allposters.com/images/for.gif" border="0"><kw class="krdwrd-tag-1-100">Napoleon&nbsp;Bonaparte</kw></a></div>
+<div class="ctdiv"><a title="Queen Eleanor" class="ctlnk" href="/-st/Queen-Eleanor-Posters_c9250_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Queen&nbsp;Eleanor</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">German Figures</kw></div>
+<div class="ctdiv"><a title="Adolf Hitler" class="ctlnk" href="/-st/Adolf-Hitler-Posters_c98459_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Adolf&nbsp;Hitler</kw></a></div>
+<div class="ctdiv"><a title="Frederick II of Prussia" class="ctlnk" href="/-st/Frederick-II-of-Prussia-Posters_c86058_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Frederick&nbsp;II&nbsp;of&nbsp;Prussia</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">Greek Figures</kw></div>
+<div class="ctdiv"><a title="Alexander the Great" class="ctlnk" href="/-st/Alexander-the-Great-Posters_c84678_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Alexander&nbsp;the&nbsp;Great</kw></a></div>
+<div class="ctdiv"><a title="Aristotle" class="ctlnk" href="/-st/Aristotle-Posters_c9235_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Aristotle</kw></a></div>
+<div class="ctdiv"><a title="Diogenes" class="ctlnk" href="/-st/Diogenes-Posters_c99498_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Diogenes</kw></a></div>
+<div class="ctdiv"><a title="Plato" class="ctlnk" href="/-st/Plato-Posters_c102792_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Plato</kw></a></div>
+<div class="ctdiv"><a title="Socrates" class="ctlnk" href="/-st/Socrates-Posters_c17354_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Socrates</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">Italian Figures</kw></div>
+<div class="ctdiv"><a title="Benito Mussolini" class="ctlnk" href="/-st/Benito-Mussolini-Posters_c98533_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Benito&nbsp;Mussolini</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">Middle Eastern Figures</kw></div>
+<div class="ctdiv"><a title="Menachem Begin" class="ctlnk" href="/-st/Menachem-Begin-Posters_c13398_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Menachem&nbsp;Begin</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">North American Figures</kw></div>
+<div class="ctdiv"><a title="Emiliano Zapata" class="ctlnk" href="/-st/Emiliano-Zapata-Posters_c9254_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Emiliano&nbsp;Zapata</kw></a></div>
+<div class="ctdiv"><a title="King Kamehameha" class="ctlnk" href="/-st/King-Kamehameha-Posters_c49636_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">King&nbsp;Kamehameha</kw></a></div>
+<div class="ctdiv"><a title="Queen Liliuokalani" class="ctlnk" href="/-st/Queen-Liliuokalani-Posters_c49635_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Queen&nbsp;Liliuokalani</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">Roman Figures</kw></div>
+<div class="ctdiv"><a title="Julius Caesar" class="ctlnk" href="/-st/Julius-Caesar-Posters_c9922_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Julius&nbsp;Caesar</kw></a></div>
+<div class="ctdiv"><a title="Augustus Caesar" class="ctlnk" href="/-st/Augustus-Caesar-Posters_c13064_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Augustus&nbsp;Caesar</kw></a></div>
+<div class="ctdiv"><a title="Caligula" class="ctlnk" href="/-st/Caligula-Posters_c58644_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Caligula</kw></a></div>
+<div class="ctdiv"><a title="Nero" class="ctlnk" href="/-st/Nero-Posters_c58645_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Nero</kw></a></div>
+<div class="ctdiv"><a title="Marcus Aurelius" class="ctlnk" href="/-st/Marcus-Aurelius-Posters_c9588_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Marcus&nbsp;Aurelius</kw></a></div>
+<div class="ctdiv"><a title="Constantine the Great" class="ctlnk" href="/-st/Constantine-the-Great-Posters_c55558_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Constantine&nbsp;the&nbsp;Great</kw></a></div>
+<div class="ctdiv"><a title="Charles V" class="ctlnk" href="/-st/Charles-V-Posters_c60575_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Charles&nbsp;V</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">Russian Figures</kw></div>
+<div class="ctdiv"><a title="Catherine the Great" class="ctlnk" href="/-st/Catherine-the-Great-Posters_c20833_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Catherine&nbsp;the&nbsp;Great</kw></a></div>
+<div class="ctdiv"><a title="Vladimir Ilich Lenin" class="ctlnk" href="/-st/Vladimir-Ilich-Lenin-Posters_c18688_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Vladimir&nbsp;Ilich&nbsp;Lenin</kw></a></div>
+<div class="ctdiv"><a title="Grigori Rasputin" class="ctlnk" href="/-st/Grigori-Rasputin-Posters_c90915_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Grigori&nbsp;Rasputin</kw></a></div>
+<div class="ctdiv"><a title="Mikhail Gorbachev" class="ctlnk" href="/-st/Mikhail-Gorbachev-Posters_c13401_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Mikhail&nbsp;Gorbachev</kw></a></div>
+<div class="cthdr"><kw class="krdwrd-tag-1-100">South American Figures</kw></div>
+<div class="ctdiv"><a title="Simon Bolivar" class="ctlnk" href="/-st/Simon-Bolivar-Posters_c17351_.htm"><img src="http://imagecache2.allposters.com/images/get.gif" border="0"><kw class="krdwrd-tag-1-100">Simon&nbsp;Bolivar</kw></a></div>
+
+
+      <br>&nbsp;
+      </div>
+      <div style="clear: both;"></div>
+               <!-- END --- Category Tree --->
+      </td>
+      <td class="cellmaincontent" align="center" valign="top" width="100%">
+      
+               <!-- BEGIN - Main Content --->
+               
+<script>
+SetCookie('apt', 'cppXZcftXZcfsXZfXZFindIDXZtsearchXZPXZPPYQ0-13094-1014-60578XZ84678XZ84678XZcXZ84678XZXZ1XZ3','','/','.allposters.com','');
+</script>
+<script language="JavaScript" type="text/javascript" src="/scripts/js_frame.js?v=18"></script>
+<script language="javascript" type="text/javascript" src="/scripts/js_GetThumb.js?v=18"></script>
+<script language="JavaScript" type="text/javascript" src="/scripts/promo.js?v=18"></script>
+<script language="javascript">
+document.getElementById("txtSearch").value='';
+</script>
+<script language="Javascript">
+if (!window.isLoaded && parent == self) {
+location.replace("/gallery.asp?CID=260647F200184C42915368E70395DA09&startat=" + escape(location.pathname) + (location.search.length > 0 ? "&" + location.search.replace("?","") : "" )) 
+}//end if
+</script>
+<div class="center"><table class="APCItemTable" style="margin-left: 20px; margin-right: 20px;" border="0" cellpadding="10" cellspacing="0" width="100%">
+<tbody><tr>
+<td style="line-height: 16px;" align="center"><span class="heading3" style="font-size: 19px; font-family: arial,helvetica,verdana; font-weight: bold; color: rgb(28, 29, 115);"><kw class="krdwrd-tag-1-70">Welcome to the World's Largest Poster, Print &amp; Frame Store</kw></span>
+<br>
+<i><kw class="krdwrd-tag-1-100">There are currently </kw><b><kw class="krdwrd-tag-1-100">1,500</kw></b><kw class="krdwrd-tag-1-100"> people shopping on AllPosters.com right now from </kw><b><kw class="krdwrd-tag-1-100">15</kw></b><kw class="krdwrd-tag-1-100"> countries worldwide.</kw></i>
+<br>
+<span class="heading1" style="font-size: 12px; padding-right: 45px;"><kw class="krdwrd-tag-1-100">Choose from 500,000 Posters &amp; Prints, Designer-Framed Prints,</kw><br><kw class="krdwrd-tag-1-100">Canvas Transfers and More...100% Guaranteed!</kw></span>
+<div onclick="window.location='/gallery.asp?CID=260647F200184C42915368E70395DA09&amp;starthelp=true&amp;aboutus=yes';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">About Us &gt;&gt;</kw></div>
+</td>
+</tr>
+</tbody></table>
+<div id="flexdiv" class="tcntr" style="width: 584px;"><div>&nbsp;</div><div class="navboxdiv" style="width: 570px; margin-left: 3px;" id="navboxdiv"><div class="fontsize2 foundpad"><kw class="krdwrd-tag-1-90">The </kw><b><kw class="krdwrd-tag-1-90">Alexander the Great</kw></b><kw class="krdwrd-tag-1-90"> category contains </kw><strong><kw class="krdwrd-tag-1-90">35</kw></strong><kw class="krdwrd-tag-1-90"> items</kw></div><div class="navmaindiv"><form name="60059" style="margin: 0px; padding: 0px; display: inline;" id="60059" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/getthumb.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="sortby" value="PD" type="hidden"><input name="Search" value="84678" type="hidden"><input name="c" value="c" type="hidden"><input name="FilterType1" value="1" type="hidden"><input name="ItemType" value="1" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('60059')" style="display: inline;"><kw class="krdwrd-tag-1-100">Poster/Print&nbsp;(21)</kw></div></form>&nbsp;&nbsp;&nbsp;<form name="51773" style="margin: 0px; padding: 0px; display: inline;" id="51773" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/getthumb.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="sortby" value="PD" type="hidden"><input name="Search" value="84678" type="hidden"><input name="c" value="c" type="hidden"><input name="FilterType1" value="1" type="hidden"><input name="ItemType" value="4" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('51773')" style="display: inline;"><kw class="krdwrd-tag-1-100">Pre-Framed&nbsp;(11)</kw></div></form>&nbsp;&nbsp;&nbsp;</div><div style="width: 570px; margin-left: 3px;" class="navpagepad" id="pgn-top"><div class="previmg">&nbsp;</div>
+<div style="width: 450px; float: left;" id="pgna-top">
+
+<span class="fontsize2">&nbsp;<b><kw class="krdwrd-tag-1-100">1</kw></b>&nbsp;&nbsp;<a href="/-st/Alexander-the-Great-Posters_c84678_p2_.htm"><kw class="krdwrd-tag-1-100">2</kw></a>&nbsp;<a href="/-st/Alexander-the-Great-Posters_c84678_p3_.htm"><kw class="krdwrd-tag-1-100">3</kw></a></span>
+
+</div>
+<div class="nextimg"><a href="/-st/Alexander-the-Great-Posters_c84678_p2_.htm"><img src="http://imagecache2.allposters.com/Images/INTL/1/more2.gif" alt="More Posters" border="0" height="16" width="59"></a></div><div class="clear"></div></div><div class="heading1 largeorderdiv"><kw class="krdwrd-tag-1-100">
+click on an image for enlargement and order information
+</kw></div></div><div class="clear"></div>
+<div id="mainbody">
+<div class="thmdv thmh"><div style="margin: 25px 0px;"><center><div style="position: relative; width: 168px; height: 128px;"><a href="/-sp/Alexander-Accepts-the-Surrender-of-Porus-King-of-the-Pauravas-Posters_i3356643_.htm" title="Alexander Accepts the Surrender of Porus King of the Pauravas Giclee Print by Andre Castaigne"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/MEPOD/10032715_b%7EAlexander-Accepts-the-Surrender-of-Porus-King-of-the-Pauravas-Posters.jpg" alt="Alexander Accepts the Surrender of Porus King of the Pauravas Giclee Print by Andre Castaigne" title="Alexander Accepts the Surrender of Porus King of the Pauravas Giclee Print by Andre Castaigne" height="120" width="160"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 160px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 160px;" height="111" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 120px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 120px; left: 8px;" height="8" width="152"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 120px; left: 160px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Alexander-Accepts-the-Surrender-of-Porus-King-of-the-Pauravas-Posters_i3356643_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Alexander Accepts the Surrender of Porus King of the Pauravas Giclee Print by Andre Castaigne" title="Alexander Accepts the Surrender of Porus King of the Pauravas Giclee Print by Andre Castaigne" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Alexander-Accepts-the-Surrender-of-Porus-King-of-the-Pauravas-Posters_i3356643_.htm" title="Alexander Accepts the Surrender of Porus King of the Pauravas Giclee Print by Andre Castaigne"><div class="posterName pdt3"><kw class="krdwrd-tag-1-90">Alexander Accepts the Surrender of Porus King of the Pauravas</kw></div></a><kw class="krdwrd-tag-1-100">Giclee Print</kw><br><kw class="krdwrd-tag-1-100">81 x 61 cm</kw><br><a href="/-st/Andre-Castaigne-Posters_c86890_.htm" title="Andre Castaigne"><kw class="krdwrd-tag-1-100">Andre Castaigne</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">56,90&nbsp;€</kw></span><br><div onclick="window.location='/-sp/Alexander-Accepts-the-Surrender-of-Porus-King-of-the-Pauravas-Posters_i3356643_.htm';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">(3 other sizes available)</kw></div><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><script>
+function ShipNotSameDayWindow()
+{
+  ShipWindow=window.open('','ShipTime','height=200,width=430,resizable=yes,top=100,left=100');
+  var tmp = ShipWindow.document;
+	 tmp.write('<html><head><base href="http://www.allposters.com/-st/"/><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>AllPosters</title>');
+	 tmp.write('</head><body><p style=\"font-family:Verdana;font-size:12px;\"><b>Ship Time</b></p>');	 tmp.write('<p style=\"font-family:Verdana;font-size:12px;\">Ship time indicates the typical number of business days it takes for your item(s) to leave our facilities but does not include transit time from our facilities to final destination.<br><br> Orders that contain multiple items with different ship times will be shipped out based on the item with the longest ship time.</p>');	 tmp.write('</body></html>');
+	 tmp.close();
+}
+</script>
+<div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">3-5 Days</kw></div></div><form name="30247" style="margin: 0px; padding: 0px; display: inline;" id="30247" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="3356643" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('30247')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="11684" style="margin: 0px; padding: 0px; display: inline;" id="11684" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="3356643" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('11684')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 25px 0px;"><center><div style="position: relative; width: 168px; height: 128px;"><a href="/-sp/Alexander-V-at-Issus-Posters_i3351376_.htm" title="Alexander V at Issus Giclee Print by Franz Winter"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/MEPOD/10028528_b%7EAlexander-V-at-Issus-Posters.jpg" alt="Alexander V at Issus Giclee Print by Franz Winter" title="Alexander V at Issus Giclee Print by Franz Winter" height="120" width="160"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 160px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 160px;" height="111" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 120px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 120px; left: 8px;" height="8" width="152"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 120px; left: 160px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Alexander-V-at-Issus-Posters_i3351376_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Alexander V at Issus Giclee Print by Franz Winter" title="Alexander V at Issus Giclee Print by Franz Winter" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Alexander-V-at-Issus-Posters_i3351376_.htm" title="Alexander V at Issus Giclee Print by Franz Winter"><div class="posterName pdt3"><kw class="krdwrd-tag-1-100">Alexander V at Issus</kw></div></a><kw class="krdwrd-tag-1-100">Giclee Print</kw><br><kw class="krdwrd-tag-1-100">41 x 30 cm</kw><br><a href="/-st/Franz-Winter-Posters_c89708_.htm" title="Franz Winter"><kw class="krdwrd-tag-1-100">Franz Winter</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">31,90&nbsp;€</kw></span><br><div onclick="window.location='/-sp/Alexander-V-at-Issus-Posters_i3351376_.htm';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">(3 other sizes available)</kw></div><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">3-5 Days</kw></div></div><form name="93930" style="margin: 0px; padding: 0px; display: inline;" id="93930" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="3351376" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('93930')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="20633" style="margin: 0px; padding: 0px; display: inline;" id="20633" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="3351376" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('20633')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 21px 0px;"><center><div style="position: relative; width: 168px; height: 136px;"><a href="/-sp/Alexander-the-Great-Posters_i2110133_.htm" title="Alexander the Great Prints by Donato Giancola"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/PODP/11429_b%7EAlexander-the-Great-Posters.jpg" alt="Alexander the Great Prints by Donato Giancola" title="Alexander the Great Prints by Donato Giancola" height="128" width="160"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 160px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 160px;" height="119" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 128px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 128px; left: 8px;" height="8" width="152"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 128px; left: 160px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Alexander-the-Great-Posters_i2110133_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Alexander the Great Prints by Donato Giancola" title="Alexander the Great Prints by Donato Giancola" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Alexander-the-Great-Posters_i2110133_.htm" title="Alexander the Great Prints by Donato Giancola"><div class="posterName pdt3"><kw class="krdwrd-tag-1-100">Alexander the Great</kw></div></a><kw class="krdwrd-tag-1-100">Art Print</kw><br><kw class="krdwrd-tag-1-100">51 x 41 cm</kw><br><a href="/-st/Donato-Giancola-Posters_c92773_.htm" title="Donato Giancola"><kw class="krdwrd-tag-1-100">Donato Giancola</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">31,90&nbsp;€</kw></span><br><div onclick="window.location='/-sp/Alexander-the-Great-Posters_i2110133_.htm';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">(3 other sizes available)</kw></div><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">10-12 Days</kw></div></div><form name="40523" style="margin: 0px; padding: 0px; display: inline;" id="40523" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="2110133" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('40523')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="821810000000000" style="margin: 0px; padding: 0px; display: inline;" id="821810000000000" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="2110133" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('821810000000000')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 22px 0px;"><center><div style="position: relative; width: 168px; height: 133px;"><a href="/-sp/Alexander-the-Great-c-1982-yellow-face-Posters_i3245949_.htm" title="Alexander the Great, c.1982 (yellow face) Prints by Andy Warhol"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/MCG/pf1929_b%7EAlexander-the-Great-c-1982-yellow-face-Posters.jpg" alt="Alexander the Great, c.1982 (yellow face) Prints by Andy Warhol" title="Alexander the Great, c.1982 (yellow face) Prints by Andy Warhol" height="125" width="160"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 160px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 160px;" height="116" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 125px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 125px; left: 8px;" height="8" width="152"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 125px; left: 160px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Alexander-the-Great-c-1982-yellow-face-Posters_i3245949_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Alexander the Great, c.1982 (yellow face) Prints by Andy Warhol" title="Alexander the Great, c.1982 (yellow face) Prints by Andy Warhol" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Alexander-the-Great-c-1982-yellow-face-Posters_i3245949_.htm" title="Alexander the Great, c.1982 (yellow face) Prints by Andy Warhol"><div class="posterName pdt3"><kw class="krdwrd-tag-1-100">Alexander the Great, c.1982 (yellow face)</kw></div></a><kw class="krdwrd-tag-1-100">Art Print</kw><br><kw class="krdwrd-tag-1-100">36 x 28 cm</kw><br><a href="/-st/Andy-Warhol-Posters_c29184_.htm" title="Andy Warhol"><kw class="krdwrd-tag-1-100">Andy Warhol</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">8,90&nbsp;€</kw></span><br><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">5-10 Days</kw></div></div><form name="55882" style="margin: 0px; padding: 0px; display: inline;" id="55882" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="3245949" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('55882')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="5120500000" style="margin: 0px; padding: 0px; display: inline;" id="5120500000" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="3245949" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('5120500000')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 22px 0px;"><center><div style="position: relative; width: 168px; height: 133px;"><a href="/-sp/Alexander-the-Great-c-1982-Pink-Face-Posters_i3245948_.htm" title="Alexander the Great, c.1982 (Pink Face) Poster by Andy Warhol"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/MCG/pf1928_b%7EAlexander-the-Great-c-1982-Pink-Face-Posters.jpg" alt="Alexander the Great, c.1982 (Pink Face) Poster by Andy Warhol" title="Alexander the Great, c.1982 (Pink Face) Poster by Andy Warhol" height="125" width="160"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 160px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 160px;" height="116" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 125px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 125px; left: 8px;" height="8" width="152"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 125px; left: 160px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Alexander-the-Great-c-1982-Pink-Face-Posters_i3245948_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Alexander the Great, c.1982 (Pink Face) Poster by Andy Warhol" title="Alexander the Great, c.1982 (Pink Face) Poster by Andy Warhol" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Alexander-the-Great-c-1982-Pink-Face-Posters_i3245948_.htm" title="Alexander the Great, c.1982 (Pink Face) Poster by Andy Warhol"><div class="posterName pdt3"><kw class="krdwrd-tag-1-100">Alexander the Great, c.1982 (Pink Face)</kw></div></a><kw class="krdwrd-tag-1-100">Art Print</kw><br><kw class="krdwrd-tag-1-100">36 x 28 cm</kw><br><a href="/-st/Andy-Warhol-Posters_c29184_.htm" title="Andy Warhol"><kw class="krdwrd-tag-1-100">Andy Warhol</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">8,90&nbsp;€</kw></span><br><div class="shpdiv"><div class="posterShips"><script>
+function ShipSameDayWindow()
+{
+  ShipWindow=window.open('','ShipTime','height=200,width=430,resizable=yes,top=100,left=100');
+  var tmp = ShipWindow.document;
+	 tmp.write('<html><head><base href="http://www.allposters.com/-st/"/><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>AllPosters</title>');
+	 tmp.write('</head><body><p style=\"font-family:Verdana;font-size:12px;\"><b>Ship Time</b></p>');	 tmp.write('<p style=\"font-family:Verdana;font-size:12px;\">Items that are designated by "Usually ships within 24 hours" normally leave our facilities on the same business day if the order is placed before 16:00 GMT.<br><br> Ship time indicates the typical number of business days it takes for your item(s) to leave our facilities but does not include transit time from our facilities to final destination.<br><br> Orders that contain multiple items with different ship times will be shipped out based on the item with the longest ship time.<br></p>');	 tmp.write('</body></html>');
+	 tmp.close();
+}
+</script><kw class="krdwrd-tag-1-100">
+Usually ships </kw><div onclick="ShipSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">within 24 hours</kw></div></div><form name="75367" style="margin: 0px; padding: 0px; display: inline;" id="75367" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="3245948" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('75367')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="6722700000" style="margin: 0px; padding: 0px; display: inline;" id="6722700000" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="3245948" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('6722700000')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 25px 0px;"><center><div style="position: relative; width: 168px; height: 128px;"><a href="/-sp/Alexander-the-Great-Enters-Babylon-Posters_i2589174_.htm" title="Alexander the Great Enters Babylon Giclee Print by Charles Le Brun"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/ARIPOD/40111117_b%7EAlexander-the-Great-Enters-Babylon-Posters.jpg" alt="Alexander the Great Enters Babylon Giclee Print by Charles Le Brun" title="Alexander the Great Enters Babylon Giclee Print by Charles Le Brun" height="120" width="160"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 160px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 160px;" height="111" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 120px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 120px; left: 8px;" height="8" width="152"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 120px; left: 160px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Alexander-the-Great-Enters-Babylon-Posters_i2589174_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Alexander the Great Enters Babylon Giclee Print by Charles Le Brun" title="Alexander the Great Enters Babylon Giclee Print by Charles Le Brun" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Alexander-the-Great-Enters-Babylon-Posters_i2589174_.htm" title="Alexander the Great Enters Babylon Giclee Print by Charles Le Brun"><div class="posterName pdt3"><kw class="krdwrd-tag-1-100">Alexander the Great Enters Babylon</kw></div></a><kw class="krdwrd-tag-1-100">Giclee Print</kw><br><kw class="krdwrd-tag-1-100">41 x 30 cm</kw><br><a href="/-st/Charles-Le-Brun-Posters_c26006_.htm" title="Charles Le Brun"><kw class="krdwrd-tag-1-100">Charles Le Brun</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">31,90&nbsp;€</kw></span><br><div onclick="window.location='/-sp/Alexander-the-Great-Enters-Babylon-Posters_i2589174_.htm';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">(6 other sizes available)</kw></div><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">3-5 Days</kw></div></div><form name="7363600000" style="margin: 0px; padding: 0px; display: inline;" id="7363600000" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="2589174" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('7363600000')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="81517" style="margin: 0px; padding: 0px; display: inline;" id="81517" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="2589174" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('81517')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 21px 0px;"><center><div style="position: relative; width: 168px; height: 136px;"><a href="/-sp/Alexander-the-Great-Posters_i1752203_.htm" title="Alexander the Great Premium Giclee Print by Howard David Johnson"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/PODP/10245_b%7EAlexander-the-Great-Posters.jpg" alt="Alexander the Great Premium Giclee Print by Howard David Johnson" title="Alexander the Great Premium Giclee Print by Howard David Johnson" height="128" width="160"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 160px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 160px;" height="119" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 128px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 128px; left: 8px;" height="8" width="152"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 128px; left: 160px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Alexander-the-Great-Posters_i1752203_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Alexander the Great Premium Giclee Print by Howard David Johnson" title="Alexander the Great Premium Giclee Print by Howard David Johnson" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Alexander-the-Great-Posters_i1752203_.htm" title="Alexander the Great Premium Giclee Print by Howard David Johnson"><div class="posterName pdt3"><kw class="krdwrd-tag-1-100">Alexander the Great</kw></div></a><kw class="krdwrd-tag-1-100">Premium Giclee Print</kw><br><kw class="krdwrd-tag-1-100">51 x 41 cm</kw><br><a href="/-st/Howard-David-Johnson-Posters_c79879_.htm" title="Howard David Johnson"><kw class="krdwrd-tag-1-100">Howard David Johnson</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">101,50&nbsp;€</kw></span><br><div onclick="window.location='/-sp/Alexander-the-Great-Posters_i1752203_.htm';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">(3 other sizes available)</kw></div><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">10-12 Days</kw></div></div><form name="31315" style="margin: 0px; padding: 0px; display: inline;" id="31315" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="1752203" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('31315')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="95723" style="margin: 0px; padding: 0px; display: inline;" id="95723" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="1752203" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('95723')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 25px 0px;"><center><div style="position: relative; width: 168px; height: 128px;"><a href="/-sp/Alexander-the-Great-Before-the-Tomb-of-Achilles-1755-1757-Posters_i2585565_.htm" title="Alexander the Great Before the Tomb of Achilles, 1755-1757 Giclee Print by Hubert Robert"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/ARIPOD/40080251_b%7EAlexander-the-Great-Before-the-Tomb-of-Achilles-1755-1757-Posters.jpg" alt="Alexander the Great Before the Tomb of Achilles, 1755-1757 Giclee Print by Hubert Robert" title="Alexander the Great Before the Tomb of Achilles, 1755-1757 Giclee Print by Hubert Robert" height="120" width="160"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 160px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 160px;" height="111" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 120px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 120px; left: 8px;" height="8" width="152"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 120px; left: 160px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Alexander-the-Great-Before-the-Tomb-of-Achilles-1755-1757-Posters_i2585565_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Alexander the Great Before the Tomb of Achilles, 1755-1757 Giclee Print by Hubert Robert" title="Alexander the Great Before the Tomb of Achilles, 1755-1757 Giclee Print by Hubert Robert" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Alexander-the-Great-Before-the-Tomb-of-Achilles-1755-1757-Posters_i2585565_.htm" title="Alexander the Great Before the Tomb of Achilles, 1755-1757 Giclee Print by Hubert Robert"><div class="posterName pdt3"><kw class="krdwrd-tag-1-100">Alexander the Great Before the Tomb of Achilles, 1755-1757</kw></div></a><kw class="krdwrd-tag-1-100">Giclee Print</kw><br><kw class="krdwrd-tag-1-100">102 x 76 cm</kw><br><a href="/-st/Hubert-Robert-Posters_c27763_.htm" title="Hubert Robert"><kw class="krdwrd-tag-1-100">Hubert Robert</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">82,50&nbsp;€</kw></span><br><div onclick="window.location='/-sp/Alexander-the-Great-Before-the-Tomb-of-Achilles-1755-1757-Posters_i2585565_.htm';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">(6 other sizes available)</kw></div><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">3-5 Days</kw></div></div><form name="90787" style="margin: 0px; padding: 0px; display: inline;" id="90787" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="2585565" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('90787')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="79038" style="margin: 0px; padding: 0px; display: inline;" id="79038" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="2585565" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('79038')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 5px 0px;"><center><div style="position: relative; width: 128px; height: 168px;"><a href="/-sp/Portrait-Bust-of-Alexander-the-Great-356-323-BC-Known-as-the-Azara-Herm-Greek-Replica-Posters_i1349490_.htm" title="Portrait Bust of Alexander the Great (356-323 BC) Known as the Azara Herm, Greek Replica Giclee Print by Lysippos"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/BRGPOD/70506_b%7EPortrait-Bust-of-Alexander-the-Great-356-323-BC-Known-as-the-Azara-Herm-Greek-Replica-Posters.jpg" alt="Portrait Bust of Alexander the Great (356-323 BC) Known as the Azara Herm, Greek Replica Giclee Print by Lysippos" title="Portrait Bust of Alexander the Great (356-323 BC) Known as the Azara Herm, Greek Replica Giclee Print by Lysippos" height="160" width="120"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 120px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 120px;" height="151" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 160px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 160px; left: 8px;" height="8" width="112"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 160px; left: 120px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Portrait-Bust-of-Alexander-the-Great-356-323-BC-Known-as-the-Azara-Herm-Greek-Replica-Posters_i1349490_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Portrait Bust of Alexander the Great (356-323 BC) Known as the Azara Herm, Greek Replica Giclee Print by Lysippos" title="Portrait Bust of Alexander the Great (356-323 BC) Known as the Azara Herm, Greek Replica Giclee Print by Lysippos" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Portrait-Bust-of-Alexander-the-Great-356-323-BC-Known-as-the-Azara-Herm-Greek-Replica-Posters_i1349490_.htm" title="Portrait Bust of Alexander the Great (356-323 BC) Known as the Azara Herm, Greek Replica Giclee Print by Lysippos"><div class="posterName pdt3"><kw class="krdwrd-tag-1-100">Portrait Bust of Alexander the Great (356-323 BC) Known as the Azara Herm, Greek Replica</kw></div></a><kw class="krdwrd-tag-1-100">Giclee Print</kw><br><kw class="krdwrd-tag-1-100">46 x 61 cm</kw><br><a href="/-st/Lysippos-Posters_c65275_.htm" title="Lysippos"><kw class="krdwrd-tag-1-100">Lysippos</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">37,90&nbsp;€</kw></span><br><div onclick="window.location='/-sp/Portrait-Bust-of-Alexander-the-Great-356-323-BC-Known-as-the-Azara-Herm-Greek-Replica-Posters_i1349490_.htm';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">(3 other sizes available)</kw></div><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">3-5 Days</kw></div></div><form name="14286" style="margin: 0px; padding: 0px; display: inline;" id="14286" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="1349490" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('14286')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="5233400000" style="margin: 0px; padding: 0px; display: inline;" id="5233400000" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="1349490" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('5233400000')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 25px 0px;"><center><div style="position: relative; width: 168px; height: 128px;"><a href="/-sp/Alexander-the-Great-and-Porus-1673-Posters_i2588996_.htm" title="Alexander the Great and Porus, 1673 Giclee Print by Charles Le Brun"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/ARIPOD/40111024_b%7EAlexander-the-Great-and-Porus-1673-Posters.jpg" alt="Alexander the Great and Porus, 1673 Giclee Print by Charles Le Brun" title="Alexander the Great and Porus, 1673 Giclee Print by Charles Le Brun" height="120" width="160"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 160px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 160px;" height="111" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 120px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 120px; left: 8px;" height="8" width="152"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 120px; left: 160px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Alexander-the-Great-and-Porus-1673-Posters_i2588996_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Alexander the Great and Porus, 1673 Giclee Print by Charles Le Brun" title="Alexander the Great and Porus, 1673 Giclee Print by Charles Le Brun" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Alexander-the-Great-and-Porus-1673-Posters_i2588996_.htm" title="Alexander the Great and Porus, 1673 Giclee Print by Charles Le Brun"><div class="posterName pdt3"><kw class="krdwrd-tag-1-100">Alexander the Great and Porus, 1673</kw></div></a><kw class="krdwrd-tag-1-100">Giclee Print</kw><br><kw class="krdwrd-tag-1-100">81 x 61 cm</kw><br><a href="/-st/Charles-Le-Brun-Posters_c26006_.htm" title="Charles Le Brun"><kw class="krdwrd-tag-1-100">Charles Le Brun</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">56,90&nbsp;€</kw></span><br><div onclick="window.location='/-sp/Alexander-the-Great-and-Porus-1673-Posters_i2588996_.htm';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">(5 other sizes available)</kw></div><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">3-5 Days</kw></div></div><form name="94396" style="margin: 0px; padding: 0px; display: inline;" id="94396" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="2588996" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('94396')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="41653" style="margin: 0px; padding: 0px; display: inline;" id="41653" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="2588996" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('41653')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 5px 0px;"><center><div style="position: relative; width: 128px; height: 168px;"><a href="/-sp/The-Troops-of-Alexander-the-Great-Meet-the-Elephants-of-Porus-on-the-Hydaspes-Posters_i1864554_.htm" title="The Troops of Alexander the Great Meet the Elephants of Porus on the Hydaspes Giclee Print by Andre Castaigne"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/MEPOD/10073135_b%7EThe-Troops-of-Alexander-the-Great-Meet-the-Elephants-of-Porus-on-the-Hydaspes-Posters.jpg" alt="The Troops of Alexander the Great Meet the Elephants of Porus on the Hydaspes Giclee Print by Andre Castaigne" title="The Troops of Alexander the Great Meet the Elephants of Porus on the Hydaspes Giclee Print by Andre Castaigne" height="160" width="120"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 120px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 120px;" height="151" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 160px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 160px; left: 8px;" height="8" width="112"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 160px; left: 120px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/The-Troops-of-Alexander-the-Great-Meet-the-Elephants-of-Porus-on-the-Hydaspes-Posters_i1864554_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="The Troops of Alexander the Great Meet the Elephants of Porus on the Hydaspes Giclee Print by Andre Castaigne" title="The Troops of Alexander the Great Meet the Elephants of Porus on the Hydaspes Giclee Print by Andre Castaigne" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/The-Troops-of-Alexander-the-Great-Meet-the-Elephants-of-Porus-on-the-Hydaspes-Posters_i1864554_.htm" title="The Troops of Alexander the Great Meet the Elephants of Porus on the Hydaspes Giclee Print by Andre Castaigne"><div class="posterName pdt3"><kw class="krdwrd-tag-1-90">The Troops of Alexander the Great Meet the Elephants of Porus on the Hydaspes</kw></div></a><kw class="krdwrd-tag-1-100">Giclee Print</kw><br><kw class="krdwrd-tag-1-100">46 x 61 cm</kw><br><a href="/-st/Andre-Castaigne-Posters_c86890_.htm" title="Andre Castaigne"><kw class="krdwrd-tag-1-100">Andre Castaigne</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">37,90&nbsp;€</kw></span><br><div onclick="window.location='/-sp/The-Troops-of-Alexander-the-Great-Meet-the-Elephants-of-Porus-on-the-Hydaspes-Posters_i1864554_.htm';" class="lnk" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'"><kw class="krdwrd-tag-1-100">(3 other sizes available)</kw></div><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">3-5 Days</kw></div></div><form name="52998" style="margin: 0px; padding: 0px; display: inline;" id="52998" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="1864554" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('52998')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="45521" style="margin: 0px; padding: 0px; display: inline;" id="45521" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="1864554" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('45521')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="thmdv thmh"><div style="margin: 5px 0px;"><center><div style="position: relative; width: 128px; height: 168px;"><a href="/-sp/Porus-Musters-His-War-Elephants-in-Preparation-for-War-with-Alexander-the-Great-of-Macedon-Posters_i1867547_.htm" title="Porus Musters His War Elephants in Preparation for War with Alexander the Great of Macedon Giclee Print by H. Leutmann"><img class="thmbd" src="http://imagecache2.allposters.com/images/pic/MEPOD/10021490_b%7EPorus-Musters-His-War-Elephants-in-Preparation-for-War-with-Alexander-the-Great-of-Macedon-Posters.jpg" alt="Porus Musters His War Elephants in Preparation for War with Alexander the Great of Macedon Giclee Print by H. Leutmann" title="Porus Musters His War Elephants in Preparation for War with Alexander the Great of Macedon Giclee Print by H. Leutmann" height="160" width="120"></a><img src="http://imagecache2.allposters.com/images/DS_RightTop_a.jpg" class="abs" style="top: 0px; left: 120px;" height="9" width="8"><img src="http://imagecache2.allposters.com/images/DS_RightTiling_a.jpg" class="abs" style="top: 9px; left: 120px;" height="151" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomLeft_a.jpg" class="abs" style="top: 160px; left: 0px;" height="8" width="8"><img src="http://imagecache2.allposters.com/images/DS_BottomTiling_a.jpg" class="abs" style="top: 160px; left: 8px;" height="8" width="112"><img src="http://imagecache2.allposters.com/images/DS_BottomRight_a.jpg" class="abs" style="top: 160px; left: 120px;" height="8" width="8"></div></center></div><div onclick="window.location='/-sp/Porus-Musters-His-War-Elephants-in-Preparation-for-War-with-Alexander-the-Great-of-Macedon-Posters_i1867547_.htm';" class="lnk"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_see_larger.gif" alt="Porus Musters His War Elephants in Preparation for War with Alexander the Great of Macedon Giclee Print by H. Leutmann" title="Porus Musters His War Elephants in Preparation for War with Alexander the Great of Macedon Giclee Print by H. Leutmann" border="0" height="21" width="112"></div><br><a class="nuln" href="/-sp/Porus-Musters-His-War-Elephants-in-Preparation-for-War-with-Alexander-the-Great-of-Macedon-Posters_i1867547_.htm" title="Porus Musters His War Elephants in Preparation for War with Alexander the Great of Macedon Giclee Print by H. Leutmann"><div class="posterName pdt3"><kw class="krdwrd-tag-1-90">Porus Musters His War Elephants in Preparation for War with Alexander the Great of Macedon</kw></div></a><kw class="krdwrd-tag-1-100">Giclee Print</kw><br><kw class="krdwrd-tag-1-100">46 x 61 cm</kw><br><a href="/-st/H-Leutmann-Posters_c88232_.htm" title="H. Leutmann"><kw class="krdwrd-tag-1-100">H. Leutmann</kw></a><br><span class="posterPrice"><kw class="krdwrd-tag-1-100">37,90&nbsp;€</kw></span><br><div class="shpdiv"><div class="posterShips"><kw class="krdwrd-tag-1-100">Usually ships in </kw><div onclick="ShipNotSameDayWindow();" onmouseover="this.style.color='red';" onmouseout="this.style.color='blue'" class="shppop lnk"><kw class="krdwrd-tag-1-100">3-5 Days</kw></div></div><form name="67952" style="margin: 0px; padding: 0px; display: inline;" id="67952" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/ViewCart_frame.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="PPID" value="1" type="hidden"><input name="Action" value="AddItem" type="hidden"><input name="APNum" value="1867547" type="hidden"><input name="search" value="84678" type="hidden"><input name="f" value="c" type="hidden"><input name="FindID" value="84678" type="hidden"><input name="P" value="1" type="hidden"><input name="PP" value="3" type="hidden"><input name="IID" value="" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('67952')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_addtocart.gif" alt="Add To Cart" border="0" height="16" width="72"></div></form> &nbsp; <form name="74101" style="margin: 0px; padding: 0px; display: inline;" id="74101" action="/Frame.asp" method="get" target="_top"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="APnum" value="1867547" type="hidden"><input name="IID" value="" type="hidden"><input name="FID" value="" type="hidden"><div class="item" onclick="submit_form('74101')" style="display: inline;"><img src="http://imagecache2.allposters.com/Images/INTL/1/t/BTN_gt_seeitframed.gif" alt="See it Framed" border="0" height="16" width="82"></div></form></div></div>
+<div class="clear"></div></div>
+<div class="morepagediv"><div style="width: 570px; margin-left: 3px;" class="navpagepad" id="pgn-footer"><div class="previmg">&nbsp;</div>
+<div style="width: 450px; float: left;" id="pgna-footer">
+
+<span class="fontsize2">&nbsp;<b><kw class="krdwrd-tag-1-100">1</kw></b>&nbsp;&nbsp;<a href="/-st/Alexander-the-Great-Posters_c84678_p2_.htm"><kw class="krdwrd-tag-1-100">2</kw></a>&nbsp;<a href="/-st/Alexander-the-Great-Posters_c84678_p3_.htm"><kw class="krdwrd-tag-1-100">3</kw></a></span>
+
+</div>
+<div class="nextimg"><a href="/-st/Alexander-the-Great-Posters_c84678_p2_.htm"><img src="http://imagecache2.allposters.com/Images/INTL/1/more2.gif" alt="More Posters" border="0" height="16" width="59"></a></div><div class="clear"></div></div></div><div style="width: 570px; margin-left: 3px;" class="sortdiv" id="sortdiv">
+<a name="refine"></a><form method="get" action="/getthumb.asp" style="margin: 0px; padding: 0px;" id="formFilter" name="formFilter">
+<input name="Search" value="84678" type="hidden">
+<input name="c" value="c" type="hidden">
+<input name="CID" value="260647F200184C42915368E70395DA09" type="hidden">
+<input name="prevPage" value="1" type="hidden">
+<input name="prevAmt" value="12" type="hidden">
+<input name="CategoryID" value="" type="hidden">
+<input name="SortBy" value="PD" type="hidden">
+<input name="ecard" value="" type="hidden">
+<span class="heading1" style="vertical-align: middle;"><kw class="krdwrd-tag-1-100">Images per page:&nbsp;</kw></span><select size="1" name="psize" onchange="submit()" class="APDropDown" style="vertical-align: middle;">
+<option class="krdwrd-tag-1-90" selected="selected">12</option><option class="krdwrd-tag-1-90">18</option><option class="krdwrd-tag-1-90">24</option><option class="krdwrd-tag-1-90">30</option><option class="krdwrd-tag-1-90">36</option><option class="krdwrd-tag-1-90">42</option><option class="krdwrd-tag-1-90">48</option></select>&nbsp;<input src="http://imagecache2.allposters.com/Images/INTL/1/BTN_select_v2.gif" style="vertical-align: middle;" border="0" height="11" width="31" type="image">
+<input name="FilterType1" value="0" type="hidden">
+<input name="FilterType2" value="0" type="hidden">
+<input name="FilterType3" value="0" type="hidden">
+<input name="MinWidth" value="" type="hidden">
+<input name="MaxWidth" value="" type="hidden">
+<input name="MinHeight" value="" type="hidden">
+<input name="MaxHeight" value="" type="hidden">
+<input name="MinPrice" value="" type="hidden">
+<input name="MaxPrice" value="" type="hidden">
+<input name="ItemType" value="" type="hidden">
+</form>
+</div><div class="clear"></div><div class="tcntr"><br><div class="item" onclick="javascript:openPop('http://www.allposters.com/pop_terms.asp?CID=260647F200184C42915368E70395DA09','Details',360,300)"><img src="http://imagecache2.allposters.com/images/INTL/1/WebPromo/promo_20offGENERICwednesday_today.gif" alt="20% Off" border="0" height="125" width="320"></div><br>&nbsp;</div></div>
+
+<table><tbody><tr><td align="center">
+<br><br><form name="4378900000" style="margin: 0px; padding: 0px; display: inline;" id="4378900000" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/help/about.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><input name="subject" value="about" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('4378900000')" style="display: inline;"><kw class="krdwrd-tag-1-100">About Us</kw></div></form><kw class="krdwrd-tag-1-100">&nbsp;| </kw><form name="46589" style="margin: 0px; padding: 0px; display: inline;" id="46589" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/help/guarantee.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09#privacy" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('46589')" style="display: inline;"><kw class="krdwrd-tag-1-100">Privacy Policy</kw></div></form><kw class="krdwrd-tag-1-100">&nbsp;| </kw><form name="64747" style="margin: 0px; padding: 0px; display: inline;" id="64747" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/help/index.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('64747')" style="display: inline;"><kw class="krdwrd-tag-1-100">Help</kw></div></form><kw class="krdwrd-tag-1-100">&nbsp;| </kw><form name="83715" style="margin: 0px; padding: 0px; display: inline;" id="83715" action="/gallery.asp" method="get" target="_top"><input name="startat" value="/land/business/default.asp" type="hidden"><input name="CID" value="260647F200184C42915368E70395DA09" type="hidden"><div class="item" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('83715')" style="display: inline;"><kw class="krdwrd-tag-1-100">Business Sales</kw></div></form><kw class="krdwrd-tag-1-100">&nbsp;| </kw><a href="http://affiliates.allposters.com" target="_top" onclick="stopExit();" class="sectionLink"><kw class="krdwrd-tag-1-100">Affiliates Program!</kw></a><div style="margin-top: 20px;"><table height="1"><tbody><tr><td> <img src="http://imagecache2.allposters.com/images/footer/secure_icon_lock.gif" alt="Sichere Zahlung: Kauf auf Rechnung, Visa, MasterCard, American Express, PayPal" border="0" height="18" width="14"></td><td style="margin-top: 20px; font-family: Verdana; color: rgb(51, 51, 51); font-size: 11px;"><kw class="krdwrd-tag-1-90"> Sichere Zahlung: </kw><b><kw class="krdwrd-tag-1-90">Kauf Auf Rechnung</kw></b><kw class="krdwrd-tag-1-90"> | </kw><b><kw class="krdwrd-tag-1-90">Kreditkarte</kw></b><kw class="krdwrd-tag-1-90"> | </kw><b><kw class="krdwrd-tag-1-90">PayPal</kw></b></td></tr></tbody></table></div><div style="margin-top: 20px;"><script src="/scripts/formvalidation.js?v=18"></script>
+<form id="formcm_I0" name="formcm_I0" method="post" action="/email/email_accept.asp" onsubmit="moduleForm_I0.validateEmailForm(); if(moduleForm_I0.submitForm){RaiseError('NLError03_I0')}; return moduleForm_I0.submitForm;">
+<table border="0" cellpadding="0" cellspacing="0" width="350">
+  <tbody><tr>
+     <td align="left">
+        <span id="NLFormValidation_I0" class="errorline" style="display: none; color: red;">
+        <b><kw class="krdwrd-tag-1-90">Please Fix the Following:</kw></b>
+        </span>
+        <div id="NLError01_I0" style="display: none; color: red;" class="errorline"><kw class="krdwrd-tag-1-90">Please enter your email</kw></div>
+        <div id="NLError02_I0" style="display: none; color: red;" class="errorline"><b><kw class="krdwrd-tag-1-90">Please enter a valid email address</kw></b></div>
+        <div id="NLError03_I0" style="display: none; color: red;" class="errorline"></div>
+     </td>
+  </tr>
+  <tr>
+     <td style="height: 22px;" valign="top">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+           <tbody><tr>
+              <td style="padding-top: 3px;" align="right" valign="middle"><input name="email" value="Enter your email to receive offers" onfocus="if(this.value=='Enter your email to receive offers') { this.value='' }" onblur="if(this.value=='') { this.value='Enter your email to receive offers' }" style="margin: 0px; padding: 0px; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 204); width: 300px;" type="text"></td>
+              <td style="padding-right: 3px; padding-left: 3px;" align="left" valign="middle"><input name="imageField" src="http://imagecache2.allposters.com/Images/INTL/1/home_go_btn.gif" type="image"></td>
+           </tr>
+        </tbody></table>
+     </td>
+  </tr>
+</tbody></table>
+</form>
+<script>
+var moduleEmail_I0 = new htmlControl(document.getElementById("formcm_I0").email,Array(CHECK_BLANK,CHECK_REGEXP_EMAIL),Array("NLError01_I0","NLError02_I0"))
+var moduleForm_I0 = new htmlForm(
+                     document.getElementById("formcm_I0")
+                     ,Array(moduleEmail_I0)
+                     ,""
+                     )
+</script>
+</div><div style="margin-top: 20px;">
+&nbsp;&nbsp;<form target="_top" name="fr2100" class="link" id="fr2100" action="http://www.allposters.fr" method="get"><input name="lang" value="2" type="hidden"><div class="item fontsize2" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('fr2100')" style="display: inline;"><kw class="krdwrd-tag-1-90">Français</kw></div></form>&nbsp;&nbsp;<form target="_top" name="de2100" class="link" id="de2100" action="http://www.allposters.de" method="get"><input name="lang" value="3" type="hidden"><div class="item fontsize2" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('de2100')" style="display: inline;"><kw class="krdwrd-tag-1-90">Deutsch</kw></div></form>&nbsp;&nbsp;<form target="_top" name="es2100" class="link" id="es2100" action="http://www.allposters.es" method="get"><input name="lang" value="4" type="hidden"><div class="item fontsize2" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('es2100')" style="display: inline;"><kw class="krdwrd-tag-1-90">Español</kw></div></form>&nbsp;&nbsp;<form target="_top" name="it2100" class="link" id="it2100" action="http://www.allposters.it" method="get"><input name="lang" value="5" type="hidden"><div class="item fontsize2" onmouseover="this.style.color='red'" onmouseout="this.style.color='blue'" onclick="submit_form('it2100')" style="display: inline;"><kw class="krdwrd-tag-1-90">Italiano</kw></div></form>&nbsp;&nbsp;<form target="_top" name="jp2100" class="link" id="jp2100" action="http://www.allposters.co.jp" method="get"><input name="lang" value="6" type="hidden"><div onmouseover="this.style.cursor='hand'; document.images['jp'].src='http://imagecache2.allposters.com/images/fpco-jp-link_over.gif'" onmouseout=" document.images['jp'].src='http://imagecache2.allposters.com/images/fpco-jp-link_off.gif'" onclick="submit_form('jp2100')" style="display: inline;"><img name="jp" src="http://imagecache2.allposters.com/images/fpco-jp-link_off.gif" align="middle" border="0"></div></form>&nbsp;&nbsp;<span class="copyright"><br><kw class="krdwrd-tag-1-90">© 1998-2008 AllPosters.com. All rights reserved.</kw></span></div>
+</td>
+</tr>
+</tbody></table><div id="xs_pDiv2" style="position: absolute; width: 320px; height: 25px; top: 95px; left: 352px; text-align: right;"><nobr><a href="javascript:openPop('http://www.allposters.com/pop_terms.asp?CID=260647F200184C42915368E70395DA09','Details',360,300)"><img src="http://imagecache2.allposters.com/images/INTL/1/WebPromo/BUTTON_20off.gif" alt="20% Off" border="0"></a></nobr></div><div id="xs_pDiv" style="position: absolute; width: 320px; height: 25px; top: 81px; left: 352px; clip: rect(0pt, auto, 211px, auto); text-align: right;"><a href="javascript:openPop('http://www.allposters.com/pop_terms.asp?CID=260647F200184C42915368E70395DA09','Details',360,300)"><img src="http://imagecache2.allposters.com/images/INTL/1/WebPromo/promo_20offGENERICwednesday_today.gif" alt="20% Off" border="0"></a></div></div> 
+    
+               <!--END---MainContent--->
+      </td>
+   </tr>
+</tbody></table>
+
+</body>

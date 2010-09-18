@@ -1,0 +1,366 @@
+<head><base href="http://www.iftn.ie/actors/qanda/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<meta name="Description" content="Actor / Cast Q&amp;A interviews with leading Film &amp; Television industry professionals. ">
+<meta name="Keywords" content="Irish Actor Cast Interviews Interview Q&amp;A Feature Ireland Film Television TV news production filming locations Brendan Gleeson Martin McCann Elaine Cassidy Pat Shortt Susan Lynch Sarah Bolger Gary Lydon Ger Ryan"><title>Brendan Gleeson On 'Beowulf' | The Irish Film &amp; Television Network</title>
+   
+<link rel="stylesheet" href="../../images/stylesheet.php">
+<script>
+function sendMessage() {
+	window.open('', 'message', 'width=450, height=280, scrollbars=yes, resizable=yes');
+}
+</script></head><body leftmargin="0" topmargin="0" style="margin: 10px;" bgcolor="#ffffff" marginheight="0" marginwidth="0">
+<table border="0" cellpadding="1" cellspacing="0" width="863">
+<tbody><tr>
+<td valign="top">
+<table border="0" cellpadding="1" cellspacing="0" width="863">
+  
+  <tbody><tr>
+    <td style="padding-top: 8px;" align="right" valign="top"><b><kw class="krdwrd-tag-1">The Irish Film &amp; Television Network </kw></b></td>
+    <td align="right" width="1%">      <input name="action" value="search" type="hidden">
+  <table border="0" cellpadding="3" cellspacing="0" width="100%">
+<form action="./" method="get" name="searchFrm"></form>
+<tbody><tr>
+    <td align="right"><input name="s" id="s" onclick="doClear(this)" value="search" size="18" type="text"></td>
+    <td width="1"><select name="ar[]" id="ar[]">
+	<option class="krdwrd-tag-1" value="all">Everywhere</option>
+	
+     <option class="krdwrd-tag-1" value="0">Directory List</option>
+     <option class="krdwrd-tag-1" value="1">Festivals</option>
+     <option class="krdwrd-tag-1" value="2">Who's Who</option>
+     <option class="krdwrd-tag-1" value="3">Locations</option>
+     <option class="krdwrd-tag-1" value="4">Filmography</option>
+     <option class="krdwrd-tag-1" value="5">News</option>
+	 
+    </select>    </td>
+    <td width="1"><input src="../../images/go1.gif" style="border: 0px none;" type="image"></td>
+  </tr>
+
+</tbody></table></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="863">
+  <tbody><tr>
+    <td width="1"><a href="/"><img src="../../images/1.gif" border="0" height="80" width="233"></a></td>
+    <td align="right">      <a href="../../click/?id=31" target="_blank"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" height="60" width="468"><param name="movie" value="../../images/data/banners/_1150811077.swf"><param name="quality" value="high"><embed src="../../images/data/banners/_1150811077.swf" quality="high" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" height="60" width="468"></object></a>    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="../../images/dot.gif" height="2" width="1"></td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#1c3a6e"><img src="../../images/dot.gif" height="1" width="1"></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="1" width="863">
+  <tbody><tr>
+    <td style="padding-bottom: 3px; padding-top: 3px; padding-left: 5px;" nowrap="nowrap">      <a class="middlemenu" href="../../contact/"><kw class="krdwrd-tag-1">Contact Us</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a class="middlemenu" href="../../membership/"><kw class="krdwrd-tag-1">Membership</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a class="middlemenu" href="../../services/"><kw class="krdwrd-tag-1">IFTN services</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a class="middlemenu" href="../../advertise/"><kw class="krdwrd-tag-1">Advertise</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a class="middlemenu" href="../../copyright/"><kw class="krdwrd-tag-1">Copyright</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a class="middlemenu" href="../../termsofuse/"><kw class="krdwrd-tag-1">Terms of Use</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a class="middlemenu" href="../../?id=637"><kw class="krdwrd-tag-1">RSS Feed</kw></a>    </td>
+    <td style="padding-bottom: 3px; padding-top: 3px; padding-left: 5px;" align="right" nowrap="nowrap"><kw class="krdwrd-tag-1">25 June 2008</kw></td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#1c3a6e">      <table border="0" cellpadding="0" cellspacing="0" width="863"><tbody><tr><td valign="top" width="13%"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../production/"><kw class="krdwrd-tag-1">Production</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../finance/"><kw class="krdwrd-tag-1">Finance</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr></tbody></table></td><td valign="top" width="13%"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../legal/"><kw class="krdwrd-tag-1">Legal</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../post-production/"><kw class="krdwrd-tag-1">Post Production</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr></tbody></table></td><td valign="top" width="13%"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../digital/"><kw class="krdwrd-tag-1">Digital</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../broadcast/"><kw class="krdwrd-tag-1">Broadcast</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr></tbody></table></td><td valign="top" width="13%"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../commercials/"><kw class="krdwrd-tag-1">Commercials</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../locations/"><kw class="krdwrd-tag-1">Locations</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr></tbody></table></td><td valign="top" width="13%"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../training/"><kw class="krdwrd-tag-1">Training</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../rep_bodies/"><kw class="krdwrd-tag-1">Rep Bodies</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr></tbody></table></td><td valign="top" width="13%"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="topmenu" nowrap="nowrap"><a class="menusel" href="../../actors/"><kw class="krdwrd-tag-1">Actors</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../crew/"><kw class="krdwrd-tag-1">Crew</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr></tbody></table></td><td valign="top" width="13%"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../distribution/"><kw class="krdwrd-tag-1">Distribution</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../markets_festivals/"><kw class="krdwrd-tag-1">Markets/Festivals</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr></tbody></table></td><td valign="top" width="13%"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../iftndownloads/"><kw class="krdwrd-tag-1">IFTN Downloads     </kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr><tr><td class="topmenu" nowrap="nowrap"><a class="menu" href="../../equipment/"><kw class="krdwrd-tag-1">Equipment</kw></a></td></tr><tr><td bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td></tr></tbody></table></td><td valign="top" width="13%"><table cellpadding="0" cellspacing="0" width="100%"></table></td></tr></tbody></table>    </td>
+  </tr>
+  <tr>
+    <td colspan="2" background="../../images/menubg1.gif"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td width="1"><img src="../../images/box1.gif" height="19" width="6"></td>
+        <td align="center" width="100"><a href="../../search/" class="black"><kw class="krdwrd-tag-1">SEARCH</kw></a></td>
+        <td width="1"><img src="../../images/box2.gif" height="19" width="13"></td>
+        <td align="center" width="95"><a href="../../jobs/" class="black"><kw class="krdwrd-tag-1">JOBS</kw></a></td>
+		<td width="1"><img src="../../images/box2.gif" height="19" width="13"></td>
+		<td align="center" width="95"><a href="../../filmography/" class="black"><kw class="krdwrd-tag-1">FILMOGRAPHY</kw></a></td>
+        <td width="1"><img src="../../images/box2.gif" height="19" width="13"></td>
+        <td align="center" width="94"><a href="../../news/" class="black"><kw class="krdwrd-tag-1">NEWS</kw></a></td>
+        <td width="1"><img src="../../images/box2.gif" height="19" width="13"></td>
+        <td align="center" width="95"><a href="../../whoswho/" class="black"><kw class="krdwrd-tag-1">WHO'S WHO </kw></a></td>
+        <td width="1"><img src="../../images/box2.gif" height="19" width="13"></td>
+        <td align="center" width="95"><a href="../../events/" class="black"><kw class="krdwrd-tag-1">DIARY</kw></a></td>
+        <td width="1"><img src="../../images/box2.gif" height="19" width="13"></td>
+        <td align="center" width="101"><a href="../../gallery/" class="black"><kw class="krdwrd-tag-1">GALLERY</kw></a></td>
+        <td width="1"><img src="../../images/box2.gif" height="19" width="13"></td>
+		<td align="center"><a href="http://www.ifta.ie/" target="_blank" class="black"><kw class="krdwrd-tag-1">IFTA</kw></a></td>
+        <td width="1"><img src="../../images/box3.gif" height="19" width="6"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="863">
+  <tbody><tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+	<td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" width="1%">      <table border="0" cellpadding="0" cellspacing="0" width="110">
+      <tbody><tr>
+        <td align="center" bgcolor="#1c3a6e"><img src="../../images/dot.gif" height="1" width="1"></td>
+      </tr>
+      <tr>
+        <td align="center" bgcolor="#ffffff" height="2"><img src="../../images/dot.gif" height="1" width="1"></td>
+      </tr>
+      <tr>
+        <td style="padding: 5px 2px 5px 8px; font-weight: bold; font-size: 8pt; color: rgb(255, 255, 255);" bgcolor="#999999">            <a style="color: rgb(255, 255, 255); font-weight: bold; font-size: 8pt;" href="../../actors/"><kw class="krdwrd-tag-1">
+              Actors            </kw></a>
+            </td>
+      </tr>
+      <tr>
+        <td><img src="../../../../images/dot.gif" height="1" width="1"></td>
+      </tr>
+      <tr>
+        <td><table border="0" cellpadding="3" cellspacing="0" width="100%">
+  <tbody><tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="submenu" href="../../actors/actors_database/"><kw class="krdwrd-tag-1">Actors Database</kw></a></td>
+</tr>
+  <tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="submenu" href="../../actors/actorsagents/"><kw class="krdwrd-tag-1">Casting Directors</kw></a></td>
+</tr>
+  <tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="submenu" href="../../actors/children_youth/"><kw class="krdwrd-tag-1">Casting For Children &amp; Young People</kw></a></td>
+</tr>
+  <tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="submenu" href="../../actors/actors_agents/"><kw class="krdwrd-tag-1">Actors Agents</kw></a></td>
+</tr>
+  <tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="submenu" href="../../actors/castingspace/"><kw class="krdwrd-tag-1">Casting Space</kw></a></td>
+</tr>
+  <tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="submenu" href="../../actors/training/"><kw class="krdwrd-tag-1">Actor Training</kw></a></td>
+</tr>
+  <tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="submenu" href="../../actors/datesdeadlines/"><kw class="krdwrd-tag-1">Actor Dates &amp; Deadlines</kw></a></td>
+</tr>
+  <tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="submenu" href="../../actors/inproduction/"><kw class="krdwrd-tag-1">What's In Production</kw></a></td>
+</tr>
+  <tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="menusel" href="../../actors/qanda/"><kw class="krdwrd-tag-1">Actor Interviews</kw></a></td>
+</tr>
+  <tr>
+  <td style="padding-left: 8px;" bgcolor="#1c3a6e"><a class="submenu" href="../../actors/whoswho/"><kw class="krdwrd-tag-1">Who's Who</kw></a></td>
+</tr>
+</tbody></table></td>
+      </tr>
+      <tr>
+        <td><img src="../../../../images/dot.gif" height="1" width="1"></td>
+      </tr>
+      <tr>
+        <td><table border="0" cellpadding="3" cellspacing="0" width="100%">
+  
+  <tbody><tr>
+    <td style="padding-left: 8px;" bgcolor="#e7663c"><a class="submenu" href="../../actors/join_actorsdb/"><kw class="krdwrd-tag-1">Join Actors Database</kw></a></td>
+  </tr>
+  <tr>
+    <td style="padding: 0px;" bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td>
+  </tr>
+  
+  <tr>
+    <td style="padding-left: 8px;" bgcolor="#e7663c"><a class="submenu" href="../../actors/?id=462"><kw class="krdwrd-tag-1">Free Newsletter</kw></a></td>
+  </tr>
+  <tr>
+    <td style="padding: 0px;" bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td>
+  </tr>
+  
+  <tr>
+    <td style="padding-left: 8px;" bgcolor="#e7663c"><a class="submenu" href="../../actors/submit_news/"><kw class="krdwrd-tag-1">Submit News</kw></a></td>
+  </tr>
+  <tr>
+    <td style="padding: 0px;" bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td>
+  </tr>
+  
+  <tr>
+    <td style="padding-left: 8px;" bgcolor="#e7663c"><a class="submenu" href="../../gallery/"><kw class="krdwrd-tag-1">IFTN Gallery</kw></a></td>
+  </tr>
+  <tr>
+    <td style="padding: 0px;" bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td>
+  </tr>
+  
+  <tr>
+    <td style="padding-left: 8px;" bgcolor="#e7663c"><a class="submenu" href="../../sitemap/"><kw class="krdwrd-tag-1">Site Map</kw></a></td>
+  </tr>
+  <tr>
+    <td style="padding: 0px;" bgcolor="#ffffff"><img src="../../images/dot.gif" height="1" width="1"></td>
+  </tr>
+  
+</tbody></table>
+</td>
+      </tr>
+      <tr>
+        <td align="center" bgcolor="#999999" height="35"><a href="../../" style="color: rgb(255, 255, 255);"><b><kw class="krdwrd-tag-1">IFTN HOME</kw></b></a></td>
+      </tr>
+	        <tr>
+        <td align="center" bgcolor="#ffffff" height="2"><img src="../../images/dot.gif" height="1" width="1"></td>
+      </tr>
+	  <tr>
+        <td align="center" bgcolor="#1c3a6e"><img src="../../images/dot.gif" height="1" width="1"></td>
+      </tr>
+
+    </tbody></table>
+      </td>
+    <td style="padding-left: 10px; padding-right: 0px;" valign="top"><span class="smallest"><a class="a1" href="../../"><h4><kw class="krdwrd-tag-1">Irish Film and Television Network</kw></h4></a><kw class="krdwrd-tag-1">&nbsp;» </kw><a class="a1" href="../../actors/"><h4><kw class="krdwrd-tag-1">Actors</kw></h4></a><kw class="krdwrd-tag-1">&nbsp;» Actor Interviews       </kw></span><br><br><table border="0" width="100%">
+  <tbody><tr>
+    <td><h2 style="color: rgb(13, 21, 86); font-weight: bold; font-size: 13pt;"><kw class="krdwrd-tag-2">
+         Brendan Gleeson On 'Beowulf'
+      </kw></h2>
+        <br><kw class="krdwrd-tag-1">
+         15 Nov 2007
+      |
+       By Tanya Warren
+      </kw><br>
+      <br>
+      <table style="padding-right: 3px;" align="left" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td>
+              <img src="../../archive//storimag/beowulf-f.jpg" border="0"><br><font color="#999999" face="Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1"> Gleeson in Beowulf</kw></font></td>
+        </tr>
+      </tbody></table>
+      <div align="justify"><b>
+    <font color="#0d1556" size="2"><kw class="krdwrd-tag-3">  Using the very latest performance capture technology, Irish actor Brendan Gleeson teamed with innovative director Robert Zemeckis (The Polar Express, Cars, Forrest Gump) to help bring the mythical world of ‘Beowulf’ to life on the big screen.  IFTN talks to the actor ahead of the film’s release this weekend.</kw></font>
+        </b>
+          <p>
+          <font color="#0d1556" size="2">  </font></p><p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> Brendan Gleeson is known for his starring roles in epic adventures such as ‘Braveheart’, ‘Troy’, ‘Kingdom of Heaven’ and the ‘Harry Potter’ films, but nothing prepared him for his role as Wiglaf, the trusted friend of ‘Beowulf’, in an adaptation of the oldest surviving epic poem in the English language.&nbsp;&nbsp;</font></kw></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> Pushing the technological envelope designed for his 2004 hit animated feature ‘The Polar Express’, producer/director Robert Zemeckis combines performance capture techniques with traditional filmmaking and the newly developed EOG technology, which allows animators track muscle pulses in the actor’s eyelids, as well as facial expressions and body movements.&nbsp; Scenes are filmed in an enclosed black space, with the actors kitted out in suits that contain tiny sensors, and computerised technology digitally records their performance through cameras mounted on four sides of the room.</font></kw></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> Rolling out this weekend on 3D and 2D screens, ‘Beowulf’ promises a feast for the eyes with an all star cast including Anthony Hopkins, Robin Wright Penn, John Malknovich, Angelia Jolie and an almost unrecognisable, Ray Winstone, lining out alongside Gleeson. </font></kw></p>
+<table align="left" border="0" cellpadding="4" cellspacing="0" width="124">
+  <tbody><tr>
+    <td style="font-family: Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(153, 153, 153);" height="120" width="100%"><div> <img src="/archive/storimag/beowulfgleeson.jpg" border="1" height="157" width="250"><br>
+            <em><kw class="krdwrd-tag-1">Gleeson in Beowulf </kw></em></div></td>
+  </tr>
+</tbody></table>
+<p><font color="#0d1556" size="2"><strong><kw class="krdwrd-tag-3"> But was it the script, the new technology or the overall concept that attracted the acclaimed Irish actor to the film? </kw></strong><kw class="krdwrd-tag-3"> &nbsp;IFTN finds out…</kw></font></p>
+<p><font color="#0d1556" size="2"><strong><kw class="krdwrd-tag-3"> Brendan Gleeson: </kw></strong><kw class="krdwrd-tag-3"> The performance capture thing for a start attracted me. It was the whole process. When I met Robert Zemeckis that was what I found fascinating.&nbsp; At the time, I wasn’t particularly mad about the character because I was afraid it might be just a foil, a buddy thing, but after we talked about the character I found that there were possibilities which I think are quite interesting as well. I was glad I got the job, obviously, but then I was glad I jumped in the end. </kw></font></p>
+<p><font color="#0d1556" size="2"><strong><kw class="krdwrd-tag-3"> This filmmaking process is normally very quick, how long did you shoot for on set?</kw></strong></font></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> It was about six weeks shooting which is nothing for something of that scale, it would be six months really for anything that you would shoot in a conventional way. You do your research, do you’re rehearsal, go at it and then it’s done, it’s over and you move on. It’s really, really fast, you have to keep your wits about you, but it’s very exciting.</font></kw></p>
+<p><font color="#0d1556" size="2"><strong><kw class="krdwrd-tag-3"> How was wearing the suit? </kw></strong></font></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> It was embarrassing let’s be honest (laughs) but yeah, you just get over yourself and get on with it. It was weird – skull caps and things - we looked like nothing on earth. We looked like Mork and Mindy if anyone remembers that – they really looked like hokey alien suits. There’s no dignity in this profession! (laughs) </font></kw></p>
+<p><font color="#0d1556" size="2"><strong><kw class="krdwrd-tag-3"> Once the shoot was over, were you kept informed then of how the production was going?</kw></strong></font></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> No not really, and I wasn’t that interested either. Once I felt that the performance was in there, I was just hoping that that would maintain itself. You don’t really know that until you see the film put together. After that, I knew the whole animation process is kindof out of my area, but I knew it was going to be pretty wild.</font></kw></p>
+<p><font color="#0d1556" size="2"><strong><kw class="krdwrd-tag-3"> How did you find the challenge of working that way? Would you do it again?</kw></strong></font></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> There were a lot of plusses and a lot of minus’s about it. When you’re out on location everything is so immediate and real, which is sometimes fantastic. The context does the work for you and you find things from the context of where you are. So that aspect was missing. &nbsp;</font></kw></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> For example, with this method, if you’re supposed to be out in the sea you don’t quite know how you’re going to react, you think you know and that’s what you do. Whereas if you’re on the set, on the sea, it all feeds in and you’re brought into different places – so that’s kindof a minus side where you don’t get that immediate stimulus and you have to imagine a reaction as opposed to having one.</font></kw></p>
+<table align="left" border="0" cellpadding="4" cellspacing="0" width="124">
+  <tbody><tr>
+    <td style="font-family: Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(153, 153, 153);" height="120" width="100%"><div> <img src="/archive/storimag/beowulfhopkins.jpg" border="1" height="94" width="175"><br>
+            <em><kw class="krdwrd-tag-1">Ray Winstone &amp; Anthony Hopkins </kw></em></div></td>
+  </tr>
+</tbody></table>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2">On the plus side, there is huge interaction with people who are of a particular calibre, I mean you’re working with some of the best people, Anthony Hopkins, what a pleasure to work with somebody like that? It’s very immediate, very fast. You do a whole scene and you don’t have to cut it up into close-ups. Everything is done immediately so you get a dynamic that you usually only get in theatre where you can run a whole scene and that’s it, you’re not going to do it again unless you feel you really need to. You feel it’s almost like a live situation and you have to be on you’re toes, you have to be prepared but it does give it an organic element in that it rises and falls properly. I’d do it again. I’d do it with the right people. </font></kw></p>
+<p><font color="#0d1556" size="2"> <strong><kw class="krdwrd-tag-3"> Working with Robert Zemeckis must have been a huge draw for you?</kw></strong></font></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> Yeah it was.&nbsp; He was very particular and very professional. He places huge emphasis on characterisation and doing this film with real people and real characterisations as against just chucking it out and having it like a very interesting video game. He wanted to have actual characters within the film.</font></kw></p>
+<p><font color="#0d1556" size="2"><strong><kw class="krdwrd-tag-3"> And this work is much more than just a voice over for animation?</kw></strong></font></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> It’s a total performance that goes into it. That’s the way it was filmed, that’s the way we rehearsed it. Everything that happens we did, or we simulated it. It’s definitely much more than just a voice over but they can do what they want with it afterwards, sure look at what they did to Ray Winstone! </font></kw></p>
+<p><font color="#0d1556" size="2"><strong><kw class="krdwrd-tag-3"> Did you like seeing yourself transformed so much on screen like that? Seeing the younger version of yourself and even Ray, who is a good friend of yours, being completely changed with a six pack and everything!</kw></strong></font></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> It’s kindof scary really. I mean it’s brilliant and it’s buzzy and fun but it’s a bit scary in the end if that’s the way it’s going to go in the future, you’ve got to be very careful who you work with and who you will allow access to that kindof thing. It’s not that you’re afraid they’ll turn you into a monster but they could make performances very bland, they could wreck and undermine a lot of what your work is.&nbsp; You’ve got to be careful how you handle all this. I can see a lot of small print coming around in contracts for people who could misuse this technology. So that’s a bit scary.</font></kw></p>
+<table align="left" border="0" cellpadding="4" cellspacing="0" width="124">
+  <tbody><tr>
+    <td style="font-family: Arial,Helvetica,sans-serif; font-size: 10px; color: rgb(153, 153, 153);" height="120" width="100%"><div> <img src="/archive/storimag/beowulfwinstone.jpg" border="1" height="165" width="175"><br>
+            <em><kw class="krdwrd-tag-1">Ray Winstone in Beowulf </kw></em></div></td>
+  </tr>
+</tbody></table>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2">On the other hand the idea that you could do anything, go anywhere, the possibilities are endless if you’re working with creative people who value that. I always think the humanity at the centre of any film is going to be an important bit. If you get that right you’re going to be interested. If you don’t get that right you could have all the technology in the world and it’s just dull. People will get bored of it very quickly because it’s just confetti, there’s new technology every day. It’s really exciting the doors are going to open – and I think there will probably be a lot of bad films made, but we’ll steer clear of those (laughs). </font></kw></p>
+<p><font color="#0d1556" size="2"><strong><kw class="krdwrd-tag-3">There is a worry among some actors that the advent of technology like this could be the end for actors, and then there is the argument that the actors will always be needed to bring a character to life. What’s your take on that?</kw></strong></font></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> In the end I think people will be bored with technology that’s simply just technology. It’s going to be the human aspect of it that works.</font></kw></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> That’s what has been the basis for all these myths and legends. You had people who could fly, people who could create stairways from rocks across oceans, people who could make islands and huge things… but it was always about the smallness of their faults, that pettiness of their emotions, their feelings, their jealousies. Like you’d Queen Maeve argueing over the Brown Bull of Wherever and they’d go to war over it, but it’s always about pillow talk between Maeve and Ailill in the bed, that’s what it comes down to – that’s what were interested in.</font></kw></p>
+<p><kw><font class="krdwrd-tag-3" color="#0d1556" size="2"> In the end it’s never going to be about “guess what a guy flew over the top of the island” that’s not interesting, what’s interesting is the reason why he flew? Was he banished by somebody who was jealous of him? Or whatever.&nbsp; The actors are the ingredient in there, and the writers are the people who are going to be keeping the human interest alive. I know maybe though, a lot of actors might not get work because of this technology. In lesser projects, you’re going to get generic Yellow Pack films coming out that are basically actor free, and they’re going to be crap. Somewhere along the line that’s going to happen but I think the possibilities are huge.</font></kw></p>
+<ul>
+<font color="#0d1556" size="2">  <li><kw class="krdwrd-tag-1"> ‘Beowulf’ is released nationwide from 16th November 2007 through Warner Bros Pictures. </kw></li>
+  <li><kw class="krdwrd-tag-1"> See ‘Beowulf’ in 3D at Movies @ Dundrum and IMC Dun Laoghaire. </kw></li>
+  <li><a href="http://www.beowulfmovie.com/" target="new"><kw class="krdwrd-tag-1">www.beowulfmovie.com</kw></a> </li>
+</font></ul><font color="#0d1556" size="2"></font>
+          <p></p>
+    </div></td>
+  </tr>
+</tbody></table> <table width="100%">       
+
+<tbody><tr>
+  <td bgcolor="#f3f3f5" valign="top"><strong><font color="#1c3a6e"><kw class="krdwrd-tag-1">&nbsp;RELATED NEWS STORIES: </kw></font></strong></td>
+</tr>
+<tr><td valign="top">
+<img src="../../images/arrow_new.gif" height="10" width="12">&nbsp;
+<font color="#32307b" face="verdana,arial,helvetica" size="1"><kw class="krdwrd-tag-1">12 Mar 2008&nbsp;</kw><a href="?act1=record&amp;only=1&amp;aid=73&amp;rid=4281054&amp;tpl=archnews&amp;force=1"><kw class="krdwrd-tag-1">Gleeson Joins Damon for Greengrass Thriller</kw></a></font>
+</td>
+</tr>
+
+<tr><td valign="top">
+<img src="../../images/arrow_new.gif" height="10" width="12">&nbsp;
+<font color="#32307b" face="verdana,arial,helvetica" size="1"><kw class="krdwrd-tag-1">10 Mar 2008&nbsp;</kw><a href="?act1=record&amp;only=1&amp;aid=73&amp;rid=4281048&amp;tpl=archnews&amp;force=1"><kw class="krdwrd-tag-1">'In Bruges' No.1 At Irish Box Office</kw></a></font>
+</td>
+</tr>
+
+<tr><td valign="top">
+<img src="../../images/arrow_new.gif" height="10" width="12">&nbsp;
+<font color="#32307b" face="verdana,arial,helvetica" size="1"><kw class="krdwrd-tag-1">08 Feb 2008&nbsp;</kw><a href="?act1=record&amp;only=1&amp;aid=73&amp;rid=4280996&amp;tpl=archnews&amp;force=1"><kw class="krdwrd-tag-1">IFTA To Honour Film Icon Mel Gibson</kw></a></font>
+</td>
+</tr>
+
+<tr><td valign="top">
+<img src="../../images/arrow_new.gif" height="10" width="12">&nbsp;
+<font color="#32307b" face="verdana,arial,helvetica" size="1"><kw class="krdwrd-tag-1">02 Feb 2008&nbsp;</kw><a href="?act1=record&amp;only=1&amp;aid=73&amp;rid=4280987&amp;tpl=archnews&amp;force=1"><kw class="krdwrd-tag-1">Derek, Corbett, Dillon &amp; McDonnell For IFTAs</kw></a></font>
+</td>
+</tr>
+
+</tbody></table>
+<hr>
+
+<table align="center" border="0" cellpadding="4" cellspacing="0" width="100%">  
+  <tbody><tr><td><a href="javascript:history.back(1);"><strong><kw class="krdwrd-tag-1">« Go back</kw></strong></a></td>
+</tr></tbody></table>       <br>
+       <br>
+       <script>
+var cleared = false;
+
+function doClear(what){
+  if(!cleared) {
+    what.value = '';
+	cleared = true;
+  }
+}
+
+function checkSearch(pressed){
+  var i, el, s;
+  var frm = document.forms['searchFrm'];
+  if(pressed=='ws') {
+    if(frm.elements['ws'].checked) {
+      for (i=0; i<frm.elements.length; i++) {
+        el = frm.elements[i];
+        s = " "+el.id.toString();
+        if(s.search('ar')>0) {        
+//          alert(el.id);
+          el.checked = true;
+        }
+      }
+    }
+  } else {
+    el = frm.elements[pressed];
+    if(!el.checked) frm.elements['ws'].checked = false;
+  }
+}
+</script>
+<input name="action" value="search" type="hidden">
+  <table border="0" cellpadding="3" cellspacing="0" width="100%">
+<form action="./" method="get" name="searchFrm"></form>
+<tbody><tr>
+    <td bgcolor="#f2f2f2" valign="top" width="55%"><input name="s" id="s" style="width: 95%;" value="search" onclick="doClear(this)" type="text"></td>
+	<td bgcolor="#f2f2f2" valign="bottom"><input src="../../images/go1.gif" style="border: 0px none;" type="image"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left" bgcolor="#f2f2f2" valign="top" nowrap="nowrap"><font size="1">
+     <input name="ws" style="border: 0px none;" value="1" checked="checked" id="ws" onclick="checkSearch('ws')" type="checkbox"><kw class="krdwrd-tag-1">&nbsp;the Website 
+     </kw><input name="ar[]" id="ar0" value="0" style="border: 0px none;" checked="checked" onclick="checkSearch('ar0')" type="checkbox"><kw class="krdwrd-tag-1">&nbsp;Directory List  
+     </kw><input name="ar[]" id="ar1" value="1" style="border: 0px none;" checked="checked" onclick="checkSearch('ar1')" type="checkbox"><kw class="krdwrd-tag-1">&nbsp;Festivals  
+     </kw><input name="ar[]" id="ar2" value="2" style="border: 0px none;" checked="checked" onclick="checkSearch('ar2')" type="checkbox"><kw class="krdwrd-tag-1">&nbsp;Who's Who  
+     </kw><input name="ar[]" id="ar3" value="3" style="border: 0px none;" checked="checked" onclick="checkSearch('ar3')" type="checkbox"><kw class="krdwrd-tag-1">&nbsp;Locations  
+     </kw><input name="ar[]" id="ar4" value="4" style="border: 0px none;" checked="checked" onclick="checkSearch('ar4')" type="checkbox"><kw class="krdwrd-tag-1">&nbsp;Filmography  
+     </kw><input name="ar[]" id="ar5" value="5" style="border: 0px none;" checked="checked" onclick="checkSearch('ar5')" type="checkbox"><kw class="krdwrd-tag-1">&nbsp;News  
+    </kw></font></td>
+  </tr>
+
+</tbody></table>
+</td>
+    <td valign="top" width="0">
+         </td>
+       	   
+  </tr>
+</tbody></table>
+</td><td valign="top" width="0"><div style="padding-left: 1px; padding-top: 110px;"></div></td>
+</tr>
+</tbody></table>
+</body>

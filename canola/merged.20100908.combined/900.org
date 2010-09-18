@@ -1,0 +1,428 @@
+<head><base href="http://www.theafricamonitor.com/articles/march2008/310308/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- InstanceBegin template="/Templates/news.dwt" codeOutsideHTMLIsLocked="false" --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --><!-- InstanceBeginEditable name="doctitle" --><title>The Africa Monitor - Somalia's Government Teeters on Collapse</title><!-- InstanceEndEditable --><!-- InstanceEnd -->
+
+
+
+
+
+ 
+
+<style>
+
+A {
+	COLOR: #31639c;  TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #31639c;  TEXT-DECORATION: none
+}
+
+</style></head><body leftmargin="0" topmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" width="755">
+  <tbody><tr> 
+    <td colspan="3" height="75"> <div align="left"><img src="../../../images/banner1.gif" height="75" width="755"></div></td>
+  </tr>
+  <tr> 
+    <td colspan="3"><img src="../../../images/whiteln.gif" height="1" width="100%"></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#ffc13a" height="32" width="8"> <div align="left"><font color="#2a2a2a" face="arial,helvetica" size="2"><strong> 
+        </strong> <strong> </strong></font></div></td>
+    <td bgcolor="#ffc13a" valign="top" width="182"><font color="#2a2a2a" face="arial,helvetica" size="2"> 
+      <script language="JavaScript1.2">
+
+<!-- JavaScript to display current date in Static HTML Pages   -->
+<!-- Author: Alemayehu K.  -->
+<!-- Begin
+var months=new Array(13);
+var days=new Array(8);
+months[1]="January";
+months[2]="February";
+months[3]="March";
+months[4]="April";
+months[5]="May";
+months[6]="June";
+months[7]="July";
+months[8]="August";
+months[9]="September";
+months[10]="October";
+months[11]="November";
+months[12]="December";
+days[2]="Monday";
+days[3]="Tuesday";
+days[4]="Wednesday";
+days[5]="Thursday";
+days[6]="Friday";
+days[7]="Saturday";
+days[1]="Sunday";
+var time=new Date();
+var lmonth=months[time.getMonth() + 1];
+var lday=days[time.getDay() + 1];
+var date=time.getDate();
+var year=time.getYear();
+if (year < 2000)    
+year = year + 1900; 
+document.write("<left>" + lday + " " + lmonth + " ");
+document.write(date + ", " + year + "</left>");
+// End -->
+</script><left class="krdwrd-tag-1">Saturday January 31, 2009</left><left><kw class="krdwrd-tag-1">Monday June 30, 2008</kw></left>
+      </font></td>
+    <td align="right" bgcolor="#ffc13a" valign="middle" width="566"> <table width="100%">
+        <tbody><tr><td align="right" valign="middle"> <form action="http://search.freefind.com/find.html" method="get" target="_blank">
+            <font face="arial,helvetica" size="2"><strong><kw class="krdwrd-tag-1">Search :</kw></strong></font><font face="arial,helvetica" size="1"> 
+            <input name="id" value="81282342" type="hidden">
+            <input name="pid" value="r" type="hidden">
+            <input name="mode" value="ALL" type="hidden">
+            <input name="n" value="0" type="hidden">
+            <input name="query" size="20" type="text">
+            <input value=" Find! " type="submit">
+            <input name="sitemap" value="Site Map" type="submit">
+            </font> </form></td>
+      </tr></tbody></table></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="755">
+  <tbody><tr> 
+    <td bgcolor="#ffc13a" height="650" valign="top" width="1%">&nbsp; </td>
+    <td bgcolor="#ffc13a" valign="top" width="21%"> <table align="left" border="0" width="100%">
+        <tbody><tr> 
+          <td height="22"><font color="#ffffff"><a style="text-decoration: none;" href="../../../index.htm"><font arial,="" helvetica,="" sans-serif="" face="Verdana," size="2"><kw class="krdwrd-tag-1">Home</kw></font></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="../../../images/purpleln.gif" height="1" width="100%"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff" face="Arial"><a style="text-decoration: none;" href="../../../news/african/index.htm"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">African 
+            News </kw></font></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="../../../images/purpleln.gif" height="1" width="100%"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff" face="Arial"><a style="text-decoration: none;" href="../../../news/world/index.htm"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">U.S., 
+            Canada &amp; Africa</kw></font></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="../../../images/purpleln.gif" height="1" width="100%"></font></td>
+        </tr>
+        <tr> 
+          <td height="22"><font color="#ffffff"><a style="text-decoration: none;" href="../../../news/europeandafrica/index.htm"><font arial,="" helvetica,="" sans-serif="" face="Verdana," size="2"><kw class="krdwrd-tag-1">Europe &amp; Africa</kw></font></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="../../../images/purpleln.gif" height="1" width="100%"></font></td>
+        </tr>
+        <tr> 
+          <td height="22"><font arial,="" helvetica,="" sans-serif="" color="#ffffff" face="Verdana," size="2"><a style="text-decoration: none;" href="../../../artcorner/index.htm"><kw class="krdwrd-tag-1">Art Corner</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="../../../images/purpleln.gif" height="1" width="100%"></font></td>
+        </tr>
+        <tr> 
+          <td height="22"><font color="#ffffff" face="Arial"><a style="text-decoration: none;" href="../../../travel/index.htm"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Travel/Tourism</kw></font></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="../../../images/purpleln.gif" height="1" width="100%"></font></td>
+        </tr>
+        <tr> 
+          <td height="22"><font color="#ffffff" face="Arial"><a style="text-decoration: none;" href="../../../aboutus/index.htm"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">About 
+            Us </kw></font></a></font></td>
+        </tr>
+        <tr> 
+          <td height="3"><font color="#ffffff"><img src="../../../images/purpleln.gif" height="1" width="100%"></font></td>
+        </tr>
+        <tr> 
+          <td height="114"><a href="../../../resources/index.htm"><img src="../../../images/theafricamonitor2.gif" border="0" height="112" width="135"></a></td>
+        </tr>
+        <tr> 
+          <td height="21">&nbsp;</td>
+        </tr>
+      </tbody></table></td>
+    <td valign="top" width="2%"><img src="../../../images/goldencrnr.gif" height="10" width="10"></td>
+    <td rowspan="2" valign="top" width="76%"><table border="0" width="100%">
+        <tbody><tr> <!-- InstanceBeginEditable name="newstitle" --> 
+          <td height="23"><div align="center"><strong><font color="#990099" face="Verdana, Arial, Helvetica, sans-serif" size="5"><kw class="krdwrd-tag-2">Somalia's 
+              Government Teeters </kw><br><kw class="krdwrd-tag-2">
+              on Collapse </kw></font></strong></div>
+            <div align="center"><font color="#990099" face="Verdana, Arial, Helvetica, sans-serif" size="5"></font><font color="#990099" face="Verdana, Arial, Helvetica, sans-serif" size="5"><strong><br>
+              </strong></font></div></td>
+          <!-- InstanceEndEditable --></tr>
+        <tr> 
+          <td><img src="../../../images/whiteln.gif" height="1" width="100%"></td>
+        </tr>
+        <tr> <!-- InstanceBeginEditable name="newseditor" --> 
+          <td height="18" valign="top"> <div align="left"> 
+              <p align="right"><strong><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Reuters</kw></font></strong></p>
+            </div></td>
+          <!-- InstanceEndEditable --></tr>
+        <tr> <!-- InstanceBeginEditable name="newsbody" -->
+          <td align="justify" height="102"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            <strong> <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-2">MOGADISHU, 
+            Somalia(March 31, 2008)</kw></font></strong></font><kw class="krdwrd-tag-3"> - </kw><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The 
+            trouble started when government soldiers went to the market and, at 
+            gunpoint, began to help themselves to sacks of grain last week.</kw><br>
+            <br>
+            <strong><kw class="krdwrd-tag-2">Somalia on the Brink </kw></strong><br><kw class="krdwrd-tag-3">
+            Islamist insurgents poured into the streets to defend the merchants. 
+            The government troops took heavy casualties and retreated all the 
+            way back to the presidential palace, supposedly the most secure place 
+            in the city. It, too, came under fire.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Mohamed Abdirizak, a top government official, crouched on a balcony 
+            at the palace, with bullets whizzing over his head. He had just given 
+            up a comfortable life as a development consultant in Springfield, 
+            Va. His wife thought he was crazy. Sweat beaded on his forehead.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "I feel this slipping away," he said.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            By its own admission, the Transitional Federal Government of Somalia 
+            is on life support. When it took power here in the capital 15 months 
+            ago, backed by thousands of Ethiopian troops, it was widely hailed 
+            as the best chance in years to end Somalia's ceaseless cycles of war 
+            and suffering.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            But now its leaders say that unless they get more help - international 
+            peacekeepers, weapons, training and money to pay their soldiers, among 
+            other things - this transitional government will fall just like the 
+            13 governments that came before it. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Less than a third of the promised African Union soldiers have arrived, 
+            the United Nations has shied away from sending peacekeepers and even 
+            the Ethiopians are taking a back seat, often leaving the government's 
+            defense to teenage Somalis with clackety guns who are overwhelmed. 
+            </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            The Islamists have been gaining recruits, overrunning towns and becoming 
+            bolder. The new prime minister, credited as the government's best 
+            - and possibly last - hope, is reaching out to them, and some are 
+            receptive. But it is unclear whether he has the power within his own 
+            divided government to strike a meaningful peace deal before it is 
+            too late.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            The looming failure is making many people here and abroad question 
+            the strategy of installing the transitional government by force. In 
+            December 2006, Ethiopian troops, aided by American intelligence, ousted 
+            the Islamist administration that briefly controlled Mogadishu, bringing 
+            the transitional government to the city for the first time. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            The Bush administration said it was concerned about terrorists using 
+            Somalia as a sanctuary. The hunt for them continued with a recent 
+            American cruise missile strike aimed at a suspect in southern Somalia, 
+            but it missed, and wounded several civilians and promptly incited 
+            protests. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Many Somalis, European diplomats and critics in Congress also question 
+            the State Department's decision this month to label a Somali resistance 
+            group a terrorist organization, which many fear will only raise its 
+            profile among the increasingly disillusioned populace.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "The policy has failed," said Representative Donald M. Payne, 
+            Democrat of New Jersey and chairman of the House Foreign Affairs Subcommittee 
+            on Africa and Global Health. "We're Baghdad-izing Mogadishu and 
+            Somalia. We're making people feel wrongly treated and pushing them 
+            toward more radical positions."</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            In recent weeks, the Islamists have routed warlords and militiamen 
+            who have been absorbed into the government forces but are undermining 
+            what little progress transitional leaders have made with their predatory 
+            tactics, like stealing food. After 17 years of civil war, Somalia's 
+            violence seems to be driven not so much by clan hatred, ideology or 
+            religiosity, but by something much simpler: survival.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "We haven't been paid in eight months," said a government 
+            soldier named Hassan, who said he could not reveal his last name. 
+            "We rob people so we can eat."</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Nur Hassan Hussein, the prime minister, does not deny that government 
+            troops rob civilians. "This is the biggest problem we have," 
+            he said in an interview this month.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            But, he said, he does not have the money to pay them. Each month, 
+            more than half of government's revenue, mostly from port taxes, disappears 
+            - stolen by "our people," the prime minister said.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            That leaves Mr. Nur with about $18 million a year to run a failed 
+            state of nine million of some of the world's neediest, most collectively 
+            traumatized people.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            And a failed state may be a generous term. In many ways, Somalia is 
+            not a state at all, but more a lawless space between its neighbors 
+            and the sea. Sometimes it seems that if anything binds this country 
+            together, it is scar tissue. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            A man comforts a woman in line for food being given away by an aid 
+            organization in Mogadishu, Somalia. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Take Hassan Ali Elmi, who was blinded by a bullet in 1992 and has 
+            been living ever since in a cell-like room in the gutted former Ministry 
+            of Public Works building. His son tugs him into town to beg for the 
+            equivalent of a few pennies a day, which buy less and less. At night, 
+            he lies on a thin foam mattress and waits for the shooting to stop. 
+            It doesn't. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "All Somalia, all gun," he said.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            His neighbors are recently displaced people living in cardboard huts 
+            that crumble in the rain. Aid organizations say that more than half 
+            of Mogadishu's estimated one million people are on the run.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            War, drought, displacement, high food prices and the exodus of aid 
+            workers, many of the elements that lined up in the early 1990s to 
+            create a famine, are lining up again. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            The United Nations World Food Program said on Thursday, in a warning 
+            titled "Somalia Sinking Deeper Into Abyss of Suffering," 
+            that the country was the most dangerous in the world for aid workers.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Most Somalis do not argue with that. They say Mogadishu is more capriciously 
+            violent than it has ever been, with roadside bombs, militias shelling 
+            one another across neighborhoods, doctors getting shot in the head 
+            and 10-year-olds hurling grenades. Police officials said that many 
+            insurgents were actually hungry children paid a few dollars for their 
+            work. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            In the shrinking zone that the government controls in southern Mogadishu, 
+            a couple of buildings have been splashed with a fresh coat of paint. 
+            Girls wearing bandannas dribble basketballs in a gym. Men sell fish 
+            by the seaside. A beat of life goes on. But north Mogadishu is another 
+            story.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "It's like 'Mad Max' out there," said Abdi Awaleh Jama, 
+            an ambassador at large, pointing from the presidential palace north 
+            toward the expanse of huts and ruins stretching into the distance.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            In the rat-tat-tat of nightly machine-gun fire, people are beginning 
+            to hear the government's death knell. Many residents have mixed feelings 
+            about this. They contend that the government has enabled warlords. 
+            They say, almost without exception, that things were better under 
+            the Islamists. But they fear what lies ahead.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "We're getting addicted to anarchy," said Dahabo Abdulleh, 
+            a fuel seller.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Mr. Nur, a former Red Crescent official who became prime minister 
+            in November, is trying to peel away moderate Islamists from militant 
+            ones and get them to negotiate. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            He is making concessions to business leaders, who are widely suspected 
+            of financing the Islamists out of clan allegiances, and allowing them 
+            to form their own protection force. United Nations officials are trying 
+            to help Mr. Nur's prospects by providing $14 million to pay key government 
+            salaries and fix up ministries. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "This is urgent," said William Paton, the acting United 
+            Nations coordinator for Somalia. "They are on thin ice."</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Government officials say much of the resistance is simply spoilers 
+            who are deeply invested in the status quo of chaos, like gun runners, 
+            counterfeiters and importers of expired baby formula.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            But some of the men believed to be the biggest spoilers are part of 
+            the government. To get clan support and - just as crucially - more 
+            militiamen, transitional leaders have cut deals with warlords like 
+            Mohammed Dheere, now Mogadishu's mayor, and Abdi Qeybdid, now the 
+            police chief. These are the same men whom the C.I.A. paid in 2006 
+            to fight the Islamists, a strategy that backfired because the population 
+            turned against them, mostly because of their legacy of terrorizing 
+            civilians.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Hassan, the government soldier, said he had been in one of these warlord 
+            militias since he was 8. He cannot read or write. He has thin wrists, 
+            a delicate face, empty eyes and a wife and two children to feed, which 
+            is why he said he routinely robs people. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "We are losing," he said.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            He said many of his friends were defecting to the Islamists because 
+            that was the only way to survive.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            The Islamists have briefly captured several towns in recent weeks, 
+            freeing prisoners, snatching weapons and then melting back into the 
+            bush. Gone are the beards and the checkered scarves they used to wear. 
+            Many, like a young man named Elmi, are clean-shaven and favor crisply 
+            pressed suits.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Elmi, who like Hassan said he could not reveal his last name, said 
+            business owners sold gold, real estate and sheep to raise money for 
+            the Islamists. Elmi said that he was part of the battle at the market 
+            on March 20 that began with the looting, and that the government lost 
+            three trucks, which was corroborated by government soldiers.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "We were there because we are everywhere," Elmi said.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Mr. Abdirizak, the government official, buried some of the victims 
+            of that battle, young government troops who were slipped into graves 
+            behind the presidential palace in the moonlight.</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            A soldier, Abdi Rashid, had been wounded in another firefight about 
+            a month before, and according to Mr. Abdirizak, "he shouldn't 
+            even have been out there that day. It's just that we don't have enough 
+            guys."</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Mr. Abdi was shot in the heart at the market as the Islamists surrounded 
+            government troops. His last words to his friends, who wanted to carry 
+            him to safety, were, "Get out of here, get out of here!"</kw><br>
+            <br><kw class="krdwrd-tag-3">
+            Mr. Abdirizak fell silent. </kw><br>
+            <br><kw class="krdwrd-tag-3">
+            "I'm not sure how long I'll stay," he finally said. "I 
+            want to help. But I didn't come here to get killed." </kw></font> 
+            <p><br>
+            </p> 
+            <p></p> 
+            <p></p></td>
+          <!-- InstanceEndEditable --></tr>
+        <tr> 
+          <td height="79" valign="middle"> <div align="center"> 
+              <p>&nbsp;</p>
+              <p><img src="../../../images/purpleln.gif" height="1" width="30%"></p>
+              <p>&nbsp;</p>
+            </div></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td colspan="2" bgcolor="#ffc13a" height="240" valign="bottom"> <div align="left"><img src="../../../images/goldenbottomcrnrext.gif" height="10" width="9"></div></td>
+    <td height="240" valign="bottom"><img src="../../../images/goldenbottomcrnr.gif" height="10" width="10"></td>
+  </tr>
+  <tr> 
+    <td colspan="4"><div align="right"><img src="../../../images/glodenhrln.gif" height="1" width="98%"></div></td>
+  </tr>
+  <tr> 
+    <td colspan="4" height="157"> 
+      <div align="center"> 
+        <table border="0" width="99%">
+          <tbody><tr> 
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr> 
+            <td valign="top" width="24%"><img src="../../../images/sitedesignedby.gif" height="25" width="150"></td>
+            <td width="50%"><p align="center"><font face="Arial, Helvetica, sans-serif" size="1"><a href="file:///D%7C/index.htm"><kw class="krdwrd-tag-1">Home</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="../../../news/african/index.htm"><kw class="krdwrd-tag-1">African News</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="../../../news/world/index.htm"><kw class="krdwrd-tag-1">U.S., Canada &amp; Africa</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="../../../business/index.htm"><kw class="krdwrd-tag-1">Europe &amp; Africa</kw></a></font></p>
+              <p align="center"><font face="Arial, Helvetica, sans-serif" size="1"><a href="../../../travel/index.htm"><kw class="krdwrd-tag-1">Travel/Tourism</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="../../../vacancy/index.htm"><kw class="krdwrd-tag-1">Vacancies</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="../../../aboutus/index.htm"><kw class="krdwrd-tag-1">About 
+                Us</kw></a></font></p>
+              </td>
+            <td width="26%">&nbsp;</td>
+          </tr>
+        </tbody></table>
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+          <tbody><tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="155"><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif"><strong><kw class="krdwrd-tag-1">Subscribe 
+                </kw></strong></font></div></td>
+            <td width="162"><font face="Verdana, Arial, Helvetica, sans-serif"><strong><img src="../../../images/theafricamonitorsml.gif" height="22" width="156"></strong></font></td>
+            <td width="283"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+              <strong><kw class="krdwrd-tag-1"> Call 888-507-8374</kw></strong></font></td>
+          </tr>
+        </tbody></table>
+        <p><font color="#333366" face="Verdana"><b><font size="2"><kw class="krdwrd-tag-1">Copyright © 2003-2004, The Africa Monitor. All rights reserved.</kw></font></b></font><font size="2"> 
+          </font></p>
+        <p><kw class="krdwrd-tag-1">If you have any comments regarding the site mail to the </kw><a href="mailto:webmaster@thedailymonitor.com"><kw class="krdwrd-tag-1">webmaster</kw></a><kw class="krdwrd-tag-1">.</kw></p>
+      </div></td>
+  </tr>
+</tbody></table>
+
+
+</body>

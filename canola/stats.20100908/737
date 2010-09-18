@@ -1,0 +1,251 @@
+<head><base href="http://wiki.mozilla.org/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+	
+			<meta name="keywords" content="Calendar:Calendar View,Chris281">
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="MozillaWiki (English)"><title>Calendar:Calendar View - MozillaWiki</title>
+	
+	<style type="text/css" media="screen,projection">/*<![CDATA[*/ @import "/skins/cavendish/main.css"; /*]]>*/</style>
+	<link rel="stylesheet" type="text/css" media="print" href="/skins/common/commonPrint.css">
+	<script type="text/javascript">/*<![CDATA[*/
+var skin = "cavendish";
+var stylepath = "/skins";
+var wgArticlePath = "/$1";
+var wgScriptPath = "";
+var wgServer = "http://wiki.mozilla.org";
+var wgCanonicalNamespace = "Calendar";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 102;
+var wgPageName = "Calendar:Calendar_View";
+var wgTitle = "Calendar View";
+var wgAction = "view";
+var wgArticleId = "16193";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserGroups = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "60770";
+/*]]>*/</script>
+	<script type="text/javascript" src="/index.php?title=-&amp;action=raw&amp;gen=js"></script>	<script type="text/javascript" src="/skins/common/wikibits.js"></script>
+	<style type="text/css">/*<![CDATA[*/
+@import "/index.php?title=MediaWiki:Common.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=18000";
+@import "/index.php?title=MediaWiki:Cavendish.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=18000";
+@import "/index.php?title=-&action=raw&gen=css&maxage=18000";
+/*]]>*/</style></head><body class="ns-102">
+
+<div id="internal"></div>
+<div id="container">
+
+	<div id="mozilla-org"><a href="http://www.mozilla.org/"><kw class="krdwrd-tag-1-100">Visit Mozilla.org</kw></a></div>
+
+		<div id="header">
+		<a name="top" id="contentTop"></a>
+		<h1><a href="/Main_Page" title="Main Page"><kw class="krdwrd-tag-1-100">Calendar:Calendar View</kw></a></h1>
+		<ul>
+		   	<li class="selected"><a href="/Calendar:Calendar_View"><kw class="krdwrd-tag-1-100">Calendar</kw></a></li><li><a href="/Calendar_Talk:Calendar_View"><kw class="krdwrd-tag-1-100">Discussion</kw></a></li><li><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit"><kw class="krdwrd-tag-1-100">Edit</kw></a></li><li><a href="/index.php?title=Calendar:Calendar_View&amp;action=history"><kw class="krdwrd-tag-1-100">History</kw></a></li>		</ul>
+		<form name="searchform" action="/Special:Search" id="search">
+			<div>
+			<label for="q"><kw class="krdwrd-tag-1-100">Search</kw></label>
+			<input id="q" name="search" accesskey="f" value="" type="text">
+			<input name="go" class="searchButton" id="searchGoButton" value="Go" type="submit">&nbsp;<input name="fulltext" class="searchButton" value="Search" type="submit">
+	       </div>
+		</form>
+	</div>
+
+	<div id="mBody">
+	
+		<div id="side">
+			<ul id="nav">
+				<li><span><kw class="krdwrd-tag-1-100">Personal tools</kw></span>
+					<ul>
+					<li id="pt-login"><a title="You are encouraged to log in, it is not mandatory however. [alt-o]" accesskey="o" href="/index.php?title=Special:Userlogin&amp;returnto=Calendar:Calendar_View"><kw class="krdwrd-tag-1-100">Log in / create account</kw></a></li>					</ul>
+				</li>
+				<li><span><kw class="krdwrd-tag-1-100">Navigation</kw></span>
+					<ul>
+				       					   					     <li id="n-mainpage"><a title="Visit the Main Page [alt-z]" accesskey="z" href="/Main_Page"><kw class="krdwrd-tag-1-100">Main Page</kw></a></li>
+					    					     <li title="About the project, what you can do, where to find things" id="n-portal"><a href="/MozillaWiki:Community_Portal"><kw class="krdwrd-tag-1-100">Community portal</kw></a></li>
+					    					     <li title="Find background information on current events" id="n-currentevents"><a href="http://www.mozillazine.org/"><kw class="krdwrd-tag-1-100">Mozilla News</kw></a></li>
+					    					     <li id="n-recentchanges"><a title="The list of recent changes in the wiki. [alt-r]" accesskey="r" href="/Special:Recentchanges"><kw class="krdwrd-tag-1-100">Recent changes</kw></a></li>
+					    					     <li id="n-randompage"><a title="Load a random page [alt-x]" accesskey="x" href="/Special:Random"><kw class="krdwrd-tag-1-100">Random page</kw></a></li>
+					    					     <li title="The place to find out." id="n-help"><a href="/Help:Contents"><kw class="krdwrd-tag-1-100">Help</kw></a></li>
+					    					     <li title="Support us" id="n-sitesupport"><a href="/MozillaWiki:Site_support"><kw class="krdwrd-tag-1-100">Donations</kw></a></li>
+					    				
+					</ul>
+				</li>
+				<li><span><kw class="krdwrd-tag-1-100">Toolbox</kw></span>
+					<ul>
+					  					  <li id="t-whatlinkshere"><a title="List of all wiki pages that link here [alt-j]" accesskey="j" href="/Special:Whatlinkshere/Calendar:Calendar_View"><kw class="krdwrd-tag-1-100">What links here</kw></a></li>
+					  					  <li id="t-recentchangeslinked"><a title="Recent changes in pages linked from this page [alt-k]" accesskey="k" href="/Special:Recentchangeslinked/Calendar:Calendar_View"><kw class="krdwrd-tag-1-100">Related changes</kw></a></li>
+					  				      				      				      				      				      				      				      <li id="t-upload"><a title="Upload images or media files [alt-u]" accesskey="u" href="/Special:Upload"><kw class="krdwrd-tag-1-100">Upload file</kw></a></li>				      				      <li id="t-specialpages"><a title="List of all special pages [alt-q]" accesskey="q" href="/Special:Specialpages"><kw class="krdwrd-tag-1-100">Special pages</kw></a></li>				      					</ul>
+				</li>
+							</ul>
+		</div><!-- end of SIDE div -->
+		
+		<div id="mainContent">
+			
+			<h1><kw class="krdwrd-tag-1-80">Calendar:Calendar View</kw></h1>
+			<h3 id="siteSub"><kw class="krdwrd-tag-1-80">From MozillaWiki</kw></h3>
+			<div id="contentSub"></div>
+									<!-- start content -->
+			<table id="toc" class="toc" summary="Contents"><tbody><tr><td><div id="toctitle"><h2><kw class="krdwrd-tag-1-100">Contents</kw></h2> <span class="toctoggle"><kw class="krdwrd-tag-1-100">[</kw><a href="javascript:toggleToc()" class="internal" id="togglelink"><kw class="krdwrd-tag-1-100">hide</kw></a><kw class="krdwrd-tag-1-100">]</kw></span> <span class="toctoggle krdwrd-tag-1-100">[<a href="javascript:toggleToc()" class="internal krdwrd-tag-1-100" id="togglelink">hide</a>]</span></div>
+<ul>
+<li class="toclevel-1"><a href="#Calendar_View_Proposal_A_Collection_of_IDeas"><span class="tocnumber"><kw class="krdwrd-tag-1-100">1</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Calendar View Proposal A Collection of IDeas</kw></span></a>
+<ul>
+<li class="toclevel-2"><a href="#One_Day_View"><span class="tocnumber"><kw class="krdwrd-tag-1-100">1.1</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">One Day View</kw></span></a></li>
+<li class="toclevel-2"><a href="#Work_Week_View"><span class="tocnumber"><kw class="krdwrd-tag-1-100">1.2</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Work Week View</kw></span></a></li>
+<li class="toclevel-2"><a href="#Week_View"><span class="tocnumber"><kw class="krdwrd-tag-1-100">1.3</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Week View</kw></span></a></li>
+<li class="toclevel-2"><a href="#Month_View"><span class="tocnumber"><kw class="krdwrd-tag-1-100">1.4</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Month View</kw></span></a></li>
+<li class="toclevel-2"><a href="#Year_View"><span class="tocnumber"><kw class="krdwrd-tag-1-100">1.5</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Year View</kw></span></a></li>
+<li class="toclevel-2"><a href="#Visualization_of_Conflicting_Events"><span class="tocnumber"><kw class="krdwrd-tag-1-100">1.6</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Visualization of Conflicting Events</kw></span></a></li>
+<li class="toclevel-2"><a href="#Calendar_View_Items"><span class="tocnumber"><kw class="krdwrd-tag-1-100">1.7</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Calendar View Items</kw></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#General_Thoughts"><span class="tocnumber"><kw class="krdwrd-tag-1-100">2</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">General Thoughts</kw></span></a>
+<ul>
+<li class="toclevel-2"><a href="#Menu_Bar"><span class="tocnumber"><kw class="krdwrd-tag-1-100">2.1</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Menu Bar</kw></span></a></li>
+<li class="toclevel-2"><a href="#Mini_Month_Pane"><span class="tocnumber"><kw class="krdwrd-tag-1-100">2.2</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Mini Month Pane</kw></span></a>
+<ul>
+<li class="toclevel-3"><a href="#The_Mini_Month"><span class="tocnumber"><kw class="krdwrd-tag-1-100">2.2.1</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">The Mini Month</kw></span></a>
+<ul>
+<li class="toclevel-4"><a href="#Syncronisation_Between_Mini_Month_.26_Calendar_View"><span class="tocnumber"><kw class="krdwrd-tag-1-100">2.2.1.1</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Syncronisation Between Mini Month &amp; Calendar View</kw></span></a></li>
+<li class="toclevel-4"><a href="#The_Year_Panel"><span class="tocnumber"><kw class="krdwrd-tag-1-100">2.2.1.2</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">The Year Panel</kw></span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Calendar_Subscription_Pane"><span class="tocnumber"><kw class="krdwrd-tag-1-100">2.3</kw></span> <span class="toctext"><kw class="krdwrd-tag-1-100">Calendar Subscription Pane</kw></span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Calendar_View_Proposal_A_Collection_of_IDeas"></a><h1><span class="mw-headline"><kw class="krdwrd-tag-1-80"> Calendar View Proposal A Collection of IDeas </kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=1" title="Edit section: Calendar View Proposal A Collection of IDeas"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h1>
+<p><b><kw class="krdwrd-tag-1-100">Author:</kw></b><kw class="krdwrd-tag-1-100"> Christian Jansen </kw><br>
+<b><kw class="krdwrd-tag-1-100">Last Change:</kw></b><kw class="krdwrd-tag-1-100"> --</kw><a href="/index.php?title=User:Chris281&amp;action=edit" class="new" title="User:Chris281"><kw class="krdwrd-tag-1-100">Chris</kw></a><kw class="krdwrd-tag-1-100"> 23:35, 11 May 2006 (PDT) </kw><br>
+</p><p><br><kw class="krdwrd-tag-3-80">
+The calendar view is the most prominent part of Lightning. Users have direct access to several panes. 
+</kw></p>
+<a name="One_Day_View"></a><h3><span class="mw-headline"><kw class="krdwrd-tag-1-80">One Day View</kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=2" title="Edit section: One Day View"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h3>
+<a name="Work_Week_View"></a><h3><span class="mw-headline"><kw class="krdwrd-tag-1-80">Work Week View</kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=3" title="Edit section: Work Week View"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h3>
+<p><a href="/Image:5-Day.png" class="image" title="Proposal of an improved week view"><img alt="Proposal of an improved week view" longdesc="/Image:5-Day.png" src="/images/f/f6/5-Day.png" height="760" width="946"></a>
+</p>
+<a name="Week_View"></a><h3><span class="mw-headline"><kw class="krdwrd-tag-1-80">Week View</kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=4" title="Edit section: Week View"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h3>
+<a name="Month_View"></a><h3><span class="mw-headline"><kw class="krdwrd-tag-1-80">Month View</kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=5" title="Edit section: Month View"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h3>
+<p><a href="/Image:Month-View.png" class="image" title="Proposal of an improved month view"><img alt="Proposal of an improved month view" longdesc="/Image:Month-View.png" src="/images/c/c6/Month-View.png" height="760" width="946"></a>
+</p>
+<a name="Year_View"></a><h3><span class="mw-headline"><kw class="krdwrd-tag-1-60"> Year View</kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=6" title="Edit section: Year View"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h3>
+<ul><li><kw class="krdwrd-tag-3-80"> A Month Pane containing a control called Mini Month for providing an overview about a whole month.
+</kw></li><li><kw class="krdwrd-tag-3-80"> The Calendar Subscription Pane gives users an overview about calendar subscriptions and about users own calendar(s).
+</kw></li><li><kw class="krdwrd-tag-3-80"> The Agenda Pane provides a cumulative view of To-Dos &amp; Events for the current day.
+</kw></li><li><kw class="krdwrd-tag-3-80"> The To-Do Pane lists the To-Dos of today, the upcoming days &amp; weeks.
+</kw></li></ul>
+<a name="Visualization_of_Conflicting_Events"></a><h3><span class="mw-headline"><kw class="krdwrd-tag-1-80"> Visualization of Conflicting Events </kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=7" title="Edit section: Visualization of Conflicting Events"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h3>
+<a name="Calendar_View_Items"></a><h3><span class="mw-headline"><kw class="krdwrd-tag-1-60"> Calendar View Items </kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=8" title="Edit section: Calendar View Items"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h3>
+<p><kw class="krdwrd-tag-3-100">Figure 2 gives an impression how the Calendar could look like.
+</kw></p><p><kw class="krdwrd-tag-3-100">Details of each pane, and other window elements are described in detail in the sections below. The figure below shall provide an overview where each pane is located.
+</kw></p>
+<div class="thumb tright"><div class="thumbinner" style="width: 182px;"><a href="/Image:Areas.png" class="internal" title="Overview where each pane is located"><img alt="Overview where each pane is located" longdesc="/Image:Areas.png" class="thumbimage" src="/images/thumb/a/a9/Areas.png/180px-Areas.png" height="133" width="180"></a>  <div class="thumbcaption"><div class="magnify" style="float: right;"><a href="/Image:Areas.png" class="internal" title="Enlarge"><img src="/skins/common/images/magnify-clip.png" alt="" height="11" width="15"></a></div><kw class="krdwrd-tag-1-100">Overview where each pane is located</kw></div></div></div>
+<a name="General_Thoughts"></a><h1><span class="mw-headline"><kw class="krdwrd-tag-1-60"> General Thoughts </kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=9" title="Edit section: General Thoughts"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h1>
+<p><kw class="krdwrd-tag-3-100">The Calendar View provides a dynamic layout, thus each pane can be scaled in size.
+Each pane can be closed. This applies not to the main Calendar Pane.
+</kw></p>
+<a name="Menu_Bar"></a><h2><span class="mw-headline"><kw class="krdwrd-tag-1-80"> Menu Bar </kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=10" title="Edit section: Menu Bar"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h2>
+<a name="Mini_Month_Pane"></a><h2><span class="mw-headline"><kw class="krdwrd-tag-1-60"> Mini Month Pane</kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=11" title="Edit section: Mini Month Pane"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h2>
+<p><kw class="krdwrd-tag-3-80">The Mini Month Pane comprises as minimum one Mini Month
+</kw></p>
+<div class="thumb tright"><div class="thumbinner" style="width: 161px;"><a href="/Image:Minimonth.png" class="internal" title="Lightning Mini Month"><img alt="Lightning Mini Month" longdesc="/Image:Minimonth.png" class="thumbimage" src="/images/e/eb/Minimonth.png" height="221" width="159"></a>  <div class="thumbcaption"><div class="magnify" style="float: right;"><a href="/Image:Minimonth.png" class="internal" title="Enlarge"><img src="/skins/common/images/magnify-clip.png" alt="" height="11" width="15"></a></div><kw class="krdwrd-tag-1-100">Lightning Mini Month</kw></div></div></div>
+<p><kw class="krdwrd-tag-3-100">Resizing the Mini Month Pane shows up additional Mini Months.
+</kw></p>
+<pre><kw class="krdwrd-tag-1-100">+----------------+  +----------------+</kw></pre><pre class="krdwrd-tag-1-100">| &lt; March 2006   |  | April 2006  &gt;  |</pre><pre class="krdwrd-tag-1-100">|  S M D M D F S |  |  S M D M D F S |</pre><pre class="krdwrd-tag-1-100">|  1 2 3 4 5 6 7 |  |  1 2 3 4 5 6 7 |</pre><pre class="krdwrd-tag-1-100">|  ...           |  |  ...           |</pre><pre class="krdwrd-tag-1-100">+----------------+  +----------------+</pre><pre class="krdwrd-tag-1-100">+----------------+  +----------------+</pre><pre class="krdwrd-tag-1-100">|   June 2006    |  |   July 2006    |</pre><pre class="krdwrd-tag-1-100">|  S M D M D F S |  |  S M D M D F S |</pre><pre class="krdwrd-tag-1-100">|  1 2 3 4 5 6 7 |  |  1 2 3 4 5 6 7 |</pre><pre class="krdwrd-tag-1-100">|  ...           |  |  ...           |</pre><pre class="krdwrd-tag-1-100">+----------------+  +----------------+</pre><pre></pre><pre><p><br>                   
+</p><p><kw class="krdwrd-tag-3-60">The title bar of the Mini Month Pane provides information about the time zone specified in Lightning
+</kw></p>
+<ul><li><kw class="krdwrd-tag-1-60"> A double click on the Time Zone info may open a Time Zone Config dialog
+</kw></li></ul>
+<a name="The_Mini_Month"></a><h3><span class="mw-headline"><kw class="krdwrd-tag-1-80"> The Mini Month </kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=12" title="Edit section: The Mini Month"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h3>
+<p><kw class="krdwrd-tag-1-80">A Mini Month should allow to:
+</kw></p>
+<ul><li><kw class="krdwrd-tag-1-80"> Jump with one click from one month to another
+</kw></li><li><kw class="krdwrd-tag-1-80"> Direct access to different days
+</kw></li><li><kw class="krdwrd-tag-1-80"> Direct access to different months
+</kw></li><li><kw class="krdwrd-tag-1-80"> Direct access to different years
+</kw></li><li><kw class="krdwrd-tag-1-80"> Jump with one click to the current day
+</kw></li><li><kw class="krdwrd-tag-1-80"> Highlighting of the current day
+</kw></li><li><kw class="krdwrd-tag-1-80"> Highlighting of the current week
+</kw></li><li><kw class="krdwrd-tag-1-80"> Highlighting of the current month
+</kw></li><li><kw class="krdwrd-tag-1-80"> Highlighting of days containg an event
+</kw></li><li><kw class="krdwrd-tag-1-60"> The control should allow to display previous/upcoming day/month in a different color
+</kw></li><li><kw class="krdwrd-tag-1-60"> It should always display 6 week rows (this prevents the layout from jumping)
+</kw></li><li><kw class="krdwrd-tag-1-60"> It should allow to preview parts of the privious and the next month
+</kw></li><li><kw class="krdwrd-tag-1-80"> It should reflect first day of the week configurations:
+</kw></li></ul>
+<p><kw class="krdwrd-tag-1-100">e.g: "</kw><b><kw class="krdwrd-tag-1-100">Mon</kw></b><kw class="krdwrd-tag-1-100">, Tue, Wed, Thu, Fri, Sat, Sun"  or "</kw><b><kw class="krdwrd-tag-1-100">Sun</kw></b><kw class="krdwrd-tag-1-100">, Mon, Tue, Wed, Thu, Fri, Sat"
+</kw></p>
+<ul><li><kw class="krdwrd-tag-3-80"> The control should </kw><b><kw class="krdwrd-tag-3-80">not</kw></b><kw class="krdwrd-tag-3-80"> change its size while switching between months.
+</kw></li></ul>
+<a name="Syncronisation_Between_Mini_Month_.26_Calendar_View"></a><h4><span class="mw-headline"><kw class="krdwrd-tag-1-60"> Syncronisation Between Mini Month &amp; Calendar View </kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=13" title="Edit section: Syncronisation Between Mini Month &amp; Calendar View"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h4>
+<p><kw class="krdwrd-tag-3-80">In general the mini month and the calendar views should run in sync. For example, if the user changes the month from May to June in the Calendar View the Mini Month should reflect that change.
+</kw></p><p><kw class="krdwrd-tag-3-80">The only exception are four buttons. These are located in the upper left and right of the Mini Month and are intended to preview month. Given that changing the Month from May to June by using the Navigation wouldn't have any effect on the Calendar View.
+</kw></p><p><a href="/Image:Nav-arrows.png" class="image" title="Navigation Arrows"><img alt="Navigation Arrows" longdesc="/Image:Nav-arrows.png" src="/images/9/9a/Nav-arrows.png" height="200" width="200"></a>
+</p>
+<ul><li><kw class="krdwrd-tag-3-60"> Navigation in Calendar View should sync the Mini Month
+</kw></li><li><kw class="krdwrd-tag-3-60"> The date range displayed in the Calendar View (Day, Week, Working Week, Month) should be highlighted in the Mini Month.
+</kw><ul><li> <b><kw class="krdwrd-tag-1-60">In Calendars Day View</kw></b><kw class="krdwrd-tag-3-60">: The corresponding Mini Month day needs to be highlighted.
+</kw></li><li> <b><kw class="krdwrd-tag-1-60">In Calendars Week View</kw></b><kw class="krdwrd-tag-3-60">: The corresponding days of the Mini Month week needs to be highlighted.
+</kw></li><li> <b><kw class="krdwrd-tag-1-60">In Calendars Working Week View</kw></b><kw class="krdwrd-tag-3-60">: The corresponding days of the Mini Month working week needs to be highlighted.
+</kw></li><li> <b><kw class="krdwrd-tag-1-60">In Calendars Month View</kw></b><kw class="krdwrd-tag-3-60">: The corresponding days of the Mini Month month needs to be highlighted.
+</kw></li></ul>
+</li><li><kw class="krdwrd-tag-3-80"> Clicking the Mini Month "Go To Today" button selects the current day in the Mini Month and chages the view in the calendar to the current date.
+</kw></li><li><kw class="krdwrd-tag-3-60"> Selecting one explicit Day, Week, Working Week, Month, Year should change the date range displayed in the Calendar View.
+</kw></li></ul>
+<a name="The_Year_Panel"></a><h4><span class="mw-headline"><kw class="krdwrd-tag-2-60"> The Year Panel </kw></span> <span class="editsection"><kw class="krdwrd-tag-1-100">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=14" title="Edit section: The Year Panel"><kw class="krdwrd-tag-1-100">edit</kw></a><kw class="krdwrd-tag-1-100">]</kw></span></h4>
+<p><kw class="krdwrd-tag-3-80">The Year Panel can be reached by clicking the Month &amp; Year area of the Mini Month.
+The panel allows users to navigate from one year to another by using the left or right buttons.
+</kw></p><p><kw class="krdwrd-tag-3-60">In addition it should be possible to navigate quickly to a specific month within the next 12 month from the current month on.
+</kw></p><p><kw class="krdwrd-tag-3-80">The panel should indicate month which relate to the previous or the next year differently.
+</kw></p><p><kw class="krdwrd-tag-3-60">The figure below shows a proposal of the Year Panel.
+</kw></p><p><br>
+<a href="/Image:Mini-month_with_year_panel.png" class="image" title="Image:Mini-month_with_year_panel.png"><img alt="Image:Mini-month_with_year_panel.png" longdesc="/Image:Mini-month_with_year_panel.png" src="/images/3/36/Mini-month_with_year_panel.png" height="340" width="766"></a>
+</p>
+<a name="Calendar_Subscription_Pane"></a><h2><span class="mw-headline"><kw class="krdwrd-tag-mrgtie-40"> Calendar Subscription Pane </kw></span> <span class="editsection"><kw class="krdwrd-tag-1-80">[</kw><a href="/index.php?title=Calendar:Calendar_View&amp;action=edit&amp;section=15" title="Edit section: Calendar Subscription Pane"><kw class="krdwrd-tag-1-80">edit</kw></a><kw class="krdwrd-tag-1-80">]</kw></span></h2>
+<p><kw class="krdwrd-tag-3-60">The Calendar Subscription Pane lists all subscribed calendars. Subscribed calendars can be stored locally or remotely. The graphical representation should be in both cases the same.
+</kw></p><p><kw class="krdwrd-tag-1-60">From the Pane users should have the possibility to
+</kw></p>
+<ul><li><kw class="krdwrd-tag-1-80"> Publish calendars
+</kw></li><li><kw class="krdwrd-tag-1-80"> Subscribe calendars
+</kw></li><li><kw class="krdwrd-tag-1-80"> Create calenders
+</kw></li><li><kw class="krdwrd-tag-1-80"> Create calendars groups
+</kw></li><li><kw class="krdwrd-tag-1-80"> Manually update subscribed calenders
+</kw></li><li><kw class="krdwrd-tag-1-80"> Notify users that a calendar has been published
+</kw></li><li><kw class="krdwrd-tag-1-80"> Switch visibility of calendars on or off
+</kw></li><li><kw class="krdwrd-tag-1-80"> Delete calendars
+</kw></li><li><kw class="krdwrd-tag-1-80"> Move calendars from one group to another
+</kw></li></ul>
+<p><br>
+</p><p><kw class="krdwrd-tag-3-60">Creation and the subscription of calendars shaould also be intergrated into the menus &amp; maybe in the tool bar.
+</kw></p><p><kw class="krdwrd-tag-3-60">The figure below shows a rough sketch of the Calendars &amp; Groups
+</kw></p>
+<pre><kw class="krdwrd-tag-1-100">+-------------------------+</kw></pre><pre class="krdwrd-tag-1-100">| My Calendars          X |</pre><pre class="krdwrd-tag-1-100">+-------------------------+</pre><pre class="krdwrd-tag-1-100">|     [X] [Green ] Work   |</pre><pre class="krdwrd-tag-1-100">| [+] [X] [Blue  ] Fares  |</pre><pre class="krdwrd-tag-1-100">| [-] [X] [Red   ] Team   |</pre><pre class="krdwrd-tag-1-100">|     [X] [Black ] Jeff   |</pre><pre class="krdwrd-tag-1-100">|     [X] [Mauve ] Bob    |</pre><pre class="krdwrd-tag-1-100">|     [X] [Yellow] Lisa   |</pre><pre class="krdwrd-tag-1-100">+-------------------------+</pre><pre></pre></pre><pre><p><br><kw class="krdwrd-tag-1-60">
+The figure below gives a more detailed impression of the features set which is needed for creating, subscribing, and publishing calendars.
+</kw></p>
+<div class="thumb tright"><div class="thumbinner" style="width: 602px;"><a href="/Image:Calendar-Subscribtions-Map.png" class="internal" title=""><img alt="" longdesc="/Image:Calendar-Subscribtions-Map.png" class="thumbimage" src="/images/thumb/0/08/Calendar-Subscribtions-Map.png/600px-Calendar-Subscribtions-Map.png" height="275" width="600"></a>  <div class="thumbcaption"><div class="magnify" style="float: right;"><a href="/Image:Calendar-Subscribtions-Map.png" class="internal" title="Enlarge"><img src="/skins/common/images/magnify-clip.png" alt="" height="11" width="15"></a></div></div></div></div>
+
+<!-- Saved in parser cache with key wiki_mozorg10:pcache:idhash:16193-0!1!0!!en!2 and timestamp 20080324120722 -->
+<div class="printfooter"><kw class="krdwrd-tag-1-100">
+Retrieved from "</kw><a href="http://wiki.mozilla.org/Calendar:Calendar_View"><kw class="krdwrd-tag-1-100">http://wiki.mozilla.org/Calendar:Calendar_View</kw></a><kw class="krdwrd-tag-1-100">"</kw></div>
+						<!-- end content -->
+
+		</pre></div><!-- end of MAINCONTENT div -->	
+	
+	</div><!-- end of MBODY div -->
+
+	<div id="footer">
+				<span id="f-lastmod"><kw class="krdwrd-tag-1-100"> This page was last modified 13:15, 28 June 2007.</kw></span>		<span id="f-viewcount"><kw class="krdwrd-tag-1-100">This page has been accessed 7,416 times. </kw></span>		<ul id="f-list">
+									<li id="f-about"><a href="/MozillaWiki:About" title="MozillaWiki:About"><kw class="krdwrd-tag-1-100">About MozillaWiki</kw></a></li>			<li id="f-disclaimer"><a href="/MozillaWiki:General_disclaimer" title="MozillaWiki:General disclaimer"><kw class="krdwrd-tag-1-100">Disclaimers</kw></a></li>		</ul>
+		<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki"></a></div>	</div><!-- end of the FOOTER div -->
+</div><!-- end of the CONTAINER div -->
+
+<!-- Served by mrapp55 in 31.190 secs. -->
+<!-- Cached 20080324120723 -->
+</body>

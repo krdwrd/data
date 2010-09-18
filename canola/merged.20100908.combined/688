@@ -1,0 +1,590 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://atimes.com/atimes/Korea/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Asia Times -</title>
+	
+		
+		<meta content="YYYY-MM-DD" name="Date">
+		<meta content="" name="Author">
+		<meta content="Asia Times Online" name="OWNER">
+		<meta content="atimes.com" name="COPYRIGHT">
+		<meta content="0" name="EXPIRES">
+		<meta content="Global" name="Distribution">
+		<meta content="Document" name="Resource-Type">
+		<meta content="2 days" name="Revisit-after">
+		<meta content="index, follow" name="Robots">
+		<meta content="en-us" name="Language">
+		<meta content="general" name="Rating">
+		<link href="/images/f_images/atimes.css" rel="stylesheet" type="text/css">
+			<script language="JavaScript" type="text/javascript" src="/images/f_images/atimes.js"></script>
+			<script language="javascript1.1">
+<!--
+var siteDomain = 'atimes.com';	//set domain for cookie
+var forcePop = 0;	//set to 1 to force window to pop
+var delay = 7000;	//milliseconds to wait before spawning window
+var freq = 1440;	//how often to show same user spawned ad (in minutes)
+var jpWidth='720';
+var jpHeight='300';
+var jpOptions='titlebar=1,toolbar=1,location=1,menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1';
+var jpPO=2041;
+
+var cDoc=document;if(cDoc.domain.indexOf(siteDomain)==-1) siteDomain='';if (siteDomain.length>0) siteDomain="'domain=."+siteDomain+"; '";var cCkEx=cDoc.cookie.indexOf('ptfc=yfki');if(cCkEx==-1){cDoc.cookie='tmpptfc=tmpyfki; path=/;';if(cDoc.cookie.indexOf('tmpptfc=tmpyfki') == -1)cCkEx = 1;}if((forcePop == 1)||(cCkEx == -1))setTimeout('runjPop()', delay);
+function runjPop(){var cDa=new Date();cDa.setTime(cDa.getTime()+(freq*60*1000));cDoc.cookie='ptfc=yfki; path=/; '+siteDomain+'expires='+ cDa.toGMTString();
+var jPop='width='+jpWidth+',height='+jpHeight+','+jpOptions;if(parseFloat(navigator.appVersion)>=4) jPop+=',top=50000,left=50000';var jp=window.open("",'jPop', jPop, true);jp.blur();if(parseFloat(navigator.appVersion)>=4) jp.moveTo((screen.width-jpWidth)/2,(screen.height-jpHeight)/2);self.focus();jp.document.writeln("<"+"script language='javascript1.1'>");if (siteDomain.length > 0) jp.document.writeln("sDom="+siteDomain);else jp.document.writeln("sDom='';");jp.document.writeln("</" + "script>");
+jp.document.writeln("<" + "script language='javascript1.1' src='http://ad.trafficmp.com/tmpad/banner/itrack.asp?rv=1.2&id="+jpPO+"'>");jp.document.writeln("</" + "script>");}
+// -->
+			</script></head><body leftmargin="0" topmargin="0" alink="#003399" bgcolor="#ffffff" vlink="#003399" link="#003399" marginheight="0" marginwidth="0">
+		<table border="0" cellpadding="0" cellspacing="0" width="782">
+			<tbody><tr>
+				<td align="left" valign="top" width="775">
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody><tr>
+							<td width="252" height="81"><img src="/images/f_images/atime_logo1.gif" width="284" height="81"></td>
+							<td align="center" valign="center" width="524" height="81">
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="468" height="60">
+									<tbody><tr>
+										<td width="468" height="60">
+											<div align="center"><a href="http://www.als.edu/" target="_blank"><img src="/atimes/images/albany-law-468.gif" border="0" width="468" height="60"></a></div>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+						<tr>
+							<td width="252"><img src="/images/f_images/atime_logo2.gif" width="284" height="53"></td>
+							<td align="center" valign="center" width="524"><img src="/images/f_images/mid_top.jpg" usemap="#Map" border="0" width="492" height="53"></td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td background="/images/f_images/sha.gif" width="7"><img src="/images/f_images/1pix.gif" width="7" height="7"></td>
+			</tr>
+			<tr>
+				<td valign="top">
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody><tr>
+							<td align="center" bgcolor="#003366" valign="top" width="118">
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody><tr>
+										<td align="center" valign="top">
+											<table border="0" cellpadding="0" cellspacing="0" width="118">
+												<tbody><tr>
+													<td><img alt="" src="/images/f_images/main_links_01.gif" width="118" height="7"></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Front_Page.html"><img alt="" src="/images/f_images/frintpage.gif" border="0" width="118" height="14"></a></td>
+												</tr>
+												<tr>
+													<td><img alt="" src="/images/f_images/main_links_03.gif" width="118" height="14"></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/China.html"><img alt="" src="/images/f_images/china.gif" border="0" width="118" height="13"></a></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Southeast_Asia.html"><img alt="" src="/images/f_images/southeasta.gif" border="0" width="118" height="14"></a></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/South_Asia.html"><img alt="" src="/images/f_images/southa.gif" border="0" width="118" height="14"></a></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Japan.html"><img alt="" src="/images/f_images/japan.gif" border="0" width="118" height="15"></a></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Korea.html"><img alt="" src="/images/f_images/korea.gif" border="0" width="118" height="13"></a></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Central_Asia.html"><img alt="" src="/images/f_images/cen_a.gif" border="0" width="118" height="14"></a></td>
+												</tr>
+												<tr>
+													<td><img alt="" src="/images/f_images/main_links_10.gif" width="118" height="15"></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Middle_East.html"><img alt="" src="/images/f_images/mideast.gif" border="0" width="118" height="13"></a></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/War_and_Terror.html"><img alt="" src="/images/f_images/wandt.gif" border="0" width="118" height="14"></a></td>
+												</tr>
+												<tr>
+													<td><img alt="" src="/images/f_images/main_links_13.gif" width="118" height="15"></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Business_in_Brief.html"><img alt="" src="/images/f_images/binb.gif" border="0" width="118" height="14"></a></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Asian_Economy.html"><img alt="" src="/images/f_images/asiane.gif" border="0" width="118" height="14"></a></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Global_Economy.html"><img alt="" src="/images/f_images/globale.gif" border="0" width="118" height="14"></a></td>
+												</tr>
+												<tr>
+													<td><img alt="" src="/images/f_images/main_links_17.gif" width="118" height="14"></td>
+												</tr>
+												<tr>
+													<td><a href="/atimes/Letters.html"><img alt="" src="/images/f_images/letters.gif" border="0" width="118" height="12"></a></td>
+												</tr>
+												<tr>
+													<td><img alt="" src="/images/f_images/main_links_19.gif" width="118" height="7"></td>
+												</tr>
+											</tbody></table>
+											<br>
+											<table class="" id="Table14" align="center" border="1" cellpadding="3" cellspacing="0" width="65" height="130">
+												<tbody><tr>
+													<td class="" bordercolor="darkorange" align="left" bgcolor="#000000" valign="top" height="0">
+														<p align="center">
+															</p><form id="Form2" action="http://www.atimes.com/cgi-bin/es/esearch.asp">
+																<font size="1"><font color="#99ccff" face="Arial"><kw class="krdwrd-tag-1">Search Asia Times</kw></font> </font>
+																<input id="Hidden5" size="1" value="0" name="start" type="hidden"> <input id="Hidden6" size="1" value="10" name="perPage" type="hidden">
+																<input id="Hidden7" size="1" value="yes" name="summary" type="hidden"> <input id="Hidden8" size="1" value="rank" name="sort" type="hidden">
+																<center>
+																	<input id="Text2" size="11" name="search"></center>
+																<br>
+																<center>
+																	<input id="Submit1" value="Search" name="submit" d="Submit1" type="submit"></center>
+																<p align="center"><a href="http://www.atimes.com/atimes/search.asp"><font color="#99ccff" size="1"><kw class="krdwrd-tag-1">Advanced 
+																			Search</kw></font></a></p>
+													</form></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td align="center" valign="top"><a href="javascript:Currency();"><img src="/images/f_images/currency-logo.gif" border="0" width="111" height="49"></a></td>
+									</tr>
+									<tr>
+										<td align="center" valign="top" height="10"><img src="/images/f_images/1pix.gif" width="1" height="10"></td>
+									</tr>
+									<tr>
+										<td align="center" valign="top"><a href="/atimes/book_reviews.html"><img src="/images/f_images/books_logo.gif" border="0" width="111" height="49"></a></td>
+									</tr>
+								</tbody></table>
+							</td>
+							<td valign="top">
+								<table border="0" cellpadding="0" cellspacing="0" width="100%" height="31">
+									<tbody><tr>
+										<td align="center" background="/images/f_images/top_bg.gif" valign="top">
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+												<tbody><tr align="center" valign="top">
+													<td width="20%">
+														<div align="center"><a href="/atimes/archive.asp"><strong><img src="/images/f_images/archive1.gif" border="0" width="80" height="18"></strong></a></div>
+													</td>
+													<td width="20%">
+														<div align="center"><a href="/atimes/about.html"><strong><img src="/images/f_images/about1.gif" border="0" width="80" height="18"></strong></a></div>
+													</td>
+													<td width="20%">
+														<div align="center"><a href="/atimes/contact.html"><strong><img src="/images/f_images/contact1.gif" border="0" width="80" height="18"></strong></a></div>
+													</td>
+													<td width="20%">
+														<div align="center"><a href="/atimes/advertise.html"><strong><img src="/images/f_images/advertise1.gif" border="0" width="80" height="18"></strong></a></div>
+													</td>
+													<td width="20%">
+														<div align="center"><a href="/atimes/advertise.html"><strong><img src="/images/f_images/media.gif" border="0" width="80" height="18"></strong></a></div>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.koreastrategic.com" target="_blank">
+											<img alt="" src="/atimes/images/korea-strategic2.gif" align="middle" border="0"></a>
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody><tr>
+										</tr>
+									<tr>
+										<td width="10">&nbsp;</td>
+										<td align="left" valign="top" width="407"><!--atimesprint-->
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+												<tbody><tr>
+													<td><font class="subhead"><strong class="head"><kw class="krdwrd-tag-2"> 
+																Korea
+															</kw></strong></font>
+													</td>
+												</tr>
+											</tbody></table>
+											<br>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="392">
+												<tbody><tr>
+													<td align="left" valign="top" width="392"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#000000" size="3"><strong><kw class="krdwrd-tag-2">WMD transport targeted on high 
+                        seas</kw></strong></font><br><kw class="krdwrd-tag-2">By Safa Haeri </kw><br><br><kw class="krdwrd-tag-3">PARIS - In 
+                        a move aimed at making it more difficult for "rogue 
+                        states" such as the Stalinist regime of North Korea or 
+                        the Islamic Republic of Iran to get sophisticated pieces 
+                        needed for their weapons of mass destruction (WMD), 11 
+                        industrialized nations, some of them members of the 
+                        Atomic Club, decided last week in Paris to step up plans 
+                        to intercept ships suspected of carrying such weapons. 
+                        </kw><br><br><kw class="krdwrd-tag-3">While the Proliferation Security Initiative 
+                        (PSI), endorsed by the United States, the United 
+                        Kingdom, France, Germany, Italy, Spain, Portugal, the 
+                        Netherlands, Poland, Australia and Japan, is not 
+                        specifically aimed at North Korea, there is no doubt 
+                        that Pyongyang, which Washington and others accuse of 
+                        making clandestine shipments of drugs, counterfeit cash 
+                        and missiles, is the primary target. </kw><br><br><kw class="krdwrd-tag-3">As four of 
+                        the 11 nations, namely the United States, Australia, 
+                        Japan and France, will send ships to the western Pacific 
+                        next week for an exercise simulating an interception, 
+                        China, which, with Iran, is the hermit regime's main 
+                        political supporter and trading partner, has warned the 
+                        PSI group that its decision on inspecting ships in high 
+                        seas could be illegal. </kw><br><br><kw class="krdwrd-tag-3">But John Bolton, the US 
+                        under secretary of state for arms control and 
+                        international security, rejected concerns that the 
+                        initiative launched by President George W Bush in May 
+                        risked breaking international law and said participating 
+                        states had agreed a set of guidelines on how they would 
+                        carry out interceptions of ships or aircraft. 
+                        </kw><br><br><kw class="krdwrd-tag-3">Next week's "Pacific Protector" exercise is the 
+                        first of 10 planned in coming months. </kw><br><br><kw class="krdwrd-tag-3">In April, 
+                        the Ville de Virgo, a French-owned ship carrying 214 
+                        aluminum tubes that serve as gas-centrifuge components 
+                        for enriching uranium for nuclear bombs, was intercepted 
+                        on tips from French and German intelligence agencies as 
+                        it was entering the Suez Canal. The shipment, procured 
+                        in Germany and unloaded in the Egyptian port of 
+                        Alexandria, was destined for North Korea. </kw><br><br><kw class="krdwrd-tag-3">German 
+                        police arrested the owner of a small export company and 
+                        said they had uncovered a scheme to acquire up to 2,000 
+                        such pipes. Investigators said they had concluded that 
+                        that amount of aluminum in North Korean hands could have 
+                        yielded about 3,500 gas centrifuges for enriching 
+                        uranium. A Western diplomat said the intentions "were 
+                        clearly nuclear ... The result could have been several 
+                        bombs' worth of weapons-grade uranium in a year." 
+                        </kw><br><br><kw class="krdwrd-tag-3">One month later, another ship, loaded with 33 
+                        tons of sodium cyanide, a chemical used in making the 
+                        deadly nerve agent tabun, also purchased in Germany, one 
+                        of the world's leading producers and exporters of toxic 
+                        gas, was arrested and inspected before reaching 
+                        Pyongyang, via Singapore, according to Western 
+                        diplomatic sources. </kw><br><br><kw class="krdwrd-tag-3">"There are countries in the 
+                        world where you can pay $2,000 to a government minister 
+                        and he'll sign anything - and then confirm to you that 
+                        he signed it," said Rastislav Kacer, a former Slovak 
+                        deputy defense minister who helped lead an investigation 
+                        into a similar attempt by North Korea to buy 
+                        sophisticated radar equipment. "Documents that are fake 
+                        can be made to appear very real," he added, quoted by 
+                        Joby Warrick in the Washington Post of August 14. 
+                        </kw><br><br><kw class="krdwrd-tag-3">Pyongyang will be the PSI's first test because 
+                        Kim Jong-il's regime has the most advanced nuclear- and 
+                        chemical-weapons programs of any rogue state and a 
+                        history of exporting arms, one participant said. 
+                        </kw><br><br><kw class="krdwrd-tag-3">Experts on atomic proliferation say the above 
+                        two examples are the tip of the iceberg in the huge and 
+                        lucrative underground WMD market, as many other 
+                        shipments reach their destinations without being 
+                        inspected. </kw><br><br><kw class="krdwrd-tag-3">"The clandestine market for atomic, 
+                        biological and chemical [ABC] arms as well as missiles 
+                        capable of delivering them is very big," said a French 
+                        anti-terrorist expert, adding that despite existing 
+                        international treaties and tough controls on the export 
+                        of such materials, not only regimes that have secret ABC 
+                        projects, but also some well-financed and -trained 
+                        terrorist organizations are able to shop in this market. 
+                        </kw><br><br><kw class="krdwrd-tag-3">What worries most anti-terrorist experts in 
+                        industrialized and democratic nations of the world is 
+                        the "marriage of reason" of some "rogue" states and 
+                        terrorist organizations, as seen in the case of the 
+                        missiles fired by still unidentified terrorists on an 
+                        Israeli jetliner on takeoff from Mombassa airport last 
+                        November. The missiles, fired from a Russian-made 
+                        shoulder-mounted engine, missed the plane that was 
+                        carrying 261 passengers. At about the same time, a 
+                        suicide car bomb rammed into a hotel in Mombassa, used 
+                        by Israeli tourists, killing at least 11 people and 
+                        wounding many others. </kw><br><br><kw class="krdwrd-tag-3">At the time, former 
+                        Israeli foreign minister Benjamin Netanyahu described 
+                        the attack as "a very dangerous escalation of terror". 
+                        </kw><br><br><kw class="krdwrd-tag-3">"It means that terror organizations and those 
+                        regimes that stand behind them are capable of acquiring 
+                        weapons that can bring about mass casualties in every 
+                        place in the world," he warned, adding: "Today they 
+                        fired missiles at Israeli planes; tomorrow they'll fire 
+                        missiles at US planes, British planes, planes from every 
+                        state." </kw><br><br><kw class="krdwrd-tag-3">A year before, a Russian airliner full 
+                        of Israeli passengers was shot down by a missile over 
+                        Ukraine in what was termed an accident. </kw><br><br><kw class="krdwrd-tag-3">Experts 
+                        observed that while North Korea has only one land border 
+                        with Russia, making it easier for the PSI to control 
+                        ships heading for the hermit state, Iran has several 
+                        borders with countries that either possess nuclear 
+                        technology, such as Pakistan, accused of assisting the 
+                        Islamic Republic in its military nuclear-based projects, 
+                        or master it, such as some former republics of the 
+                        defunct Soviet Union. </kw><br><br><kw class="krdwrd-tag-3">"It is extremely easy to 
+                        take spare parts necessary for fabrication of [an] 
+                        atomic arsenal in trucks crossing almost all Iran's 
+                        neighbors, maybe except for Iraq, which is under US 
+                        occupation," one expert told Asia Times Online. 
+                        </kw><br><br><kw class="krdwrd-tag-3">According to a report from German intelligence 
+                        reported by Taggespiegel, some 70-90 Iranian scientists 
+                        are working on Iranian nuclear devices at the nation's 
+                        secret sites operated by the Revolutionary Guards. Large 
+                        parts of the equipment for both missiles and bombs come 
+                        from Pyongyang, via China and Pakistan, where it is 
+                        difficult for international agencies to monitor and 
+                        control them, Western intelligence sources told Asia 
+                        Times Online. </kw><br><br><kw class="krdwrd-tag-3">Tehran is under intense pressure 
+                        from the International Atomic Energy Agency (IAEA) about 
+                        its current nuclear projects, which the United States 
+                        and Israel say are ultimately destined for military 
+                        purposes, while Iran insists that they are civilian, 
+                        aimed primarily at producing electricity, a claim 
+                        rejected by Iranian and Western experts on the basis 
+                        that Iran possesses huge natural-gas reserves, the 
+                        second-largest in the world after Russia's. </kw><br><br><kw class="krdwrd-tag-3">In a 
+                        recent report, experts from the Vienna-based IAEA 
+                        reported about secret Iranian facilities at the central 
+                        city of Natanz for enriching uranium with the help of 
+                        centrifuge parts purchased some years ago from probably 
+                        China and North Korea as well as on the black markets. 
+                        </kw><br><br><kw class="krdwrd-tag-3">The report brought about closer cooperation 
+                        between the European Union and Russia, which is 
+                        assisting the Islamic Republic in building its first 
+                        1,000-megawatt, US$800 million nuclear-powered 
+                        electricity plant at the Persian Gulf port of Booshehr. 
+                        </kw><br><br><kw class="krdwrd-tag-3">On a recent visit to Tehran, EU Foreign and 
+                        Security Affairs Minister Xavier Solana warned Tehran 
+                        bluntly that signing the additional protocols to the 
+                        Non-Proliferation Treaty was not a bargain for which 
+                        Iran could expect rewards. </kw><br><br><kw class="krdwrd-tag-3">"If you don't sign 
+                        the protocols, it would be bad news for you," he said of 
+                        the conventions that allow IAEA experts to visit all 
+                        Iranian atomic-related sites without prior notice and 
+                        without preconditions. </kw><br><br><kw class="krdwrd-tag-3">Immediately after the 
+                        conclusion of last week's Paris conference, Chinese 
+                        Foreign Ministry spokesman Kong Quan told a news 
+                        conference in Beijing: "The best way to prevent 
+                        proliferation of weapons of mass destruction is through 
+                        dialogue. </kw><br><br><kw class="krdwrd-tag-3">"We understand the concerns of some 
+                        countries about the proliferation of weapons of mass 
+                        destruction ... But many countries still question the 
+                        efficiency and legitimacy of adopting this kind of 
+                        measure," Kong added. </kw><br><br><kw class="krdwrd-tag-3">China's position on the 
+                        PSI plan has been regarded as a determinant of its 
+                        success because it controls many of the sea lanes around 
+                        the Korean Peninsula, and North Korea uses Chinese air 
+                        space to fly shipments to its Middle East trading 
+                        partners, mainly Iran, which has been able to build up 
+                        advanced medium- and long-range missiles based on North 
+                        Korean technology. </kw><br><br><kw class="krdwrd-tag-3">"Finding and presenting the 
+                        best ways and means for preventing and stopping 
+                        proliferation and dissemination of weapons of mass 
+                        destruction and missiles, as well as components and 
+                        parts that facilitate their fabrication, is precisely 
+                        what the PSI stands for," a French diplomat associated 
+                        with the organization of the group's last meeting 
+                        explained. </kw><br><br><kw class="krdwrd-tag-3">On a practical level, experts 
+                        involved in the Proliferation Security Initiative said 
+                        they would seek to make life more difficult for ships 
+                        with suspicious cargo by getting permission from coastal 
+                        states and countries that issue so-called "flags of 
+                        convenience" to authorize at-sea interceptions. 
+                        </kw><br><br><kw class="krdwrd-tag-3">The "statement of interdiction principles" 
+                        released after the Paris talks contains a commitment to 
+                        take action "consistent with national legal authorities 
+                        and relevant international law and frameworks, including 
+                        the UN Security Council". </kw><br><br><kw class="krdwrd-tag-3">"Certainly there are 
+                        always questions about legality over these sorts of 
+                        issues. Unfortunately international law isn't as strict 
+                        and well defined as we would like it to be," Bolton 
+                        observed, adding that it would obviously be better from 
+                        the point of view of broader legitimacy to have United 
+                        Nations Security Council endorsement of these sorts of 
+                        operations. But given the fact that China has a veto on 
+                        the Security Council, it is doubtful that anything would 
+                        get through of which it didn't approve. 
+                        </kw><br><br><kw class="krdwrd-tag-3">Rebuffing concerns that the program could give 
+                        the United States and other 10 countries too much power 
+                        to stop ships in international waters, Bolton argued 
+                        that there is "abundant authority" under existing law to 
+                        conduct interdictions, most of which he said take place 
+                        in countries' territorial waters. </kw><br><br><kw class="krdwrd-tag-3">In cases where 
+                        the legal cover isn't clear, the 11 members of the 
+                        Proliferation Security Initiative have committed 
+                        themselves to change national and international laws to 
+                        strengthen those efforts. </kw><br><br><kw class="krdwrd-tag-3">The statement from the 
+                        11 members calls on states seriously to consider 
+                        providing consent under the appropriate circumstances to 
+                        the boarding and searching of its own flag vessels by 
+                        other states. </kw><br><br><kw class="krdwrd-tag-3">A senior US official in Washington 
+                        said efforts to recruit new members of the initiative 
+                        would begin "relatively soon". The next meeting of the 
+                        group will be October 9-10 in London. </kw><br><br><kw class="krdwrd-tag-1">(Copyright 
+                        2003 Asia Times Online Co, Ltd. All rights reserved. 
+                        Please contact </kw><a href="mailto:content@atimes.com"><font color="#0000ff"><kw class="krdwrd-tag-1">content@atimes.com</kw></font></a><kw class="krdwrd-tag-1"> for 
+                        information on our sales and syndication policies.)</kw></font>
+													</td>
+												</tr>
+												<tr>
+													<td align="left" valign="top" width="392">&nbsp;</td>
+												</tr>
+											</tbody></table><!--/atimesprint-->
+										</td>
+										<td align="center" valign="top" width="105">
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+												<tbody><tr>
+													<td align="center" valign="center" height="44"><font class="time"><strong><kw class="krdwrd-tag-1"> 
+																Sep 12, 2003
+															</kw></strong></font>
+													</td>
+												</tr>
+											</tbody></table>
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+												<tbody><tr>
+													<td height="75"><img src="/images/f_images/1pix.gif" width="1" height="75"></td>
+												</tr>
+												<tr>
+													<td align="center" valign="center"><a href="javascript:atprint();"><img src="/images/f_images/print.gif" border="0" width="91" height="26"></a></td>
+												</tr>
+												<tr>
+													<td align="center" valign="center" height="5"><img src="/images/f_images/1pix.gif" width="1" height="5"></td>
+												</tr>
+												<tr>
+													<td align="center" valign="center"><a href="javascript:SendNews();"><img src="/images/f_images/email.gif" border="0" width="91" height="26"></a></td>
+												</tr>
+												<tr>
+													<td align="center" valign="center" height="5"><img src="/images/f_images/1pix.gif" width="1" height="5"></td>
+												</tr>
+												<tr>
+													<td align="center" valign="center"><a href="javascript:Currency();"><img src="/images/f_images/currency.gif" border="0" width="91" height="26"></a></td>
+												</tr>
+											</tbody></table>
+											<table border="0" cellpadding="0" cellspacing="0" width="104">
+												<tbody><tr>
+													<td width="104">
+														<hr size="1">
+														<img src="/images/f_images/relatedart.gif" width="101" height="16"><br>
+														<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																<td><br><a href="http://www.atimes.com/atimes/South_Asia/EH30Df02.html"><font color="#0000ff" size="2"><kw class="krdwrd-tag-1">Iran, nukes and the South 
+                              Asian puzzle</kw></font></a><br><font color="#999999" size="1"><kw class="krdwrd-tag-1">(Aug 30, '03)</kw><br><br><a href="http://www.atimes.com/atimes/Southeast_Asia/EH29Ae02.html"><font color="#0000ff" size="2"><kw class="krdwrd-tag-1">Asia's proliferation 
+                              dilemma</kw></font></a><br><font color="#999999" size="1"><kw class="krdwrd-tag-1">(Aug 29, '03)</kw><br><br><a href="http://www.atimes.com/atimes/Korea/EH22Dg02.html"><font color="#0000ff" size="2"><kw class="krdwrd-tag-1">North Korea's case for 
+                              nuclear weapons</kw></font></a><br><font color="#999999" size="1"><kw class="krdwrd-tag-1">(Aug 22, '03)</kw><br><br><a href="http://www.atimes.com/atimes/Middle_East/EH22Ak02.html"><font color="blue" size="2"><kw class="krdwrd-tag-1">Iran's case for nuclear 
+                              weapons</kw></font></a><br><font color="#999999" size="1"><kw class="krdwrd-tag-1">(Aug 22, '03)</kw><br><br><a href="http://www.atimes.com/atimes/Middle_East/EH12Ak04.html"><font color="blue" size="2"><kw class="krdwrd-tag-1">Iran: The ongoing 
+                              threat</kw></font></a><br><font color="#999999" size="1"><kw class="krdwrd-tag-1">(Aug 12, '03)</kw><br><br><a href="http://www.atimes.com/atimes/Korea/EF19Dg04.html"><font color="#0000ff" size="2"><kw class="krdwrd-tag-1">Washington moves to checkmate 
+                              Pyongyang</kw></font></a><br><font color="#999999" size="1"><kw class="krdwrd-tag-1">(Jun 19, 
+                              '03)</kw></font></font></font></font></font></font>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td background="/images/f_images/line.gif" valign="top" width="10"><img src="/images/f_images/1pix.gif" width="9" height="1"></td>
+										<td align="left" valign="top" width="130">
+											<table align="center" border="0" cellpadding="0" cellspacing="0" width="117">
+												<tbody><tr>
+													<td><a href="http://www.atimes.com/atimes/advertise.html"><img src="/atimes/images/right-way-ad.gif" border="0" width="120" height="120"></a></td>
+												</tr>
+												<tr>
+													<td height="5"><img src="/images/f_images/1pix.gif" width="5" height="5"></td>
+												</tr>
+												<tr>
+													<td><a href="http://www.wsicorporate.com/business.asp?id=5292" target="_blank"><img src="/images/f_images/Big-Button-new.gif" border="0" width="120" height="120"></a></td>
+												</tr>
+												<tr>
+													<td height="10"><img src="/images/f_images/1pix.gif" width="5" height="10"></td>
+												</tr>
+											</tbody></table>
+											<table align="center" border="0" cellpadding="6" cellspacing="0" width="117">
+												<tbody><tr>
+													<td bgcolor="#000000"><font color="#ff9900" face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Affiliates</kw><br>
+															</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a href="/atimes/advertise.html#AF">
+																<font color="#ff9900" size="1"><kw class="krdwrd-tag-1">Click here to be one</kw></font></a><kw class="krdwrd-tag-1">)</kw></font></td>
+												</tr>
+												<tr>
+													<td align="center" bgcolor="#000000" valign="top">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																<td align="center" valign="center"><a href="http://www.kwrintl.com/fforwards/atimesadin.html"><strong><img src="/atimes//images/kw-affiliate.gif" border="0" hspace="0"></strong></a></td>
+															</tr>
+															<tr>
+																<td align="center" valign="center" height="10"><img src="/images/f_images/1pix.gif" width="1" height="10"></td>
+															</tr>
+															<tr>
+																<td align="center" valign="center"><a href="http://news.google.com/"><strong><img src="/atimes/images/gn-affiliate.gif" border="0" hspace="0"></strong><strong></strong></a></td>
+															</tr>
+															<tr>
+																<td align="center" valign="center" height="10"><img src="/images/f_images/1pix.gif" width="1" height="10"></td>
+															</tr>
+															<tr>
+																<td align="center" valign="center"><a href="http://news.yahoo.com/"><strong><img src="/atimes/images/yn-affiliate.gif" border="0" hspace="0"></strong><strong></strong></a></td>
+															</tr>
+															<tr>
+																<td align="center" valign="center" height="10"><img src="/images/f_images/1pix.gif" width="1" height="10"></td>
+															</tr>
+															<tr>
+																<td align="center" valign="center"><a href="http://www.a1netsearch.com/"><strong><img src="/atimes/images/a1-affiliate.gif" border="0" hspace="0"></strong><strong></strong></a></td>
+															</tr>
+															<tr>
+																<td align="center" valign="center" height="10"><img src="/images/f_images/1pix.gif" width="1" height="10"></td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+											</tbody></table>
+											<p>&nbsp;</p>
+										</td>
+									</tr>
+									<tr>
+										<td width="10">&nbsp;</td>
+										<td colspan="2" align="left" valign="top">
+											<div align="center"><a href="http://www.atimes.com/atimes/other/newsfeed_info.html" target="_blank"><img src="/atimes/images/banner-6.gif" border="0" width="468" height="60"></a></div>
+										</td>
+										<td background="/images/f_images/line.gif" valign="top" width="10">&nbsp;</td>
+										<td align="left" valign="top" width="130">&nbsp;</td>
+									</tr>
+									<tr>
+										<td width="10">&nbsp;</td>
+										<td align="left" valign="top" width="407">&nbsp;</td>
+										<td align="center" valign="top" width="105">&nbsp;</td>
+										<td background="/images/f_images/line.gif" valign="top" width="10">&nbsp;</td>
+										<td align="left" valign="top" width="130">&nbsp;</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td background="/images/f_images/sha.gif"><img src="/images/f_images/1pix.gif" width="7" height="7"></td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="#003366" valign="center" height="50">
+					<div align="center">
+						<table class="table-text" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody><tr>
+								<td height="17">
+									<div align="center"></div>
+								</td>
+							</tr>
+							<tr>
+								<td height="17">
+									<div align="center"><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">No 
+											material from Asia Times Online may be republished in any form without written 
+											permission.</kw></font></div>
+								</td>
+							</tr>
+							<tr>
+								<td height="13">
+									<div align="center"><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Copyright 
+											2003,&nbsp;Asia Times Online, 4305 Far East Finance Centre, 16 Harcourt Rd, 
+											Central, Hong Kong</kw></font></div>
+									<div align="center"><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="2"></font>&nbsp;</div>
+									<div align="center"><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="2"> <a href="http://www.atimes.com/atimes/policies.html">
+												<font color="#ffffff"><kw class="krdwrd-tag-1">Privacy and Legal Policies</kw></font></a></font></div>
+									<div align="center"><font color="#ffffff" size="2"></font>&nbsp;</div>
+								</td>
+							</tr>
+						</tbody></table>
+						<p></p>
+						<font color="#ffffff" size="1"></font><font color="#ffffff" size="2"></font>
+					</div>
+				</td>
+				<td background="/images/f_images/sha.gif">&nbsp;</td>
+			</tr>
+		</tbody></table>
+		<map name="Map"><area shape="RECT" coords="347,3,488,47" href="http://www.asiatimes-chinese.com" target="_blank">
+			
+		</map>
+	</body></html>

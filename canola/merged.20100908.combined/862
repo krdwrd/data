@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://www.neave.com/games/help/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	
+		
+		<meta http-equiv="imagetoolbar" content="no"><title>Neave Games Help</title>
+		
+		<meta name="author" content="Paul Neave">
+		<link type="text/css" rel="stylesheet" media="screen" href="/assets/styles/main.css">
+		<link type="text/css" rel="stylesheet" media="screen" href="/assets/styles/games_help.css"><!--[if lte IE 6]><link type="text/css" rel="stylesheet" href="/assets/styles/games_help_ie6.css" /><![endif]-->
+		
+		<link type="image/x-icon" rel="shortcut icon" href="/assets/images/games_favicon.ico">
+		<link type="image/x-icon" rel="icon" href="/assets/images/games_favicon.ico">
+		<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+		<script type="text/javascript" src="/assets/scripts/mootools.js"></script>
+		<script type="text/javascript" src="/assets/scripts/swfobject.js"></script>
+		<script type="text/javascript" src="/assets/scripts/games_help.js"></script>
+		<script type="text/javascript" src="/assets/scripts/games.js"></script>
+		<script type="text/javascript" src="/assets/scripts/main.js"></script><!--[if lte IE 6]><script type="text/javascript" src="/assets/scripts/main_ie6.js"></script><![endif]--></head><body>
+		<div id="outer">
+			<div id="header"> 
+				<div id="headerPreview">
+					<div id="headerPreviewInner">
+						<h1><a href="/"><span><kw class="krdwrd-tag-1">Neave.com</kw></span></a></h1>
+						<p><kw class="krdwrd-tag-1">...the interactive playground of Paul Neave.</kw></p>
+					</div>
+				</div>
+				<div id="headerLinks">
+					<div id="linksColumns">
+						<ul id="linksCol1">
+							<li><a href="/" id="homeLink"><kw class="krdwrd-tag-1">Neave.com</kw></a></li>
+							<li><a href="http://www.flashearth.com/" id="flashearthLink"><kw class="krdwrd-tag-1">Flash Earth</kw></a></li>
+							<li><a href="/planetarium/" id="planetariumLink"><kw class="krdwrd-tag-1">Planetarium</kw></a></li>
+						</ul>
+						<ul id="linksCol2">
+							<li><a href="/games/" id="gamesLink"><kw class="krdwrd-tag-1">Games</kw></a></li>
+							<li><a href="/imagination/" id="imaginationLink"><kw class="krdwrd-tag-1">Imagination</kw></a></li>
+							<li><a href="/fractal/" id="fractalLink"><kw class="krdwrd-tag-1">Fractal</kw></a></li>
+						</ul>
+						<ul id="linksCol3">
+							<li><a href="/television/" id="televisionLink"><kw class="krdwrd-tag-1">Television</kw></a></li>
+							<li><a href="/strobe/" id="strobeLink"><kw class="krdwrd-tag-1">Strobe</kw></a></li>
+							<li><a href="/anaglyph/" id="anaglyphLink"><kw class="krdwrd-tag-1">Anaglyph</kw></a></li>
+						</ul>
+						<ul id="linksCol4">
+							<li><a href="/bounce/" id="bounceLink"><kw class="krdwrd-tag-1">Bounce</kw></a></li>
+							<li><a href="/light/" id="lightLink"><kw class="krdwrd-tag-1">Light</kw></a></li>
+							<li><a href="/dandelion/" id="dandelionLink"><kw class="krdwrd-tag-1">Dandelion</kw></a></li>
+						</ul>
+						<ul id="linksCol5">
+							<li><a href="/webcam/" id="webcamLink"><kw class="krdwrd-tag-1">Webcam</kw></a></li>
+							<li><a href="/vote/" id="voteLink"><kw class="krdwrd-tag-1">Vote</kw></a></li>
+							<li><a href="http://www.flickr.com/photos/neave/" id="flickrLink"><kw class="krdwrd-tag-1">Flickr Photos</kw></a></li>
+						</ul>
+					</div>
+				</div>
+				<div id="headerCollapse">
+					<p><a id="headerCollapseLink"><kw class="krdwrd-tag-1">&nbsp;// </kw><strong><kw class="krdwrd-tag-1">MENU</kw></strong><kw class="krdwrd-tag-1"> ...more from Neave</kw></a></p>
+				</div>
+				<div id="headerArrow"></div>
+			</div>
+			<div id="content">
+				<div id="contentInner">
+					<div id="contentColumn"></div>
+					<div id="contentGames">
+						<div id="contentColumnInner"></div>
+						<div id="contentRibbon">
+							<div id="contentTitle">
+								<h2><a href="/games/" name="top"><span><kw class="krdwrd-tag-1">Neave Games Help</kw></span></a></h2>
+							</div>
+							<div id="contentPreview">
+								<div id="contentPreviewInner"></div>
+							</div>
+						</div>
+						<div id="contentBody">
+							<div id="contentText">
+								<div id="contentTextStretch"><br><br><br><br><br><br></div>
+								<div id="introText">
+									<p>
+										<span><kw class="krdwrd-tag-1">
+											Having trouble?&nbsp;
+											Here are some frequently asked game-related questions to help you out.&nbsp;
+											If you have read the FAQs and are still none the wiser, </kw><a><kw class="krdwrd-tag-1">get in touch</kw></a><kw class="krdwrd-tag-2"> and I'll do my bestest to help. &nbsp;//&nbsp;
+										</kw></span>
+									</p>
+								</div>
+							</div>
+							<div id="contentHelp">
+								<ul>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-3">Who made these games?</kw></strong></span></h4>
+										<p class="sub"><kw class="krdwrd-tag-3">
+											I, </kw><a href="/about/"><kw class="krdwrd-tag-3">Paul Neave</kw></a><kw class="krdwrd-tag-3"> made all the games featured on Neave Games.&nbsp;
+											But I didn't make the </kw><em><kw class="krdwrd-tag-3">original</kw></em><kw class="krdwrd-tag-3"> arcade games.&nbsp;
+											Those were made by many different people and video game companies ranging from </kw><em><kw class="krdwrd-tag-3">Atari</kw></em><kw class="krdwrd-tag-3"> to </kw><em><kw class="krdwrd-tag-3">Taito</kw></em><kw class="krdwrd-tag-3">.&nbsp;
+											My versions are faithful recreations of the original arcade games, made from scratch using lots of coding jiggerypokery in </kw><a href="http://www.adobe.com/products/flash/"><kw class="krdwrd-tag-1">Adobe Flash</kw></a><kw class="krdwrd-tag-2">.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-3">It doesn't work when I click PLAY</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-3">
+											Please make sure </kw><a href="https://www.google.com/adsense/support/bin/answer.py?answer=12654"><kw class="krdwrd-tag-3">JavaScript is enabled</kw></a><kw class="krdwrd-tag-3"> and the latest </kw><a href="http://www.adobe.com/go/getflashplayer"><kw class="krdwrd-tag-3">Flash Player</kw></a><kw class="krdwrd-tag-3"> is installed.&nbsp;
+											I also recommend you use the brilliant </kw><a href="http://www.mozilla.com/firefox/"><kw class="krdwrd-tag-1">Firefox web browser</kw></a><kw class="krdwrd-tag-2"> instead of Internet Explorer.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Can I play a game in full screen?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-2">
+											Click on the small white arrow in the top-right corner of the game window and the game will start again in full screen mode.&nbsp;
+											Alternatively, whilst playing a game, right-click (Mac owners use control-click) and select the option "Start game in full screen" from the drop-down menu.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-3">How do I control a game?&nbsp; What are 'arrow keys'?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-3">
+											Games can be played either with the </kw><strong><kw class="krdwrd-tag-3">mouse</kw></strong><kw class="krdwrd-tag-3"> or </kw><strong><kw class="krdwrd-tag-3">arrow keys</kw></strong><kw class="krdwrd-tag-3"> on the keyboard.&nbsp;
+											Games which use the arrow keys are </kw><a href="/games/asteroids/"><kw class="krdwrd-tag-3">Asteroids</kw></a><kw class="krdwrd-tag-3">, </kw><a href="/games/frogger/"><kw class="krdwrd-tag-3">Frogger</kw></a><kw class="krdwrd-tag-3">, </kw><a href="/games/nblox/"><kw class="krdwrd-tag-3">N-Blox</kw></a><kw class="krdwrd-tag-3">, </kw><a href="/games/snake/"><kw class="krdwrd-tag-3">Snake</kw></a><kw class="krdwrd-tag-3"> and </kw><a href="/games/spaceinvaders/"><kw class="krdwrd-tag-1">Space Invaders</kw></a><kw class="krdwrd-tag-1">.&nbsp;
+											Arrow keys can be found in the lower-right part of your keyboard.&nbsp;
+											If you would prefer to play with different keys, you can use the following alternatives:
+										</kw></p>
+										<img src="/assets/images/games_help_keys.png" alt="Keyboard" height="81" width="303">
+										<div id="arrowKeys">
+											<div id="arrowKeysLeft"><kw class="krdwrd-tag-1">
+												Up – </kw><strong><kw class="krdwrd-tag-1">W</kw></strong><kw class="krdwrd-tag-1"> or </kw><strong><kw class="krdwrd-tag-1">&nbsp;’</kw></strong><br><kw class="krdwrd-tag-1">
+												Down – </kw><strong><kw class="krdwrd-tag-1">S</kw></strong><kw class="krdwrd-tag-1"> or </kw><strong><kw class="krdwrd-tag-1">/</kw></strong><br><kw class="krdwrd-tag-1">
+												Left – </kw><strong><kw class="krdwrd-tag-1">A</kw></strong><kw class="krdwrd-tag-1"> or </kw><strong><kw class="krdwrd-tag-1">Z</kw></strong><br><kw class="krdwrd-tag-1">
+												Right – </kw><strong><kw class="krdwrd-tag-1">D</kw></strong><kw class="krdwrd-tag-1"> or </kw><strong><kw class="krdwrd-tag-1">X</kw></strong><br><br>
+											</div>
+											<div><kw class="krdwrd-tag-1">
+												Pause game – </kw><strong><kw class="krdwrd-tag-1">P</kw></strong><br><kw class="krdwrd-tag-1">
+												Quit game – </kw><strong><kw class="krdwrd-tag-1">Q</kw></strong><br><kw class="krdwrd-tag-1">
+												Mute sound – </kw><strong><kw class="krdwrd-tag-1">M</kw></strong><br><kw class="krdwrd-tag-3">
+												Fire or other – </kw><strong><kw class="krdwrd-tag-3">space key</kw></strong>
+											</div>
+										</div>
+										<p style="clear: both;"><kw class="krdwrd-tag-3">
+											All games also have the option to pause at any time by pressing the </kw><strong><kw class="krdwrd-tag-3">P</kw></strong><kw class="krdwrd-tag-3"> key, mute the sound by pressing the </kw><strong><kw class="krdwrd-tag-3">M</kw></strong><kw class="krdwrd-tag-3"> key or quit the game by pressing the </kw><strong><kw class="krdwrd-tag-1">Q</kw></strong><kw class="krdwrd-tag-2"> key.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Your games are old and boring</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-2">
+											I love the old skool games, and even though they may be old, it's the simplicity I like about them.&nbsp;
+											Yes, they don't have fancy whizz-bang XBox 360 graphics, but that's the point.&nbsp;
+											They're designed to be basic and to give the feeling of playing the original retro arcade game.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-3">Can I add a game to my website/MySpace/Facebook profile page?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-3">
+											You can copy and paste the HTML code found at the bottom of each game page or use the code found on </kw><a href="http://www.widgetbox.com/developer/2f277deb-fac8-44a7-bf6a-106fdae43a4f"><kw class="krdwrd-tag-3">Widgetbox</kw></a><kw class="krdwrd-tag-3"> or </kw><a href="http://www.myspacemodworld.com/myspace-games"><kw class="krdwrd-tag-3">MySpace ModWorld</kw></a><kw class="krdwrd-tag-3"> or </kw><a href="http://www.myspacegens.com/handler.php?page=games&amp;main=S"><kw class="krdwrd-tag-1">MySpaceGens</kw></a><kw class="krdwrd-tag-2"> to add a game to your website or profile page.&nbsp;
+											It should work if you have your own website or a page on MySpace or other social networking website.&nbsp;
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Can I have my own high score table?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-2">
+											No, only one universal high score table is available.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Can I download a game or have its source code?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-2">
+											Sorry, downloads and source code are not available for the games.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Can you make a game for me?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-2">
+											No, I'm afraid I do not licence or make customised games.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Can I link to your games?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-2">
+											Sure, please feel free to link to anything you to want to on Neave.com.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Can I use a joystick or controller with the games?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-2">
+											No, sorry.&nbsp;
+											Unfortunately Flash does not support joysticks or external controllers of any kind, and so they cannot be used with the games.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">When are the high scores reset?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-2">
+											High scores for all games are reset at every midnight PST, which is 8am GMT.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">How do some people get such high scores?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-2">
+											They must be very clever.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Can I put the games onto my Joomla site?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-3">
+											Yes, you can use a component called </kw><a href="http://www.pragmaticutopia.com/"><kw class="krdwrd-tag-1">PUArcade</kw></a><kw class="krdwrd-tag-2">.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-3">Did you make the Arcade! Classic Arcade Pack?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-3">
+											I didn't create the software available on </kw><a href="http://www.arcadeclassicpack.com/"><kw class="krdwrd-tag-3">arcadeclassicpack.com</kw></a><kw class="krdwrd-tag-3"> or </kw><a href="http://www.openwares.org/"><kw class="krdwrd-tag-1">Openwares.org</kw></a><kw class="krdwrd-tag-2"> even though it features some of my games.&nbsp;
+											The author is called "Zobber" and I'd appreciate if you could put any questions about it to Openwares directly rather than to myself.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Do you own freetetris.org or freepacman.org?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-3">
+											No, these are owned by Alx Klive who runs </kw><a href="http://www.freevideogamesonline.org/"><kw class="krdwrd-tag-1">freevideogamesonline.org</kw></a><kw class="krdwrd-tag-2">, although versions of my games can be found on that website.&nbsp;
+											Neave Games will always have the most up-to-date versions of the games with bug fixes and new features, so you're probably best playing them here rather than anywhere else.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-2">// </kw><strong><kw class="krdwrd-tag-2">Why is </kw><em><kw class="krdwrd-tag-2">N-Blox</kw></em><kw class="krdwrd-tag-2"> not called </kw><em><kw class="krdwrd-tag-3">Tetris</kw></em><kw class="krdwrd-tag-3">?</kw></strong></span></h4>
+										<p>
+											<em><kw class="krdwrd-tag-3">Tetris</kw></em><kw class="krdwrd-tag-3"> was renamed </kw><a href="/games/nblox/"><kw class="krdwrd-tag-3">N-Blox</kw></a><kw class="krdwrd-tag-3"> at the request of </kw><em><kw class="krdwrd-tag-3">The Tetris Company LLC</kw></em><kw class="krdwrd-tag-3"> as it was seen to be an illegal use of their trademark.&nbsp;
+											The </kw><em><kw class="krdwrd-tag-3">N</kw></em><kw class="krdwrd-tag-3"> stands for </kw><em><kw class="krdwrd-tag-3">Neave</kw></em><kw class="krdwrd-tag-3">, the </kw><em><kw class="krdwrd-tag-3">Blox</kw></em><kw class="krdwrd-tag-3"> stands for... </kw><em><kw class="krdwrd-tag-3">blocks</kw></em><kw class="krdwrd-tag-3">, and it fits nicely into the space where the word </kw><em><kw class="krdwrd-tag-3">Tetris</kw></em><kw class="krdwrd-tag-3"> used to be.&nbsp;
+											Other than that, it's a very silly name and it should really be called </kw><em><kw class="krdwrd-tag-1">Tetris</kw></em><kw class="krdwrd-tag-2">, but I'm not allowed to call it that any more.&nbsp;
+											Hopefully it doesn't spoil the game too much though.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-3">What happened to Pac-Man?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-3">
+											The copyright owners </kw><em><kw class="krdwrd-tag-3">Namco</kw></em><kw class="krdwrd-tag-3"> decided they </kw><a href="/games/pacman/"><kw class="krdwrd-tag-1">didn't like me any more</kw></a><kw class="krdwrd-tag-2"> and I had to remove it.&nbsp;
+											Calling it N-Maze wouldn't have helped either.&nbsp;
+											Even so, the Flash version can still be found lurking around on the web if you search for it.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">Will you be making any more games?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-3">
+											I would love to, but due to the copyright problems I've had already I'm in no rush to make any more games soon.&nbsp;
+											If you have any suggestions for new games or ideas for improving the current ones, please </kw><a><kw class="krdwrd-tag-3">send them in</kw></a><kw class="krdwrd-tag-2"> to me.
+										</kw></p>
+									</li>
+									<li>
+										<h4><span><kw class="krdwrd-tag-3">// </kw><strong><kw class="krdwrd-tag-1">What's with all the pink?</kw></strong></span></h4>
+										<p><kw class="krdwrd-tag-1">
+											It's more magenta than pink.&nbsp;
+											And I think it looks very cool.&nbsp;
+											So there.
+										</kw></p>
+									</li>
+									<li>
+										<p><a id="topLink"><strong><kw class="krdwrd-tag-1">Back to top of page</kw></strong></a></p>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="footerClear"></div>
+			<div id="footer"> 
+				<div id="footerCopy">
+					<p><a href="/" id="copyLink"><kw class="krdwrd-tag-1">© 1999-2008 Paul Neave</kw></a></p>
+				</div>
+				<div id="footerLinks">
+					<p><a href="/games/help/" id="extraLink"><kw class="krdwrd-tag-1">Neave Games Help</kw></a><kw class="krdwrd-tag-1"> &nbsp;//&nbsp; </kw><a href="/about/" id="aboutLink"><kw class="krdwrd-tag-1">About Neave</kw></a><kw class="undefined"> &nbsp;//&nbsp; </kw><a href="http://www.mediatemple.net/" id="mtLink"><kw class="undefined">Loved by (mt) Media Temple</kw></a></p>
+				</div>
+			</div>
+		</div>
+	</body></html>

@@ -1,0 +1,521 @@
+<head><base href="http://www.ipsnews.net/africa/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>TRADE-AFRICA: Improved Regional Integration Still Key For Success</title>
+
+
+
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><meta date="" 9="" 25="" 2007="" 5:32:00="" am="">
+<meta author="" michael="" deibert="">
+<meta topic="" trade-africa="">
+<meta origin="" paris="">
+
+
+<link href="/ips_styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script></head><body topmargin="0" leftmargin="0" bgcolor="#ffffff" marginheight="0" marginwidth="0">
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+  <tbody><tr> 
+    <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr> 
+          <td background="/new_images/head_large_story.jpg" height="75" valign="top"> 
+            <table border="0" cellpadding="0" cellspacing="0" height="75" width="577">
+              <tbody><tr> 
+                <td rowspan="3" width="28%">&nbsp;</td>
+                <td width="72%">&nbsp;</td>
+              </tr>
+              <tr> 
+                <td>&nbsp;</td>
+              </tr>
+              <tr> 
+                <td>&nbsp;</td>
+              </tr>
+            </tbody></table>
+            <div align="right"></div></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td background="/new_images/top_bar.jpg" height="22"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr> 
+          <td class="white"><kw class="krdwrd-tag-1">&nbsp;&nbsp;&nbsp;Inter Press Service News Agency</kw></td>
+          <td class="white"> <div align="right"> <font size="-1"><kw class="krdwrd-tag-1"> 
+              Wednesday, June 25, 2008&nbsp;&nbsp;&nbsp;15:15 GMT &nbsp;&nbsp;&nbsp;</kw></font></div></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr valign="top"> 
+    <td><table border="0" cellpadding="0" cellspacing="0" height="0" width="100%">
+        <tbody><tr> 
+          <td rowspan="2" background="/new_images/bar_tema.jpg" valign="top" width="120"> 
+            <table border="0" cellpadding="0" cellspacing="0" width="120">
+  <tbody><tr>
+    <td bgcolor="#ffffff" height="5">
+</td></tr>
+  <tr>
+    <td height="0">
+<form action="http://www.topica.com/f/p.html" method="post" onsubmit="return validateForm( this, false, true, false, true, 0);" ;="">
+
+    <input name="lid" value="900055693" type="hidden">
+    <input name="fid" value="900005496" type="hidden">	
+        <table border="0" cellpadding="0" cellspacing="0" height="0" width="100%">
+          <tbody><tr> 
+            <td class="yellow" bgcolor="#970000"><kw class="krdwrd-tag-1">&nbsp;&nbsp;Subscribe !</kw></td>
+          </tr>
+          <tr> 
+            <td bgcolor="#fff0a5">&nbsp; </td>
+          </tr>
+          <tr> 
+            <td bgcolor="#fff0a5" width="85%"> <p align="center"><font style="font-size: 11px;" color="#006699" face="verdana,sans-serif" size="0"><kw class="krdwrd-tag-1">Enter 
+                your email and receive TerraViva Africa, our free weekly journal</kw></font></p>
+              <p align="center"><font style="font-size: 9pt;" size="-1">
+              <input name="f:31" class="input-text" id="Email" value="your email" size="8" alt="email|0" type="text">&nbsp;<input name="f#31" value="TEXT:Email%20Address" type="hidden">
+                </font><font style="font-size: 9pt;" face="Geneva,Helvetica,Arial,Sans Serif" size="-1"> 
+        <input name="Submit" class="input-submit" value="Ok" type="submit">
+                    </font> </p><p>
+            </p></td>
+          </tr>
+          <tr> </tr>
+        </tbody></table>
+            
+         
+      </form></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="120">
+  <tbody><tr>
+    <td background="/new_images/bar_tema.jpg"><table class="white" border="0" cellpadding="0" cellspacing="0" width="100%">
+   <tbody><tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>      
+		
+		  <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/index.asp" class="barra"><kw class="krdwrd-tag-1">Homepage</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+		  <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/index.asp" class="barra"><kw class="krdwrd-tag-1">World Service</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/e_africa.asp" class="barra"><kw class="krdwrd-tag-1">East 
+            Africa</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/s_africa.asp" class="barra"><kw class="krdwrd-tag-1">Southern 
+            Africa</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/w_africa.asp" class="barra"><kw class="krdwrd-tag-1">West 
+            Africa</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+		<tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/c_africa.asp" class="barra"><kw class="krdwrd-tag-1">Central 
+            Africa</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/environment.asp" class="barra"><kw class="krdwrd-tag-1">Environment</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/health.asp" class="barra"><kw class="krdwrd-tag-1">Health-HIV/AIDS</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+     <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/education.asp" class="barra"><kw class="krdwrd-tag-1">Education</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>   <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/human.asp" class="barra"><kw class="krdwrd-tag-1">Rights</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/politics.asp" class="barra"><kw class="krdwrd-tag-1">Politics</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/economy.asp" class="barra"><kw class="krdwrd-tag-1">Economics</kw><br><kw class="krdwrd-tag-1">&nbsp;&nbsp;&nbsp;and 
+  Finance</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/development.asp" class="barra"><kw class="krdwrd-tag-1">Development</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/energy.asp" class="barra"><kw class="krdwrd-tag-1">Energy</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/population.asp" class="barra"><kw class="krdwrd-tag-1">Population</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/culture.asp" class="barra"><kw class="krdwrd-tag-1">Culture</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        
+        <tr> 
+          <td><font color="#ffffff">&nbsp;</font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/africa/radio.asp" class="barra"><kw class="krdwrd-tag-1">Radio 
+            Service</kw></a></font></td>
+        </tr>
+		 <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+		  <tr> 
+          <td><font color="#ffffff">&nbsp;</font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/fr/index.asp" class="barra"><kw class="krdwrd-tag-1">Français</kw></a></font></td>
+        </tr>
+		 <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>  <tr> 
+          <td><font color="#ffffff">&nbsp;</font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://www.ips.org/regionalcenters/africa.shtml" class="barra"><kw class="krdwrd-tag-1">About 
+            IPS </kw></a></font></td>
+        </tr>
+		 <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_tema_sep.jpg" height="5" width="120"></font></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="120">
+  <tbody><tr> 
+    <td background="/new_images/bar_idioma.jpg"><table class="white" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="/index.asp" class="barra_idiomas"><kw class="krdwrd-tag-1">ENGLISH</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://www.ipsnoticias.net" class="barra_idiomas"><kw class="krdwrd-tag-1">ESPAÑOL</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://www.ipsnews.net/fr/index.asp" class="barra_idiomas"><kw class="krdwrd-tag-1">FRANÇAIS</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://ipsnews.net/se" class="barra_idiomas"><kw class="krdwrd-tag-1">SVENSKA</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://www.ipsnotizie.it" class="barra_idiomas"><kw class="krdwrd-tag-1">ITALIANO</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://ipsnews.de" class="barra_idiomas"><kw class="krdwrd-tag-1">DEUTSCH</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://www.ipsnews.net/africa/sw/index.asp" class="barra_idiomas"><kw class="krdwrd-tag-1">SWAHILI</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://ipsnews.be" class="barra_idiomas"><kw class="krdwrd-tag-1">NEDERLANDS</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://ipsnews.net/arabic" class="barra_idiomas"><kw class="krdwrd-tag-1">ARABIC</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://ipsnews.net/fi" class="barra_idiomas"><kw class="krdwrd-tag-1">SUOMI</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://www.ipsnoticias.net/portugues/" class="barra_idiomas"><kw class="krdwrd-tag-1">PORTUGUÊS</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff">&nbsp;&nbsp;&nbsp;<a href="http://ips-j.org/" class="barra_idiomas"><kw class="krdwrd-tag-1">JAPANESE</kw></a></font></td>
+        </tr>
+        <tr> 
+          <td><font color="#ffffff"><img src="/new_images/bar_idioma_sep.jpg" height="6" width="120"></font></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+ </td>
+          <td colspan="2" height="0" valign="top"> <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr> 
+                <td valign="bottom" width="35%"><div align="left"><a href="/print.asp?idnews=39395" target="_blank"><img src="/new_images/but_print.jpg" alt="Print" border="0" height="17" width="69"></a><a href="/sendnews.asp?idnews=39395"><img src="/new_images/but_sendfriend.jpg" alt="Send to a friend" border="0" height="17" width="107"></a></div></td>
+                <td height="24" valign="top" width="65%"> <div align="right"> 
+                    <a href="/africa/headlines.asp"><img src="/new_images/but_latestnews.jpg" border="0" height="18"></a><a href="http://www.ips.org/institutional/contacts.shtml" target="_blank"><img src="/new_images/but_contacts.jpg" border="0" height="18"></a><a href="http://www.ips.org/institutional/editor_letters.shtml"><img src="/new_images/but_opinions.jpg" alt="Readers Opinions" border="0"></a><a href="/search.shtml"><img src="/new_images/but_search.jpg" border="0" height="18"></a>
+                  </div></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td height="0" valign="top" width="460"> <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr style="background-image: url(&quot;../new_images/nota_back.jpg&quot;);"> 
+                <td colspan="2" height="0" valign="top"> <table border="0" cellpadding="8" cellspacing="0" width="100%">
+                    <tbody><tr> 
+                      <td background="/new_images/nota_back.jpg" valign="top"> 
+                        <table border="0" width="100%">
+                          <tbody><tr> 
+                            <td> <br><span class="marron_titulo_med"><kw class="krdwrd-tag-2">TRADE-AFRICA</kw></span><kw class="krdwrd-tag-3">:</kw><br><span class="marron_titulo_big"><kw class="krdwrd-tag-2"> Improved Regional Integration Still Key For Success</kw></span><br><span class="marron"><kw class="krdwrd-tag-1">Michael Deibert</kw></span><br> <span class="texto1"> <br><b><kw class="krdwrd-tag-3">PARIS, Sep 25  (IPS) - While its economic landscape is brightening, Africa is still bedeviled by some of the same obstacles that has historically served to undermine economic development in the resource and labour-rich region. And many of those woes could be solved through development of further intraregional trade.</kw></b><br><br><kw class="krdwrd-tag-3">"The relatively small weight of intraregional trade in Africa, despite the existence of several (and frequently overlapping) regional trade agreements, is due largely to their structure of production and the composition of their exports," according to a report released earlier this month by the United Nations Conference on Trade and Development (UNCTAD). 
+</kw><br><br><kw class="krdwrd-tag-3">
+UNCTAD puts the blame on the continent's continued reliance on exports of primary commodities while importing costly manufactured products from overseas, a trade pattern that significantly limits intraregional trade.
+</kw><br><br><kw class="krdwrd-tag-3">
+Though the continent's growth is seen at 6 percent in 2007, according to the report, and that per capita GDP in Africa has increased by more than 15 percent in the past five years along similar lines as West Asia and Latin America, analysts still see substantial hurdles for the region to overcome in order to meet the eight Millennium Development Goals (MDGs).
+</kw><br><br><kw class="krdwrd-tag-3">
+MDGs were set by the UN and run the gamut from halving extreme poverty to halting the spread of HIV/AIDS to providing universal primary education by 2015.
+</kw><br><br><kw class="krdwrd-tag-3">
+Though regional economic and trade groupings such as the 20-nation Common Market for Eastern and Southern Africa (COMESA) and the 15-member Economic Community of West African States (ECOWAS) have helped regional integration to some degree, observers say that more needs to be done.
+</kw><br><br><kw class="krdwrd-tag-3">
+"This dilemma is something of a microcosm of many different problems in Africa as there's lots of work being done on the macro level, but there's nothing done on some of the structural and detailed levels," says Katherine Constabile, an energy and economic consultant who has worked extensively in Africa. 
+</kw><br><br><kw class="krdwrd-tag-3">
+"With organizations like COMESA, there's less protectionism than there was in the 1990s, but there aren't enough resources to solve the trade imbalances and reinforce intraregional transport networks, which are terrible. The regional monetary systems also are a factor," she told IPS.
+</kw><br><br><kw class="krdwrd-tag-3">
+Indeed, one area needed to facilitate intra-Africa trade is some sort of common currency among countries, particularly in West Africa.
+</kw><br><br><kw class="krdwrd-tag-3">
+The CFA franc (colloquially known as the céfa or the simple "franc" in French) is viewed by some as a colonial vestige of a currency currently in use in 12 countries of formerly French-ruled Africa, as well as the former Portuguese colony Guinea-Bissau and the once Spanish-ruled enclave of Equatorial Guinea, standing at a fixed rate of 655.957 to the euro. 
+</kw><br><br><kw class="krdwrd-tag-3">
+However, in practice, the CFA is in fact two different currencies -- the West African CFA franc and the Central Africa CFA franc -- both of which retain the CFA name and exchange rate, but with notes and coins of the denominations not accepted in countries that have opted for one form of the CFA franc over the other. 
+</kw><br><br><kw class="krdwrd-tag-3">
+The West African Monetary Zone (WAMZ) group of five West African countries has announced its intention to introduce a stable, unified West African currency to compete with the CFA franc by 2008 but many analysts have expressed doubts that such a feat will be possible by then.
+</kw><br><br><kw class="krdwrd-tag-3">
+It is a state of affairs indicative of the often-fragmented nature of Africa's economies as a whole, some analysts say.
+</kw><br><br><kw class="krdwrd-tag-3">
+"The economies are more competitive than complimentary in Africa," says Brendan Vickers, senior researcher on multilateral trade at South Africa's Institute for Global Dialogue. "That relates to the whole production side of the economy, which isn't diversified sufficiently. The economies are subsistence based and small and don't attract enough investment to diversify."
+</kw><br><br><kw class="krdwrd-tag-3">
+Africa's regional geopolitical concerns also remain complex.
+</kw><br><br><kw class="krdwrd-tag-3">
+Though long civil wars in Liberia and Sierra Leone have come to an end, conflict still rages in parts of Somalia, the Democratic Republic of Congo and in Sudan's Darfur region, while a new regional rebellion, spearheaded by Tuareg nomads in Niger and Mali, has erupted in the southern Sahara. The situation in Côte d'Ivoire, set to hold elections next year, remains tense and confused.
+</kw><br><br><kw class="krdwrd-tag-3">
+Another obstacle for Africa to overcome in its quest for regional integration is the ability for African nations to negotiate trade and economic agreements among one another with the same amount of exactitude and vision, which those same countries bring to negotiating as regional blocs with outsiders.
+</kw><br><br><kw class="krdwrd-tag-3">
+Though African nations are currently in the process of negotiating new Economic Partnership Agreements (EPAs) that relate to market access and development with the European Union that some have charged are onerously exploitative, the level of discussion and debate between Africa and Europe nevertheless remains greater than that which many African countries have yet been able to muster among themselves.
+</kw><br><br><kw class="krdwrd-tag-3">
+"You have to cede some sovereignty if you're going to build a customs union or a common external tariff," says Brendan Vickers. "But governments thus far seem not willing to give that up."  (END/2007)</kw></span> <br> <p></p><p align="right"><a href="mailto:editors@ipsnews.net?Subject=IPS%20Story%20TRADE-AFRICA:%20Improved%20Regional%20Integration%20Still%20Key%20For%20Success" class="veige" target="_blank" onmouseover="MM_displayStatusMsg('Send Mail to the Author');return document.MM_returnValue" onmouseout="MM_displayStatusMsg(' ');return document.MM_returnValue"><b><kw class="krdwrd-tag-1">Send your comments to the editor</kw></b></a></p> <p></p></td>
+                          </tr>
+                        </tbody></table>
+                        <p>&nbsp;</p></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+              <tr> 
+                <td colspan="2"><table border="0" cellpadding="0" cellspacing="10" width="100%">
+                    <tbody><tr> 
+                      <td>  </td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+          <td valign="top" width="220"> <table border="0" cellpadding="0" cellspacing="5" width="100%">
+              <tbody><tr> 
+                <td bgcolor="#ffffff" height="0" valign="top"> <table style="border: 1px solid rgb(102, 51, 51);" border="0" cellpadding="0" cellspacing="5" width="100%">
+                    <tbody><tr> 
+                      <td> <div align="center"> <a href="http://www.ipsnews.net/new_focus/devdeadline/index.asp"><img src="http://www.ipsnews.net/new_focus/devdeadline/boton_home2.gif" border="0" height="65" width="197"></a></div></td>
+                    </tr>
+                    <tr> 
+                      <td valign="top"> </td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42959" class="linksmoll_black"><kw class="krdwrd-tag-1"> CLIMATE CHANGE:  100-Percent Renewables Not a Pipe Dream</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42955" class="linksmoll_black"><kw class="krdwrd-tag-1"> DEVELOPMENT:   'Aid From New EU Members Disregards Women'</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42944" class="linksmoll_black"><kw class="krdwrd-tag-1"> DEVELOPMENT:  Mobile Phones Soar in Internet-Starved Africa</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42940" class="linksmoll_black"><kw class="krdwrd-tag-1"> LATIN AMERICA:    Quality of Life at School Boosts Learning</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42939" class="linksmoll_black"><kw class="krdwrd-tag-1"> TRADE:  U.S. Farm Subsidies May Survive WTO Doha Round</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42933" class="linksmoll_black"><kw class="krdwrd-tag-1"> NEPAL:     A Small Victory for Nepali Women</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42931" class="linksmoll_black"><kw class="krdwrd-tag-1"> RIGHTS:  Mistreatment of Widows a Poorly Kept Secret</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42926" class="linksmoll_black"><kw class="krdwrd-tag-1"> TRADE:   WTO Delegates Following Talks Through News Media</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42925" class="linksmoll_black"><kw class="krdwrd-tag-1"> TRADE:    China and India Should Join Effort to Stop Illegal Logging</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42922" class="linksmoll_black"><kw class="krdwrd-tag-1"> DEVELOPMENT:    Water Flowing Back Into Public Hands</kw></a></td></tr><tr><td align="right"><a href="http://www.ipsnews.net/new_focus/devdeadline/index.asp" class="bordeaux_bold"><kw class="krdwrd-tag-1">  More &gt;&gt;</kw></a></td></tr> 
+                    
+                  </tbody></table></td>
+              </tr>
+              <tr> 
+                <td> <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr> 
+                      <td class="veige" bgcolor="#facf00" height="14" valign="middle"><kw class="krdwrd-tag-1">&nbsp;Latest 
+                        Global News</kw></td>
+                      <td class="veige" bgcolor="#facf00" valign="middle"><div align="right"><a href="/rss/headlines.xml"><img src="/new_images/xml.jpg" alt="News in RSS" border="0" height="14" width="41"></a></div></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="2" height="0"> <table bgcolor="#e7e7e7" border="0" cellpadding="0" cellspacing="5" width="100%">
+                          <tbody><tr> 
+                            <td> <table bgcolor="#e7e7e7" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42960" class="linksmoll_black"><kw class="krdwrd-tag-1"> PERU:  Rights Groups Warn of Authoritarian Tendencies</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42959" class="linksmoll_black"><kw class="krdwrd-tag-1"> CLIMATE CHANGE:  100-Percent Renewables Not a Pipe Dream</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42956" class="linksmoll_black"><kw class="krdwrd-tag-1"> ECONOMY-US:  Private Jets Targeted as Symbols of Inequality</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42955" class="linksmoll_black"><kw class="krdwrd-tag-1"> DEVELOPMENT:   'Aid From New EU Members Disregards Women'</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42954" class="linksmoll_black"><kw class="krdwrd-tag-1"> MIDEAST:  Aid Pledged to Strengthen West Bank Police</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42953" class="linksmoll_black"><kw class="krdwrd-tag-1"> MIDEAST:   Israel Training to Attack Iran</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42952" class="linksmoll_black"><kw class="krdwrd-tag-1"> MEDIA:   IPS Has New Chairman</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42951" class="linksmoll_black"><kw class="krdwrd-tag-1"> DEVELOPMENT-CHINA:     Temblor Throws Shadow on Big Dam Ambitions</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42950" class="linksmoll_black"><kw class="krdwrd-tag-1"> RIGHTS:  Torture Widely Viewed as "Immoral"</kw></a></td></tr><tr><td height="10" valign="top" width="30%"><img src="/new_images/vineta_blue.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42949" class="linksmoll_black"><kw class="krdwrd-tag-1"> POLITICS-IRAQ:  Fear of US-Sunni Ties Undercut Security Talks</kw></a></td></tr><tr><td align="right"><a href="http://www.ipsnews.net" class="bordeaux_bold"><kw class="krdwrd-tag-1">  More &gt;&gt;</kw></a></td></tr></tbody></table> </td>
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+                  </tbody></table>
+                   </td>
+                    </tr>
+                  </tbody></table>
+                  
+                </td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table>
+  
+   
+    
+      <table border="0" cellpadding="0" cellspacing="10" width="780">
+  <tbody><tr>
+    <td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr height="0"> 
+          <td class="pie" height="20"><font color="#003366"><kw class="krdwrd-tag-1">READ IN IPSNEWS.NET 
+            &gt;&gt; </kw></font></td>
+  </tr>
+  <tr> 
+    <td class="pie"><div align="center">
+              <table bgcolor="#eef0f2" border="0" cellpadding="0" cellspacing="5" width="100%">
+                <tbody><tr> 
+                  <td valign="top" width="250"><div align="center">
+                      <table border="0" cellpadding="0" cellspacing="5" width="230">
+                        <tbody><tr valign="top"> 
+                          <td colspan="2" class="pie"><a href="http://www.ipsnews.net/economy.asp" class="pie"><font color="#003366"><kw class="krdwrd-tag-1">ECONOMY, TRADE &amp; FINANCE</kw></font></a></td>
+                        </tr>
+                        <tr> 
+                          <td width="90"><a href="http://www.ipsnews.net/economy.asp"><img src="/_adv/__economy.jpg" alt="Economy, Trade &amp; Finance" border="0" height="60" width="90"></a></td>
+                          <td> 
+                            <img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42956" class="linksmoll_black"><kw class="krdwrd-tag-1"> ECONOMY-US:  Private Jets Targeted as Symbols of Inequality</kw></a><br><div align="right"><a href="http://www.ipsnews.net/economy.asp" class="linksmollbordeaux"><kw class="krdwrd-tag-1">  More &gt;&gt;</kw></a></div>
+                          </td>
+                        </tr>
+                      </tbody></table>
+                       
+                      </div></td>
+                  <td valign="top" width="250"> <div align="center">
+                      <table border="0" cellpadding="0" cellspacing="5" width="230">
+                        <tbody><tr valign="top"> 
+                          <td colspan="2"><a href="http://www.ipsnews.net/new_focus/indigenous_peoples/index.asp" class="pie"><font color="#003366"><kw class="krdwrd-tag-1">INDIGENOUS PEOPLES</kw></font></a></td>
+                        </tr>
+                        <tr> 
+                          <td width="90"><a href="http://www.ipsnews.net/new_focus/indigenous_peoples/index.asp"><img src="/_adv/__voces.jpg" alt="Indigenous Peoples" border="0" height="60" width="90"></a></td>
+                          <td> 
+                            <img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42930" class="linksmoll_black"><kw class="krdwrd-tag-1"> BOLIVIA:  Uncertain Political Future in Wake of Autonomy Votes</kw></a><br><div align="right"><a href="http://www.ipsnews.net/new_focus/indigenous_peoples/index.asp" class="linksmollbordeaux"><kw class="krdwrd-tag-1">  More &gt;&gt;</kw></a></div>
+                          </td>
+                        </tr>
+                      </tbody></table>
+                    </div></td>
+                  <td valign="top" width="250"><div align="center"> 
+                      <table border="0" cellpadding="0" cellspacing="5" width="230">
+                        <tbody><tr valign="top"> 
+                          <td colspan="2" class="pie" height="0"><a href="http://www.ipsnews.net/new_focus/deathpenalty/index.asp" class="pie"><font color="#003366"><kw class="krdwrd-tag-1">DEATH PENALTY - STOP THE KILLING</kw></font></a></td>
+                        </tr>
+                        <tr> 
+                          <td width="90"><a href="http://www.ipsnews.net/new_focus/deathpenalty/index.asp"><img src="/_adv/__deathpenalty.jpg" alt="Death Penalty - Stop the Killing" border="0" height="60" width="90"></a></td>
+                          <td> 
+                            <img src="/new_images/vineta_red.gif"><a target="_blank" href="http://www.ipsnews.net/news.asp?idnews=42934" class="linksmoll_black"><kw class="krdwrd-tag-1"> Q&amp;A:   State Main Opponent of Abolition in Morocco</kw></a><br><div align="right"><a href="http://www.ipsnews.net/new_focus/deathpenalty/index.asp" class="linksmollbordeaux"><kw class="krdwrd-tag-1">  More &gt;&gt;</kw></a></div>
+                             </td>
+                        </tr>
+                      </tbody></table>
+                      
+                    </div></td>
+                </tr>
+              </tbody></table>
+      </div></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+
+    
+  
+   
+     
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+  <tbody><tr height="0"> 
+    <td class="pie" background="/new_images/linea_down.jpg" height="14"><img src="/new_images/transparente.gif" height="23" width="4"></td>
+  </tr>
+  
+  <tr> 
+    <td class="pie"><div align="center"><font color="#a0afba"><a href="http://www.ips.org/institutional/contacts.shtml" class="pie"><kw class="krdwrd-tag-1">Contact 
+        Us</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.ips.org" target="_blank" class="pie"><kw class="krdwrd-tag-1">About 
+        Us</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/subscription.shtml" class="pie"><kw class="krdwrd-tag-1">Subscription</kw></a><kw class="krdwrd-tag-1"> | 
+        </kw><a href="/rss_doc.shtml" class="pie"><kw class="krdwrd-tag-1">News in RSS</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/newsletters.shtml" class="pie"><kw class="krdwrd-tag-1">Email 
+        News</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/wap/" class="pie"><kw class="krdwrd-tag-1">Mobile</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/text/" class="pie"><kw class="krdwrd-tag-1">Text 
+        Only</kw></a></font></div></td>
+  </tr>
+  <tr> 
+    <td class="pie"><div align="center"><a href="/copyright.shtml" class="pie"><kw class="krdwrd-tag-1">Copyright 
+        ©  2008 IPS-Inter Press Service. All rights reserved.</kw></a></div></td>
+  </tr>
+</tbody></table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." :
+"http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost +
+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-361073-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+  
+
+</body>

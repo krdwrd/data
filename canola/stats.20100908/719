@@ -1,0 +1,1497 @@
+<head><base href="http://ocmb.xenu.net/ocmb/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=f1a32d2bf6f9acc48eca539009b50c46" title="Operation Clambake Message Board Forum Index">
+<link rel="search" href="./search.php?sid=f1a32d2bf6f9acc48eca539009b50c46" title="Search">
+<link rel="help" href="./faq.php?sid=f1a32d2bf6f9acc48eca539009b50c46" title="FAQ">
+<link rel="author" href="./memberlist.php?sid=f1a32d2bf6f9acc48eca539009b50c46" title="Memberlist">
+<link rel="prev" href="viewtopic.php?t=24656&amp;view=previous&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" title="View previous topic">
+<link rel="next" href="viewtopic.php?t=24656&amp;view=next&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" title="View next topic">
+<link rel="up" href="./index.php?f=9&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" title="Opinions &amp; Debate">
+<link rel="SHORTCUT ICON" href="./images/favicon.ico">
+<link rel="copyright" href="http://phpBB.com" title="phpBB.com"><title>Operation Clambake Message Board :: View topic - Who am I</title><!-- link rel="stylesheet" href="templates/ocmb/ocmb.css" type="text/css" -->
+
+
+<style type="text/css">
+<!--
+/*
+  The original subSilver Theme for phpBB version 2+
+  Created by subBlue design
+  http://www.subBlue.com
+
+  NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
+  theme administration centre. When you have finalised your style you could cut the final CSS code
+  and place it in an external file, deleting this section to save bandwidth.
+*/
+
+/* General page style. The scroll bar colours only visible in IE5.5+ */
+body {
+	background-color: #E0AF40;
+	scrollbar-face-color: #f4e9d3;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #f4e9d3;
+	scrollbar-3dlight-color: #d5cec0;
+	scrollbar-arrow-color:  #006699;
+	scrollbar-track-color: #fcf2de;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+
+/* General font families for common tags */
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover		{ text-decoration: underline; color : #DD6900; }
+hr	{ height: 0px; border: solid #d5cec0 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline	{ background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+
+/* This is the outline round the main forum tables */
+.forumline	{ background-color: #FFFFFF; border: 2px #006699 solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1	{ background-color: #fcf2de; }
+td.row2	{ background-color: #f4e9d3; }
+td.row3	{ background-color: #d5cec0; }
+
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(templates/ocmb/images/cellpic2.jpg);
+		background-repeat: repeat-y;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th	{
+	color: #603020; font-size: 11px; font-weight : bold;
+	background-color: #006699; height: 25px;
+	background-image: url(templates/ocmb/images/cellpic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/ocmb/images/cellpic1.gif);
+			background-color:#d5cec0; border: #FFFFFF; border-style: solid; height: 28px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold; border: #FFFFFF; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+	background-color: #d5cec0; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle	{
+	font-weight: bold; font-size: 22px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+
+/* General text */
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #006699; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #DD6900; text-decoration: underline; }
+
+/* The register, login, search etc links at the top of the page */
+.mainmenu		{ font-size : 11px; color : #000000 }
+a.mainmenu		{ text-decoration: none; color : #006699;  }
+a.mainmenu:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Forum category titles */
+.cattitle		{ font-weight: bold; font-size: 12px ; letter-spacing: 1px; color : #006699}
+a.cattitle		{ text-decoration: none; color : #006699; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink		{ font-weight: bold; font-size: 12px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+a.nav			{ text-decoration: none; color : #006699; }
+a.nav:hover		{ text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #808080; }
+a.topictitle:hover	{ text-decoration: underline; color : #DD6900; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name			{ font-size : 11px; color : #000000;}
+
+/* Location, number of posts, post date etc */
+.postdetails		{ font-size : 10px; color : #000000; }
+
+/* The content of the posts (body of text) */
+.postbody { font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #808080; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+/* Quote & Code blocks */
+.code {
+	font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #006600;
+	background-color: #FAFAFA; border: #d5cec0; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #d5cec0; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+/* Copyright and bottom info */
+.copyright		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright		{ color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+
+/* Form elements */
+input,textarea, select {
+	color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000;
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+	background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+	background-color : #fcf2de;
+	color : #000000;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* The main submit button option */
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+
+/* None-bold submit button */
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: #f4e9d3; border-style: none; }
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/subSilver/formIE.css");
+-->
+</style></head><body bgcolor="#e0af40" link="#006699" text="#000000" vlink="#808080">
+
+<a name="top"></a>
+
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td class="bodyline"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td align="center" valign="middle" width="100%"><a href="http://www.xenu.net/clam_faq.html"><img alt="One opened, more to come!" src="http://www.xenu.net/images/clam.jpg" border="0"></a><a href="index.php?sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/clambake.jpg" alt="Operation Clambake Message Board Forum Index" border="0" vspace="1"></a><br>
+				<!-- <span class="maintitle">Operation Clambake Message Board</span><br /><span class="gen">The Fight Against the Church of Scientology on the 'Net<br />&nbsp; </span> -->
+				<table border="0" cellpadding="2" cellspacing="0">
+					<tbody><tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="http://ocmb.xenu.net/ocmb/viewtopic.php?t=13922" class="mainmenu"><img src="templates/ocmb/images/icon_mini_oc_faq.gif" alt="" border="0" height="13" hspace="3" width="12"><kw class="krdwrd-tag-1-80">OCMB FAQ</kw></a></span>&nbsp;&nbsp;<a href="faq.php?sid=f1a32d2bf6f9acc48eca539009b50c46" class="mainmenu"><img src="templates/ocmb/images/icon_mini_faq.gif" alt="FAQ" border="0" height="13" hspace="3" width="12"><kw class="krdwrd-tag-1-80">FAQ</kw></a><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=f1a32d2bf6f9acc48eca539009b50c46" class="mainmenu"><img src="templates/ocmb/images/icon_mini_search.gif" alt="Search" border="0" height="13" hspace="3" width="12"><kw class="krdwrd-tag-1-80">Search</kw></a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" class="mainmenu"><img src="templates/ocmb/images/icon_mini_register.gif" alt="Register" border="0" height="13" hspace="3" width="12"><kw class="krdwrd-tag-1-80">Register</kw></a></span>
+						&nbsp;<a href="./lasthour.php" class="mainmenu"><img src="templates/ocmb/images/icon_mini_lastday.gif" alt="Last Day Posts" border="0" height="13" hspace="3" width="12"><kw class="krdwrd-tag-1-80">Last Hour</kw></a><kw class="krdwrd-tag-1-80">/</kw><a href="./lastday.php" class="mainmenu"><kw class="krdwrd-tag-1-80">Day</kw></a><kw class="krdwrd-tag-1-80">/</kw><a href="./lastweek.php" class="mainmenu"><kw class="krdwrd-tag-1-80">Week</kw></a>
+						&nbsp;<a href="http://www.xenu.net/" class="mainmenu"><img src="templates/ocmb/images/icon_mini_oc.gif" alt="Operation Clambake main site" border="0" height="13" hspace="3" width="12"><kw class="krdwrd-tag-1-80">Operation Clambake</kw></a>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" height="25" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" class="mainmenu"><img src="templates/subSilver/images/icon_mini_profile.gif" alt="Profile" border="0" height="13" hspace="3" width="12"><kw class="krdwrd-tag-1-80">Profile</kw></a>&nbsp; &nbsp;
+						<a href="privmsg.php?folder=inbox&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" class="mainmenu"><img src="templates/subSilver/images/icon_mini_message.gif" alt="Log in to check your private messages" border="0" height="13" hspace="3" width="12"><kw class="krdwrd-tag-1-80">Log in to check your private messages</kw></a>&nbsp; &nbsp;<a href="login.php?sid=f1a32d2bf6f9acc48eca539009b50c46" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" alt="Log in" border="0" height="13" hspace="3" width="12"><kw class="krdwrd-tag-1-80">Log in</kw></a>&nbsp;</span></td>
+
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table>
+
+		<br>
+
+<table align="center" border="0" cellpadding="2" cellspacing="0" width="100%">
+  <tbody><tr>
+	<td align="left" valign="bottom"><span class="gensmall"><kw class="krdwrd-tag-1-100">
+	The time now is Tue Jun 24, 2008 2:59 pm</kw><br><kw class="krdwrd-tag-1-100">
+	All times are GMT + 2 Hours
+	</kw></span></td>
+  </tr>
+</tbody></table>
+
+<br class="nav">
+
+
+<table align="center" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tbody><tr>
+	<td align="left" valign="bottom" width="100%"><span class="nav">
+	<img src="./images/favicon.gif" align="absbottom" border="0">
+	<a href="./index.php?sid=f1a32d2bf6f9acc48eca539009b50c46" title="Operation Clambake Message Board" class="nav"><kw class="krdwrd-tag-1-100">Forum index</kw></a><kw class="krdwrd-tag-1-100">
+	»
+	</kw><a href="./index.php?f=104&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" title="" class="nav"><kw class="krdwrd-tag-1-100">General Topics</kw></a><kw class="krdwrd-tag-1-100">
+	»
+	</kw><a href="./index.php?f=9&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" title="A place to post and debate the Church of Scientology." class="nav"><kw class="krdwrd-tag-1-100">Opinions &amp; Debate</kw></a>
+	</span></td>
+</tr>
+</tbody></table>
+
+
+
+<table border="0" cellpadding="4" cellspacing="1" width="100%">
+<tbody><tr>
+	<td><span class="maintitle">
+		<a class="maintitle" href="viewtopic.php?t=24656&amp;start=30&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><kw class="krdwrd-tag-1-100">Who am I</kw></a>
+	</span><span class="gensmall"><br>
+	</span></td>
+</tr>
+</tbody></table>
+
+<table border="0" cellpadding="2" cellspacing="2" width="100%">
+<tbody><tr>
+	<td align="left" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=9&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/post.gif" alt="Post new topic" align="middle" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=24656&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/reply.gif" alt="Reply to topic" align="middle" border="0"></a></span></td>
+	<td valign="bottom" width="100%"><span class="gensmall">
+		<b><kw class="krdwrd-tag-1-100">Page </kw><b><kw class="krdwrd-tag-1-100">3</kw></b><kw class="krdwrd-tag-1-100"> of </kw><b><kw class="krdwrd-tag-1-100">5</kw></b></b><kw class="krdwrd-tag-1-100">&nbsp;[74 Posts]
+	</kw></span></td>
+	<td align="right" valign="bottom" nowrap="nowrap"><span class="gensmall">
+		<a href="viewtopic.php?t=24656&amp;view=previous&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" class="gensmall"><kw class="krdwrd-tag-1-100">View previous topic</kw></a><kw class="krdwrd-tag-1-100"> :: </kw><a href="viewtopic.php?t=24656&amp;view=next&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" class="gensmall"><kw class="krdwrd-tag-1-100">View next topic</kw></a><br>
+		<b><kw class="krdwrd-tag-1-100">
+		Goto page:&nbsp;
+		</kw><a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=15" class="gensmall"><kw class="krdwrd-tag-1-100">Previous</kw></a>&nbsp;
+
+		<a href="./viewtopic.php?t=24656&amp;postorder=asc" class="gensmall"><kw class="krdwrd-tag-1-100">1</kw></a><kw class="krdwrd-tag-1-100">, 
+		</kw><a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=15" class="gensmall"><kw class="krdwrd-tag-1-100">2</kw></a><kw class="krdwrd-tag-1-100">, 
+		3, 
+		</kw><a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=45" class="gensmall"><kw class="krdwrd-tag-1-100">4</kw></a><kw class="krdwrd-tag-1-100">, 
+		</kw><a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=60" class="gensmall"><kw class="krdwrd-tag-1-100">5</kw></a>
+
+		<a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=45" class="gensmall"><kw class="krdwrd-tag-1-100">Next</kw></a>
+	</b></span></td>
+</tr>
+</tbody></table>
+
+<table class="forumline" border="0" cellpadding="3" cellspacing="1" width="100%">
+	
+	<tbody><tr>
+		<th class="thCornerL" width="150" nowrap="nowrap"><kw class="krdwrd-tag-1-80">Author</kw></th>
+		<th class="thCornerR" nowrap="nowrap"><kw class="krdwrd-tag-1-80">Message</kw></th>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="top" width="150"><span class="name"><a name="285887"></a><b><kw class="krdwrd-tag-1-100">magoo1</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/355.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 24 Jan 2004</kw><br><kw class="krdwrd-tag-1-100">Posts: 9439</kw><br><kw class="krdwrd-tag-1-100">Location: Burbank, CA, USA</kw></span><br></td>
+		<td class="row1" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285887&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285887"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sat Jan 05, 2008 9:56 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285887&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Quote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote">
+<br><kw class="krdwrd-tag-3-60">
+Perhaps you did not notice the emoticon in my post.</kw></td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br><kw class="krdwrd-tag-3-100">
+I saw it....I didn't get you meant it as a joke. I'm REALLY glad to hear
+</kw><br><kw class="krdwrd-tag-3-100">
+this---as then it is funny: I stand corrected, thank you for pointing that out.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+((Somehow I guess I just thought you love spreadsheets, could whip one off in a few minutes--and voila---there would be the "Evidence" ..even though
+</kw><br><kw class="krdwrd-tag-3-100">
+WHO GIVES A S***) I'm glad to hear you meant is as  </kw><img src="images/smiles/icon_wink.gif" alt="Wink" border="0"><kw class="krdwrd-tag-3-80"> not  </kw><img src="images/smiles/icon_eek.gif" alt="Shocked" border="0"> 
+<br><kw class="krdwrd-tag-3-80">
+that.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Happy Week-end </kw><img src="images/smiles/icon_cheers.gif" alt="cheers" border="0">
+<br>
+
+<br><kw class="krdwrd-tag-3-60">
+Tory/Magoo~~~</kw></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row1" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a> <a href="mailto:magoo44@charter.net"><img src="templates/ocmb/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0"></a> <a href="http://www.xenu.net/archive/personal_story/tory/" target="_userwww"><img src="templates/ocmb/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a> <a href="aim:goim?screenname=www.torymagoo.org&amp;message=Hello+Are+you+there?"><img src="templates/ocmb/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0"></a>  <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="top" width="150"><span class="name"><a name="285893"></a><b><kw class="krdwrd-tag-1-100">Ball of Fluff</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/108832497645ff7a255dab6.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 26 May 2002</kw><br><kw class="krdwrd-tag-1-100">Posts: 7783</kw><br><kw class="krdwrd-tag-1-100">Location: Cyberspace</kw></span><br></td>
+		<td class="row2" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285893&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285893"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sat Jan 05, 2008 10:11 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285893&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><kw class="krdwrd-tag-3-100">If I saw a winking emoticon in a post and it followed a comment I thought was odd, I'd either ignore it or ask the person what was going on.</kw><br><kw class="krdwrd-tag-1-60">_________________</kw><br><a href="http://claireswazey.com/FAQ.html" target="_blank"><kw class="krdwrd-tag-1-80">http://claireswazey.com/FAQ.html</kw></a></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row2" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=23&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=23&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="top" width="150"><span class="name"><a name="285897"></a><b><kw class="krdwrd-tag-1-100">magoo1</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/355.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 24 Jan 2004</kw><br><kw class="krdwrd-tag-1-100">Posts: 9439</kw><br><kw class="krdwrd-tag-1-100">Location: Burbank, CA, USA</kw></span><br></td>
+		<td class="row1" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285897&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285897"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sat Jan 05, 2008 10:18 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285897&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><kw class="krdwrd-tag-3-80">Well..............was there more you wanted me to say?
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+I thought I said it: "I stand Corrected". "Thank you for pointing that out"
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Was there something else you needed....or did you just want to beat
+</kw><br><kw class="krdwrd-tag-3-100">
+this point into the ground. Perhaps LOOK at what *might* get someone,
+</kw><br><kw class="krdwrd-tag-3-100">
+anyone, to think you would ever do that.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+I'm quite sure if many critics here said that, we'd know they were joking, with or with out an emoticon.
+</kw><br><kw class="krdwrd-tag-3-100">
+I wasn't the only one who missed yours, so perhaps you should also look
+</kw><br><kw class="krdwrd-tag-3-100">
+at why is that? I'm not trying to 'attack' you---but since you brought it up, AGAIN, after my apology---I figured perhaps there's more that needs  looking into. Give it some thought---
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Keep in mind, there's 2 sides to every coin.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+And again, Happy Week-end, to you ~~and all~~
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Tory/Magoo~~</kw></span><span class="gensmall"><br><br><kw class="krdwrd-tag-1-60">Last edited by magoo1 on Sat Jan 05, 2008 10:31 pm; edited 1 time in total</kw></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row1" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a> <a href="mailto:magoo44@charter.net"><img src="templates/ocmb/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0"></a> <a href="http://www.xenu.net/archive/personal_story/tory/" target="_userwww"><img src="templates/ocmb/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a> <a href="aim:goim?screenname=www.torymagoo.org&amp;message=Hello+Are+you+there?"><img src="templates/ocmb/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0"></a>  <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="top" width="150"><span class="name"><a name="285900"></a><b><kw class="krdwrd-tag-1-100">magoo1</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/355.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 24 Jan 2004</kw><br><kw class="krdwrd-tag-1-100">Posts: 9439</kw><br><kw class="krdwrd-tag-1-100">Location: Burbank, CA, USA</kw></span><br></td>
+		<td class="row2" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285900&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285900"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sat Jan 05, 2008 10:28 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285900&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><kw class="krdwrd-tag-3-80">And here we are with 2 pages of a 3 page thread... about Fluffy.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+I don't mind clarification, I do mind when it goes on and on and on....
+</kw><br><kw class="krdwrd-tag-3-80">
+without ANYTHING helping to "Undress Scientology", which this web site is set up for.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+Ok, so for those lurking, here are a few things I'd suggest, having been "in" 
+</kw><br><kw class="krdwrd-tag-3-80">
+Scientology for 30 years, and escaped out (literally) in 2000.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+1) Read, look, listen, learn.
+</kw><br><kw class="krdwrd-tag-3-80">
+   Read the main page here--all of it.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+2) Go to </kw><a href="http://www.xenutv.com" target="_blank"><kw class="krdwrd-tag-3-60">www.xenutv.com</kw></a><kw class="krdwrd-tag-3-60"> and listen to all of the videos.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+3) Type in "Scientology" in Google, and read ALL of it, good and bad.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+4) Sit down and REALISTICALLY, if you're "in" list out the actual 
+</kw><br><kw class="krdwrd-tag-3-80">
+things you have gotten from Scientology, that you COULD NOT GET
+</kw><br><kw class="krdwrd-tag-3-80">
+ANYWHERE ELSE! (for me it was the Communications Course, and my supposed friends, who ALL left me, the minute I began to think for myself!)
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+5) IF you're considering joining, do one-four above, and ask yourself:
+</kw><br><kw class="krdwrd-tag-3-80">
+WHY DOES SCIENTOLOGY ACTIVELY TRY TO STOP FREE SPEECH.
+</kw><br><kw class="krdwrd-tag-3-80">
+Read this: It WAS what I did with them:
+</kw><br>
+<a href="http://www.lermanet.com/cos/toryonosa.htm" target="_blank"><kw class="krdwrd-tag-3-80">www.lermanet.com/cos/toryonosa.htm</kw></a>
+<br>
+
+<br><kw class="krdwrd-tag-3-60">
+6) Ask yourselves this: WHY IS IT SCIENTOLOGY **CANNOT** say:
+</kw><br><kw class="krdwrd-tag-3-60">
+"Read BOTH sides".
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+To me, that tells it all. IF Someone had asked me that while "in",
+</kw><br><kw class="krdwrd-tag-3-100">
+that very question would have started the wheels rolling.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Good luck, and Happy Hunting! </kw><img src="images/smiles/alien.gif" alt="alien" border="0">
+<br>
+
+<br><kw class="krdwrd-tag-3-60">
+Tory/Magoo~~Proud to say I'm an X-Scientologist after 30 years
+</kw><br><kw class="krdwrd-tag-3-60">
+"in"
+</kw><br><kw class="krdwrd-tag-3-60">
+Free at LAST!
+</kw><br><kw class="krdwrd-tag-3-60">
+Burbank, CA
+</kw><br><kw class="krdwrd-tag-3-60">
+(818) 588-3044
+</kw><br><kw class="krdwrd-tag-3-60">
+Not in hiding! </kw><img src="images/smiles/icon_wink.gif" alt="Wink" border="0"></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row2" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a> <a href="mailto:magoo44@charter.net"><img src="templates/ocmb/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0"></a> <a href="http://www.xenu.net/archive/personal_story/tory/" target="_userwww"><img src="templates/ocmb/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a> <a href="aim:goim?screenname=www.torymagoo.org&amp;message=Hello+Are+you+there?"><img src="templates/ocmb/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0"></a>  <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="top" width="150"><span class="name"><a name="285904"></a><b><kw class="krdwrd-tag-1-100">Kilia</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/172816664647c1c0da502e2.gif" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 05 Apr 2006</kw><br><kw class="krdwrd-tag-1-100">Posts: 3430</kw><br><kw class="krdwrd-tag-1-100">Location: In front of the pc where else would I be?</kw></span><br></td>
+		<td class="row1" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285904&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285904"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sat Jan 05, 2008 10:37 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285904&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><kw class="krdwrd-tag-3-100">Can we get back to the original post about "Steven James"?? 
+</kw><br><kw class="krdwrd-tag-3-100">
+I, myself, don't know who he is and asked about him on page 1, but nobody in the know, answered me. 
+</kw><br>
+
+<br>
+<span style="font-weight: bold;"><kw class="krdwrd-tag-3-80">WHO IS STEVEN JAMES???</kw></span>
+<br>
+
+<br><kw class="krdwrd-tag-1-60">
+Thank you..</kw><br><kw class="krdwrd-tag-1-60">_________________</kw><br><kw class="krdwrd-tag-1-80">~*There is courage and strength in numbers*~</kw></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row1" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=1928&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=1928&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>  <a href="http://www.nubbinridgedesigns.com/cos.html" target="_userwww"><img src="templates/ocmb/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="top" width="150"><span class="name"><a name="285906"></a><b><kw class="krdwrd-tag-1-100">magoo1</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/355.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 24 Jan 2004</kw><br><kw class="krdwrd-tag-1-100">Posts: 9439</kw><br><kw class="krdwrd-tag-1-100">Location: Burbank, CA, USA</kw></span><br></td>
+		<td class="row2" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285906&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285906"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sat Jan 05, 2008 10:48 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285906&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><kw class="krdwrd-tag-1-60">Kilia----
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+ I looked at that, as I was *trying* to somehow get this back on track,
+</kw><br><kw class="krdwrd-tag-3-100">
+but I didn't really see anything that I could add to his post.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+ Who is he? Well, since no one answered, that was my reasoning for posting things I felt lurkers should know. I know there are TONS of lurkers, here,
+</kw><br><kw class="krdwrd-tag-3-100">
+both "in" and "out". In a thread that is basically about nothing, why not add a few FACTS each time. That way, either way, people shall learn something.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+ Then IF someone knows SJs, they can post that. However, if no one does---the FACTS are still getting out there for people to read.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+ HNYs To you, Kilia </kw><img src="images/smiles/icon_wink.gif" alt="Wink" border="0">
+<br>
+
+<br><kw class="krdwrd-tag-3-60">
+ Tory/Magoo~~~
+</kw><br><kw class="krdwrd-tag-3-60">
+PS: Oh yeah........and  C of S is famous for breaking up families, too,
+</kw><br><kw class="krdwrd-tag-3-60">
+so keep THAT in mind, IF you're considering joining, too. It's hard, it hurts, MANY families have lost their children, or wives, or husbands to the CULT.</kw></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row2" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a> <a href="mailto:magoo44@charter.net"><img src="templates/ocmb/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0"></a> <a href="http://www.xenu.net/archive/personal_story/tory/" target="_userwww"><img src="templates/ocmb/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a> <a href="aim:goim?screenname=www.torymagoo.org&amp;message=Hello+Are+you+there?"><img src="templates/ocmb/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0"></a>  <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="top" width="150"><span class="name"><a name="285907"></a><b><kw class="krdwrd-tag-1-100">juju</kw></b></span><br><span class="postdetails"><br><br><br><kw class="krdwrd-tag-1-100">Joined: 22 Apr 2006</kw><br><kw class="krdwrd-tag-1-100">Posts: 446</kw><br><kw class="krdwrd-tag-1-100">Location: London, UK</kw></span><br></td>
+		<td class="row1" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285907&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285907"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sat Jan 05, 2008 11:17 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285907&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><kw class="krdwrd-tag-3-60">Kilia,
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+I am Steven james who posts at ESMB and here as Juju (sometimes but not often). I am a former Scientologist- went into the Freezone. The Freezone didn't work. You can read about my experiences with T.Parks and clan over at the other board.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+I am ignoring Ball of Fluff at the moment, because I exposed Teril Parks and bought him out into the open where he lied. She is trying to reinstigate a long winded debate about it and I am not going there. END OF.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Roan,
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+I find use in Scientology, other religions, other practises etc etc. I find there is truth in various subjects. Scientology has served me well- but it is futile when you work in an environment with no real ARC, no creation, no ethics, no aesthetics, no basic common sense or justice for the individual. My first FZ Auditor demeaned me. I am not 'upstat' enough for him. He has how many PC's now? 1,2,0? Maybe he is waiting for Flag to collapse so he can have some 'upstat' dupes 'I have so much respect for COB- he is clearing the planet!'. GIVE ME A BREAK!11!!!!!
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+I love music, I love creative people, I love long conversations about things that are real.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+people here know that I am Steven james, that I live in London, that I have lots of posts here from almost two years and that I left London Org and shamelessy *bumped* Teril's success posts. I told the truth about the cost of my Freezone experience and felt that Rons Org Europe are a really great bunch of people. Here in the UK, is a different matter. 
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+I am not doubting the success of those people who received auditing and whose success stories ended up on the net courtesy of Teril. I am doubting the intention behind posting them. It seems to have had zero effect on brining anyone into the UK scene.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+REALITYWILLTELLS PICTURE'S ARE SO FUNNY!!!!!!! I WAS SAD TO SEE THEM GO!</kw></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row1" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=2049&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=2049&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="top" width="150"><span class="name"><a name="285910"></a><b><kw class="krdwrd-tag-1-100">Kilia</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/172816664647c1c0da502e2.gif" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 05 Apr 2006</kw><br><kw class="krdwrd-tag-1-100">Posts: 3430</kw><br><kw class="krdwrd-tag-1-100">Location: In front of the pc where else would I be?</kw></span><br></td>
+		<td class="row2" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285910&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285910"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sat Jan 05, 2008 11:22 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285910&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><kw class="krdwrd-tag-3-60">Thank you for the reply, juju..much appreciated. 
+</kw><br>
+
+<br>
+</span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-1-60">Quote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><kw class="krdwrd-tag-1-60">I love music, I love creative people, I love long conversations about things that are real.</kw></td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br><kw class="krdwrd-tag-3-60">
+Sounds alot like Johnny Depp. </kw><img src="images/smiles/icon_wink.gif" alt="Wink" border="0"><br><kw class="krdwrd-tag-1-60">_________________</kw><br><kw class="krdwrd-tag-1-80">~*There is courage and strength in numbers*~</kw></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row2" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=1928&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=1928&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>  <a href="http://www.nubbinridgedesigns.com/cos.html" target="_userwww"><img src="templates/ocmb/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="top" width="150"><span class="name"><a name="285911"></a><b><kw class="krdwrd-tag-1-100">magoo1</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/355.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 24 Jan 2004</kw><br><kw class="krdwrd-tag-1-100">Posts: 9439</kw><br><kw class="krdwrd-tag-1-100">Location: Burbank, CA, USA</kw></span><br></td>
+		<td class="row1" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285911&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285911"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sat Jan 05, 2008 11:52 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285911&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><kw class="krdwrd-tag-3-60">Thanks, juju....I, too, appreciate all the info from you: I had no idea.
+</kw><br>
+
+<br><kw class="krdwrd-tag-1-60">
+HNYs to you, and ALL </kw><img src="images/smiles/icon_cheers.gif" alt="cheers" border="0">
+<br>
+
+<br><kw class="krdwrd-tag-1-60">
+Tory/Magoo~~</kw></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row1" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=355&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a> <a href="mailto:magoo44@charter.net"><img src="templates/ocmb/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0"></a> <a href="http://www.xenu.net/archive/personal_story/tory/" target="_userwww"><img src="templates/ocmb/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a> <a href="aim:goim?screenname=www.torymagoo.org&amp;message=Hello+Are+you+there?"><img src="templates/ocmb/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0"></a>  <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="top" width="150"><span class="name"><a name="285913"></a><b><kw class="krdwrd-tag-1-100">Roan</kw></b></span><br><span class="postdetails"><kw class="krdwrd-tag-1-100">OC Moderator</kw><br><img src="images/avatars/20805034124841ae93e6c5f.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 26 Jan 2006</kw><br><kw class="krdwrd-tag-1-100">Posts: 1825</kw><br><kw class="krdwrd-tag-1-100">Location: California</kw></span><br></td>
+		<td class="row2" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285913&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285913"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-80">Posted: Sun Jan 06, 2008 12:00 am</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-80">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285913&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Patty Pieniadz wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><kw class="krdwrd-tag-3-60">I don't think BofF actually wants to do that.  She was just ribbing Roan because he had made a post to arnie's board suggesting that someone make a spreadsheet of Fluffy's posting times and </kw><span style="font-weight: bold;"><kw class="krdwrd-tag-3-60">send it to 
+</kw><br><kw class="krdwrd-tag-3-60">
+her work.</kw></span></td>	</tr></tbody></table><span class="postbody"><kw class="krdwrd-tag-3-80">The jocular, sophmoric post that I made </kw><span style="font-weight: bold;"><kw class="krdwrd-tag-3-80">did not</kw></span><kw class="krdwrd-tag-3-80"> say that.  You have mis-interpreted and/or mis-represented what the post said and have immortalized the whole, long non-existent post on ESMB and now here.
+</kw><br>
+
+<br>
+</span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Patty P. wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><kw class="krdwrd-tag-3-60">He's since deleted the post.
+</kw><br>
+</td>	</tr></tbody></table><span class="postbody">
+<br><kw class="krdwrd-tag-3-100">
+Another distortion.  I havn't "since" deleted the post.
+</kw><br>
+
+<br>
+<span style="text-decoration: underline;"><kw class="krdwrd-tag-3-100">Chronology is important in this issue</kw></span><kw class="krdwrd-tag-3-100">.  The post was made and tossed off as part of some banter with Ladybird, it had a smiley in it.  It sat for a couple days as a dud, no one responded to it, I received </kw><span style="font-weight: bold;"><kw class="krdwrd-tag-3-100">no </kw></span><kw class="krdwrd-tag-3-100">back-channel communication about it.  I had forgotten about it mostly, went back to ocmb.lermanet.us, saw it sitting there, felt embarassed and kinda bad about taking a potshot at Fluffy and because it sat there still as the last post to the thread, I saw an oppurtunity to delete it.  So I did.  All of this occured in "a vacum," as it were.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+A day or so </kw><span style="font-weight: bold;"><kw class="krdwrd-tag-3-100">after</kw></span><kw class="krdwrd-tag-3-100"> all this, I was suprised to receive some back-channel communication stating that Fluffy was hopping mad.  So I dispatched an associate of mine to make an explanatory and apologetic post on ESMB.  </kw><span style="font-style: italic;"><kw class="krdwrd-tag-3-100">Considering the welfare</kw></span><kw class="krdwrd-tag-3-100"> of Fluffy, I instructed him to not attempt to make any reference to the actual content of it and as anyone can see, </kw><span style="font-weight: bold;"><span style="color: blue;"><kw class="krdwrd-tag-3-100">Ailill</kw></span></span><kw class="krdwrd-tag-3-100"> carried out that part of it with aplomb.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+The astute reader will notice that it was Patty P. who quickly immortalized (and slightly distorted) the post in her response @ ESMB and who continues to do so here.</kw><br><kw class="krdwrd-tag-3-60">_________________</kw><br><kw class="krdwrd-tag-1-60">Things are seldom what they seem, Skim milk masquerades as cream;
+</kw><br><kw class="krdwrd-tag-1-60">
+Black sheep dwell in every fold, All that glitters is not gold." - </kw><span style="font-style: italic;"><span style="font-weight: bold;"><kw class="krdwrd-tag-1-60">Gilbert &amp; Sullivan</kw></span></span></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row2" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=1630&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=1630&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <a href="profile.php?mode=viewprofile&amp;u=1630&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0"></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="top" width="150"><span class="name"><a name="285927"></a><b><kw class="krdwrd-tag-1-100">Ball of Fluff</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/108832497645ff7a255dab6.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 26 May 2002</kw><br><kw class="krdwrd-tag-1-100">Posts: 7783</kw><br><kw class="krdwrd-tag-1-100">Location: Cyberspace</kw></span><br></td>
+		<td class="row1" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285927&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285927"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sun Jan 06, 2008 1:03 am</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285927&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">juju wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><kw class="krdwrd-tag-3-60">Kilia,
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+I am Steven james who posts at ESMB and here as Juju (sometimes but not often). I am a former Scientologist- went into the Freezone. The Freezone didn't work. You can read about my experiences with T.Parks and clan over at the other board.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+I am ignoring Ball of Fluff at the moment, because I exposed Teril Parks and bought him out into the open where he lied. She is trying to reinstigate a long winded debate about it and I am not going there. END OF.
+</kw><br>
+
+<br>
+</td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br><kw class="krdwrd-tag-3-100">
+Actually, I stopped posting on ESMB about it weeks ago.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+And for the record,  I think it's just lovely if people don't want to go Freezone. Really. 
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+I had some other thoughts about things being said about Terril's personal life and home-life, though. But again, the post where I wrote about it was weeks ago and I said what I wanted to say on the subject at that time. So Juju's phrasing the above comment in the present tense is inaccurate.</kw><br><kw class="krdwrd-tag-3-60">_________________</kw><br><a href="http://claireswazey.com/FAQ.html" target="_blank"><kw class="krdwrd-tag-1-60">http://claireswazey.com/FAQ.html</kw></a></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row1" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=23&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=23&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="top" width="150"><span class="name"><a name="285931"></a><b><kw class="krdwrd-tag-1-100">Os Wilkes</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/8413924224736110fe80bb.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 12 Sep 2005</kw><br><kw class="krdwrd-tag-1-100">Posts: 1998</kw><br><kw class="krdwrd-tag-1-100">Location: cyberspace</kw></span><br></td>
+		<td class="row2" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285931&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285931"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sun Jan 06, 2008 2:06 am</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285931&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Ball of Fluff wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Os Wilkes wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">songbird wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">juju wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><kw class="krdwrd-tag-3-60">I am neither staying or leaving but following my own goals and path now.</kw></td>	</tr></tbody></table><span class="postbody"><img src="images/smiles/icon_flower.gif" alt="flower" border="0"> <img src="images/smiles/icon_flower.gif" alt="flower" border="0"> 
+<br>
+
+<br>
+</span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Fluff wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><kw class="krdwrd-tag-3-60">But you know what we could do, though. We could do an analysis on a spreadsheet as to how many posts vs flame wars and do a comparison on a spreadsheet.</kw></td>	</tr></tbody></table><span class="postbody">
+<br><kw class="krdwrd-tag-3-60">
+Personally, I can't think of a more boring waste of time than drawing up spreadsheets about flamewars.  
+</kw><br><kw class="krdwrd-tag-3-60">
+But, hey, if it makes you happy... go for it.  </kw><img src="images/smiles/icon_bounce.gif" alt="bounce" border="0"></span></td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br><kw class="krdwrd-tag-3-60">
+Is this what Scientologists mean when they use the term  "Dev-T"?
+</kw><br>
+
+<br>
+
+<br><kw class="krdwrd-tag-3-60">
+Love,
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Os</kw></span></td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br><kw class="krdwrd-tag-3-60">
+I don't know. I am not "Scientologists". I am a living breathing individual named Claire M. Swazey.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+And it was a joke.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Hence the emoticon.</kw></span></td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br><kw class="krdwrd-tag-3-80">
+Dear BoF,
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+I saw you made a joke, and I tried to engage you in friendly banter by throwing in a Scienospeak reference.  I thought you would think it was funny, especially since I was referring to "Scientologists" and NOT TO YOU.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+I was really trying to be friendly by acknowledging your humour and responding in like and kind.  I thought people would be amused, especially you.  
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+In this light, perhaps you could have a chuckle at the reference to Dev-T in the context of glib banter.  "Glib" is another loaded term in Scientology, but I mean it in the "blarney" sense.  
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+As for my impression regarding the term Dev-T, Wogs would say "spinning one's wheels".  The sense of spending energy just to get nowhere is something I can relate to, and therefore respond better to the metaphor than to the acronym.
+</kw><br>
+
+<br>
+<img src="http://sandmats.com/db4/00344/sandmats.com/_uimages/Jeep1.jpg" border="0">
+<br>
+
+<br><kw class="krdwrd-tag-3-80">
+Some people like watching others spin their wheels:
+</kw><br>
+
+<br>
+<img src="http://www.carstuckgirls.com/Porsche-Girls-Spinning-Wheels_014.jpg" border="0">
+<br>
+
+<br>
+
+<br><kw class="krdwrd-tag-3-100">
+Love and Happy New and Better Year!
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Os</kw><br><kw class="krdwrd-tag-3-60">_________________</kw><br><kw class="krdwrd-tag-1-60">"Our integrity sells for so little... but it is all we really have. It is the very last inch of us.  But within that inch- we are free."  ~Valerie, from "V for Vendetta"
+</kw><br>
+
+<br>
+<a href="http://www.hubbardology.com/phpbb3" target="_blank"><kw class="krdwrd-tag-1-60">http://www.hubbardology.com/phpbb3</kw></a></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row2" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=1202&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=1202&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>   <a href="aim:goim?screenname=oswaldwilkes&amp;message=Hello+Are+you+there?"><img src="templates/ocmb/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0"></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=oswald_wilkes&amp;.src=pg"><img src="templates/ocmb/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0"></a> <a href="profile.php?mode=viewprofile&amp;u=1202&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0"></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="top" width="150"><span class="name"><a name="285994"></a><b><kw class="krdwrd-tag-1-100">Patty Pieniadz</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/185665385346222bdc00f17.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 01 Apr 2006</kw><br><kw class="krdwrd-tag-1-100">Posts: 364</kw><br></span><br></td>
+		<td class="row1" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=285994&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#285994"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sun Jan 06, 2008 1:50 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=285994&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Roan wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Patty Pieniadz wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><kw class="krdwrd-tag-3-60">I don't think BofF actually wants to do that.  She was just ribbing Roan because he had made a post to arnie's board suggesting that someone make a spreadsheet of Fluffy's posting times and </kw><span style="font-weight: bold;"><kw class="krdwrd-tag-3-60">send it to 
+</kw><br><kw class="krdwrd-tag-3-60">
+her work.</kw></span></td>	</tr></tbody></table><span class="postbody"><kw class="krdwrd-tag-3-60">The jocular, sophmoric post that I made </kw><span style="font-weight: bold;"><kw class="krdwrd-tag-3-60">did not</kw></span><kw class="krdwrd-tag-3-60"> say that.  You have mis-interpreted and/or mis-represented what the post said and have immortalized the whole, long non-existent post on ESMB and now here.
+</kw><br>
+
+<br>
+</span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Patty P. wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><kw class="krdwrd-tag-3-60">He's since deleted the post.
+</kw><br>
+</td>	</tr></tbody></table><span class="postbody">
+<br><kw class="krdwrd-tag-3-60">
+Another distortion.  I havn't "since" deleted the post.
+</kw><br>
+
+<br>
+<span style="text-decoration: underline;"><kw class="krdwrd-tag-3-60">Chronology is important in this issue</kw></span><kw class="krdwrd-tag-3-60">.  The post was made and tossed off as part of some banter with Ladybird, it had a smiley in it.  It sat for a couple days as a dud, no one responded to it, I received </kw><span style="font-weight: bold;"><kw class="krdwrd-tag-3-60">no </kw></span><kw class="krdwrd-tag-3-60">back-channel communication about it.  I had forgotten about it mostly, went back to ocmb.lermanet.us, saw it sitting there, felt embarassed and kinda bad about taking a potshot at Fluffy and because it sat there still as the last post to the thread, I saw an oppurtunity to delete it.  So I did.  All of this occured in "a vacum," as it were.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+A day or so </kw><span style="font-weight: bold;"><kw class="krdwrd-tag-3-60">after</kw></span><kw class="krdwrd-tag-3-60"> all this, I was suprised to receive some back-channel communication stating that Fluffy was hopping mad.  So I dispatched an associate of mine to make an explanatory and apologetic post on ESMB.  </kw><span style="font-style: italic;"><kw class="krdwrd-tag-3-60">Considering the welfare</kw></span><kw class="krdwrd-tag-3-60"> of Fluffy, I instructed him to not attempt to make any reference to the actual content of it and as anyone can see, </kw><span style="font-weight: bold;"><span style="color: blue;"><kw class="krdwrd-tag-3-60">Ailill</kw></span></span><kw class="krdwrd-tag-3-60"> carried out that part of it with aplomb.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+The astute reader will notice that it was Patty P. who quickly immortalized (and slightly distorted) the post in her response @ ESMB and who continues to do so here.</kw></span></td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br>
+
+<br><kw class="krdwrd-tag-3-100">
+You are a liar and a fraud and you are trying to cover your lies with more lies.  
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Emma wrote to me to told me that YOU Roan posted on ESMB as Ailill.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Ailill is not an associate of yours, but per Emma, Ailill is YOU just being a sock puppet on her board.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Your lying and behind the scenes betrayal of the people here on this board has been posted to ars and I've sent the information to Andreas as well.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+As long as you and Emma stick to your lies, you'll be able to cover for each other.  
+</kw><br>
+
+<br>
+<a href="http://groups.google.com/group/alt.religion.scientology/browse_thread/thread/faeb9e0cad5c310c/cd8a44a899d25bab?hl=en&amp;lnk=raot#cd8a44a899d25bab" target="_blank"><kw class="krdwrd-tag-1-60">http://groups.google.com/group/alt.religion.scientology/browse_thread/thread/faeb9e0cad5c310c/cd8a44a899d25bab?hl=en&amp;lnk=raot#cd8a44a899d25bab</kw></a>
+<br>
+
+<br><kw class="krdwrd-tag-3-60">
+Patty</kw><br><kw class="krdwrd-tag-3-60">_________________</kw><br><kw class="krdwrd-tag-1-60">Education is not a hate crime.
+</kw><br>
+<a href="http://www.xenu-directory.net/critics/pieniadz1.html" target="_blank"><kw class="krdwrd-tag-1-80">http://www.xenu-directory.net/critics/pieniadz1.html</kw></a></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row1" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=1908&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=1908&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="top" width="150"><span class="name"><a name="286001"></a><b><kw class="krdwrd-tag-1-100">SchwimmelPuckel</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/70446612043ecf082880ff.jpg" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 10 Feb 2006</kw><br><kw class="krdwrd-tag-1-100">Posts: 2107</kw><br><kw class="krdwrd-tag-1-100">Location: Denmark</kw></span><br></td>
+		<td class="row2" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=286001&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#286001"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sun Jan 06, 2008 4:20 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon8.gif" title="Grrrr !" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=286001&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><kw class="krdwrd-tag-3-80">Allright Patty, there's certainly sommething fishy here!
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+This kind of conflict. With secrets, rumors and vile betrayal. This smells mighty fishy.. Last time I smelled that was in the Guardian's Office... Hmm.. It's a kind of really useless conflict too! No obvious solution. No proof of claims. Only suspicion and accusations flying in the air.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+It get almost impossible to figure out who's a steenkin' OSA turd hiding out.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+But I note that you are the one telling us!
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Not that I can conclude anything at this time..
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+You know.. If Roan is a slimy OSA basterd we offload him with a sick thud the moment we are sure that he is. But we are inclined to expect that he get's accused of being one, just because he's a moderator on this bard.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Emma is ok! - I don't think anyone suspects her of being Sylvia Stanard anymore. And contrary to what you tell us in that ARS post I think both her and Roans reputations could survive exposure of their 'unholy' alliance.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+You see, it's not that hellishly important who gets to like each other. And for all I know they don't. Their 'relationship' is a 'rumor' to me like the rest of the story.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Attacks and OPs from OSA is real. They happen.. But I suspect less frequent than our paranoia would have it.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+The purpose of these boards are very clear and uncomplicated. The conflicts that OSA would create, in accordance with Hubbards policies, are a bevildering mess of suspicion and accusation. That's intentional. It's CofS policy... It is also how we can recognise it happening!
+</kw><br>
+
+<br>
+<img src="images/smiles/onebouncingbiggrinsmiley.gif" alt="Bouncing Big Grin" border="0"><br><kw class="krdwrd-tag-3-60">_________________</kw><br><span style="font-style: italic;"><kw class="krdwrd-tag-1-60">Ask not what </kw><a href="http://www.lermanet.com" target="_blank" class="postlink"><span style="color: blue;"><kw class="krdwrd-tag-1-60">Scientology</kw></span></a><kw class="krdwrd-tag-1-60"> can do for you, ask what the F*arck! is going on.</kw></span></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row2" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row2" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=1666&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=1666&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a> <a href="mailto:tom.qt23n@dtp2maz.dk"><img src="templates/ocmb/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0"></a> <a href="http://www.dtp2maz.dk" target="_userwww"><img src="templates/ocmb/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0"></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="top" width="150"><span class="name"><a name="286002"></a><b><kw class="krdwrd-tag-1-100">itsaline</kw></b></span><br><span class="postdetails"><br><img src="images/avatars/1129718779482f9b421d36e.gif" alt="" border="0"><br><br><kw class="krdwrd-tag-1-100">Joined: 07 Nov 2005</kw><br><kw class="krdwrd-tag-1-100">Posts: 1203</kw><br><kw class="krdwrd-tag-1-100">Location: Australia</kw></span><br></td>
+		<td class="row1" height="28" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a href="viewtopic.php?p=286002&amp;sid=f1a32d2bf6f9acc48eca539009b50c46#286002"><img src="templates/ocmb/images/icon_minipost.gif" alt="Post" title="Post" border="0" height="9" width="12"></a><span class="postdetails"><kw class="krdwrd-tag-1-100">Posted: Sun Jan 06, 2008 4:49 pm</kw><span class="gen">&nbsp;</span><kw class="krdwrd-tag-1-100">&nbsp; &nbsp;Post subject:
+					</kw><img src="./images/icons/icon1.gif" title="Note" align="absbottom" border="0">
+					
+				</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=286002&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0"></a>   
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-1-60">Patty Pieniadz wrote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"> 
+<br>
+
+<br><kw class="krdwrd-tag-1-60">
+You are a liar and a fraud and you are trying to cover your lies with more lies.  
+</kw><br>
+
+<br><kw class="krdwrd-tag-1-60">
+Emma wrote to me to told me that YOU Roan posted on ESMB as Ailill.
+</kw><br>
+
+<br><kw class="krdwrd-tag-1-60">
+Ailill is not an associate of yours, but per Emma, Ailill is YOU just being a sock puppet on her board.
+</kw><br>
+
+<br><kw class="krdwrd-tag-1-60">
+Your lying and behind the scenes betrayal of the people here on this board has been posted to ars and I've sent the information to Andreas as well.
+</kw><br>
+
+<br><kw class="krdwrd-tag-1-60">
+As long as you and Emma stick to your lies, you'll be able to cover for each other.  
+</kw><br>
+
+<br>
+<a href="http://groups.google.com/group/alt.religion.scientology/browse_thread/thread/faeb9e0cad5c310c/cd8a44a899d25bab?hl=en&amp;lnk=raot#cd8a44a899d25bab" target="_blank"><kw class="krdwrd-tag-1-80">http://groups.google.com/group/alt.religion.scientology/browse_thread/thread/faeb9e0cad5c310c/cd8a44a899d25bab?hl=en&amp;lnk=raot#cd8a44a899d25bab</kw></a>
+<br>
+
+<br><kw class="krdwrd-tag-1-60">
+Patty</kw></td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br><kw class="krdwrd-tag-3-100">
+So it's not enough that you have to slime me on ars, now you have to come over here and do it here as well!
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+WTF is wrong with you?
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Firstly I NEVER suggested to you that Aillil was anyones sockpuppet. You thought it that post was ME being a sockpuppet and I told you to go look at the posting history as it become painfully clear that it is Roan. Roan doesn't have another account on ESMB so how the hell can he be a sockpuppet?
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+WILL YOU STOP LYING!
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Schwimmel you are right about the fishiness. Patty has already tried to hoodwink Andreas into thinking there is some grand conspiracy just because she doesn't like Roan. And why doesn't she like Roan? Because he dared to stand up to her puppet master Patricia Greenway.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-100">
+Now shes saying he is OSA, or is that I'm OSA, or maybe we are both OSA. I'm not sure. All I know is what I posted to ars:
+</kw><br>
+
+<br>
+</span><table align="center" border="0" cellpadding="3" cellspacing="1" width="90%"><tbody><tr> 	  <td><span class="genmed"><b><kw class="krdwrd-tag-mrgtie-40">Quote:</kw></b></span></td>	</tr>	<tr>	  <td class="quote"><kw class="krdwrd-tag-3-60">If there was one way to stop the success of ESMB &amp; OCMB how would someone go about doing that?
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Ops on the boards don't work well. That's been proven.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Spam doesn't work. The posts just get deleted.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Probably the only way would be to create enough doubt and enough innuendo about the ethics of the owners or moderators that it would simply scare people away.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Good job Patty.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+I hope you earned some brownie points.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+Arnie, you were dead right.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-60">
+For the record: The only thing I was ever worried about being made public was my private life. I feel I have the right to privacy outside this critic community.</kw></td>	</tr></tbody></table><span class="postbody">
+<br>
+
+<br><kw class="krdwrd-tag-3-80">
+Patty has violated my trust, my privacy and tried her hardest to humiliate me for the whole world to see.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+I hope you are proud of yourself.
+</kw><br>
+
+<br><kw class="krdwrd-tag-3-80">
+Was it worth it?</kw><br><kw class="krdwrd-tag-3-60">_________________</kw><br><a href="http://www.forum.exscn.net" target="_blank" class="postlink"><img src="http://i144.photobucket.com/albums/r195/exscn/headersmall.png" border="0"></a></span><span class="gensmall"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="row1" align="left" valign="middle" width="150"><span class="nav"><a href="#top" class="nav"><kw class="krdwrd-tag-1-100">Back to top</kw></a></span></td>
+		<td class="row1" height="28" valign="bottom" width="100%" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0" height="18" width="18">
+			<tbody><tr>
+				<td valign="middle" nowrap="nowrap"> <a href="profile.php?mode=viewprofile&amp;u=1349&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0"></a> <a href="privmsg.php?mode=post&amp;u=1349&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0"></a> <a href="mailto:itsaline@gmail.com"><img src="templates/ocmb/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0"></a>   <a href="http://edit.yahoo.com/config/send_webmesg?.target=emmma68&amp;.src=pg"><img src="templates/ocmb/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0"></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div></td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position: relative;"><div style="position: absolute;"></div><div style="position: absolute; left: 3px; top: -1px;"></div></div><noscript></noscript></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="./templates/ocmb/images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><form method="post" action="viewtopic.php?t=24656&amp;start=30&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"></form>
+				<td align="center"><span class="gensmall"><kw class="krdwrd-tag-1-100">Display posts from previous: </kw><select name="postdays"><option class="krdwrd-tag-1-100" value="0" selected="selected">All Posts</option><option class="krdwrd-tag-1-100" value="1">1 Day</option><option class="krdwrd-tag-1-100" value="7">7 Days</option><option class="krdwrd-tag-1-100" value="14">2 Weeks</option><option class="krdwrd-tag-1-100" value="30">1 Month</option><option class="krdwrd-tag-1-100" value="90">3 Months</option><option class="krdwrd-tag-1-100" value="180">6 Months</option><option class="krdwrd-tag-1-100" value="364">1 Year</option></select>&nbsp;<select name="postorder"><option class="krdwrd-tag-1-100" value="asc" selected="selected">Oldest First</option><option class="krdwrd-tag-1-100" value="desc">Newest First</option></select>&nbsp;<input value="Go" class="liteoption" name="submit" type="submit"></span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+
+<table border="0" cellpadding="2" cellspacing="2" width="100%">
+<tbody><tr>
+	<td align="left" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=9&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/post.gif" alt="Post new topic" align="middle" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=24656&amp;sid=f1a32d2bf6f9acc48eca539009b50c46"><img src="templates/ocmb/images/lang_english/reply.gif" alt="Reply to topic" align="middle" border="0"></a></span></td>
+	<td valign="top" width="100%"><span class="gensmall">
+		<b><kw class="krdwrd-tag-1-100">Page </kw><b><kw class="krdwrd-tag-1-100">3</kw></b><kw class="krdwrd-tag-1-100"> of </kw><b><kw class="krdwrd-tag-1-100">5</kw></b></b><kw class="krdwrd-tag-1-100">&nbsp;[74 Posts]
+	</kw></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall"><b><kw class="krdwrd-tag-1-80">
+		Goto page:&nbsp;
+		</kw><a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=15" class="gensmall"><kw class="krdwrd-tag-1-80">Previous</kw></a>&nbsp;
+
+		<a href="./viewtopic.php?t=24656&amp;postorder=asc" class="gensmall"><kw class="krdwrd-tag-1-80">1</kw></a><kw class="krdwrd-tag-1-80">, 
+		</kw><a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=15" class="gensmall"><kw class="krdwrd-tag-1-80">2</kw></a><kw class="krdwrd-tag-1-80">, 
+		3, 
+		</kw><a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=45" class="gensmall"><kw class="krdwrd-tag-1-80">4</kw></a><kw class="krdwrd-tag-1-80">, 
+		</kw><a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=60" class="gensmall"><kw class="krdwrd-tag-1-80">5</kw></a>
+
+		<a href="./viewtopic.php?t=24656&amp;postorder=asc&amp;start=45" class="gensmall"><kw class="krdwrd-tag-1-80">Next</kw></a>
+		<br>
+		</b><a href="viewtopic.php?t=24656&amp;view=previous&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" class="gensmall"><kw class="krdwrd-tag-1-80">View previous topic</kw></a><kw class="krdwrd-tag-1-80"> :: </kw><a href="viewtopic.php?t=24656&amp;view=next&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" class="gensmall"><kw class="krdwrd-tag-1-80">View next topic</kw></a><br>
+	</span></td>
+</tr>
+</tbody></table>
+
+
+<table align="center" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tbody><tr>
+	<td align="left" valign="bottom" width="100%"><span class="nav">
+	<img src="./images/favicon.gif" align="absbottom" border="0">
+	<a href="./index.php?sid=f1a32d2bf6f9acc48eca539009b50c46" title="Operation Clambake Message Board" class="nav"><kw class="krdwrd-tag-1-100">Forum index</kw></a><kw class="krdwrd-tag-1-100">
+	»
+	</kw><a href="./index.php?f=104&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" title="" class="nav"><kw class="krdwrd-tag-1-100">General Topics</kw></a><kw class="krdwrd-tag-1-100">
+	»
+	</kw><a href="./index.php?f=9&amp;sid=f1a32d2bf6f9acc48eca539009b50c46" title="A place to post and debate the Church of Scientology." class="nav"><kw class="krdwrd-tag-1-100">Opinions &amp; Debate</kw></a>
+	</span></td>
+</tr>
+</tbody></table>
+
+
+
+<table align="center" border="0" cellspacing="2" width="100%">
+  <tbody><tr>
+	<td align="left" valign="top" width="40%" nowrap="nowrap"></td>
+	<td align="right" valign="top" nowrap="nowrap">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td align="right" nowrap="nowrap"><span class="gensmall">
+<form method="get" name="jumpbox" action="./index.php?sid=f1a32d2bf6f9acc48eca539009b50c46" onsubmit="if(document.jumpbox.f.value == -1){return false;}"><table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td nowrap="nowrap"><span class="gensmall"><kw class="krdwrd-tag-1-100">Jump to:&nbsp;</kw><select name="f" onchange="if(this.options[this.selectedIndex].value >= 0){ forms['jumpbox'].submit() }"><option class="krdwrd-tag-1-100" value="-2" selected="selected">Select a forum</option><option class="krdwrd-tag-1-100" value="-1">-------------------</option><option class="krdwrd-tag-1-100" value="0">Forum index</option><option class="krdwrd-tag-1-100" value="107">|___General</option><option class="krdwrd-tag-1-100" value="108">|&nbsp;&nbsp;&nbsp;|___OCMB Announcements</option><option class="krdwrd-tag-1-100" value="127">|&nbsp;&nbsp;&nbsp;|___Guest Book</option><option class="krdwrd-tag-1-100" value="128">|&nbsp;&nbsp;&nbsp;|___Operation Clambake - the main site</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="104">|___General Topics</option><option class="krdwrd-tag-1-100" value="3">|&nbsp;&nbsp;&nbsp;|___Your story from inside Scientology</option><option class="krdwrd-tag-1-100" value="9">|&nbsp;&nbsp;&nbsp;|___Opinions &amp; Debate</option><option class="krdwrd-tag-1-100" value="105">|&nbsp;&nbsp;&nbsp;|___International Picket Central</option><option class="krdwrd-tag-1-100" value="130">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___About the International Picket Central</option><option class="krdwrd-tag-1-100" value="110">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Africa</option><option class="krdwrd-tag-1-100" value="111">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Asia</option><option class="krdwrd-tag-1-100" value="5">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Australia &amp; New Zealand</option><option class="krdwrd-tag-1-100" value="112">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Central &amp; South America</option><option class="krdwrd-tag-1-100" value="131">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Argentina</option><option class="krdwrd-tag-1-100" value="152">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Belize</option><option class="krdwrd-tag-1-100" value="132">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Bolivia</option><option class="krdwrd-tag-1-100" value="133">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Brazil</option><option class="krdwrd-tag-1-100" value="134">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Chile</option><option class="krdwrd-tag-1-100" value="135">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Colombia</option><option class="krdwrd-tag-1-100" value="147">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Costa Rica</option><option class="krdwrd-tag-1-100" value="136">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Ecuador</option><option class="krdwrd-tag-1-100" value="150">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___El Salvador</option><option class="krdwrd-tag-1-100" value="137">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Falkland Islands</option><option class="krdwrd-tag-1-100" value="138">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___French Guiana</option><option class="krdwrd-tag-1-100" value="151">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Guatemala</option><option class="krdwrd-tag-1-100" value="139">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Guyana</option><option class="krdwrd-tag-1-100" value="149">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Honduras</option><option class="krdwrd-tag-1-100" value="148">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Nicaragua</option><option class="krdwrd-tag-1-100" value="146">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Panama</option><option class="krdwrd-tag-1-100" value="140">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Paraguay</option><option class="krdwrd-tag-1-100" value="141">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Peru</option><option class="krdwrd-tag-1-100" value="142">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___South Georgia and South Sandwich Islands</option><option class="krdwrd-tag-1-100" value="143">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Suriname</option><option class="krdwrd-tag-1-100" value="144">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Uruguay</option><option class="krdwrd-tag-1-100" value="145">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Venezuela</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="6">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Europe</option><option class="krdwrd-tag-1-100" value="243">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Albania</option><option class="krdwrd-tag-1-100" value="254">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Austria</option><option class="krdwrd-tag-1-100" value="262">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Azerbaijan</option><option class="krdwrd-tag-1-100" value="229">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Belarus</option><option class="krdwrd-tag-1-100" value="255">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Belgium</option><option class="krdwrd-tag-1-100" value="244">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Bosnia and Herzegovina</option><option class="krdwrd-tag-1-100" value="230">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Bulgaria</option><option class="krdwrd-tag-1-100" value="245">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Croatia</option><option class="krdwrd-tag-1-100" value="231">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Czech Republic</option><option class="krdwrd-tag-1-100" value="124">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Denmark</option><option class="krdwrd-tag-1-100" value="237">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Estonia</option><option class="krdwrd-tag-1-100" value="238">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Finland</option><option class="krdwrd-tag-1-100" value="228">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___France</option><option class="krdwrd-tag-1-100" value="263">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Georgia</option><option class="krdwrd-tag-1-100" value="256">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Germany</option><option class="krdwrd-tag-1-100" value="246">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Greece</option><option class="krdwrd-tag-1-100" value="232">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Hungary</option><option class="krdwrd-tag-1-100" value="239">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Iceland</option><option class="krdwrd-tag-1-100" value="240">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Ireland</option><option class="krdwrd-tag-1-100" value="247">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Italy</option><option class="krdwrd-tag-1-100" value="265">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Kazakhstan</option><option class="krdwrd-tag-1-100" value="241">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Latvia</option><option class="krdwrd-tag-1-100" value="257">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Lichtenstein</option><option class="krdwrd-tag-1-100" value="242">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Lithuania</option><option class="krdwrd-tag-1-100" value="258">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Luxenbourg</option><option class="krdwrd-tag-1-100" value="248">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Malta</option><option class="krdwrd-tag-1-100" value="233">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Moldova</option><option class="krdwrd-tag-1-100" value="259">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Monaco</option><option class="krdwrd-tag-1-100" value="260">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Netherlands</option><option class="krdwrd-tag-1-100" value="122">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Norway</option><option class="krdwrd-tag-1-100" value="234">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Poland</option><option class="krdwrd-tag-1-100" value="249">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Portugal</option><option class="krdwrd-tag-1-100" value="235">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Romania</option><option class="krdwrd-tag-1-100" value="236">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Russia</option><option class="krdwrd-tag-1-100" value="250">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___San Marino</option><option class="krdwrd-tag-1-100" value="251">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Serbia and Montenegro</option><option class="krdwrd-tag-1-100" value="252">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Slovenia</option><option class="krdwrd-tag-1-100" value="253">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Spain</option><option class="krdwrd-tag-1-100" value="123">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Sweden</option><option class="krdwrd-tag-1-100" value="261">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Switzerland</option><option class="krdwrd-tag-1-100" value="264">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Turkey</option><option class="krdwrd-tag-1-100" value="125">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___United Kingdom</option><option class="krdwrd-tag-1-100" value="126">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Ukraine</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="4">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___North America</option><option class="krdwrd-tag-1-100" value="166">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___INTERNATIONAL PICKETS</option><option class="krdwrd-tag-1-100" value="7">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___PICKET REPORTS</option><option class="krdwrd-tag-1-100" value="276">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___PICKET SIGNS</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="109">|&nbsp;&nbsp;&nbsp;|___Org Patrol</option><option class="krdwrd-tag-1-100" value="209">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___About Org Patrol</option><option class="krdwrd-tag-1-100" value="113">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Africa</option><option class="krdwrd-tag-1-100" value="16">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Org Addresses</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="114">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Asia</option><option class="krdwrd-tag-1-100" value="181">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Armenia</option><option class="krdwrd-tag-1-100" value="199">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Afghanistan</option><option class="krdwrd-tag-1-100" value="183">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Azerbaijan</option><option class="krdwrd-tag-1-100" value="170">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Bahrain</option><option class="krdwrd-tag-1-100" value="171">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Bangladesh</option><option class="krdwrd-tag-1-100" value="198">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Bhutan</option><option class="krdwrd-tag-1-100" value="193">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Brunei</option><option class="krdwrd-tag-1-100" value="187">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Cambodia</option><option class="krdwrd-tag-1-100" value="178">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___China</option><option class="krdwrd-tag-1-100" value="185">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Cyprus</option><option class="krdwrd-tag-1-100" value="177">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Democratic People's Republic of Korea</option><option class="krdwrd-tag-1-100" value="188">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Egypt</option><option class="krdwrd-tag-1-100" value="186">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Georgia</option><option class="krdwrd-tag-1-100" value="72">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Hong Kong</option><option class="krdwrd-tag-1-100" value="74">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___India</option><option class="krdwrd-tag-1-100" value="179">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Indonesia</option><option class="krdwrd-tag-1-100" value="200">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Iran</option><option class="krdwrd-tag-1-100" value="196">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Iraq</option><option class="krdwrd-tag-1-100" value="101">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Israel</option><option class="krdwrd-tag-1-100" value="78">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Japan</option><option class="krdwrd-tag-1-100" value="194">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Jordan</option><option class="krdwrd-tag-1-100" value="90">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Kazakhstan</option><option class="krdwrd-tag-1-100" value="180">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Kuwait</option><option class="krdwrd-tag-1-100" value="85">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Kyrgyzstan</option><option class="krdwrd-tag-1-100" value="203">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Laos</option><option class="krdwrd-tag-1-100" value="173">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Lebanon</option><option class="krdwrd-tag-1-100" value="167">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Macau</option><option class="krdwrd-tag-1-100" value="190">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Malaysia</option><option class="krdwrd-tag-1-100" value="169">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Maldives</option><option class="krdwrd-tag-1-100" value="208">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Mongolia</option><option class="krdwrd-tag-1-100" value="192">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Myanmar</option><option class="krdwrd-tag-1-100" value="89">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Nepal</option><option class="krdwrd-tag-1-100" value="204">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Oman</option><option class="krdwrd-tag-1-100" value="92">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Pakistan</option><option class="krdwrd-tag-1-100" value="175">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Philippines</option><option class="krdwrd-tag-1-100" value="189">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Qatar</option><option class="krdwrd-tag-1-100" value="207">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Russia</option><option class="krdwrd-tag-1-100" value="205">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Saudi Arabia</option><option class="krdwrd-tag-1-100" value="168">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Singapore</option><option class="krdwrd-tag-1-100" value="172">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___South Korea</option><option class="krdwrd-tag-1-100" value="174">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Sri Lanka</option><option class="krdwrd-tag-1-100" value="182">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Syria</option><option class="krdwrd-tag-1-100" value="99">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Taiwan (ROC)</option><option class="krdwrd-tag-1-100" value="197">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Tajikistan</option><option class="krdwrd-tag-1-100" value="100">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Thailand</option><option class="krdwrd-tag-1-100" value="191">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Timor-Leste</option><option class="krdwrd-tag-1-100" value="184">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Turkey</option><option class="krdwrd-tag-1-100" value="206">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Turkmenistan</option><option class="krdwrd-tag-1-100" value="202">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___United Arab Emirates</option><option class="krdwrd-tag-1-100" value="195">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Uzbekistan</option><option class="krdwrd-tag-1-100" value="176">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Vietnam</option><option class="krdwrd-tag-1-100" value="201">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Yemen</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="115">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Australia &amp; New Zealand</option><option class="krdwrd-tag-1-100" value="17">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___New Zealand org addresses</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="116">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Central &amp; South America</option><option class="krdwrd-tag-1-100" value="80">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Argentina</option><option class="krdwrd-tag-1-100" value="165">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Belize</option><option class="krdwrd-tag-1-100" value="153">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Bolivia</option><option class="krdwrd-tag-1-100" value="58">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Brazil</option><option class="krdwrd-tag-1-100" value="60">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Chile</option><option class="krdwrd-tag-1-100" value="61">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Colombia</option><option class="krdwrd-tag-1-100" value="62">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Costa Rica</option><option class="krdwrd-tag-1-100" value="93">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Dominican Republic</option><option class="krdwrd-tag-1-100" value="65">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Ecuador</option><option class="krdwrd-tag-1-100" value="164">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___El Salvador</option><option class="krdwrd-tag-1-100" value="154">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Falkland Islands</option><option class="krdwrd-tag-1-100" value="155">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___French Guiana</option><option class="krdwrd-tag-1-100" value="71">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Guatemala</option><option class="krdwrd-tag-1-100" value="156">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Guyana</option><option class="krdwrd-tag-1-100" value="163">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Honduras</option><option class="krdwrd-tag-1-100" value="91">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Nicaragua</option><option class="krdwrd-tag-1-100" value="162">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Panama</option><option class="krdwrd-tag-1-100" value="157">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Paraguay</option><option class="krdwrd-tag-1-100" value="158">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Peru</option><option class="krdwrd-tag-1-100" value="159">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___South Georgia and South Sandwich Islands</option><option class="krdwrd-tag-1-100" value="160">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Suriname</option><option class="krdwrd-tag-1-100" value="161">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Uruguay</option><option class="krdwrd-tag-1-100" value="82">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Venezuela</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="117">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Europe</option><option class="krdwrd-tag-1-100" value="55">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Albania</option><option class="krdwrd-tag-1-100" value="210">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Andorra</option><option class="krdwrd-tag-1-100" value="56">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Austria</option><option class="krdwrd-tag-1-100" value="211">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Azerbaijan</option><option class="krdwrd-tag-1-100" value="57">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Belarus</option><option class="krdwrd-tag-1-100" value="67">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Belgium</option><option class="krdwrd-tag-1-100" value="212">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Bosnia and Herzegovina</option><option class="krdwrd-tag-1-100" value="213">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Bulgaria</option><option class="krdwrd-tag-1-100" value="63">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Croatia</option><option class="krdwrd-tag-1-100" value="64">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Czech Republic</option><option class="krdwrd-tag-1-100" value="40">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Denmark</option><option class="krdwrd-tag-1-100" value="214">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Estonia</option><option class="krdwrd-tag-1-100" value="66">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Finland</option><option class="krdwrd-tag-1-100" value="54">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___France</option><option class="krdwrd-tag-1-100" value="271">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Georgia</option><option class="krdwrd-tag-1-100" value="68">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Germany</option><option class="krdwrd-tag-1-100" value="70">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Greece</option><option class="krdwrd-tag-1-100" value="73">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Hungary</option><option class="krdwrd-tag-1-100" value="215">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Iceland</option><option class="krdwrd-tag-1-100" value="76">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Ireland</option><option class="krdwrd-tag-1-100" value="77">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Italy</option><option class="krdwrd-tag-1-100" value="273">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Kazakhstan</option><option class="krdwrd-tag-1-100" value="216">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Latvia</option><option class="krdwrd-tag-1-100" value="217">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Liechtenstein</option><option class="krdwrd-tag-1-100" value="86">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Lithuania</option><option class="krdwrd-tag-1-100" value="218">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Luxembourg</option><option class="krdwrd-tag-1-100" value="87">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Macedonia</option><option class="krdwrd-tag-1-100" value="267">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Malta</option><option class="krdwrd-tag-1-100" value="88">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Moldova</option><option class="krdwrd-tag-1-100" value="270">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Monaco</option><option class="krdwrd-tag-1-100" value="83">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Netherlands</option><option class="krdwrd-tag-1-100" value="75">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___North Ireland</option><option class="krdwrd-tag-1-100" value="41">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Norway</option><option class="krdwrd-tag-1-100" value="266">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Poland</option><option class="krdwrd-tag-1-100" value="84">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Portugal</option><option class="krdwrd-tag-1-100" value="102">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Romania</option><option class="krdwrd-tag-1-100" value="94">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Russia</option><option class="krdwrd-tag-1-100" value="268">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___San Marino</option><option class="krdwrd-tag-1-100" value="269">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Serbia and Montenegro</option><option class="krdwrd-tag-1-100" value="96">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Slovenia</option><option class="krdwrd-tag-1-100" value="97">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Slovakia</option><option class="krdwrd-tag-1-100" value="98">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Spain</option><option class="krdwrd-tag-1-100" value="79">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Switzerland</option><option class="krdwrd-tag-1-100" value="42">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Sweden</option><option class="krdwrd-tag-1-100" value="272">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Turkey</option><option class="krdwrd-tag-1-100" value="95">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Ukraine</option><option class="krdwrd-tag-1-100" value="43">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___United Kingdom</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="118">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___North America</option><option class="krdwrd-tag-1-100" value="44">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Alaska</option><option class="krdwrd-tag-1-100" value="18">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Arizona</option><option class="krdwrd-tag-1-100" value="19">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___California</option><option class="krdwrd-tag-1-100" value="59">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Canada</option><option class="krdwrd-tag-1-100" value="20">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Colorado</option><option class="krdwrd-tag-1-100" value="21">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Connecticut</option><option class="krdwrd-tag-1-100" value="45">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Delaware</option><option class="krdwrd-tag-1-100" value="103">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___District of Columbia</option><option class="krdwrd-tag-1-100" value="22">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Florida</option><option class="krdwrd-tag-1-100" value="23">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Georgia</option><option class="krdwrd-tag-1-100" value="24">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Hawaii</option><option class="krdwrd-tag-1-100" value="219">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Idaho</option><option class="krdwrd-tag-1-100" value="25">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Illinois</option><option class="krdwrd-tag-1-100" value="46">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Indiana</option><option class="krdwrd-tag-1-100" value="47">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Kansas</option><option class="krdwrd-tag-1-100" value="48">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Louisiana</option><option class="krdwrd-tag-1-100" value="49">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Maine</option><option class="krdwrd-tag-1-100" value="26">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Massachusetts</option><option class="krdwrd-tag-1-100" value="27">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Michigan</option><option class="krdwrd-tag-1-100" value="28">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Minnesota</option><option class="krdwrd-tag-1-100" value="29">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Missouri</option><option class="krdwrd-tag-1-100" value="220">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Montana</option><option class="krdwrd-tag-1-100" value="30">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Nevada</option><option class="krdwrd-tag-1-100" value="50">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___New Hampshire</option><option class="krdwrd-tag-1-100" value="51">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___New Jersey</option><option class="krdwrd-tag-1-100" value="31">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___New Mexico</option><option class="krdwrd-tag-1-100" value="32">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___New York</option><option class="krdwrd-tag-1-100" value="33">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Ohio</option><option class="krdwrd-tag-1-100" value="34">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Oregon</option><option class="krdwrd-tag-1-100" value="35">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Pennsylvania</option><option class="krdwrd-tag-1-100" value="81">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Puerto Rico</option><option class="krdwrd-tag-1-100" value="36">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Tennessee</option><option class="krdwrd-tag-1-100" value="37">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Texas</option><option class="krdwrd-tag-1-100" value="38">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Utah</option><option class="krdwrd-tag-1-100" value="52">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Virginia</option><option class="krdwrd-tag-1-100" value="39">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Washington</option><option class="krdwrd-tag-1-100" value="53">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___Wisconsin</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="11">|&nbsp;&nbsp;&nbsp;|___Media Reports</option><option class="krdwrd-tag-1-100" value="129">|&nbsp;&nbsp;&nbsp;|___Good Quotes</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="106">|___Special Topics</option><option class="krdwrd-tag-1-100" value="274">|&nbsp;&nbsp;&nbsp;|___L Ron Hubbard: The Movie</option><option class="krdwrd-tag-1-100" value="12">|&nbsp;&nbsp;&nbsp;|___Narconon Exposed</option><option class="krdwrd-tag-1-100" value="14">|&nbsp;&nbsp;&nbsp;|___Study Technology</option><option class="krdwrd-tag-1-100" value="221">|&nbsp;&nbsp;&nbsp;|___Scientology Business Consultants Exposed</option><option class="krdwrd-tag-1-100" value="224">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Exelect</option><option class="krdwrd-tag-1-100" value="225">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Jobperformer</option><option class="krdwrd-tag-1-100" value="223">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___Performia</option><option class="krdwrd-tag-1-100" value="222">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|___U-Man</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="227">|&nbsp;&nbsp;&nbsp;|___Poll Central</option><option class="krdwrd-tag-1-100" value="-1">|&nbsp;&nbsp;&nbsp;</option><option class="krdwrd-tag-1-100" value="119">|___System</option><option class="krdwrd-tag-1-100" value="2">&nbsp;&nbsp;&nbsp;&nbsp;|___Feedback &amp; Help</option><option class="krdwrd-tag-1-100" value="10">&nbsp;&nbsp;&nbsp;&nbsp;|___Guest Book Archive</option><option class="krdwrd-tag-1-100" value="8">&nbsp;&nbsp;&nbsp;&nbsp;|___Good Quotes Archive</option></select><input name="sid" value="f1a32d2bf6f9acc48eca539009b50c46" type="hidden">&nbsp;<input value="Go" class="liteoption" type="submit"></span></td>
+	</tr>
+</tbody></table></form>
+
+</span></td>
+		</tr>
+		</tbody></table><br><span class="gensmall"><kw class="krdwrd-tag-1-100">You </kw><b><kw class="krdwrd-tag-1-100">cannot</kw></b><kw class="krdwrd-tag-1-100"> post new topics in this forum</kw><br><kw class="krdwrd-tag-1-100">You </kw><b><kw class="krdwrd-tag-1-100">cannot</kw></b><kw class="krdwrd-tag-1-100"> reply to topics in this forum</kw><br><kw class="krdwrd-tag-1-100">You </kw><b><kw class="krdwrd-tag-1-100">cannot</kw></b><kw class="krdwrd-tag-1-100"> edit your posts in this forum</kw><br><kw class="krdwrd-tag-1-100">You </kw><b><kw class="krdwrd-tag-1-100">cannot</kw></b><kw class="krdwrd-tag-1-100"> delete your posts in this forum</kw><br><kw class="krdwrd-tag-1-100">You </kw><b><kw class="krdwrd-tag-1-100">cannot</kw></b><kw class="krdwrd-tag-1-100"> vote in polls in this forum</kw><br>
+	</span></td>
+  </tr>
+</tbody></table>
+
+
+<div align="center"><span class="copyright"><br><br>
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// --><kw class="krdwrd-tag-1-100">
+Powered by </kw><a href="http://www.phpbb.com/" target="_phpbb" class="copyright"><kw class="krdwrd-tag-1-100">phpBB</kw></a><kw class="krdwrd-tag-1-100"> © 2001, 2005 phpBB Group</kw><br></span></div>
+		</td>
+	</tr>
+</tbody></table>
+
+<br class="nav">
+<table class="bodyline" border="0" cellpadding="2" cellspacing="1" width="100%">
+<tbody><tr>
+	<td colspan="2" align="center"><span class="gensmall"><kw class="krdwrd-tag-1-100">
+	[ Time: 0.1198s ][ Queries: 10 (0.0060s) ][ Debug on ]
+	</kw></span></td>
+</tr>
+</tbody></table>
+<br clear="all">
+
+</body>

@@ -1,0 +1,1407 @@
+<head><base href="http://www.flickr.com/photos/theotherpete/2352164257/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>The Winner on Flickr - Photo Sharing!</title>
+
+
+	
+	
+	<meta name="keywords" content="portrait, man, smile, cabinet, interior, naturallight, photography, photos, photo">	
+	<meta name="description" content="Did a reshoot this morning and this one was the winner. I definitely think this one works better as an advertisement, no matter what I might have thought of the others artistically speaking.   All's well that ends well, right?">
+	<meta http-equiv="imagetoolbar" content="no">
+	<meta name="viewport" content="width=820">
+	<link href="http://l.yimg.com/g/css/c_flickr.css.v54290.14" rel="stylesheet" type="text/css">
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link href="http://l.yimg.com/g/css/c_photo.css.v55057.14" rel="stylesheet" type="text/css">
+<link href="http://l.yimg.com/g/css/c_discuss.css.v47258.14" rel="stylesheet" type="text/css"><!--[if LT IE 7]>
+<style type="text/css">
+.trans_png {
+	behavior: url('/javascript/pngbehavior2.htc');
+	border:0;
+}
+</style>
+<![endif]-->
+
+
+
+		<link href="http://l.yimg.com/g/css/intl/c_en-us.css.v33225.14" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+var global_magisterLudi = '0609420c332cb6b72964602e5409e645',
+global_auth_hash = 'e04073c2757578006d25859b922c6f52',
+global_auth_token = '',
+global_flickr_secret = '686d31ffd316eea6',
+global_slideShowVersion = '6708',
+global_slideShowCodeVersion = '34351',
+global_slideShowVersionV2 = '33427',
+global_slideShowCodeVersionV2 = '49745',
+global_slideShowTextVersion = '48841',
+global_slideShowVersionV3 = '54120',
+global_nsid = '',
+global_ispro = 0,
+global_dbid = '',
+global_name ='',
+global_expire ='',
+global_icon_url ='http://l.yimg.com/g/images/buddyicon.jpg#',
+global_tag_limit = '75',
+global_collection_depth_limit = 5,
+global_stewartVersion = '49235',
+global_contact_limit = '3000',
+global_eighteen = 1,
+global_group_limit = 10,
+global_photos_ids_limit = 20,
+disable_stewart = 0;
+disable_geo = 0;
+var global_rper = 0;
+
+var global_intl_lang = 'en-us';
+
+var _photo_root = 'http://farm.static.flickr.com/';
+var _site_root = 'http://www.flickr.com';
+var _images_root = 'http://l.yimg.com/g/images';
+var _intl_images_root = 'http://l.yimg.com/g/images/en-us';
+
+
+var do_bbml = 0;
+
+</script>
+
+
+<script type="text/javascript" src="http://l.yimg.com/g/javascript/global.js.v55291.14"></script>
+
+<script type="text/javascript">
+
+</script>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://l.yimg.com/g/javascript/fold_main.js.v48851.48851.48851.48851.48851.38771.48851.48851.55392.38771.38771.49635.38771.38771.38771.39083.54972.53587.38771.38771.38771.48994.14"></script>
+<script type="text/javascript" src="http://l.yimg.com/g/javascript/video.js.v54007.14"></script>
+<script type="text/javascript" src="http://l.yimg.com/g/javascript/swfobject.js.v45297.14"></script>
+
+
+
+	<link href="http://l.yimg.com/g/css/c_sharing.css.v53830.14" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="http://l.yimg.com/g/javascript/output_en-us_dd88fd8c2c56b7ea466b28be2de381f7.js"></script>
+
+<script type="text/javascript">
+
+YAHOO.util.Event.addListener(window, 'load', F._window_onload);
+YAHOO.util.Event.addListener(window, 'resize', F._window_onresize);
+YAHOO.util.Event.addListener(window, 'blur', F._window_onblur);
+YAHOO.util.Event.addListener(window, 'focus', F._window_onfocus);
+YAHOO.util.Event.addListener(window, 'unload', F._window_onunload);
+
+</script>
+
+
+
+<script type="text/javascript">
+var global_joinDate = F.convert_unix_time_stamp('');
+var global_time_stamp = '080624072442';
+
+
+fixMaxWidth_getWidth = (navigator.userAgent.match(/MSIE 6/i)?function(el) {
+  return el.currentStyle['max-width'];
+}:function(el){
+  return el.currentStyle['maxWidth'];
+});
+
+fixMaxWidth = function(el) {
+  try {
+    el.runtimeStyle.behavior = 'none';
+    var mw = fixMaxWidth_getWidth(el);
+    var nmw = parseInt(mw,10) || 10000;
+    var cW = parseInt(el.offsetWidth);
+    var cH = parseInt(el.offsetHeight);
+    var ratio = (cH/cW);
+    if (el.offsetWidth>nmw) {
+      el.style.width = (nmw+'px');
+      if (!isNaN(cH) && cH) {
+        el.style.height = (Math.ceil(nmw*ratio)+'px');
+      }
+    }
+  } catch(e) {
+    // oh well
+  }
+}
+
+
+
+// Dean Edwards/Matthias Miller/John Resig
+
+/* for Mozilla/Opera9 */
+if (document.addEventListener) {
+    document.addEventListener("DOMContentLoaded", F._window_onload_dom, false);
+}
+
+/* for Internet Explorer */
+/*@cc_on @*/
+/*@if (@_win32)
+    document.write("<script id=__ie_onload defer src=javascript:void(0)><\/script>");
+    var script = document.getElementById("__ie_onload");
+    script.onreadystatechange = function() {
+        if (this.readyState == "complete") {
+            F._window_onload_dom(); // call the onload handler
+        }
+    };
+/*@end @*/
+
+/* for Safari */
+if (/WebKit/i.test(navigator.userAgent)) { // sniff
+    F.onload_dom_timer = setInterval(function() {
+        if (/loaded|complete/.test(document.readyState)) {
+            F._window_onload_dom(); // call the onload handler
+        }
+    }, 10);
+}
+
+
+
+</script><!--[if IE]>
+<style type="text/css">
+
+img.notsowide {
+ behavior:expression(fixMaxWidth(this));
+}
+
+</style>
+<![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://l.yimg.com/g/javascript/fold_photo.js.v55330.47845.47845.47791.47767.48822.47296.14"></script>
+
+
+<script type="text/javascript">
+page_photo_id = '2352164257';
+var page_p = global_photos['2352164257'] = new Object();
+page_p.id = '2352164257';
+var page_printing_country_name = '';
+var page_printing_country_code = '';
+var page_printing_provider = '';
+page_p.server = '2339';
+page_p.secret = '7235a9acb6';
+page_p.url = '/photos/theotherpete/2352164257/';
+page_p.ownersUrl = '/photos/theotherpete/';
+page_p.zoomUrl = '/photos/theotherpete/2352164257/sizes/m/';
+page_p.tagsA = [];
+page_p.tags_rawA = [];
+page_p.isPublic = 1;
+page_p.title = 'The Winner';
+page_p.swfObjSrc = 'http://l.yimg.com/g/javascript/swfobject.js.v45297.14';
+
+page_p.isOwner = false;
+
+page_p.notesA = [];
+
+var page_print_orderA = [];
+var page_user_can_create_sets = 0;
+var page_current_url = '/photos/theotherpete/2352164257/';
+
+var page_zazzle_url;
+var page_hp_url;
+page_zazzle_url = 'http://www.zazzle.com/partner/flickr/?imageUrl=http%3A%2F%2Ffarm3.static.flickr.com%2F2339%2F2352164257_7235a9acb6.jpg&caption=The+Winner&continueUrl=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftheotherpete%2F2352164257%2F';
+var page_qoop_url = 'http://www.qoop.com/photobooks/flickr_user/flickr_start.php?product=prints&b_id=photoID-2352164257';
+var page_hp_url = 'http://www.tabblo.com/partners/flickr/prints/?photo_ids=2352164257';
+deja_view_check('p2352164257');
+
+
+var in_groupsObj = function(nsid,status) {this.nsid=nsid;this.status=status};
+var in_groupsA = new Array();
+
+
+
+var geo_map_url = '/photos/theotherpete/2352164257/map/';
+var geo_possessed_username = 'The Other Pete\'s';
+var geo_thmb = 'http://farm3.static.flickr.com/2339/2352164257_7235a9acb6_s.jpg';
+var _has_geo = false;
+var _is_editing_geo = false;
+var picnik_swf_path = "http://l.yimg.com/g/apps/picnik/app/.v999.1214317482?apps/picnik/app/.14?rel=";
+var picnik_urlkit_path = "http://l.yimg.com/g/apps/picnik/urlkit.js.v45833.14";
+var picnik_token = "";
+var picnik_set_id = "";
+
+</script></head><body><div id="mouse_tip_div_slideshow_link_pool668027@N22"><span style="display: none;" id="js_tooltip_16"><kw class="krdwrd-tag-1">View as slideshow</kw></span></div><div id="mouse_tip_div_nextprev_arrows_next_img_pool668027@N22"><span style="display: none;" id="js_tooltip_15"><kw class="krdwrd-tag-1">More</kw></span></div><div id="mouse_tip_div_nextprev_view_page_img_pool668027@N22"><span style="display: none;" id="js_tooltip_14"><kw class="krdwrd-tag-1">Browse</kw></span></div><div id="mouse_tip_div_nextprev_arrows_prev_img_pool668027@N22"><span style="display: none;" id="js_tooltip_13"><kw class="krdwrd-tag-1">More</kw></span></div><div id="mouse_tip_div_slideshow_link_pool20421382@N00"><span style="display: none;" id="js_tooltip_12"><kw class="krdwrd-tag-1">View as slideshow</kw></span></div><div id="mouse_tip_div_nextprev_arrows_next_img_pool20421382@N00"><span style="display: none;" id="js_tooltip_11"><kw class="krdwrd-tag-1">More</kw></span></div><div id="mouse_tip_div_nextprev_view_page_img_pool20421382@N00"><span style="display: none;" id="js_tooltip_10"><kw class="krdwrd-tag-1">Browse</kw></span></div><div id="mouse_tip_div_nextprev_arrows_prev_img_pool20421382@N00"><span style="display: none;" id="js_tooltip_9"><kw class="krdwrd-tag-1">More</kw></span></div><div id="mouse_tip_div_slideshow_link_pool81474450@N00"><span style="display: none;" id="js_tooltip_8"><kw class="krdwrd-tag-1">View as slideshow</kw></span></div><div id="mouse_tip_div_nextprev_arrows_next_img_pool81474450@N00"><span style="display: none;" id="js_tooltip_7"><kw class="krdwrd-tag-1">More</kw></span></div><div id="mouse_tip_div_nextprev_view_page_img_pool81474450@N00"><span style="display: none;" id="js_tooltip_6"><kw class="krdwrd-tag-1">Browse</kw></span></div><div id="mouse_tip_div_nextprev_arrows_prev_img_pool81474450@N00"><span style="display: none;" id="js_tooltip_5"><kw class="krdwrd-tag-1">More</kw></span></div><div id="mouse_tip_div_slideshow_link_stream65906203@N00"><span style="display: none;" id="js_tooltip_4"><kw class="krdwrd-tag-1">View as slideshow</kw></span></div><div id="mouse_tip_div_nextprev_arrows_next_img_stream65906203@N00"><span style="display: none;" id="js_tooltip_3"><kw class="krdwrd-tag-1">More</kw></span></div><div id="mouse_tip_div_nextprev_view_page_img_stream65906203@N00"><span style="display: none;" id="js_tooltip_2"><kw class="krdwrd-tag-1">Browse</kw></span></div><div id="mouse_tip_div_nextprev_arrows_prev_img_stream65906203@N00"><span style="display: none;" id="js_tooltip_1"><kw class="krdwrd-tag-1">More</kw></span></div>
+
+<div id="beacon"><img src="http://geo.yahoo.com/f?s=792600146&amp;t=5c43db88721cfcff459a130b5d216b64&amp;fl_ev=0&amp;lang=en&amp;intl=de" alt="" height="0" width="0"></div>
+
+<a name="top"></a>
+
+
+
+
+
+
+
+
+
+<div class="TopBar" id="TopBar">
+	<table class="Header" border="0" cellspacing="0">
+		<tbody><tr>
+			<td class="FlickrLogo">
+				<a href="/"><img src="http://l.yimg.com/g/images/flickr_logo_gamma.gif.v35314.14" id="FlickrLogo" alt="Flickr logo. If you click it, you'll go home" height="26" width="98">
+				</a>
+					</td>
+			<td class="Status"><kw class="krdwrd-tag-1">
+			        
+                                
+		                        
+				You aren't signed in
+				&nbsp;&nbsp;&nbsp;
+				</kw><a href="/signin/"><kw class="krdwrd-tag-1">Sign In</kw></a>
+				&nbsp;&nbsp;
+				<a href="/help/"><kw class="krdwrd-tag-1">Help</kw></a> 							
+				</td>
+		</tr>
+	</tbody></table>
+	<table class="NavBar" border="0" cellspacing="0">
+		<tbody><tr>
+			<td class="Primary">
+		
+<div id="candy_nav_button_bar" class="candy_button_bar">
+	<ul class="site_nav_menu_buttons">
+	        
+		<li class="no_menu_li"><span><a href="/"><kw class="krdwrd-tag-1">Home</kw></a></span></li>
+				
+		
+		<li class="no_menu_li"><span><a href="/tour/" alt="Take the Flickr tour"><kw class="krdwrd-tag-1">The Tour</kw></a></span></li>
+		
+		<li class="no_menu_li"><span><a href="/signup/" alt="Sign Up for a Free Account"><kw class="krdwrd-tag-1">Sign Up</kw></a></span></li>
+
+
+
+		<li class="menu_li" id="candy_nav_button_explore"><span><a href="/explore/" alt="Explore Flickr"><kw class="krdwrd-tag-1">Explore</kw></a> <img src="http://l.yimg.com/g/images/site_nav_caret_split_default.png" class="nav_button_caret" alt="More options" height="15" width="18"></span>
+		<div class="candy_menu" id="candy_nav_menu_explore">
+			<a href="/explore/"><kw class="krdwrd-tag-1">Explore Page</kw></a>
+			<a href="/explore/video/"><kw class="krdwrd-tag-1">Video on Flickr</kw></a>
+			<a href="/explore/interesting/7days/"><kw class="krdwrd-tag-1">Last 7 Days Interesting</kw></a>
+			<a href="/photos/tags/"><kw class="krdwrd-tag-1">Popular Tags</kw></a>
+			<a href="/explore/interesting/2008/06/"><kw class="krdwrd-tag-1">Calendar</kw></a>
+			<a href="/photos/"><kw class="krdwrd-tag-1">Most Recent Uploads</kw></a>
+			<!--<a href="/explore/interesting/2007/06/">A Year Ago Today</a>-->
+			
+			<a title="Photos and videos on a map" href="/map/" class="menu_item_line_above"><kw class="krdwrd-tag-1">World Map</kw></a>			<a href="/places/"><kw class="krdwrd-tag-1">Places</kw></a>			
+			<a href="/commons/" class="menu_item_line_above"><kw class="krdwrd-tag-1">The Commons</kw></a>
+			<a href="/creativecommons/"><kw class="krdwrd-tag-1">Creative Commons</kw></a>
+			
+			<a href="http://blog.flickr.com/" class="menu_item_line_above"><kw class="krdwrd-tag-1">FlickrBlog</kw></a>
+			<a href="http://code.flickr.com/"><kw class="krdwrd-tag-1">code.flickr</kw></a>
+			<a href="/services/"><kw class="krdwrd-tag-1">Flickr Services</kw></a>
+			
+			<a href="/do/more/" class="menu_item_line_above"><kw class="krdwrd-tag-1">Do More, Order Prints</kw></a>
+			<a href="/cameras/"><kw class="krdwrd-tag-1">Camera Finder</kw></a>		</div>
+		</li>
+
+	</ul>
+</div>
+<script type="text/javascript">F.decorate(_ge('candy_nav_button_bar'), F._nav_button_bar).bar_go_go_go();</script>	
+
+
+	
+			</td>
+
+
+
+
+					
+								
+	
+
+<td style="padding-bottom: 2px;" id="search_header_form_td">
+	<form action="/search/" method="get" onsubmit="_do_header_search('all', '', '/search/', 'int', '');return false;" id="headersearchform">
+		<input style="color: rgb(153, 153, 153);" name="q" id="header_search_q" class="Box" value="" type="text">
+		<input name="w" value="all" type="hidden">
+		<input name="m" value="" type="hidden">
+		<input name="s" value="int" type="hidden">
+		<input name="mt" value="" type="hidden">
+		
+	</form>
+</td>
+<td id="search_header_button_td" width="82">
+
+	<div id="candy_search_button_bar" class="candy_button_bar" style="display: block;">
+		<ul class="site_nav_menu_buttons">
+		<li class="menu_li" id="candy_nav_button_search"><span><a href="/search/" onclick="_do_header_search('all', '', '/search/', 'int', '');return false;"><kw class="krdwrd-tag-1">Search</kw></a> <img src="http://l.yimg.com/g/images/site_nav_caret_split_default.png" class="nav_button_caret" alt="More options" height="15" width="18"></span>
+		<div class="candy_menu" id="candy_nav_menu_search">
+			<a title="Everyone's Uploads" href="/search/" onclick="_do_header_search('all', null, null, null, ''); return false;"><b><kw class="krdwrd-tag-1">·</kw></b><kw class="krdwrd-tag-1"> Everyone's Uploads</kw></a>
+			<a title="Groups" href="/search/groups/" onclick="_do_header_search('', '', '/search/groups/'); return false;"><kw class="krdwrd-tag-1">Groups</kw></a>
+			<a title="Flickr Members" href="/search/people/" onclick="_do_header_search('', 'names', '/search/people/'); return false;"><kw class="krdwrd-tag-1">Flickr Members</kw></a>
+			<a title="For a Location" href="/map/" onclick="_do_header_search('location', '', '/map/'); return false;"><kw class="krdwrd-tag-1">For a Location</kw></a>							<a class="menu_item_line_above" title="The Other Pete's Photostream" href="/search/" onclick="_do_header_search('65906203@N00', ''); return false;"><kw class="krdwrd-tag-1">The Other Pete's Photostream</kw></a>
+			
+		</div>
+		</li>
+		</ul>
+	</div>
+	
+	<script type="text/javascript">F.decorate(_ge('candy_nav_button_search'), F._nav_button).button_go_go_go();</script>
+	
+	<script type="text/javascript">
+	var b1 = _ge('headersearchbutton1');
+	b1.parentNode.removeChild(b1);
+	
+	_ge('search_header_form_td').style.paddingBottom = '2px';
+	
+	_ge('candy_search_button_bar').style.display = 'block';
+	
+	
+	var f = _ge('headersearchform');
+	
+	if (f.q.value == '') f.q.style.color = '#999';
+	
+	f.q.onfocus = function() {
+		if (this.value == '') this.value = '';
+		this.style.color = '#222';
+		if (window.map) map._disableKeys = true;
+	}
+	
+	f.q.onblur = function() {
+		if (this.value != '') return;
+		this.style.color = '#999';
+		this.value = '';
+		if (window.map) map._disableKeys = false;
+	}
+	
+	var _do_header_search = function(w, m, action, s, mt) {
+		var f = _ge('headersearchform');
+		if (f.q.value == '') f.q.value = '';
+		f.q.value = f.q.value.trim();
+		
+		
+		// do location search if the location search window is open, or if w == 'location'
+		if (w == 'location' || (_ge('loc_search_div') && _ge('loc_search_div').style.display != 'none')) {
+			if (!_ge('loc_search_div')) {
+				// create the location search crap!
+				var div 	= document.createElement('div');
+				div.id = 'loc_search_div';
+				document.body.appendChild(div);
+				
+				var page_type = 'site';
+				F.decorate(div, F._loc_search_div).div_go_go_go(page_type);
+			}
+			try {_ge('loc_search_div').div_do_loc_search()} catch(err) {writeDebug(err)};return false;
+			return;
+		}
+		
+		
+		
+		
+		f.w.value = w;
+		f.m.value = (m) ? m : '';
+		f.s.value = (s) ? s : '';
+		f.mt.value = (mt) ? mt : '';
+		f.action = (action) ? action : '/search/';
+		
+		if (f.m.value == 'tags' && f.q.value && f.q.value.indexOf(' ') == -1) {
+			var alias = 'theotherpete';
+			alias = (alias) ? alias : f.w.value;
+			var turl = '/photos/';
+			if (f.w.value == 'all') {
+				turl+= 'tags/'+encodeURIComponent(f.q.value); 
+			} else {
+				turl+= alias+'/tags/'+encodeURIComponent(f.q.value); 
+			}
+			document.location = turl;
+			return;
+		}
+		
+		var qsA = ['q='+encodeURIComponent(f.q.value)];
+		if (f.w.value) qsA.push('w='+encodeURIComponent(f.w.value));
+		if (f.m.value) qsA.push('m='+encodeURIComponent(f.m.value));
+		if (f.s.value) qsA.push('s='+encodeURIComponent(f.s.value));
+		if (f.mt.value) qsA.push('mt='+encodeURIComponent(f.mt.value));
+
+		var surl = f.action+'?'+qsA.join('&');
+		document.location = surl;
+	}
+	
+
+	</script>	
+
+</td>	
+		</tr>		
+	</tbody></table>
+</div>
+
+<div id="Main">
+
+
+
+
+<!-- CONFIRM MSGS -->
+
+
+
+
+<!-- CONTENT TABLE -->
+	
+<table id="Photo" border="0" cellspacing="0">
+	<tbody><tr valign="top">
+	
+	<!-- SWF CELL -->
+		<td id="photoswftd" width="502">		
+			<h1 id="title_div2352164257" property="dc:title"><kw class="krdwrd-tag-2">The Winner</kw></h1>
+						
+
+<noscript><kw>
+<div class="krdwrd-tag-1">To take full advantage of Flickr, you should use a JavaScript-enabled browser and<br>
+<a class="krdwrd-tag-1" href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">install the latest version of the Macromedia Flash Player</a>.<br><br>
+</div></kw></noscript>
+<div id="button_bar"></div><script type="text/javascript">F.decorate(_ge('button_bar'), F._photo_button_bar).bar_go_go_go(2352164257, 0);</script><div><div style="visibility: hidden;" id="photo_notes" class="photo_notes"><div style="z-index: 1000; display: none; width: 220px; position: relative;" id="notes_text_div"><table style="padding: 0px;" id="notes_text_table" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://l.yimg.com/g/images/tc_yellow_tl.gif" height="3" width="3"></td><td class="td_note_yeller"></td><td><img src="http://l.yimg.com/g/images/tc_yellow_tr.gif" height="3" width="3"></td></tr><tr><td class="td_note_yeller"></td><td class="td_note_yeller" style="padding: 3px;"><span id="notes_text_span" style="font-family: arial; font-size: 12px;"></span><form id="notes_text_form"><input name="magic_cookie" value="e04073c2757578006d25859b922c6f52" type="hidden"><textarea onkeydown="_limit_textarea(this, 300); _ge('photo_notes').check_note_for_prop()" onkeyup="place_notes_text_div(); adjust_textarea_height(this); _limit_textarea(this, 300); _ge('photo_notes').check_note_for_prop()" id="notes_text_area" rows="1" style="border: 0px inset rgb(233, 233, 174); padding: 0px; overflow: visible; width: 200px; font-family: arial; font-size: 12px; background-color: rgb(255, 255, 211); height: 58px;" wrap="virtual"></textarea></form></td><td class="td_note_yeller"></td></tr><tr><td><img src="http://l.yimg.com/g/images/tc_yellow_bl.gif" height="3" width="3"></td><td class="td_note_yeller"></td><td><img src="http://l.yimg.com/g/images/tc_yellow_br.gif" height="3" width="3"></td></tr></tbody></table><form id="notes_text_buttons_form"><input class="Butt" value="Save" onclick="_ge('photo_notes').save_editing(); this.blur();" style="margin: 5px 5px 0pt 0pt;" type="button"><input class="CancelButt" value="Cancel" onclick="_ge('photo_notes').cancel_editing(); this.blur();" style="margin: 5px 5px 0pt 0pt;" type="button"><input class="CancelButt" value="Delete!" id="delete_note_button" onclick="_ge('photo_notes').delete_note(); this.blur();" style="margin: 5px 5px 0pt 0pt;" type="button"></form><div id="temp_div" style="visibility: hidden; width: 200px;"></div></div><script type="text/javascript"></script></div><div style="z-index: 1002; display: none;" id="comm_div"><table id="comm_table" style="padding: 0px; width: 200px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="3"><img src="http://l.yimg.com/g/images/tc_white_tl.gif" height="3" width="3"></td><td class="td_white"></td><td class="td_white"></td><td width="3"><img src="http://l.yimg.com/g/images/tc_white_tr.gif" height="3" width="3"></td></tr><tr><td class="td_white"></td><td class="td_white" style="padding: 3px 0px 0px;" valign="top" width="1"><img id="comm_pulser_img" src="http://l.yimg.com/g/images/pulser2.gif" border="0" height="15" width="32"></td><td class="td_white" style="padding: 3px; font-size: 12px;" id="comm_td"><div id="comm_msg_div"></div><div id="comm_form_div" style="display: none;"></div><div id="comm_progress_bar_div_wrapper" style="border: 1px solid black; display: none; margin-top: 10px;"><div id="comm_progress_bar_div_inner" style="width: 300px; height: 15px;"><div id="comm_progress_bar_div" style="height: 100%; width: 0%; background-color: rgb(255, 0, 132);"></div></div></div></td><td class="td_white"></td></tr><tr id="comm_button_tr"><td class="td_white"></td><td class="td_white"></td><td class="td_white" style="padding: 3px;"><form><nobr><input id="comm_button_ok" class="Butt" value="OK" onclick="this.onclick_func();" style="margin: 5px 5px 0pt 0pt;" type="button"><input id="comm_button_cancel" class="CancelButt" value="Cancel" onclick="this.onclick_func();" style="margin: 5px 5px 0pt 0pt;" type="button"></nobr></form></td><td class="td_white"></td></tr><tr><td><img src="http://l.yimg.com/g/images/tc_white_bl.gif" height="3" width="3"></td><td class="td_white"></td><td class="td_white"></td><td><img src="http://l.yimg.com/g/images/tc_white_br.gif" height="3" width="3"></td></tr></tbody></table></div><div style="z-index: 1003; display: none;" id="rotate_div"><table id="rotate_table" style="padding: 0px; width: 218px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="3"><img src="http://l.yimg.com/g/images/tc_white_tl.gif" height="3" width="3"></td><td class="td_note_white"></td><td width="3"><img src="http://l.yimg.com/g/images/tc_white_tr.gif" height="3" width="3"></td></tr><tr><td class="td_note_white"></td><td class="td_note_white" style="padding: 0px; height: 155px;"><span id="rotate_span" style="font-family: arial; font-size: 12px;"></span></td><td class="td_note_white"></td></tr><tr><td><img src="http://l.yimg.com/g/images/tc_white_bl.gif" height="3" width="3"></td><td class="td_note_white"></td><td><img src="http://l.yimg.com/g/images/tc_white_br.gif" height="3" width="3"></td></tr></tbody></table></div><div style="z-index: 999; display: none;" id="shadow_div"><table class="shadow_table" style="padding: 0px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="11"><img class="trans_png" src="http://l.yimg.com/g/images/tc_white_shadow_tl.png" height="11" width="11"></td><td id="shadow_width_controller"><img class="trans_png" src="http://l.yimg.com/g/images/tc_white_shadow_t.png" height="11" width="100%"></td><td width="11"><img class="trans_png" src="http://l.yimg.com/g/images/tc_white_shadow_tr.png" height="11" width="11"></td></tr><tr><td id="shadow_height_controller" height="30"><img class="trans_png" src="http://l.yimg.com/g/images/tc_white_shadow_l.png" height="100%" width="11"></td><td></td><td><img class="trans_png" src="http://l.yimg.com/g/images/tc_white_shadow_r.png" height="100%" width="11"></td></tr><tr><td><img class="trans_png" src="http://l.yimg.com/g/images/tc_white_shadow_bl.png" height="11" width="11"></td><td><img id="shadow_width_controller2" class="trans_png" src="http://l.yimg.com/g/images/tc_white_shadow_b.png" height="11" width="100%"></td><td><img class="trans_png" src="http://l.yimg.com/g/images/tc_white_shadow_br.png" height="11" width="11"></td></tr></tbody></table></div><div id="photoImgDiv2352164257" style="width: 377px;" class="photoImgDiv">
+<img src="http://farm3.static.flickr.com/2339/2352164257_7235a9acb6.jpg?v=0" alt="" onload="show_notes_initially();" class="reflect" height="500" width="375"><img style="position: relative; top: -502px; margin-bottom: -502px; display: block;" src="http://l.yimg.com/g/images/spaceball.gif" alt="" height="500" width="375"></div><script type="text/javascript">F.decorate(_ge('photo_notes'), F._photo_notes).notes_go_go_go(2352164257, 'http://farm3.static.flickr.com/2339/2352164257_7235a9acb6_t.jpg', '3.1444');</script><form id="fave_form" method="post" style="visibility: hidden;"><input name="magic_cookie" value="e04073c2757578006d25859b922c6f52" type="hidden"><input name="faveadd" value="0" type="hidden"><input name="faveremove" value="0" type="hidden"></form></div>
+	<div id="div_mini_map_frame" style="position: absolute; left: -9500px;">
+	<div id="div_mini_map_frame2">
+	<div style="position: absolute; top: 7px; left: 9px; font-family: Arial; font-size: 11px; color: rgb(153, 153, 153);"><a href="/photos/theotherpete/2352164257/map/?view=users"><strong><kw class="krdwrd-tag-1">View The Other Pete's map</kw></strong></a></div>
+	<div id="div_mini_map_frame3">
+	<div id="map" style="position: absolute; top: 3px; left: 3px; width: 510px; height: 250px;"></div>
+	</div>
+	<div id="map_links" style="position: absolute; bottom: 7px; left: 9px; font-family: Arial; font-size: 11px; width: 360px; color: rgb(153, 153, 153);"><kw class="krdwrd-tag-1">
+       	
+
+
+	Taken in 	        
+                			a place with no name
+	
+        (See </kw><a href="/photos/theotherpete/2352164257/map/?view=everyones"><kw class="krdwrd-tag-1">more photos or videos here</kw></a><kw class="krdwrd-tag-1">)</kw></div>
+	<div id="pretty_lat_long" style="position: absolute; right: 7px; bottom: 7px; font-family: Arial; font-size: 11px; font-style: italic; color: rgb(153, 153, 153);"></div>
+	</div>
+	<a id="close_button" style="overflow: visible; height: 16px;"></a>
+	</div>
+
+<!-- PHOTO CONTENT: DESCRIPTION, NOTES, COMMENTS -->
+			<div id="About">
+				<div id="description_div2352164257" class="photoDescription"><kw class="krdwrd-tag-3">Did a reshoot this morning and this one was the winner. I definitely think this one works better as an advertisement, no matter what I might have thought of the others artistically speaking. </kw><br>
+<br><kw class="krdwrd-tag-3">
+All's well that ends well, right?&nbsp;</kw></div>
+				
+											
+
+<!-- ############## COMMENTS -->
+	<div id="DiscussPhoto">
+						<h3><kw class="krdwrd-tag-1">Comments</kw></h3>
+
+
+
+					<table>
+			
+								<tbody><tr valign="top">
+							<td class="Who">
+										<a href="/photos/urbangazelle/" name="comment72157604205651647"><img src="http://farm2.static.flickr.com/1103/buddyicons/7829256@N05.jpg?1188075100#7829256@N05" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/urbangazelle/"><kw class="krdwrd-tag-1">Urban Gazelle</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">yes, this is well, this is the one. I'm
+almost viewing it as a portrait of that
+gorgeous, shiny leather chair ;)
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604205651647/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/theotherpete/" name="comment72157604201424352"><img src="http://farm2.static.flickr.com/1285/buddyicons/65906203@N00.jpg?1209176714#65906203@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/theotherpete/"><kw class="krdwrd-tag-1">The Other Pete</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">I'm sure he'll be pleased to hear that. I
+mean, he's not vain at all. ;-)
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604201424352/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/23386031@N00/" name="comment72157604201474312"><img src="http://farm1.static.flickr.com/106/buddyicons/23386031@N00.jpg?1213817870#23386031@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/23386031@N00/"><kw class="krdwrd-tag-1">Moochin Photoman</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">I particularly like the gilt frame</kw><br><kw class="krdwrd-tag-3">
+is it me or are his trousers a bit short?
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604201474312/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/amboire/" name="comment72157604203180980"><img src="http://farm1.static.flickr.com/50/buddyicons/72409464@N00.jpg?1169493572#72409464@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/amboire/"><kw class="krdwrd-tag-1">Amboire</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-1">@moochin... I can definitely see what you're
+talking about, trousers-wise...</kw><br>
+<br><kw class="krdwrd-tag-1">
+Lovely job, Pete.
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604203180980/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/theotherpete/" name="comment72157604208546977"><img src="http://farm2.static.flickr.com/1285/buddyicons/65906203@N00.jpg?1209176714#65906203@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/theotherpete/"><kw class="krdwrd-tag-1">The Other Pete</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">Re: the pants – truth be told, he was trying
+to cheat his height a little bit and I guess
+that was the result. Here's hoping that's
+where the designer decides to put the type. </kw><br>
+<br><kw class="krdwrd-tag-1">
+*fingers crossed* </kw><br>
+<br><kw class="krdwrd-tag-3">
+And thanks, Amboire.
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604208546977/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/p-s-e/" name="comment72157604218209404"><img src="http://farm3.static.flickr.com/2220/buddyicons/22385015@N00.jpg?1199408072#22385015@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/p-s-e/"><kw class="krdwrd-tag-1">Point-Shoot-Edit</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">Yes, this one is very good. Winner it is!
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604218209404/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/theotherpete/" name="comment72157604229863181"><img src="http://farm2.static.flickr.com/1285/buddyicons/65906203@N00.jpg?1209176714#65906203@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/theotherpete/"><kw class="krdwrd-tag-1">The Other Pete</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">Thanks, Bonnie. Now I just have to remember
+to pick up a copy of the magazine it's
+running in. =)
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604229863181/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/julia-ish/" name="comment72157604255491733"><img src="http://farm2.static.flickr.com/1370/buddyicons/49129577@N00.jpg?1201626782#49129577@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/julia-ish/"><kw class="krdwrd-tag-1">stalked</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">Yes, this is nice as an advert. Like that
+welcoming, smiley look. And the green and
+dark leather contrasts very nicely with the
+paler wood. :)
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604255491733/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/photosbycarol/" name="comment72157604434725709"><img src="http://farm1.static.flickr.com/41/buddyicons/48761430@N00.jpg?1137018568#48761430@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/photosbycarol/"><kw class="krdwrd-tag-1">carolsLittleWorld</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">It's a great shot, and congrats! </kw><br>
+<br><kw class="krdwrd-tag-3">
+I love the exposure, the textures, and the
+lighting, especially the painting behind
+him-how it's glowing quite nicely. Well done!
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604434725709/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/theotherpete/" name="comment72157604432119610"><img src="http://farm2.static.flickr.com/1285/buddyicons/65906203@N00.jpg?1209176714#65906203@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/theotherpete/"><kw class="krdwrd-tag-1">The Other Pete</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">Thanks very much, Carol. Overall I think it
+was a great learning experience, both in how
+to handle the unexpected and that what
+pleases me most artistically isn't always the
+best answer to the problem at hand.
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604432119610/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/urbangazelle/" name="comment72157604458006608"><img src="http://farm2.static.flickr.com/1103/buddyicons/7829256@N05.jpg?1188075100#7829256@N05" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/urbangazelle/"><kw class="krdwrd-tag-1">Urban Gazelle</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">I'm feeling very dense but i can't figure out
+what's being advertised. </kw><br>
+<br><kw class="krdwrd-tag-3">
+You're flexing some creative muscles here -
+a willingness to detour from your own
+aesthetic in the interest of this job. It
+came out very well and it was instructive to
+see your journey. My only wonder is whether
+the frame could extend half an inch (in print
+rather than image size) taller; but that
+would deviate from the standard dimensions of
+portrait layouts.
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604458006608/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/theotherpete/" name="comment72157604463074413"><img src="http://farm2.static.flickr.com/1285/buddyicons/65906203@N00.jpg?1209176714#65906203@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/theotherpete/"><kw class="krdwrd-tag-1">The Other Pete</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">It's actually the man himself that's being
+advertised, Jen. I think that was what made
+this so much the better shot – he comes off
+much more open and welcoming in this one than
+the previous ones.</kw><br>
+<br><kw class="krdwrd-tag-3">
+And now that you mention it, it is a little
+tight at the top. I might try a little
+Photoshop magic to add some breathing room at
+the top just to satisfy my curiosity. It'll
+give me something to do with my time.
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 3 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604463074413/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/lightlypaintedpixels/" name="comment72157604672791414"><img src="http://farm1.static.flickr.com/1/buddyicons/91351596@N00.jpg?1106759132#91351596@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/lightlypaintedpixels/"><kw class="krdwrd-tag-1">*CA*</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">I like all of these as photos, perhaps the
+first best of all.  This is, of course, the
+best for the purpose.  Good job.
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 2 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604672791414/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+				
+								<tr valign="top">
+							<td class="Who">
+										<a href="/photos/theotherpete/" name="comment72157604673127784"><img src="http://farm2.static.flickr.com/1285/buddyicons/65906203@N00.jpg?1209176714#65906203@N00" alt="view profile" height="48" width="48"></a>
+									</td>
+							<td class="Said">
+												<h4><a href="/photos/theotherpete/"><kw class="krdwrd-tag-1">The Other Pete</kw></a> 										&nbsp;<a href="/upgrade/" title="Find out about upgrading to Pro"><img src="http://l.yimg.com/g/images/badge_pro.gif.v2" alt="Pro User" class="ProIcon" height="12" width="20"></a><kw class="krdwrd-tag-1">&nbsp;
+				 says:</kw></h4>
+																		<p><kw class="krdwrd-tag-3">Thanks a lot, Christine. It's in this month's
+issue of </kw><i><kw class="krdwrd-tag-3">Hartford Magazine</kw></i><kw class="krdwrd-tag-3">, if you come across one. =) </kw><br>
+<br><kw class="krdwrd-tag-3">
+I really have to make it a point to pick up
+a few copies myself. And after having worked
+so hard to get rid of all my old magazines.
+																</kw><br>
+								
+								<small><kw class="krdwrd-tag-1">
+									Posted 2 months ago.
+									( </kw><a href="/photos/theotherpete/2352164257/comment72157604673127784/" class="Plain"><kw class="krdwrd-tag-1">permalink</kw></a><kw class="krdwrd-tag-1">
+																		)
+								</kw></small>
+								</p>
+																
+							</td>
+						</tr>
+							</tbody></table>
+
+
+
+	
+			
+				</div>
+		
+				<h3><kw class="krdwrd-tag-1">Would you like to comment?</kw></h3>
+								<p><a href="/signup/?redir=%2Fphotos%2Ftheotherpete%2F2352164257%2F&amp;from_photos=1&amp;friend=65906203@N00"><kw class="krdwrd-tag-1">Sign up</kw></a><kw class="krdwrd-tag-1"> for a free account, or </kw><a href="/signin/?cf=%2Fphotos%2Ftheotherpete%2F2352164257%2F" title="Sign in to Flickr"><kw class="krdwrd-tag-1">sign in</kw></a><kw class="krdwrd-tag-1"> (if you're already a member).</kw></p>
+		
+			
+
+			</div>
+		</td>	
+<!-- ################ USER, DATES, SETS, TAGS, GROUPS -->
+			
+		<td class="RHS">
+										
+				
+
+
+		
+		
+							
+		
+		
+				
+		
+		
+
+
+
+
+<div class="SlideShowShareButtons">
+	<div id="SSButtonHugger">
+
+
+	</div> 
+
+
+
+</div>
+
+<div id="GPTooltip">
+	<span style="display: none;" id="tooltip_1214317482_0"><kw class="krdwrd-tag-1">Guest Passes let you share your photos that aren't public.</kw><br>
+<br><kw class="krdwrd-tag-1">
+Anyone can see your public photos anytime, whether they're a Flickr member or not. But! If you want to share photos marked as friends, family or private, use a Guest Pass.</kw><br>
+<br><kw class="krdwrd-tag-1">
+If you're sharing photos from a set, you can create a Guest Pass that includes any of your photos marked as friends, family, or private. If you're sharing your entire photostream, you can create a Guest Pass that includes photos marked as friends or family (but not your private photos).</kw><br>
+<br>
+<a href="/help/sharing/#2184" target="_blank"><kw class="krdwrd-tag-1">Learn more about Guest Passes!</kw></a></span><span class="Tip"><kw class="krdwrd-tag-1">[</kw><a href="#" onclick="this.blur(); show_tooltip(this, 'tooltip_1214317482_0', 602); return false;"><kw class="krdwrd-tag-1">?</kw></a><kw class="krdwrd-tag-1">]</kw></span>
+</div>			
+			      
+
+			
+		
+<!-- #### UPLOADED BY -->
+
+		<div class="Widget">
+			<a href="/photos/theotherpete/"><img class="rightSideContactChanger" src="http://farm2.static.flickr.com/1285/buddyicons/65906203@N00.jpg?1209176714#65906203@N00" alt="view photos" height="24" width="24"></a><kw class="krdwrd-tag-1">
+					
+			Uploaded on </kw><a href="/photos/theotherpete/archives/date-posted/2008/03/22/" class="Plain"><kw class="krdwrd-tag-1">March 22, 2008</kw></a><br><kw class="krdwrd-tag-1">
+			by </kw><a href="/photos/theotherpete/" title="Link to The Other Pete's photostream"><b><kw class="krdwrd-tag-1">The Other Pete</kw></b></a>
+		</div>
+		
+<!-- #### CONTEXTS -->		
+
+			<div class="ContextTop">
+				<table border="0" cellpadding="0" cellspacing="0">
+ 				<tbody><tr>
+					<td class="LilIcon" valign="bottom"><script type="text/javascript">if (_ok_for_scrumjax_xml()) document.write('<img src="http://l.yimg.com/g/images/context_open.gif" width="18" height="25" style="border:0;" class="nextprev_button" id="nextprev_button_stream65906203@N00">');
+					if (_ok_for_scrumjax_xml()) F.decorate(_ge('nextprev_button_stream65906203@N00'), F._nextprev_button).button_go_go_go('stream', '65906203@N00', '2352164257');
+					</script><img src="http://l.yimg.com/g/images/context_open.gif" style="border: 0pt none;" class="nextprev_button" id="nextprev_button_stream65906203@N00" height="25" width="18"><img src="http://l.yimg.com/g/images/context_open.gif" style="border: 0pt none;" class="nextprev_button" id="nextprev_button_stream65906203@N00" height="25" width="18"></td>
+					<td colspan="2">
+						<h3 id="contextTitle_stream65906203@N00" class="contextTitleOpen">
+							<a href="/photos/theotherpete/" class="currentContextLink" id="contextLink_stream65906203@N00"><kw class="krdwrd-tag-1">The Other Pete's photostream</kw></a>
+						</h3>
+												<script type="text/javascript">
+						var nextprev_currentContextLink = _ge('contextLink_stream65906203@N00');
+						var nextprev_currentContextID = 'stream65906203@N00';
+						</script>
+											</td>
+				</tr>
+				<tr id="nextprev_tr_stream65906203@N00" class="contextThumbsRow">
+					<td rowspan="2" class="context_crap_td" valign="bottom"><img src="http://l.yimg.com/g/images/context_crap.gif" class="crap" alt="" height="104" width="18"></td>
+					<td><div id="nextprev_div_stream65906203@N00" class="nextprev_contextThumbsDiv"><div class="contextThumbsMoverWrapperDiv"><div class="contextThumbsMoverDiv" id="nextprev_mover_div_stream65906203@N00"><a class="contextThumbLink" href="/photos/theotherpete/2350368005/in/photostream/" style="position: absolute; left: 0px;"><img style="visibility: visible;" id="nextprev_thumb_stream65906203@N002350368005" class="nextprev_thumb" src="http://farm4.static.flickr.com/3274/2350368005_8b0c42af19_s.jpg" title="Go to the previous item in the stream" alt="" height="75" width="75"></a><a style="position: absolute; left: 78px;" class="contextThumbLink" href="/photos/theotherpete/2393948292/in/photostream/"><img style="visibility: visible;" id="nextprev_thumb_stream65906203@N002393948292" class="nextprev_thumb" src="http://farm3.static.flickr.com/2215/2393948292_1813e8b460_s.jpg" title="Go to the next item in the stream" alt="" height="75" width="75"></a></div></div><div class="nextprev_contextThumbsArrowsDiv" id="nextprev_arrows_div_stream65906203@N00"><img alt="" style="cursor: pointer; visibility: visible;" id="nextprev_arrows_prev_img_stream65906203@N00" class="nextprev_arrows_img_prev" src="http://l.yimg.com/g/images/context_arrow_more_left_out.gif?v1" title="" border="0" height="10" width="37"><a style="cursor: pointer;" href="/photos/theotherpete/with/2352164257/" class="contextThumbLink"><img alt="" style="visibility: visible;" id="nextprev_view_page_img_stream65906203@N00" class="nextprev_view_page_img" src="http://l.yimg.com/g/images/en-us/context_view_page_out.gif?v1" title="" border="0" height="10" width="79"></a><img alt="" style="cursor: pointer; visibility: visible;" id="nextprev_arrows_next_img_stream65906203@N00" class="nextprev_arrows_img_next" src="http://l.yimg.com/g/images/context_arrow_more_right_out.gif?v1" title="" border="0" height="10" width="37"></div></div></td>
+					<td>
+						<div class="contextInfo">
+							<div class="contextInfoInner" id="contextInfoInner_stream65906203@N00">
+								<div class="photosNum" id="photosNum_stream65906203@N00"><kw class="krdwrd-tag-1">616</kw></div>
+																<div class="photosText" id="photosText_stream65906203@N00"><kw class="krdwrd-tag-1">uploads</kw></div>
+																<div class="showLink" id="slideshowLink_stream65906203@N00" style="display: block;"><a style="cursor: pointer;" title="" id="slideshow_link_stream65906203@N00" href="/photos/theotherpete/show/with/2352164257/"><img class="trans_png" id="slideshow_link_stream65906203@N00IMG" src="http://l.yimg.com/g/images/context_slideshow_icon_default.png" alt="" height="23" width="23"></a></div>
+							</div>
+						</div>
+						<script type="text/javascript">
+							if (_ok_for_scrumjax_xml()) F.decorate(_ge('nextprev_div_stream65906203@N00'), F._nextprev_div).div_go_go_go('2350368005', '2393948292', '/photos/theotherpete/2350368005/in/photostream/', '/photos/theotherpete/2393948292/in/photostream/', false, false, 'stream', '65906203@N00', true, '2352164257', '/photos/theotherpete/');
+						</script>
+					</td>
+				</tr>
+				<tr id="nextprev_crumbs_tr_stream65906203@N00">
+					<td colspan="2"><div class="contextCrumbsDiv"></div></td>
+				</tr>
+				</tbody></table>
+			</div>
+
+
+
+			<div class="ContextsOther" id="otherContexts_div"><p style="display: block;" id="other_contexts_p"><kw class="krdwrd-tag-1">This photo also belongs to:</kw></p>
+
+			
+		<script type="text/javascript">in_groupsA.push(new in_groupsObj('81474450@N00',1))</script>
+				<div style="display: block;" class="contextDiv" id="contextDiv_pool81474450@N00">	<table class="contextsTable" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td class="LilIcon" valign="bottom"><img src="http://l.yimg.com/g/images/context_closed.gif" style="border: 0pt none;" class="nextprev_button" id="nextprev_button_pool81474450@N00" height="25" width="18"></td>
+		<td colspan="2">
+			<h3 id="contextTitle_pool81474450@N00" class="contextTitleClosed">
+				<a href="/groups/utata/pool/" class="Plain" id="contextLink_pool81474450@N00"><kw class="krdwrd-tag-1">Utata (Pool)</kw></a> 
+							</h3>
+		</td>
+	</tr>
+	<tr id="nextprev_tr_pool81474450@N00" class="contextThumbsRow" style="display: none;">
+		<td rowspan="2" class="context_crap_td" valign="bottom"><img src="http://l.yimg.com/g/images/context_crap.gif" class="crap" alt="" height="104" width="18"></td>
+		<td><div id="nextprev_div_pool81474450@N00" class="nextprev_contextThumbsDiv"><div class="contextThumbsMoverWrapperDiv"><div class="contextThumbsMoverDiv" id="nextprev_mover_div_pool81474450@N00"></div></div><div class="nextprev_contextThumbsArrowsDiv" id="nextprev_arrows_div_pool81474450@N00"><img alt="" style="cursor: pointer;" id="nextprev_arrows_prev_img_pool81474450@N00" class="nextprev_arrows_img_prev" src="http://l.yimg.com/g/images/context_arrow_more_left_out.gif?v1" title="" border="0" height="10" width="37"><a style="cursor: pointer;" href="/groups/utata/pool/with/2352164257/" class="contextThumbLink"><img alt="" style="visibility: visible;" id="nextprev_view_page_img_pool81474450@N00" class="nextprev_view_page_img" src="http://l.yimg.com/g/images/en-us/context_view_page_out.gif?v1" title="" border="0" height="10" width="79"></a><img alt="" style="cursor: pointer;" id="nextprev_arrows_next_img_pool81474450@N00" class="nextprev_arrows_img_next" src="http://l.yimg.com/g/images/context_arrow_more_right_out.gif?v1" title="" border="0" height="10" width="37"></div></div>
+		</td>
+		<td>
+			<div class="contextInfo">
+				<div class="contextInfoInner" id="contextInfoInner_pool81474450@N00">
+					<div class="photosNum" id="photosNum_pool81474450@N00"><kw class="krdwrd-tag-1">0</kw></div>
+					<div class="photosText" id="photosText_pool81474450@N00">
+									</div>
+					<div class="showLink" id="slideshowLink_pool81474450@N00" style="display: none;"><a style="cursor: pointer;" title="" id="slideshow_link_pool81474450@N00" href="/groups/utata/pool/show/with/2352164257/"><img class="trans_png" id="slideshow_link_pool81474450@N00IMG" src="http://l.yimg.com/g/images/context_slideshow_icon_default.png" height="23" width="23"></a></div>
+				</div>
+			</div>
+			<script type="text/javascript">
+				if (_ok_for_scrumjax_xml()) F.decorate(_ge('nextprev_div_pool81474450@N00'), F._nextprev_div).div_go_go_go('', '', '', '', false, false, 'pool', '81474450@N00', false, '2352164257', '/groups/utata/pool/');
+			</script>
+		</td>
+	</tr>
+	<tr id="nextprev_crumbs_tr_pool81474450@N00" style="display: none;">
+		<td colspan="2"><div class="contextCrumbsDiv"></div></td>
+	</tr>
+	</tbody></table></div>
+	
+				<script type="text/javascript">
+					if (_ok_for_scrumjax_xml()) F.decorate(_ge('nextprev_button_pool81474450@N00'), F._nextprev_button).button_go_go_go('pool', '81474450@N00', '2352164257');
+				</script>
+							
+		<script type="text/javascript">in_groupsA.push(new in_groupsObj('20421382@N00',1))</script>
+				<div style="display: block;" class="contextDiv" id="contextDiv_pool20421382@N00">	<table class="contextsTable" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td class="LilIcon" valign="bottom"><img src="http://l.yimg.com/g/images/context_closed.gif" style="border: 0pt none;" class="nextprev_button" id="nextprev_button_pool20421382@N00" height="25" width="18"></td>
+		<td colspan="2">
+			<h3 id="contextTitle_pool20421382@N00" class="contextTitleClosed">
+				<a href="/groups/theportraitgroup/pool/" class="Plain" id="contextLink_pool20421382@N00"><kw class="krdwrd-tag-1">The Portrait Group (Pool)</kw></a> 
+							</h3>
+		</td>
+	</tr>
+	<tr id="nextprev_tr_pool20421382@N00" class="contextThumbsRow" style="display: none;">
+		<td rowspan="2" class="context_crap_td" valign="bottom"><img src="http://l.yimg.com/g/images/context_crap.gif" class="crap" alt="" height="104" width="18"></td>
+		<td><div id="nextprev_div_pool20421382@N00" class="nextprev_contextThumbsDiv"><div class="contextThumbsMoverWrapperDiv"><div class="contextThumbsMoverDiv" id="nextprev_mover_div_pool20421382@N00"></div></div><div class="nextprev_contextThumbsArrowsDiv" id="nextprev_arrows_div_pool20421382@N00"><img alt="" style="cursor: pointer;" id="nextprev_arrows_prev_img_pool20421382@N00" class="nextprev_arrows_img_prev" src="http://l.yimg.com/g/images/context_arrow_more_left_out.gif?v1" title="" border="0" height="10" width="37"><a style="cursor: pointer;" href="/groups/theportraitgroup/pool/with/2352164257/" class="contextThumbLink"><img alt="" style="visibility: visible;" id="nextprev_view_page_img_pool20421382@N00" class="nextprev_view_page_img" src="http://l.yimg.com/g/images/en-us/context_view_page_out.gif?v1" title="" border="0" height="10" width="79"></a><img alt="" style="cursor: pointer;" id="nextprev_arrows_next_img_pool20421382@N00" class="nextprev_arrows_img_next" src="http://l.yimg.com/g/images/context_arrow_more_right_out.gif?v1" title="" border="0" height="10" width="37"></div></div>
+		</td>
+		<td>
+			<div class="contextInfo">
+				<div class="contextInfoInner" id="contextInfoInner_pool20421382@N00">
+					<div class="photosNum" id="photosNum_pool20421382@N00"><kw class="krdwrd-tag-1">0</kw></div>
+					<div class="photosText" id="photosText_pool20421382@N00">
+									</div>
+					<div class="showLink" id="slideshowLink_pool20421382@N00" style="display: none;"><a style="cursor: pointer;" title="" id="slideshow_link_pool20421382@N00" href="/groups/theportraitgroup/pool/show/with/2352164257/"><img class="trans_png" id="slideshow_link_pool20421382@N00IMG" src="http://l.yimg.com/g/images/context_slideshow_icon_default.png" height="23" width="23"></a></div>
+				</div>
+			</div>
+			<script type="text/javascript">
+				if (_ok_for_scrumjax_xml()) F.decorate(_ge('nextprev_div_pool20421382@N00'), F._nextprev_div).div_go_go_go('', '', '', '', false, false, 'pool', '20421382@N00', false, '2352164257', '/groups/theportraitgroup/pool/');
+			</script>
+		</td>
+	</tr>
+	<tr id="nextprev_crumbs_tr_pool20421382@N00" style="display: none;">
+		<td colspan="2"><div class="contextCrumbsDiv"></div></td>
+	</tr>
+	</tbody></table></div>
+	
+				<script type="text/javascript">
+					if (_ok_for_scrumjax_xml()) F.decorate(_ge('nextprev_button_pool20421382@N00'), F._nextprev_button).button_go_go_go('pool', '20421382@N00', '2352164257');
+				</script>
+							
+		<script type="text/javascript">in_groupsA.push(new in_groupsObj('668027@N22',1))</script>
+				<div style="display: block;" class="contextDiv" id="contextDiv_pool668027@N22">	<table class="contextsTable" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td class="LilIcon" valign="bottom"><img src="http://l.yimg.com/g/images/context_closed.gif" style="border: 0pt none;" class="nextprev_button" id="nextprev_button_pool668027@N22" height="25" width="18"></td>
+		<td colspan="2">
+			<h3 id="contextTitle_pool668027@N22" class="contextTitleClosed">
+				<a href="/groups/wabe/pool/" class="Plain" id="contextLink_pool668027@N22"><kw class="krdwrd-tag-1">The Wabe (Pool)</kw></a> 
+							</h3>
+		</td>
+	</tr>
+	<tr id="nextprev_tr_pool668027@N22" class="contextThumbsRow" style="display: none;">
+		<td rowspan="2" class="context_crap_td" valign="bottom"><img src="http://l.yimg.com/g/images/context_crap.gif" class="crap" alt="" height="104" width="18"></td>
+		<td><div id="nextprev_div_pool668027@N22" class="nextprev_contextThumbsDiv"><div class="contextThumbsMoverWrapperDiv"><div class="contextThumbsMoverDiv" id="nextprev_mover_div_pool668027@N22"></div></div><div class="nextprev_contextThumbsArrowsDiv" id="nextprev_arrows_div_pool668027@N22"><img alt="" style="cursor: pointer;" id="nextprev_arrows_prev_img_pool668027@N22" class="nextprev_arrows_img_prev" src="http://l.yimg.com/g/images/context_arrow_more_left_out.gif?v1" title="" border="0" height="10" width="37"><a style="cursor: pointer;" href="/groups/wabe/pool/with/2352164257/" class="contextThumbLink"><img alt="" style="visibility: visible;" id="nextprev_view_page_img_pool668027@N22" class="nextprev_view_page_img" src="http://l.yimg.com/g/images/en-us/context_view_page_out.gif?v1" title="" border="0" height="10" width="79"></a><img alt="" style="cursor: pointer;" id="nextprev_arrows_next_img_pool668027@N22" class="nextprev_arrows_img_next" src="http://l.yimg.com/g/images/context_arrow_more_right_out.gif?v1" title="" border="0" height="10" width="37"></div></div>
+		</td>
+		<td>
+			<div class="contextInfo">
+				<div class="contextInfoInner" id="contextInfoInner_pool668027@N22">
+					<div class="photosNum" id="photosNum_pool668027@N22"><kw class="krdwrd-tag-1">0</kw></div>
+					<div class="photosText" id="photosText_pool668027@N22">
+									</div>
+					<div class="showLink" id="slideshowLink_pool668027@N22" style="display: none;"><a style="cursor: pointer;" title="" id="slideshow_link_pool668027@N22" href="/groups/wabe/pool/show/with/2352164257/"><img class="trans_png" id="slideshow_link_pool668027@N22IMG" src="http://l.yimg.com/g/images/context_slideshow_icon_default.png" height="23" width="23"></a></div>
+				</div>
+			</div>
+			<script type="text/javascript">
+				if (_ok_for_scrumjax_xml()) F.decorate(_ge('nextprev_div_pool668027@N22'), F._nextprev_div).div_go_go_go('', '', '', '', false, false, 'pool', '668027@N22', false, '2352164257', '/groups/wabe/pool/');
+			</script>
+		</td>
+	</tr>
+	<tr id="nextprev_crumbs_tr_pool668027@N22" style="display: none;">
+		<td colspan="2"><div class="contextCrumbsDiv"></div></td>
+	</tr>
+	</tbody></table></div>
+	
+				<script type="text/javascript">
+					if (_ok_for_scrumjax_xml()) F.decorate(_ge('nextprev_button_pool668027@N22'), F._nextprev_button).button_go_go_go('pool', '668027@N22', '2352164257');
+				</script>
+							</div>
+<!-- ################ TAGS STUFF -->
+
+	<div class="TagList">
+	
+		<h4><kw class="krdwrd-tag-1">Tags</kw></h4>
+		<div style="display: block;" id="thetags">
+							<script type="text/javascript">
+					global_photos['2352164257'].tagsA.push('portrait');
+					global_photos['2352164257'].tags_rawA.push('portrait');
+				</script>
+				<div id="tagdiv3113760-2352164257-278">
+					<a href="/photos/tags/portrait/" title="Click this icon to see other photos and videos tagged with portrait" class="globe" onmouseover="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe_over.gif';" onmouseout="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe.gif';"><img src="http://l.yimg.com/g/images/icon_globe.gif" class="icon" alt="Click this icon to see all public photos and videos tagged with portrait" height="16" width="16"></a> <a href="/photos/theotherpete/tags/portrait/" class="Plain"><kw class="krdwrd-tag-1">portrait</kw></a>
+									</div>
+							<script type="text/javascript">
+					global_photos['2352164257'].tagsA.push('naturallight');
+					global_photos['2352164257'].tags_rawA.push('natural light');
+				</script>
+				<div id="tagdiv3113760-2352164257-8473">
+					<a href="/photos/tags/naturallight/" title="Click this icon to see other photos and videos tagged with natural light" class="globe" onmouseover="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe_over.gif';" onmouseout="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe.gif';"><img src="http://l.yimg.com/g/images/icon_globe.gif" class="icon" alt="Click this icon to see all public photos and videos tagged with natural light" height="16" width="16"></a> <a href="/photos/theotherpete/tags/naturallight/" class="Plain"><kw class="krdwrd-tag-1">natural light</kw></a>
+									</div>
+							<script type="text/javascript">
+					global_photos['2352164257'].tagsA.push('cabinet');
+					global_photos['2352164257'].tags_rawA.push('cabinet');
+				</script>
+				<div id="tagdiv3113760-2352164257-4591">
+					<a href="/photos/tags/cabinet/" title="Click this icon to see other photos and videos tagged with cabinet" class="globe" onmouseover="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe_over.gif';" onmouseout="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe.gif';"><img src="http://l.yimg.com/g/images/icon_globe.gif" class="icon" alt="Click this icon to see all public photos and videos tagged with cabinet" height="16" width="16"></a> <a href="/photos/theotherpete/tags/cabinet/" class="Plain"><kw class="krdwrd-tag-1">cabinet</kw></a>
+									</div>
+							<script type="text/javascript">
+					global_photos['2352164257'].tagsA.push('smile');
+					global_photos['2352164257'].tags_rawA.push('smile');
+				</script>
+				<div id="tagdiv3113760-2352164257-882">
+					<a href="/photos/tags/smile/" title="Click this icon to see other photos and videos tagged with smile" class="globe" onmouseover="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe_over.gif';" onmouseout="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe.gif';"><img src="http://l.yimg.com/g/images/icon_globe.gif" class="icon" alt="Click this icon to see all public photos and videos tagged with smile" height="16" width="16"></a> <a href="/photos/theotherpete/tags/smile/" class="Plain"><kw class="krdwrd-tag-1">smile</kw></a>
+									</div>
+							<script type="text/javascript">
+					global_photos['2352164257'].tagsA.push('man');
+					global_photos['2352164257'].tags_rawA.push('man');
+				</script>
+				<div id="tagdiv3113760-2352164257-466">
+					<a href="/photos/tags/man/" title="Click this icon to see other photos and videos tagged with man" class="globe" onmouseover="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe_over.gif';" onmouseout="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe.gif';"><img src="http://l.yimg.com/g/images/icon_globe.gif" class="icon" alt="Click this icon to see all public photos and videos tagged with man" height="16" width="16"></a> <a href="/photos/theotherpete/tags/man/" class="Plain"><kw class="krdwrd-tag-1">man</kw></a>
+									</div>
+							<script type="text/javascript">
+					global_photos['2352164257'].tagsA.push('interior');
+					global_photos['2352164257'].tags_rawA.push('interior');
+				</script>
+				<div id="tagdiv3113760-2352164257-5596">
+					<a href="/photos/tags/interior/" title="Click this icon to see other photos and videos tagged with interior" class="globe" onmouseover="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe_over.gif';" onmouseout="this.childNodes[0].src='http://l.yimg.com/g/images/icon_globe.gif';"><img src="http://l.yimg.com/g/images/icon_globe.gif" class="icon" alt="Click this icon to see all public photos and videos tagged with interior" height="16" width="16"></a> <a href="/photos/theotherpete/tags/interior/" class="Plain"><kw class="krdwrd-tag-1">interior</kw></a>
+									</div>
+					</div>
+
+					<div id="machine_tag_toggle" style="display: none; width: 150px;">
+				<a href="#" class="Plain" onclick="tagrs_toggle_machine_tags(); return false" id="machine_tag_toggle_show" style="display: block;"><img src="http://l.yimg.com/g/images/icon_blue_arrow_right.gif" style="border: 0px none; margin-right: 5px;" border="0" height="9" width="9"><kw class="krdwrd-tag-1">Show machine tags (</kw><span id="span_machine_tags_show_count"><kw class="krdwrd-tag-1">0</kw></span><kw class="krdwrd-tag-1">)</kw></a>
+				<a href="#" class="Plain" onclick="tagrs_toggle_machine_tags(); return false" id="machine_tag_toggle_hide" style="display: none;"><img src="http://l.yimg.com/g/images/icon_blue_arrow_down.gif" style="border: 0px none; margin-right: 5px;" border="0" height="9" width="9"><kw class="krdwrd-tag-1">Hide machine tags (</kw><span id="span_machine_tags_hide_count"><kw class="krdwrd-tag-1">0</kw></span><kw class="krdwrd-tag-1">)</kw></a>
+			</div>
+
+			<div id="themachinetags" style="display: none; margin-top: 9px;">
+							</div>
+		
+			<script type="text/javascript">
+				var _old_machine_tags = 0;
+				
+				function machine_tag_toggle_preinit() {
+					if (typeof(machine_tag_toggle_init) == 'function' && _ge('thetags') && _ge('themachinetags') && _ge('machine_tag_toggle')) {
+						machine_tag_toggle_init();
+					} else {
+						setTimeout(machine_tag_toggle_preinit(), 200);
+					}
+				}
+				
+				machine_tag_toggle_preinit();
+			</script>
+				
+			</div>
+			
+<script type="text/javascript">
+deja_view_refresh();
+</script>
+
+<!-- #############  STATS -->						
+
+			<h4><kw class="krdwrd-tag-1">Additional Information</kw></h4>
+				<p class="Privacy">			
+    <span class="license">
+		<img src="http://l.yimg.com/g/images/icon_all_rights.gif" style="vertical-align: bottom;" border="0" height="15" width="15"><kw class="krdwrd-tag-1"> All rights reserved
+	
+    		    
+	</kw></span>
+
+			
+<span class="privacy_info">
+
+			<img src="http://l.yimg.com/g/images/icon_public.gif" align="left" height="15" width="15"><kw class="krdwrd-tag-1"> Anyone can see this photo		</kw></span>
+
+
+				</p>
+
+				<ul>
+	
+				
+
+
+
+
+<li class="Stats"><kw class="krdwrd-tag-1">
+	Taken with a </kw><a href="/cameras/nikon/coolpix_l6/" class="Plain"><kw class="krdwrd-tag-1">Nikon Coolpix L6</kw></a><kw class="krdwrd-tag-1">.</kw><br>
+						<a href="/photos/theotherpete/2352164257/meta/" class="Plain"><kw class="krdwrd-tag-1">More properties</kw></a>
+					</li>
+					<li class="Stats"><kw class="krdwrd-tag-1">
+							Taken on </kw><a href="/photos/theotherpete/archives/date-taken/2008/03/22/" class="Plain"><kw class="krdwrd-tag-1">March 22, 2008</kw></a>
+																
+					</li>
+					<script type="text/javascript">fave_count = 0;</script>
+					<div id="faves_p">
+					<li class="Stats" style="display: none;"><a href="/photos/theotherpete/2352164257/favorites/" class="Plain"><span id="fave_countSpan"><kw class="krdwrd-tag-1">0 people</kw></span></a> <span id="fave_callsSpan"><kw class="krdwrd-tag-1">call</kw></span><kw class="krdwrd-tag-1"> this photo a </kw><b><kw class="krdwrd-tag-1">favorite</kw></b>					</li>
+					</div>
+				
+					<li class="Stats" style="margin-bottom: 1em;"><kw class="krdwrd-tag-1">			
+						Viewed </kw><b><kw class="krdwrd-tag-1">57</kw></b><kw class="krdwrd-tag-1"> times
+					</kw></li>
+					
+					
+							
+				
+
+				</ul>
+
+		
+
+		<script type="text/javascript">
+
+var upPage = new function(){
+        this.toggle_mod = function(){
+          row = _ge('moderation');
+          if(Y.U.Dom.hasClass(row,'open')) {
+              Y.U.Dom.removeClass(row,'open')
+            } else {
+                Y.U.Dom.addClass(row, 'open');
+            }
+          return false;
+        }
+
+        this.show_votes = function(){
+          _ge('votes_0').style.display = 'block';
+	  _ge('votes_1').style.display = 'block';
+	  _ge('votes_2').style.display = 'block';
+	  _ge('hide_votes').style.display = 'block';
+	
+	  _ge('show_votes').style.display = 'none';
+	
+	  return false;
+	}
+	
+        this.hide_votes = function(){
+          _ge('votes_0').style.display = 'none';
+	  _ge('votes_1').style.display = 'none';
+	  _ge('votes_2').style.display = 'none';
+	  _ge('hide_votes').style.display = 'none';
+	
+	  _ge('show_votes').style.display = 'block';
+	
+	  return false;
+	}
+}
+
+</script>
+<div class="Separated">
+<div id="moderation" class="open">
+</div>
+</div>			</td>
+		</tr>
+	</tbody></table>
+
+
+
+
+<!--  BEGIN URLKit required section -->
+<div id="anchorDiv" style="width: 0px; height: 0px; display: none;"></div>
+<div id="formDiv" style="width: 0px; height: 0px; display: none;"></div>
+<iframe id="historyFrame" style="width: 0px; height: 0px; display: none;" name="historyFrame" src="" height="100" width="100"></iframe>
+<!--  END URLKit required section -->
+
+
+</div>
+
+<br id="MainFooterClear" clear="all">
+
+<div id="FooterWrapper">
+<div class="Footer">
+		
+<table class="Jump" cellspacing="0">
+	        
+                <tbody><tr>
+                <th class="To"><kw class="krdwrd-tag-1">
+                        You
+                </kw></th>
+                <td>
+			<a href="/signin/"><kw class="krdwrd-tag-1">Sign in</kw></a><kw class="krdwrd-tag-1"> |  
+			</kw><a href="/signup/"><kw class="krdwrd-tag-1">Create Your Free Account</kw></a>	
+                </td>
+        </tr>
+                <tr>
+                <th class="To">
+                        <a href="/explore/" class="Plain"><kw class="krdwrd-tag-1">Explore</kw></a>
+                </th>
+                <td>
+			<a href="/places/"><kw class="krdwrd-tag-1">Places</kw></a><kw class="krdwrd-tag-1"> | 
+			</kw><a href="/explore/interesting/7days/"><kw class="krdwrd-tag-1">Last 7 Days</kw></a><kw class="krdwrd-tag-1"> | 
+			</kw><a href="/explore/interesting/2008/06/"><kw class="krdwrd-tag-1">This Month</kw></a><kw class="krdwrd-tag-1"> | 
+			</kw><a href="/photos/tags/"><kw class="krdwrd-tag-1">Popular Tags</kw></a><kw class="krdwrd-tag-1"> | 
+			</kw><a href="/commons/"><kw class="krdwrd-tag-1">The Commons</kw></a><kw class="krdwrd-tag-1"> | 
+			</kw><a href="/creativecommons/"><kw class="krdwrd-tag-1">Creative Commons</kw></a><kw class="krdwrd-tag-1"> | 
+			</kw><a href="/search/"><kw class="krdwrd-tag-1">Search</kw></a>
+                </td>
+        </tr>
+        <tr>
+                <th class="To">
+                        <a href="/help/" class="Plain"><kw class="krdwrd-tag-1">Help</kw></a>
+                </th>
+                <td>
+                        <a href="/guidelines.gne"><kw class="krdwrd-tag-1">Community Guidelines</kw></a><kw class="krdwrd-tag-1"> | 
+                        </kw><a href="/help/forum/"><kw class="krdwrd-tag-1">The Help Forum</kw></a><kw class="krdwrd-tag-1"> |
+
+                        </kw><a href="/help/faq/"><kw class="krdwrd-tag-1">FAQ</kw></a><kw class="krdwrd-tag-1"> | 
+                                                </kw><a href="/sitemap.gne"><kw class="krdwrd-tag-1">Sitemap</kw></a><kw class="krdwrd-tag-1"> | 
+                        </kw><a href="/help/contact/"><kw class="krdwrd-tag-1">Help by Email</kw></a>		
+                </td>
+        </tr>
+</tbody></table>
+<div class="Delicious">
+<a href="/send?photo=2352164257" id="send_to_friend_foot_link"><img src="http://l.yimg.com/g/images/send_to_a_friend.gif" alt="Send to a friend" height="10" width="10"><kw class="krdwrd-tag-1"> &nbsp;Send to a friend</kw></a><br>
+</div>			        
+	
+	<p class="About">
+	        
+                                                        <span class="yahoo_logo">
+                                <a href="http://www.yahoo.com"><img src="http://l.yimg.com/g/images/logo_yahoo_company.gif.v11691.14" alt="Flickr, a Yahoo! Company" height="11" width="99"></a>
+                                </span>
+                        		
+		<a href="http://blog.flickr.net/"><kw class="krdwrd-tag-1">Flickr Blog</kw></a><kw class="krdwrd-tag-1"> | 
+		</kw><a href="/about/"><kw class="krdwrd-tag-1">About Flickr</kw></a><kw class="krdwrd-tag-1"> | 
+		</kw><a href="/terms.gne" onclick="window.open('/terms.gne','TOC','status=yes,scrollbars=yes,resizable=yes,width=600,height=480'); return false"><kw class="krdwrd-tag-1">Terms of Use</kw></a><kw class="krdwrd-tag-1"> | 
+		</kw><a href="/privacy_policy.gne"><kw class="krdwrd-tag-1">Your Privacy</kw></a><kw class="krdwrd-tag-1"> | 
+		</kw><a href="http://de.docs.yahoo.com/copyright.html" target="_blank"><kw class="krdwrd-tag-1">Copyright/IP Policy</kw></a><kw class="krdwrd-tag-1"> |		</kw><a id="ft-report-abuse" href="/report_abuse.gne"><kw class="krdwrd-tag-1">Report Abuse</kw></a>
+		
+		</p><p class="LanguageSelector">
+        
+                                        
+	<span>
+		<a href="/change_language.gne?lang=zh-hk&amp;magic_cookie=e04073c2757578006d25859b922c6f52" class="image_link" id="lang_zh-hk"><img class="trans_png" style="cursor: pointer;" src="http://l.yimg.com/g/images/lang_zh-tw_11px_default.png" id="langselect_zh-hk" alt="繁體中文" height="13" width="45"></a>		<b><kw class="krdwrd-tag-1">|</kw></b>
+		<a href="/change_language.gne?lang=de-de&amp;magic_cookie=e04073c2757578006d25859b922c6f52"><kw class="krdwrd-tag-1">Deutsch</kw></a>
+		<b><kw class="krdwrd-tag-1">|</kw></b>
+		<a href="/change_language.gne?lang=en-us&amp;magic_cookie=e04073c2757578006d25859b922c6f52" class="selected"><kw class="krdwrd-tag-1">English</kw></a>
+		<b><kw class="krdwrd-tag-1">|</kw></b>
+		<a href="/change_language.gne?lang=es-us&amp;magic_cookie=e04073c2757578006d25859b922c6f52"><kw class="krdwrd-tag-1">Español</kw></a>
+		<b><kw class="krdwrd-tag-1">|</kw></b>
+		<a href="/change_language.gne?lang=fr-fr&amp;magic_cookie=e04073c2757578006d25859b922c6f52"><kw class="krdwrd-tag-1">Français</kw></a>
+		<b><kw class="krdwrd-tag-1">|</kw></b>
+		<a href="/change_language.gne?lang=ko-kr&amp;magic_cookie=e04073c2757578006d25859b922c6f52" class="image_link" id="lang_ko-kr"><img class="trans_png" style="cursor: pointer;" src="http://l.yimg.com/g/images/lang_ko-kr_11px_default.png" id="langselect_ko-kr" alt="한글" height="13" width="23"></a>		<b><kw class="krdwrd-tag-1">|</kw></b>
+		<a href="/change_language.gne?lang=it-it&amp;magic_cookie=e04073c2757578006d25859b922c6f52"><kw class="krdwrd-tag-1">Italiano</kw></a>
+		<b><kw class="krdwrd-tag-1">|</kw></b>
+		<a href="/change_language.gne?lang=pt-br&amp;magic_cookie=e04073c2757578006d25859b922c6f52"><kw class="krdwrd-tag-1">Português</kw></a>
+	</span>
+	
+		<script type="text/javascript">if (_ge('langselect_zh-hk')) F.decorate(_ge('langselect_zh-hk'), F._link_button).button_go_go_go();</script>
+	<script type="text/javascript">if (_ge('langselect_ko-kr')) F.decorate(_ge('langselect_ko-kr'), F._link_button).button_go_go_go();</script><kw class="krdwrd-tag-1">
+	Copyright © 2008 Yahoo! All rights reserved.
+	</kw></p>  	<p></p>
+	
+
+<br>
+
+	
+</div>
+</div>
+<div style="background-color: rgb(0, 0, 0); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: rgb(0, 255, 0); text-align: left; font-family: &quot;Courier New&quot;,Courier,monospace;"></div>
+
+
+
+
+
+<script type="text/javascript">
+try{
+	if (window.personmenu_init) personmenu_init(0);
+} catch(er) {}
+
+</script>
+
+<script language="JavaScript" type="text/javascript" src="http://de.adserver.yahoo.com/a?f=2022219890&amp;p=degames&amp;l=RS&amp;c=r"></script><script type="text/javascript">
+<!--
+var IVW="http://flickr.ivwbox.de/cgi-bin/ivw/CP/2022219890";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" alt=\"szmtag\" />");
+//-->
+</script><img src="http://flickr.ivwbox.de/cgi-bin/ivw/CP/2022219890?r=&amp;d=65855.36658955608" alt="szmtag" height="1" width="1"><noscript>
+<img src="http://flickr.ivwbox.de/cgi-bin/ivw/CP/2022219890" alt="szmtag" height="1" width="1">
+</noscript><img style="display: none;" alt="" src="http://row.bc.yahoo.com/b?P=gv1MPVf4eDAGQgIQSETp_AjFg60hCEhjVigADfyj&amp;T=144jv3pjg%2fX%3d1214469672%2fE%3d2022219890%2fR%3ddesite%2fK%3d5%2fV%3d8.1%2fW%3d0R%2fY%3dDE%2fF%3d2618072952%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3d4B78F857&amp;U=13m0afvk1%2fN%3dDE3qAVf4eEA-%2fC%3d200066141.201542389.202790549.201045994%2fD%3dRS%2fB%3d200713254%2fV%3d1" height="0" width="0"><script type="text/javascript">
+<!--
+var IVW="http://flickr.ivwbox.de/cgi-bin/ivw/CP/2022219890";
+document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" alt=\"szmtag\" />");
+//-->
+</script><img src="http://flickr.ivwbox.de/cgi-bin/ivw/CP/2022219890?r=&amp;d=2504.325032804" alt="szmtag" height="1" width="1"><img src="http://flickr.ivwbox.de/cgi-bin/ivw/CP/2022219890?r=&amp;d=47319.47791547868" alt="szmtag" height="1" width="1"><noscript><kw>
+<img src="http://flickr.ivwbox.de/cgi-bin/ivw/CP/2022219890" alt="szmtag" height="1" width="1">
+</kw></noscript><img style="display: none;" alt="" src="http://row.bc.yahoo.com/b?P=gv1MPVf4eDAGQgIQSETp_AjFg60hCEhjVigADfyj&amp;T=144jv3pjg%2fX%3d1214469672%2fE%3d2022219890%2fR%3ddesite%2fK%3d5%2fV%3d8.1%2fW%3d0R%2fY%3dDE%2fF%3d2618072952%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3d4B78F857&amp;U=13m0afvk1%2fN%3dDE3qAVf4eEA-%2fC%3d200066141.201542389.202790549.201045994%2fD%3dRS%2fB%3d200713254%2fV%3d1" height="0" width="0">
+			<noscript><kw>
+			<iframe src="http://de.adserver.yahoo.com/a?f=2022219890&p=degames&l=RS&c=h" marginwidth="0" marginheight="0" hspace="0" vspace="0" bordercolor="000000" height="1" frameborder="0" scrolling="no" width="1"></iframe>
+			</kw></noscript>
+
+
+<!-- page generated by www114 (in mud) at 07:24:42 06/24/08 in 445ms -->
+
+
+<script src="http://us.adserver.yahoo.com/a?f=792600146&amp;p=flickr&amp;l=FOOT9&amp;c=r"></script><!-- SpaceID=792600146 loc=FR001 noad -->
+ <!-- SpaceID=792600146 loc=SIP noad -->
+<img style="display: none;" alt="" src="http://us.bc.yahoo.com/b?P=7YtUPUwNBq4GQgIQSETp_A1ng60hCEhjVikABumm&amp;T=144q5vmbk%2fX%3d1214469673%2fE%3d792600146%2fR%3dflickr%2fK%3d5%2fV%3d8.1%2fW%3d0%2fY%3dYAHOO%2fF%3d492840453%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3d6D060D4C&amp;U=12brr4jgd%2fN%3dtT1zAEwNBls-%2fC%3d-1%2fD%3dSIP%2fB%3d-1%2fV%3d0" height="0" width="0"><!-- SpaceID=792600146 loc=FR001 noad -->
+ <!-- SpaceID=792600146 loc=SIP noad -->
+<img style="display: none;" alt="" src="http://us.bc.yahoo.com/b?P=7YtUPUwNBq4GQgIQSETp_A1ng60hCEhjVikABumm&amp;T=144q5vmbk%2fX%3d1214469673%2fE%3d792600146%2fR%3dflickr%2fK%3d5%2fV%3d8.1%2fW%3d0%2fY%3dYAHOO%2fF%3d492840453%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3d6D060D4C&amp;U=12brr4jgd%2fN%3dtT1zAEwNBls-%2fC%3d-1%2fD%3dSIP%2fB%3d-1%2fV%3d0" height="0" width="0">
+
+
+
+
+
+
+
+
+
+
+</body>

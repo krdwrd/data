@@ -1,0 +1,275 @@
+<head><base href="http://www.defenselink.mil/home/features/2007/1203_gates/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- InstanceBegin template="file:///Z|/defenselink2004/Templates/template_DL2.dwt" codeOutsideHTMLIsLocked="false" --><!-- InstanceBeginEditable name="page-title" --><title>DefenseLink Feature: Travels with Gates</title> 
+
+
+
+<meta name="PUB_DATE" content="2007-01-01">
+<meta name="last modified" content="2007-12-03"><!-- InstanceEndEditable -->
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Window-target" content="_top">
+<meta http-equiv="AUDIENCE" content="General">
+<meta http-equiv="Content-language" content="en-US">
+<meta http-equiv="LANGUAGE" content="English">
+<meta http-equiv="DIALECT" content="US">
+<meta name="TITLE" content="DefenseLINK - Official Web Site of the U.S. Department of Defense">
+<meta name="description" content="DefenseLink.mil - The official website of the United States Department of Defense, U.S. Department of Defense, DoD, Defense, Defence, Military">
+<meta name="keywords" content="DoD, U.S. Department of Defense, Department of Defense, Dept. of Defense, Defense Department, U.S. Defense Department, Defense, Defence, Defence Department, U.S., United States of America, United States, U.S.A., USA, Army, Navy, Air Force, Marines, Marine Corps., Coast Guard, USN, U.S.N., USAF, U.S.A.F., USMC, U.S.M.C., USCG, U.S.C.G., military, soldier, soldiers, peace, rebuilding, freedom, reconstruction, democracy, homeland, homeland defense, homeland defence, FAQ, Images, Military News, Pentagon, Photographs, Publications, Questions, Rumsfeld, Specials, Articles">
+<meta name="SUBJECT" content="DefenseLink Feature">
+<meta name="AREA" content="Defense">
+<meta name="ABSTRACT" content="DefenseLink Feature">
+<meta name="PLACENAME" content="Department of Defense, DoD">
+<meta name="author" content="OSD Web Group">
+<meta name="producers" content="OSD Web Group">
+<meta name="RATING" content="General">
+<meta name="robots" content="index">
+<meta name="REFRESH" content="300">
+<meta name="Comment-Form" content="/webmasters/">
+<meta name="revisit-after" content="30 days">
+<meta name="ROBOT" content="INDEX,FOLLOW">
+<link rel="P3Pv1" href="/w3c/p3p.xml">
+
+
+<link href="/ssi/style-homepage.css" rel="stylesheet" type="text/css">
+<link href="/ssi/home/style-homepage.css" rel="stylesheet" type="text/css">
+<link href="/home/features/ssi/home.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+.style21 {font-size: 9px}
+.style25 {font-size: 60px}
+</style>
+<script language="javascript">
+var dt = new Date();
+var months = new Array("Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec.");
+var theDate = months[dt.getMonth()] + ' ' + dt.getDate() + ', ' + dt.getFullYear();
+</script>
+<link rel="stylesheet" href="http://www.DefenseLink.mil/Style/home.css" type="text/css"><link rel="stylesheet" href="http://www.DefenseLink.mil/style/releases.css" type="text/css"></head><body leftmargin="0" topmargin="0" hspace="0" style="background-repeat: repeat-x;" alink="#000000" background="/Images/dlmainbkgd.jpg" bgcolor="#a1b0c7" text="#000000" vlink="#000000" link="#000000" marginheight="0" marginwidth="0">
+<center>
+  <table bgcolor="#475771" border="0" cellpadding="0" cellspacing="0" width="806">
+    <tbody><tr>
+      <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="99%">
+        <tbody><tr align="center" valign="top">
+          <td align="left"><img src="/home/images/spacer.gif" alt="" width="15" height="2"></td>
+        </tr>
+        <tr align="center">
+          <td><table border="0" cellpadding="0" cellspacing="0" width="98%">
+            <tbody><tr>
+              <td>
+              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr>
+                  <td valign="top"><!-- BEGIN SUBPAGE HEADER 800 -->
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tbody><tr bgcolor="#ffffff">
+	<td bgcolor="#151d28"><img src="/home/images/spacer.gif" alt="" width="1" height="1"></td>
+</tr>
+<tr>
+	<td align="left" valign="top" height="43">
+		<form id="searchForm" method="get" action="http://dodsearch.afis.osd.mil/search" style="margin: 0pt;">
+			<input name="btnG" value="Search" type="hidden">
+			<input name="output" value="xml_no_dtd" type="hidden">
+			<input name="ie" value="UTF-8" type="hidden">
+			<input name="oe" value="UTF-8" type="hidden">
+			<input name="client" value="defenselink" type="hidden">
+			<input name="proxystylesheet" value="defenselink" type="hidden">
+			<input name="site" value="defense_link" type="hidden">
+			<input name="numgm" value="5" type="hidden">
+			<input name="filter" value="0" type="hidden">
+			<input name="proxyreload" value="1" type="hidden">
+			<input name="sort" value="date:D:R:d1" type="hidden">
+				<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td><img src="/Images/spacer.gif" border="0" width="522" height="1"></td>
+					<td><img src="/Images/spacer.gif" border="0" width="146" height="1"></td>
+					<td><img src="/Images/spacer.gif" border="0" width="24" height="1"></td>
+					<td><img src="/Images/spacer.gif" border="0" width="114" height="1"></td>
+					<td><img src="/Images/spacer.gif" border="0" width="1" height="1"></td>
+				</tr>
+				<tr>
+					<td rowspan="2"><a href="http://www.defenselink.mil"><img name="DLHEAD_r1_c1" src="/Images/DLHEAD_r1_c1.jpg" border="0" width="522" height="43"></a></td>
+					<td colspan="3"><img name="DLHEAD_r1_c2" src="/Images/DLHEAD_r1_c2.jpg" border="0" width="284" height="22"></td>
+					<td><img src="spacer.gif" border="0" width="1" height="22"></td>
+				</tr>
+				<tr>
+					<td background="/Images/DLHEAD_r2_c2.jpg" width="146"><input name="q" class="SearchInput" size="24" type="text"></td>
+					<td><a href="javascript:searchForm.submit();"><img name="DLHEAD_r2_c3" src="/Images/DLHEAD_r2_c3.jpg" border="0" width="24" height="21"></a></td>
+					<td background="/Images/DLHEAD_r2_c4.jpg"><img src="spacer.gif" border="0" width="22" height="1"><img src="/Images/DHS-3-ElevatedYellow.gif"></td>
+					<td><img src="spacer.gif" border="0" width="1" height="21"></td>
+				</tr>
+				</tbody></table>
+		</form>
+	</td>
+</tr>
+<tr bgcolor="#ffffff">
+	<td><img src="/home/images/spacer.gif" alt="" width="1" height="1"></td>
+</tr>
+<tr bgcolor="#151d28" valign="middle">
+	<td align="center" height="20">
+		<table border="0" cellpadding="0" cellspacing="0" width="99%">
+		<tbody><tr align="center" valign="middle">
+			<td width="10%" height="14"><span><a title="Home" href="http://www.defenselink.mil/" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Home</kw></a></span></td>
+			<td width="12%"><span><a title="Top Leaders" href="http://www.defenselink.mil/osd/topleaders.aspx" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Top Leaders</kw></a></span></td>
+			<td width="8%"><span><a title="News" href="http://www.defenselink.mil/news/articles.aspx" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">News</kw></a></span></td>
+			<td width="8%"><span><a title="Press" href="http://www.defenselink.mil/news/" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Press</kw></a></span></td>
+			<td width="8%"><span><a title="Photos" href="http://www.defenselink.mil/home/features/2007/Imagery/index.html" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Photos</kw></a></span></td>
+			<td width="10%"><span><a title="Videos" href="http://www.pentagonchannel.mil/" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Videos</kw></a></span></td>
+			<td width="11%"><span><a title="Bloggers" href="http://www.defenselink.mil/Blogger/Blogger.aspx" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Bloggers</kw></a></span></td>
+			<td width="12%"><span><a title="Publications" href="http://www.defenselink.mil/pubs/" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Publications </kw></a></span></td>
+			<td width="10%"><span><a title="Websites" href="http://www.defenselink.mil/sites/" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Websites </kw></a></span></td>
+			<td class="MenuBottom" width="11%"><span><a title="Employee Resources" href="http://www.defenselink.mil/home/features/2007/EmpRes/index.html" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Employees</kw></a></span></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+<!-- END SUBPAGE HEADER 800 -->
+</td>
+                </tr>
+              </tbody></table>
+                </td>
+            </tr><tr>
+              <td><table border="0" cellpadding="2" cellspacing="2" width="100%">
+                <tbody><tr>
+                  <td><table bgcolor="#5a5e81" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr><!-- InstanceBeginEditable name="EditRegion1" --><td align="center" bgcolor="#ffffff" valign="top">
+					  <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody><tr>
+                          <td align="center" valign="top"><div style="margin-top: 5px;"><img src="images/ban_travelswithgatese.jpg" alt="Travels with Gates" width="788" height="77"></div>
+                          
+                         <!-- <div style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; line-height: 17px; width: 776; padding: 5px 5px 5px 5px; border-right: 1px solid black; border-left: 1px solid black;">Defense Secretary Robert M. Gates traveled to Ukraine, the Czech Republic, the Netherlands and Germany,<br />Oct. 20 to 25, to discuss security challenges with his counterparts and other senior leaders.</div> -->
+
+                          <div style="margin-top: 10px;"><a href="images/071205-F-6655M-324.jpg"></a><a href="images/071206-F-6655M-770.jpg"><img src="images/071206-F-6655M-770_sm.jpg" alt="Defense Secretary Robert M. Gates talks with sailors onboard the USS Vicksburg ported in Bahrain, Dec. 6, 2007.  Gates is in the region to discuss defense issues and recieve updates from commanders." style="border: 1px solid black;" width="788" height="388"></a><span style="padding: 7px 11px 7px 7px; background-color: rgb(222, 222, 222); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: rgb(0, 0, 0); font-family: Arial,Helvetica,sans-serif; font-size: 11px; line-height: 15px; display: block; width: 770px; text-align: left;"><kw class="krdwrd-tag-2">Defense Secretary Robert M. Gates talks with sailors onboard the USS Vicksburg ported in Bahrain, Dec. 6, 2007.  Gates is in the region to discuss defense issues and recieve updates from commanders.
+ </kw><span style="font-style: italic;"><kw class="krdwrd-tag-1">Defense Dept. photo by U.S. Air Force Tech. Sgt. Jerry Morrison</kw></span><kw class="krdwrd-tag-1"> | </kw><a href="images/071206-F-6655M-770.jpg"><kw class="krdwrd-tag-1">Hi-res Photo</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.defenselink.mil/PhotoEssays/PhotoEssaySS.aspx?ID=537"><kw class="krdwrd-tag-1">Photo Essay</kw></a></span></div>
+                          
+                          <div style="margin: 0pt auto; width: 100%;">
+                          
+                          <div style="padding: 0pt 0pt 15px 5px; width: 370px; float: left; background-color: rgb(255, 255, 255);">
+
+<img src="images/ban_iraqd.jpg" alt="Iraq" style="border: 1px solid black; margin: 10px 0pt 5px;" width="368" height="30">      
+<p style="margin: 0pt 0pt 12px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Gates Sees Iraq Progress, Need for Political Action</kw></span><br>
+<a href="images/071205-F-6655M-145.jpg"><img src="images/071205-F-6655M-145_sm.jpg" alt="Defense Secretary Robert Gates greets local leaders in Mosul, Iraq during a recent trip to Iraq's 3rd largest city, Dec. 5, 2007." style="border: 1px solid black; margin: 5px 7px 2px 0pt; float: left;" width="160" height="79"></a><kw class="krdwrd-tag-3">Defense Secretary Robert M. Gates said the broad perspectives he�s received in Iraq over the last two days have convinced him Iraq is on the right track. </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48338" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.defenselink.mil/dodcmsshare/photoessay/2007-12/071205-F-6655M-030b.jpg" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Photos</kw></a></p>
+     
+<p style="margin: 0pt 0pt 12px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Gates Seeks to Build on Positive Momentum in Iraq</kw></span><br>
+<a href="images/071205-F-6655M-152.jpg"><img src="images/071205-F-6655M-152_sm.jpg" alt="Defense Secretary Robert Gates meets with local leaders in Mosul, Iraq during a recent trip to Iraq's 3rd largest city, Dec. 5, 2007." style="border: 1px solid black; margin: 5px 0pt 2px 7px; float: right;" width="160" height="79"></a><kw class="krdwrd-tag-3">Defense Secretary Robert M. Gates talked with Iraqi leaders and U.S. commanders in Iraq to explore ways to maintain and build on recent momentum.  </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48327" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p>
+
+<p style="margin: 0pt 0pt 12px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Commanders Urge Vigilance, Say Strategy Working</kw></span><br><kw class="krdwrd-tag-3">
+Field commanders deployed throughout Iraq gathered in Baghdad to tell Defense Secretary Robert M. Gates that the U.S. strategy in Iraq is working and to urge vigilance in seeing it through.  </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48329" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p>
+
+<img src="images/ban_afghanistan2d.jpg" alt="Afghanistan" style="border: 1px solid black; margin: 0pt 0pt 5px;" width="368" height="30">    
+<p style="margin: 0pt 0pt 12px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Defense Secretary Sees Gains in Afghan Province</kw></span><br>
+<a href="images/071204-F-6655M-018.jpg"><img src="images/071204-F-6655M-018_smb.jpg" alt="Defense Secretary Robert M. Gates and Afghan President Hamid Karzai" style="border: 1px solid black; margin: 5px 0pt 2px 7px; float: right;" width="160" height="100"></a><span id="_ctl15_dlHeadlines__ctl2_ucHeadline_lblBlurb"><kw class="krdwrd-tag-3">Defense Secretary Robert M. Gates visited Afghanistan’s Khowst province to see firsthand “a model of   concerted counterinsurgency effort, the synergy that comes from an integration   of ‘hard’ and ‘soft’ powers.” </kw></span><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48314" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p>
+
+<p style="margin: 0pt 0pt 12px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Gates Praises Afghan Efforts to Defeat Taliban</kw></span><br>
+<a href="images/071204-F-6655M-021.jpg"><img src="images/071204-F-6655M-021_smb.jpg" alt="Afghan forces train on AK-47 laser sights at the Kabul Military Training Center" style="border: 1px solid black; margin: 5px 7px 2px 0pt; float: left;" width="160" height="78"></a><kw class="krdwrd-tag-3">Defense Secretary Robert M. Gates reaffirmed U.S. support for Afghanistan and said he continues to press coalition partners to live up to their commitments there.  </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48319" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p>
+
+<p style="margin: 0pt 0pt 12px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Gates Visits Afghanistan To Assess Conditions</kw></span><br>
+<a href="images/071204-F-6655M-002.jpg"><img src="images/071204-F-6655M-002_smb.jpg" alt="Defense Secretary Robert M. Gates and ISAF Commander Gen. McNeil discuss defense issues" style="border: 1px solid black; margin: 5px 0pt 2px 7px; float: right;" width="119" height="70"></a><kw class="krdwrd-tag-3">Defense Secretary Robert M. Gates arrived in Afghanistan to get a face-to-face assessment from commanders about conditions on the ground, particularly in the volatile southern region. </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48294" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p>
+
+<img src="images/ban_dji_368.jpg" alt="Djibouti" style="border: 1px solid black; margin: 0pt 0pt 5px;" width="368" height="30">      
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left; margin-top: 0pt;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Gates Draws Lessons From Djibouti Experience</kw></span><br>
+<a href="images/071203-F-6655M-073.jpg"><img src="images/071203-F-6655M-073_smb.jpg" alt="Defense Secretary Robert M. Gates visits with Djiboutian President Ismail Omar Guelleh" style="border: 1px solid black; margin: 7px 7px 2px 0pt; float: left;" width="160" height="110"></a><kw class="krdwrd-tag-3">Defense Secretary Robert M. Gates traveled to Djibouti to see firsthand how combining multiple elements of U.S. national power toward a common goal is helping to prevent terrorism from taking a foothold in the Horn of Africa.  </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48292" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p>
+</div>
+
+<div style="padding: 0pt 6px 15px 0pt; width: 395px; float: right; background-color: rgb(255, 255, 255);">
+
+<img src="images/ban_bahrain.jpg" alt="Bahrain" style="border: 1px solid black; margin: 10px 0pt 5px;" width="393" height="30"> 
+<p style="margin: 0pt 0pt 2px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Gates Urges Gulf Nations To Keep Pressure on Iran</kw></span><br>
+<a href="images/scr_071208-F-6655M-104.jpg"><img src="images/scr_071208-F-6655M-104_sm.jpg" alt="Defense Secretary Robert M. Gates gives an opening speech during the Manama Dialogue security conference" style="border: 1px solid black; margin: 5px 7px 2px 0pt; float: left;" width="160" height="70"></a><kw class="krdwrd-tag-3">
+Defense Secretary Robert M. Gates called on the international community to keep up its pressure on Iran.</kw><br><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48364" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.defenselink.mil/speeches/speech.aspx?speechid=1201" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Transcript</kw></a><!-- | <a href="http://dodvclips.mil/index.jsp?fr_story=FRdamp232602&rf=rss" style="color: #0000FF;">Video</a> --></p><br clear="all">
+
+<p style="margin: 0pt 0pt 10px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Arab World Must Support Iraqi Progress, Gates Says</kw></span><br><kw class="krdwrd-tag-3">
+Iraq�s neighbors must help the country succeed as a peaceful, stabilizing force in the region, Defense Secretary Robert M. Gates</kw><br><kw class="krdwrd-tag-3">said. </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48365" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p>
+
+<p style="margin: 0pt 0pt 10px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Gates Cites Cooperation As Critical to Gulf Security</kw></span><br><kw class="krdwrd-tag-3">
+Defense Secretary Robert M. Gates pressed for multilateral cooperation to better protect the Persian Gulf region from destabilizing forces. </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48366" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p>
+
+<p style="margin: 0pt 0pt 10px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Defense Secretary to Seek More Cooperation at Summit</kw></span><br>
+<a href="images/071206-F-6655M-916a.jpg"><img src="images/071206-F-6655M-916a_sm.jpg" alt="Defense Secretary Robert M. Gates is welcomed to Bahrain by Crown Prince His Majesty Hamad bin Al-Khalifa" style="border: 1px solid black; margin: 5px 7px 2px 0pt; float: left;" width="160" height="81"></a><kw class="krdwrd-tag-3">
+Defense Secretary Robert M. Gates will encourage closer cooperation to promote security in the Persian Gulf region at the fourth annual Manama Dialogue in Bahrain. </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48352" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.defenselink.mil/PhotoEssays/PhotoEssaySS.aspx?ID=537"><kw class="krdwrd-tag-1">Photos</kw></a></p>
+     
+<p style="margin: 0pt 0pt 10px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Gates Appraises Maritime Contribution to Gulf Security</kw></span><br><kw class="krdwrd-tag-3">
+Defense Secretary Robert M. Gates commemorated a historic date in U.S. naval history -- Pearl Harbor Day -- at U.S. Naval Forces Central Command headquarters in Bahrain.  </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48350" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p>
+     
+<p style="margin: 0pt 0pt 10px; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 17px; text-align: left;">
+<span style="font-size: 14px; font-weight: bold; margin-bottom: 3px;"><kw class="krdwrd-tag-2">Defense Secretary Tours USS Vicksburg in Bahrain</kw></span><br>
+<a href="images/071206-F-6655M-822a.jpg"><img src="images/071206-F-6655M-822a_sm.jpg" alt="Defense Secretary Robert M. Gates walks aboard the USS Vicksburg" style="border: 1px solid black; margin: 5px 0pt 0pt 7px; float: right;" width="139" height="80"></a><kw class="krdwrd-tag-3">
+Defense Secretary Robert M. Gates visited the USS Vicksburg in Bahrain to tour the vessel, meet its crew and thank them for their service in the Persian Gulf region.  </kw><a href="http://www.defenselink.mil/news/newsarticle.aspx?id=48340" style="color: rgb(0, 0, 255);"><kw class="krdwrd-tag-1">Story</kw></a></p><br clear="all">
+
+<div style="margin-top: 10px;"><div style="margin: 0pt; padding: 0pt;"><img src="images/ban_photoessay.jpg" alt="Photo Highlight" style="border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;" width="393"></div><a href="images/071206-F-6655M-911a.jpg" style="color: rgb(0, 0, 0);"><img src="images/071206-F-6655M-911a_sm.jpg" alt="Defense Secretary Robert M. Gates walks with Crown Prince His Majesty Hamad bin Al-Khalifa in Bahrain" style="border: 1px solid black;" width="393" height="261"></a><span style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; padding: 7px 11px 7px 7px; background-color: rgb(222, 222, 222); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: rgb(0, 0, 0); font-family: Arial,Helvetica,sans-serif; font-size: 11px; line-height: 15px; display: block; width: 375px; text-align: left;"><kw class="krdwrd-tag-3">Defense Secretary Robert M. Gates walks with Crown Prince His Majesty Hamad bin Al-Khalifa in Bahrain while on a visit to Southwest Asia, Dec. 6, 2007. Gates is in the region to discuss defense issues and recieve updates from commanders. </kw><span style="font-style: italic;"><kw class="krdwrd-tag-1">Defense Dept. photo by U.S. Air Force Tech. Sgt. Jerry Morrison</kw></span> &nbsp;&nbsp;<a href="images/071206-F-6655M-911a.jpg" style="color: rgb(0, 0, 0);"><kw class="krdwrd-tag-1">Hi-res Photo</kw></a><kw class="krdwrd-tag-1"> | Photo Essays: </kw><a href="http://www.defenselink.mil/photoessays/photoessaySS.aspx?id=535"><kw class="krdwrd-tag-1">Afghanistan</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.defenselink.mil/photoessays/photoessaySS.aspx?id=536"><kw class="krdwrd-tag-1">Iraq</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.defenselink.mil/PhotoEssays/PhotoEssaySS.aspx?ID=537"><kw class="krdwrd-tag-1">Iraq/Bahrain</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.defenselink.mil/PhotoEssays/PhotoEssaySS.aspx?ID=539"><kw class="krdwrd-tag-1">Vicksburg</kw></a></span></div>
+
+<!-- <table style="width: 100%; margin: 15px 0 0 0; padding: 0;" cellpadding="0" cellspacing="0">
+<th style="margin: 0; padding: 4px 0 4px 8px; color: #fff; background: #666; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 16px; text-align: left; border-top: 1px solid #000; border-right: 1px solid #000; border-bottom: 1px solid #000;border-left: 1px solid #000;" colspan="2">Recent Photo Essays</th>
+<tr>
+<td style="width: 17%; margin: 0; padding: 3px 0 3px 8px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left; border-right: 1px solid #000; border-bottom: 1px solid #000; border-left: 1px solid #000;">12/07/07</td>
+<td style="width: 83%; margin: 0; padding: 3px 0 3px 8px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left; border-right: 1px solid #000; border-bottom: 1px solid #000;"><a href="http://www.defenselink.mil/PhotoEssays/PhotoEssaySS.aspx?ID=539" style="color: #00f;">Gates Tours the USS Vicksburg</a></td>
+</tr>
+<tr style="background: #dedede;">
+<td style="width: 17%; margin: 0; padding: 3px 0 3px 8px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left; border-right: 1px solid #000; border-bottom: 1px solid #000; border-left: 1px solid #000;">12/07/07</td>
+<td style="width: 83%; margin: 0; padding: 3px 0 3px 8px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left; border-right: 1px solid #000; border-bottom: 1px solid #000;"><a href="http://www.defenselink.mil/PhotoEssays/PhotoEssaySS.aspx?ID=537" style="color: #00f;">Gates Visits Iraq, Bahrain</a></td>
+</tr>
+<tr>
+<td style="width: 17%; margin: 0; padding: 3px 0 3px 8px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left; border-right: 1px solid #000; border-bottom: 1px solid #000; border-left: 1px solid #000;">12/06/07</td>
+<td style="width: 83%; margin: 0; padding: 3px 0 3px 8px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left; border-right: 1px solid #000; border-bottom: 1px solid #000;"><a href="http://www.defenselink.mil/photoessays/photoessaySS.aspx?id=536" style="color: #00f;">Gates Heads to Iraq</a></td>
+</tr>
+<tr style="background: #dedede;">
+<td style="width: 17%; margin: 0; padding: 3px 0 3px 8px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left;border-right: 1px solid #000; border-bottom: 1px solid #000; border-left: 1px solid #000;">12/04/07</td>
+<td style="width: 83%; margin: 0; padding: 3px 0 3px 8px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left;border-right: 1px solid #000; border-bottom: 1px solid #000;"><a href="http://www.defenselink.mil/photoessays/photoessaySS.aspx?id=535" style="color: #00f;">Gates Tours Afghanistan</a></td>
+</tr>
+</table> -->
+</div>
+</div>                          </td>
+                        </tr>
+                      </tbody></table>
+					  </td><!-- InstanceEndEditable -->
+					  </tr>
+                  </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+            </tr><tr>
+              <td><table bgcolor="#000000" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr bgcolor="#ffffff">
+	<td colspan="11"><img src="/home/images/spacer.gif" alt="" width="1" height="1"></td>
+</tr>
+<tr align="center" valign="middle">
+	<td><a title="About DefenseLink.mil" href="http://www.defenselink.mil/admin/about.html" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">About Defenselink</kw></a></td>
+	<td width="12">&nbsp;</td>
+	<td class="MenuBottom"><a title="Publications" href="http://www.defenselink.mil/pubs/" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Publications</kw></a></td>
+	<td width="12">&nbsp;</td>
+	<td class="MenuBottom"><a title="Privacy Policy" href="http://www.defenselink.mil/warning/warn-dl.html" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Privacy Policy</kw></a></td>
+	<td width="12">&nbsp;</td>
+	<td class="MenuBottom"><a title="External Link Disclaimer" href="http://www.defenselink.mil/admin/about.html#Disclaimer" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">External Link Disclaimer</kw></a></td>
+	<td width="12">&nbsp;</td>
+	<td class="MenuBottom"><a title="Web Policy" href="http://www.defenselink.mil/webmasters/" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Web Policy </kw></a></td>
+	<td width="12">&nbsp;</td>
+	<td class="MenuBottom"><a title="Site Map" href="http://www.defenselink.mil/sitemap.html" class="MoreNews3bold" target="_parent"><kw class="krdwrd-tag-1">Site Map </kw></a></td>
+</tr>
+<tr bgcolor="#ffffff">
+	<td colspan="11"><img src="/home/images/spacer.gif" alt="" width="1" height="1"></td>
+</tr>
+</tbody></table>
+</td>
+            </tr></tbody></table>            </td>
+        </tr>
+      </tbody></table>        
+        <!-- STARTNAV -->
+      <!-- ENDNAV --></td>
+    </tr>
+</tbody></table>
+<!-- END BODY -->
+</center>
+
+
+<!-- InstanceEnd --></body>

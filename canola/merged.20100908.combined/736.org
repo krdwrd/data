@@ -1,0 +1,404 @@
+<head profile="http://gmpg.org/xfn/11">
+
+
+
+
+
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-172369-2";
+urchinTracker();
+</script><title>Google on Africa | White African</title>
+
+
+
+<meta name="generator" content="WordPress 2.5.1"><!-- leave this for stats --> 
+
+<link rel="stylesheet" href="http://whiteafrican.com/wp-content/themes/Cutline/style.css" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="White African RSS Feed" href="http://whiteafrican.com/?feed=rss2">
+<link rel="pingback" href="http://whiteafrican.com/xmlrpc.php">
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://whiteafrican.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://whiteafrican.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 2.5.1">
+
+<style type="text/css" media="screen">
+
+/* Begin Contact Form CSS */
+.contactform {
+	position: static;
+	overflow: hidden;
+}
+
+.contactleft {
+	width: 25%;
+	text-align: right;
+	clear: both;
+	float: left;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contactright {
+	width: 70%;
+	text-align: left;
+	float: right;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contacterror {
+	border: 1px solid #ff0000;
+}
+
+.contactsubmit {
+}
+/* End Contact Form CSS */
+
+	</style>
+
+
+<script src="/mint/?js" type="text/javascript"></script><script src="http://whiteafrican.com/mint/?record&amp;key=324156466a35736a35333133344e633132545731416b71&amp;referer=&amp;resource=http%3A//whiteafrican.com/%3Fp%3D143&amp;resource_title=Google%20on%20Africa%20%7C%20White%20African&amp;resource_title_encoded=0&amp;resolution=1024x768&amp;flash_version=0&amp;window_width=1024&amp;window_height=1&amp;1214825279167&amp;serve_js" type="text/javascript"></script></head><body>
+
+<div id="container">
+
+	<div id="masthead"><h1><a href="http://whiteafrican.com"><kw class="krdwrd-tag-2">White African</kw></a></h1></div>
+
+	<ul id="nav">
+
+<li class="page_item"><a href="http://whiteafrican.com/" title="Home: White African"><kw class="krdwrd-tag-1">Home</kw></a></li>
+
+<li class="page_item"><a href="http://whiteafrican.com/?page_id=280"><kw class="krdwrd-tag-1">ABOUT</kw></a></li>
+<li class="page_item"><a href="http://whiteafrican.com/?page_id=343"><kw class="krdwrd-tag-1">CONTACT</kw></a></li>
+<li class="page_item"><a href="http://www.afrigadget.com"><kw class="krdwrd-tag-1">AfriGadget</kw></a></li>
+<li class="page_item"><a href="http://whiteafrican.com/?page_id=7"><kw class="krdwrd-tag-1">QUOTES</kw></a></li>
+
+
+
+<li class="page_item rss"><a href="http://whiteafrican.com/?feed=rss2"><kw class="krdwrd-tag-1">RSS</kw></a></li>
+
+
+
+	</ul>
+	
+	<div id="header_img">
+				<img src="http://whiteafrican.com/wp-content/themes/Cutline/images/header_2.jpg" alt="White African header image 2" width="770" height="140">
+			</div>
+	<div id="content_box">
+		
+		<div id="content" class="posts">
+			
+					
+			
+<div class="navigation">
+	<span class="previous"><kw class="krdwrd-tag-1">← </kw><a href="http://whiteafrican.com/?p=144"><kw class="krdwrd-tag-1">Advertise Your Blog in the AFRICA Tag</kw></a></span>
+	<span class="next"><a href="http://whiteafrican.com/?p=146"><kw class="krdwrd-tag-1">Sponsor a Goat in Africa</kw></a><kw class="krdwrd-tag-1"> →</kw></span>
+</div>
+<div class="clear"></div>
+
+			
+			<h2><kw class="krdwrd-tag-2">Google on Africa</kw></h2>
+
+<script src="http://feeds.feedburner.com/%7Es/white_african?i=http://whiteafrican.com/?p=143" type="text/javascript" charset="utf-8"></script><script type="text/javascript" charset="utf-8" src="http://feeds.feedburner.com/%7Ed/static/site-tracker.js"></script><script type="text/javascript" charset="utf-8" src="http://feeds.feedburner.com/%7Ed/static/site-tracker.js"></script>
+
+			<h4><kw class="krdwrd-tag-1">January 13th, 2006</kw><!-- by HASH --><kw class="krdwrd-tag-1"> · </kw><a href="http://whiteafrican.com/?p=143#comments"><kw class="krdwrd-tag-1">5 Comments</kw></a></h4>
+			<div class="entry">
+				<blockquote><p><kw class="krdwrd-tag-1">“Let me switch gears and talk about a very serious issue.  There’s about 15 percent of the world on the Internet.  If you look at a picture of the Earth from space at night .. wherever you see light there’s Internet, and  there’s people using Google  (Africa is dark)  I think this is really sad, something to work on … one of the initiatives is this $100 computer we’ve been working on with MIT  … I think it’s an important thing to get people greater access.</kw><br><kw class="krdwrd-tag-1">
+    -  Larry Page, Google Founder, at CES January 2006</kw><br><kw class="krdwrd-tag-1">
+      (from </kw><a href="http://www.engadget.com/2006/01/06/live-coverage-of-the-google-keynote/"><kw class="krdwrd-tag-1">Engadget</kw></a><kw class="krdwrd-tag-1"> live at CES)</kw></p></blockquote>
+<p></p><center><a href="http://www.engadget.com/2006/01/06/live-coverage-of-the-google-keynote/"><img src="/wp-content/larry_page_CES.JPG" alt="Larry Page Covering the $100 Laptop at CES 2006" title="Larry Page Covering the $100 Laptop at CES 2006" width="425" height="283"></a></center>
+<p><kw class="krdwrd-tag-3">I’ve already covered the $100 computer </kw><a href="http://whiteafrican.com/?p=79"><kw class="krdwrd-tag-1">here</kw></a><kw class="krdwrd-tag-3"> and </kw><a href="http://whiteafrican.com/?p=117"><kw class="krdwrd-tag-1">here</kw></a><kw class="krdwrd-tag-3">.  If Larry is willing to take any time out of such a high-level keynote to talk about the problem, there’s hope that something will be done.  I’m interested in seeing what our boys at Google, AMD and other corporate sponsors can come up with.</kw></p>
+<p><kw class="krdwrd-tag-3">I sat and watched the </kw><a href="http://video.google.com/videoplay?docid=-594779305713074829&amp;q=google+ces+keynote"><kw class="krdwrd-tag-3">keynote (video)</kw></a><kw class="krdwrd-tag-3"> given by Larry at CES too.  Not nearly as powerful as a Steve Jobs presentation, but still worth  watching.</kw></p>
+							</div>
+			<p class="tagged"><strong><kw class="krdwrd-tag-1">Tags:</kw></strong> <a href="http://whiteafrican.com/?cat=1" title="View all posts in Africa" rel="category"><kw class="krdwrd-tag-1">Africa</kw></a><kw class="krdwrd-tag-1"> ·  </kw><a href="http://whiteafrican.com/?cat=4" title="View all posts in Gadgets" rel="category"><kw class="krdwrd-tag-1">Gadgets</kw></a></p>
+			
+			
+<!-- You can start editing here. -->
+
+
+<div id="comments">
+
+	<h3 class="comments_headers"><kw class="krdwrd-tag-1">5 responses so far ↓</kw></h3>
+	
+	<ul id="comment_list">
+
+	
+			
+		<li class="comment" id="comment-383">
+			<a name="comment-383"></a>
+			<p class="comment_meta">
+				<strong><a href="http://blog.uhuru.de" rel="external nofollow"><kw class="krdwrd-tag-1">JKE</kw></a> </strong>
+				<span class="comment_time"><kw class="krdwrd-tag-1">// </kw><a href="#comment-383" alt="Permalink to this comment"><kw class="krdwrd-tag-1">Jan 15, 2006 at 8:42 am</kw></a></span>
+			</p>
+			<div class="entry">
+				<p><kw class="krdwrd-tag-3">“Thanks for your interest in Google Video.</kw></p>
+<p><kw class="krdwrd-tag-3">Currently, the playback feature of Google Video isn’t available in your country.</kw></p>
+<p><kw class="krdwrd-tag-3">We hope to make this feature available more widely in the future, and we really appreciate your patience. ”</kw></p>
+<p><kw class="krdwrd-tag-1">=&gt; Welcome to good old Europe ;-(</kw></p>
+ 
+							</div>
+		</li>
+		
+			
+		<li class="comment" id="comment-384">
+			<a name="comment-384"></a>
+			<p class="comment_meta">
+				<strong><a href="http://www.whiteafrican.com" rel="external nofollow"><kw class="krdwrd-tag-1">HASH</kw></a> </strong>
+				<span class="comment_time"><kw class="krdwrd-tag-1">// </kw><a href="#comment-384" alt="Permalink to this comment"><kw class="krdwrd-tag-1">Jan 15, 2006 at 8:47 am</kw></a></span>
+			</p>
+			<div class="entry">
+				<p><kw class="krdwrd-tag-3">Are you kidding me?  I wonder why - are their European servers not up to it?</kw></p>
+ 
+							</div>
+		</li>
+		
+			
+		<li class="comment" id="comment-385">
+			<a name="comment-385"></a>
+			<p class="comment_meta">
+				<strong><a href="http://blog.uhuru.de" rel="external nofollow"><kw class="krdwrd-tag-1">JKE</kw></a> </strong>
+				<span class="comment_time"><kw class="krdwrd-tag-1">// </kw><a href="#comment-385" alt="Permalink to this comment"><kw class="krdwrd-tag-1">Jan 15, 2006 at 11:59 am</kw></a></span>
+			</p>
+			<div class="entry">
+				<p><kw class="krdwrd-tag-3">Sijui, all it says is that message. Yani, I tried this the other day as well (Google Video) and it delivered the same message.</kw></p>
+ 
+							</div>
+		</li>
+		
+			
+		<li class="comment" id="comment-432">
+			<a name="comment-432"></a>
+			<p class="comment_meta">
+				<strong><a href="http://blog.uhuru.de" rel="external nofollow"><kw class="krdwrd-tag-1">JKE</kw></a> </strong>
+				<span class="comment_time"><kw class="krdwrd-tag-1">// </kw><a href="#comment-432" alt="Permalink to this comment"><kw class="krdwrd-tag-1">Jan 28, 2006 at 12:52 pm</kw></a></span>
+			</p>
+			<div class="entry">
+				<p><kw class="krdwrd-tag-3">The only work-around for watching Google Videos here in Ujerumani is to paste the video URL into Google and hit the “translate this” link. For some strange reasons, this works.</kw></p>
+ 
+							</div>
+		</li>
+		
+			
+		<li class="comment trackback" id="comment-628">
+			<a name="comment-628"></a>
+			<p class="comment_meta">
+				<strong><a href="http://whiteafrican.com/?p=182" rel="external nofollow"><kw class="krdwrd-tag-1">White African :: a white african’s view of the world » Blog Archive » The Dark Continent: It’s Still Dark</kw></a> </strong>
+				<span class="comment_time"><kw class="krdwrd-tag-1">// </kw><a href="#comment-628" alt="Permalink to this comment"><kw class="krdwrd-tag-1">Mar 2, 2006 at 10:40 am</kw></a></span>
+			</p>
+			<div class="entry">
+				<p><kw class="krdwrd-tag-3">[...] Even Google is concerned, the number of searches from Africa compared (again) to the rest of the world is miniscule. (I apologize for not being able to get a larger and more up-to-date image, this is from 2003) [...]</kw></p>
+ 
+							</div>
+		</li>
+		
+			
+	</ul>
+		
+	
+
+	<!-- Comment Form -->
+		
+		
+			<h3 id="respond" class="comments_headers"><kw class="krdwrd-tag-1">Leave a Comment</kw></h3>
+			<form action="http://whiteafrican.com/wp-comments-post.php" method="post" id="comment_form">
+			
+										<p><input class="text_input" name="author" id="author" value="" tabindex="1" type="text"><label for="author"><strong><kw class="krdwrd-tag-1">Name</kw></strong></label></p>
+				<p><input class="text_input" name="email" id="email" value="" tabindex="2" type="text"><label for="email"><strong><kw class="krdwrd-tag-1">Mail</kw></strong></label></p>
+				<p><input class="text_input" name="url" id="url" value="" tabindex="3" type="text"><label for="url"><strong><kw class="krdwrd-tag-1">Website</kw></strong></label></p>
+							<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+			
+				<p><textarea class="text_input text_area" name="comment" id="comment" rows="7" tabindex="4"></textarea></p>
+			
+				
+
+	<p style="clear: both;" class="subscribe-to-comments">
+        <input name="subscribe" id="subscribe" value="subscribe" style="width: auto;" type="checkbox">
+        <label for="subscribe"><kw class="krdwrd-tag-1">Notify me of followup comments via e-mail</kw></label>
+	</p>
+
+
+			
+				<p>
+					<input name="submit" class="form_submit" id="submit" src="http://whiteafrican.com/wp-content/themes/Cutline/images/submit_comment.gif" tabindex="5" value="Submit" type="submit">
+					<input name="comment_post_ID" value="143" type="hidden">
+				</p>
+		
+				<input id="sk2_my_js_check1" name="sk2_my_js_check1" value="e6nyhleu09" type="hidden">
+<input id="sk2_my_js_check2" name="sk2_my_js_check2" value="5a8e5ae8cc8e72874532822af25d94ee" type="hidden">
+<script type="text/javascript">
+<!--
+	document.write('<input type="hidden" id="sk2_my_js_payload" name="sk2_my_js_payload" value="');
+	document.write(Math.round ( Math.abs(((Math.round ( Math.abs(Math.round ( Math.abs(Math.round ( Math.abs(Math.round ( Math.abs(Math.min(Math.round ( Math.abs((1 + Math.round( Math.abs(100*Math.sin(37)) ) ) % 39)), 21) % 11)) / 25)) % 4)) / 24)) * 2) + 6))));
+	document.write('" />');
+-->
+</script><input id="sk2_my_js_payload" name="sk2_my_js_payload" value="6" type="hidden"><input id="sk2_my_js_payload" name="sk2_my_js_payload" value="6" type="hidden">
+<input id="sk2_time" name="sk2_time" value="1214313551" type="hidden"><input id="sk2_ip" name="sk2_ip" value="131.173.33.8" type="hidden"><input id="sk2_payload" name="sk2_payload" value="3e6fcea1b0d133fd1b5d95545e54a026" type="hidden">	
+			</form>
+
+		
+</div> <!-- Close #comments container -->
+<div class="clear"></div>
+			
+				
+		</div>
+		
+		<div id="sidebar">
+
+
+
+	<ul class="sidebar_list">
+
+<center><a href="http://www.ushahidi.com"><img src="http://whiteafrican.com/wp-content/uploads/2008/01/ushahidi_v1d_200px.jpg" alt="Ushahidi - Report acts of violence in Kenya"></a></center>
+<br>
+
+
+
+<li class="widget">
+<h2><kw class="krdwrd-tag-1">Blog Feed</kw></h2>
+
+<center>
+<a href="http://feeds.feedburner.com/white_african" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="border: 0pt none;"></a><br><a href="http://feeds.feedburner.com/white_african" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><kw class="krdwrd-tag-1">Subscribe in a reader</kw></a></center>
+
+
+		</li><li class="widget">
+<h2><kw class="krdwrd-tag-1">Email Signup</kw></h2>
+<a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=93624"><img src="http://whiteafrican.com/wp-content/themes/Cutline/images/whiteafrican_email.jpg"></a>
+<form style="border: 1px solid rgb(204, 204, 204); padding: 3px; text-align: center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p><kw class="krdwrd-tag-1">Enter your email address:</kw></p><p><input style="width: 140px;" name="email" type="text"></p><input value="http://feeds.feedburner.com/~e?ffid=93624" name="url" type="hidden"><input value="White African" name="title" type="hidden"><input value="Subscribe" type="submit"><p><kw class="krdwrd-tag-1">Delivered by </kw><a href="http://www.feedburner.com" target="_blank"><kw class="krdwrd-tag-1">FeedBurner</kw></a></p></form>
+
+				</li><li class="widget">
+			<h2><kw class="krdwrd-tag-1">Search It!</kw></h2>
+			<form method="get" id="search_form" action="http://whiteafrican.com/">
+	<input class="search_input" value="To search, type and hit enter" name="s" id="s" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}" type="text">
+	<input id="searchsubmit" value="Search" type="hidden">
+</form>
+		</li>
+<li class="widget">
+<h2><kw class="krdwrd-tag-1">Recent Comments</kw></h2>
+
+<ul>
+	<li><a href="http://whiteafrican.com/?p=1066#comment-107808" title="Steve Mutinda: Brains, Initiative and J2ME Skills, June 19, 2008"><kw class="krdwrd-tag-1">Kamochu Samuel</kw></a><kw class="krdwrd-tag-1">: Great idea Steve. Keep it up.</kw></li>
+	<li><a href="http://whiteafrican.com/?p=1100#comment-107806" title="Barcamp Nairobi '08 - Final Recap, June 24, 2008"><kw class="krdwrd-tag-1">Kenyan Poet</kw></a><kw class="krdwrd-tag-1">: Yeah, me :-( How could you!! (tehehehe)</kw></li>
+	<li><a href="http://whiteafrican.com/?p=1100#comment-107805" title="Barcamp Nairobi '08 - Final Recap, June 24, 2008"><kw class="krdwrd-tag-1">Peperuka</kw></a><kw class="krdwrd-tag-1">: Nice round-up WhiteAfrican... My blog is in French so not really useful for Kenyan bloggers... I think a...</kw></li>
+	<li><a href="http://whiteafrican.com/?p=1100#comment-107797" title="Barcamp Nairobi '08 - Final Recap, June 24, 2008"><kw class="krdwrd-tag-1">egm</kw></a><kw class="krdwrd-tag-1">: A great conference indeed. I'll have my pictures up on Flickr today. And yup, you missed me :)</kw></li>
+	<li><a href="http://whiteafrican.com/?p=1100#comment-107794" title="Barcamp Nairobi '08 - Final Recap, June 24, 2008"><kw class="krdwrd-tag-1">bankelele</kw></a><kw class="krdwrd-tag-1">: nice round-up. i need to work on my round-up, but am so busy now</kw></li>
+</ul>
+
+</li>
+
+
+   
+		<li class="widget">
+			<h2><kw class="krdwrd-tag-1">Recent Entries</kw></h2>
+			<ul>
+												<li><a href="http://whiteafrican.com/?p=1100"><kw class="krdwrd-tag-1">Barcamp Nairobi ‘08 - Final Recap</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.24</kw></span></li>
+								<li><a href="http://whiteafrican.com/?p=1090"><kw class="krdwrd-tag-1">Kenya 31, South Africa 12 (Safari Sevens)</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.22</kw></span></li>
+								<li><a href="http://whiteafrican.com/?p=1089"><kw class="krdwrd-tag-1">Barcamp Nairobi Pictures</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.21</kw></span></li>
+								<li><a href="http://whiteafrican.com/?p=1087"><kw class="krdwrd-tag-1">Barcamp Nairobi Begins</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.21</kw></span></li>
+								<li><a href="http://whiteafrican.com/?p=1062"><kw class="krdwrd-tag-1">Some Happenings from Week 1 in Kenya</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.20</kw></span></li>
+								<li><a href="http://whiteafrican.com/?p=1081"><kw class="krdwrd-tag-1">Watching Zimbabwe: Sokwanele Charts are Damning</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.19</kw></span></li>
+								<li><a href="http://whiteafrican.com/?p=1068"><kw class="krdwrd-tag-1">Kenya’s ICT Board on eCommerce</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.19</kw></span></li>
+								<li><a href="http://whiteafrican.com/?p=1066"><kw class="krdwrd-tag-1">Steve Mutinda: Brains, Initiative and J2ME Skills</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.19</kw></span></li>
+								<li><a href="http://whiteafrican.com/?p=1063"><kw class="krdwrd-tag-1">A Fun Night of Hacking &amp; Brainstorming in Nairobi</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.17</kw></span></li>
+								<li><a href="http://whiteafrican.com/?p=1049"><kw class="krdwrd-tag-1">Wananchi: Severely Curbing Web Costs in Kenya</kw></a><span class="recent_date"><kw class="krdwrd-tag-1">6.16</kw></span></li>
+							</ul>
+		</li>
+	
+
+		
+		
+<li class="widget">
+<h2><kw class="krdwrd-tag-1">Affiliations</kw></h2>
+<a href="http://www.ringsurf.com/netring?ring=kenyanblogs;id=157;action=prev"><kw class="krdwrd-tag-1">&lt;&lt;</kw></a>  
+<a href="http://www.ringsurf.com/netring?ring=kenyanblogs;action=list"><kw class="krdwrd-tag-1">#</kw></a> 
+<a href="http://www.kenyaunlimited.com/"><kw class="krdwrd-tag-1">Kenyan Blogs</kw></a> 
+<a href="http://www.ringsurf.com/netring?ring=kenyanblogs;action=rand"><kw class="krdwrd-tag-1">?</kw></a> 
+<a href="http://www.ringsurf.com/netring?ring=kenyanblogs;id=157;action=next"><kw class="krdwrd-tag-1">&gt;&gt;</kw></a>
+
+<br>
+
+
+</li><li class="widget">
+<h2><kw class="krdwrd-tag-1">Conferences and Events</kw></h2>
+<center>
+<a href="http://barcamp.pbwiki.com/BarcampNairobi08"><img src="http://whiteafrican.com/wp-content/uploads/2008/06/barcamp_nairobi_08_button.jpg" alt="Barcamp Nairobi - June 21, 2008" title="barcamp_nairobi_08_button" width="135" height="100"></a>
+</center>
+
+<br>
+
+<center>
+<a href="http://conferences.oreilly.com/where/">
+<img src="http://conferences.oreillynet.com/banners/where/speaker/125x125.gif" alt="Where 2.0 Conference 2008" title="Where 2.0 Conference 2008" border="0" width="125" height="125">
+</a>
+</center>
+
+<br>
+
+<center>
+<a href="http://sf.web2expo.com">
+<img src="http://conferences.oreillynet.com/banners/webexsf/speaker/210x60.gif" alt="Web 2.0 Expo San Francisco 2008" title="Web 2.0 Expo San Francisco 2008" border="0" width="210" height="60">
+</a>
+</center>
+
+<br>
+
+<center><a href="http://2008.sxsw.com/interactive/"><img src="http://whiteafrican.com/wp-content/uploads/2008/01/sxswaf20_button.gif" alt="SXSW Africa Panel"></a>
+
+<br>
+
+<a href="http://www.demo.com"><img src="http://whiteafrican.com/wp-content/uploads/2008/01/demo08-button.jpg" alt="DEMO ‘08"></a>
+
+<a href="http://www.realestateconnect.com/sf07/index.aspx"><img src="http://whiteafrican.com/wp-content/uploads/2007/07/inman-re-connect-sf-2007.jpg" alt="Inman Real Estate Connect SF 2007"></a>
+<br>
+
+<a href="http://www.ted.com/pages/view/id/49"><img src="http://whiteafrican.com/wp-content/uploads/2007/07/tedglobal2007.jpg" alt="TED Global 2007"></a>
+<br>
+
+</center>
+
+<h2><kw class="krdwrd-tag-1">Personal Web Projects</kw></h2>
+
+<a href="http://www.listd.com"><img src="http://whiteafrican.com/wp-content/themes/Cutline/images/listd_button.jpg"></a>
+
+<br>
+<br>
+<a href="http://www.eppraisal.com"><img src="http://whiteafrican.com/wp-content/themes/Cutline/images/eppraisal_button.jpg"></a>
+</li>
+<li class="widget">
+<center>
+<a href="http://www.widgetbox.com/widget/white-african?wbx.refer=1" title="Get this widget from Widgetbox"><img src="http://widgetserver.com/syndication/images/wbx-pbadge10.gif" alt="Get this widget from Widgetbox" border="0"></a>
+</center>
+</li>
+
+<li class="widget">
+<script src="http://feeds.feedburner.com/Afrigadget?format=sigpro" type="text/javascript"></script><div class="feedburnerFeedBlock" id="Afrigadget765319"><ul><li><span class="headline"><a class="krdwrd-tag-1" href="http://www.afrigadget.com/2008/06/17/re-use-in-the-unofficial-kenyan-ironworks-industry/" target="_blank">Re-use in the (unofficial) Kenyan Ironworks Industry</a></span><div class="krdwrd-tag-1"> Gikomba is a part of Nairobi that is well…</div><p class="date krdwrd-tag-1">Jun 17, 2008</p></li><li><span class="headline"><a class="krdwrd-tag-1" href="http://www.afrigadget.com/2008/06/16/afrigadget-makes-time-magazines-50-best-sites-for-2008-list/" target="_blank">AfriGadget makes Time Magazine’s “50 best sites for 2008″ list.</a></span><div class="krdwrd-tag-1"> We just received some great news. AfriGadget was included…</div><p class="date krdwrd-tag-1">Jun 16, 2008</p></li><li><span class="headline"><a class="krdwrd-tag-1" href="http://www.afrigadget.com/2008/05/27/building-the-sun-a-kenyan-videographers-diy-project/" target="_blank">Building The Sun - A Kenyan Videographer’s DIY project</a></span><div class="krdwrd-tag-1"> Jim is a musician, videographer and member of the…</div><p class="date krdwrd-tag-1">May 28, 2008</p></li></ul> <p class="fbsubscribelink"><a class="krdwrd-tag-1" href="http://feeds.feedburner.com/Afrigadget"><img src="http://www.feedburner.com/fb/i/icn/feed-icon-10x10.gif" border="0"> Subscribe to this Feed</a></p> <div id="creditfooter"><a href="http://www.feedburner.com" target="_blank"><img src="http://www.feedburner.com/fb/images/buzzboost-pwrd.gif" alt="Headlines by FeedBurner" style="border: 0pt none;"></a></div></div><div class="feedburnerFeedBlock" id="Afrigadget765319"><ul><li><span class="headline"><a href="http://www.afrigadget.com/2008/06/17/re-use-in-the-unofficial-kenyan-ironworks-industry/" target="_blank"><kw class="krdwrd-tag-1">Re-use in the (unofficial) Kenyan Ironworks Industry</kw></a></span><div><kw class="krdwrd-tag-1"> Gikomba is a part of Nairobi that is well…</kw></div><p class="date"><kw class="krdwrd-tag-1">Jun 17, 2008</kw></p></li><li><span class="headline"><a href="http://www.afrigadget.com/2008/06/16/afrigadget-makes-time-magazines-50-best-sites-for-2008-list/" target="_blank"><kw class="krdwrd-tag-1">AfriGadget makes Time Magazine’s “50 best sites for 2008″ list.</kw></a></span><div><kw class="krdwrd-tag-1"> We just received some great news. AfriGadget was included…</kw></div><p class="date"><kw class="krdwrd-tag-1">Jun 16, 2008</kw></p></li><li><span class="headline"><a href="http://www.afrigadget.com/2008/05/27/building-the-sun-a-kenyan-videographers-diy-project/" target="_blank"><kw class="krdwrd-tag-1">Building The Sun - A Kenyan Videographer’s DIY project</kw></a></span><div><kw class="krdwrd-tag-1"> Jim is a musician, videographer and member of the…</kw></div><p class="date"><kw class="krdwrd-tag-1">May 28, 2008</kw></p></li></ul> <p class="fbsubscribelink"><a href="http://feeds.feedburner.com/Afrigadget"><img src="http://www.feedburner.com/fb/i/icn/feed-icon-10x10.gif" border="0"><kw class="krdwrd-tag-1"> Subscribe to this Feed</kw></a></p> <div id="creditfooter"><a href="http://www.feedburner.com" target="_blank"><img src="http://www.feedburner.com/fb/images/buzzboost-pwrd.gif" alt="Headlines by FeedBurner" style="border: 0pt none;"></a></div></div><noscript><kw><p class="krdwrd-tag-1">Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/Afrigadget"></a><br>Powered by FeedBurner</p> </kw></noscript>
+</li>
+
+<li class="widget">
+<script src="http://muti.co.za/widget?style=none&amp;items=10&amp;title_chars=35"> 
+</li>
+
+
+	</ul>
+</div>			
+	</div>
+
+	<div id="footer">
+		<p class="center">&copy; 2006 White African. <a href="http://cutline.tubetorial.com/">Cutline</a> by <a href="http://www.tubetorial.com">Chris Pearson</a></p>
+				
+	</div>
+</div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script><div id="muti_widget_raw"><div id="muti_widget_header"><a class="krdwrd-tag-1" id="muti_widget_header_link" href="http://muti.co.za/hot">Muti Hot</a></div><div id="muti_widget_links"><span><a href="http://muti.co.za/r/h13" class="muti_widget_link krdwrd-tag-1">Vodacom invests in Zoopy</a></span><br><span><a href="http://muti.co.za/r/h11" class="muti_widget_link krdwrd-tag-1">Vodacom boosts cellphone Internet a...</a></span><br><span><a href="http://muti.co.za/r/h1b" class="muti_widget_link krdwrd-tag-1">Dave Duarte on UCT GSB Mobile Marke...</a></span><br><span><a href="http://muti.co.za/r/h10" class="muti_widget_link krdwrd-tag-1">The coolest South African Map - eve...</a></span><br><span><a href="http://muti.co.za/r/h0l" class="muti_widget_link krdwrd-tag-1">RWW pulls in comments from FriendFe...</a></span><br><span><a href="http://muti.co.za/r/h1a" class="muti_widget_link krdwrd-tag-1">Leading mobile operator vodacom inv...</a></span><br><span><a href="http://muti.co.za/r/h18" class="muti_widget_link krdwrd-tag-1">It rained on mars, get out the rain...</a></span><br><span><a href="http://muti.co.za/r/h16" class="muti_widget_link krdwrd-tag-1">Vodacom invests in Zoopy</a></span><br><span><a href="http://muti.co.za/r/h14" class="muti_widget_link krdwrd-tag-1">Phone your bank now - Mail &amp; Gu...</a></span><br><span><a href="http://muti.co.za/r/h12" class="muti_widget_link krdwrd-tag-1">Create Your own Google-like search ...</a></span><br></div></div><div id="muti_widget_raw"><div id="muti_widget_header"><a id="muti_widget_header_link" href="http://muti.co.za/hot"><kw class="krdwrd-tag-1">Muti Hot</kw></a></div><div id="muti_widget_links"><span><a href="http://muti.co.za/r/h13" class="muti_widget_link"><kw class="krdwrd-tag-1">Vodacom invests in Zoopy</kw></a></span><br><span><a href="http://muti.co.za/r/h11" class="muti_widget_link"><kw class="krdwrd-tag-1">Vodacom boosts cellphone Internet a...</kw></a></span><br><span><a href="http://muti.co.za/r/h1b" class="muti_widget_link"><kw class="krdwrd-tag-1">Dave Duarte on UCT GSB Mobile Marke...</kw></a></span><br><span><a href="http://muti.co.za/r/h10" class="muti_widget_link"><kw class="krdwrd-tag-1">The coolest South African Map - eve...</kw></a></span><br><span><a href="http://muti.co.za/r/h0l" class="muti_widget_link"><kw class="krdwrd-tag-1">RWW pulls in comments from FriendFe...</kw></a></span><br><span><a href="http://muti.co.za/r/h1a" class="muti_widget_link"><kw class="krdwrd-tag-1">Leading mobile operator vodacom inv...</kw></a></span><br><span><a href="http://muti.co.za/r/h18" class="muti_widget_link"><kw class="krdwrd-tag-1">It rained on mars, get out the rain...</kw></a></span><br><span><a href="http://muti.co.za/r/h16" class="muti_widget_link"><kw class="krdwrd-tag-1">Vodacom invests in Zoopy</kw></a></span><br><span><a href="http://muti.co.za/r/h14" class="muti_widget_link"><kw class="krdwrd-tag-1">Phone your bank now - Mail &amp; Gu...</kw></a></span><br><span><a href="http://muti.co.za/r/h12" class="muti_widget_link"><kw class="krdwrd-tag-1">Create Your own Google-like search ...</kw></a></span><br></div></div>
+<script type="text/javascript">
+_uacct = "UA-172369-2";
+urchinTracker();
+</script>
+
+</li></ul></div></div></div></body>

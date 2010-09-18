@@ -1,0 +1,250 @@
+<head><base href="http://www.oberongames.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Oberon Games</title>
+
+
+
+<meta name="home" content="http://www.oberongames.com">
+<meta name="description" content="">
+<meta name="author" content="HL2">
+<meta name="copyright" content="Copyright 2005 by Oberon Games">
+<meta name="keywords" content="">
+
+<link rel="stylesheet" type="text/css" href="css/main.css"><script language="javascript" type="text/javascript" src="includes/functions.js"></script></head><body onload="roll.init();"><a name="top"></a><div id="site">
+<div id="sub_content">
+<div style="width: 748px;">
+<div class="tab_top_round">
+<div class="tab_content">
+			<h1><kw class="krdwrd-tag-1">Support</kw></h1>
+			<br></div>
+</div>
+<div class="tab_bottom_square"></div></div>
+<div style="width: 748px;">
+<div class="tab_top_square">
+<div class="tab_content">
+			<!--<h2>Technical Support</h2>-->
+			
+			<h3><kw class="krdwrd-tag-2">First Steps</kw></h3>
+			<ul class="noarrow">
+			<li><a href="#2"><b><kw class="krdwrd-tag-1">What are the system requirements to run my games?</kw></b></a></li>
+			<li><a href="#4"><b><kw class="krdwrd-tag-1">How do I download games?</kw></b></a></li>
+			<li><a href="#6"><b><kw class="krdwrd-tag-1">How can I play the game after installation?</kw></b></a></li>
+			<li><a href="#8"><b><kw class="krdwrd-tag-1">How do I buy a game?</kw></b></a></li>
+			<li><a href="#10"><b><kw class="krdwrd-tag-1">Can I order the game on a CD-ROM?</kw></b></a></li>
+			<li><a href="#12"><b><kw class="krdwrd-tag-1">After purchasing a game, how can I play the full version?</kw></b></a></li>
+			<li><a href="#14"><b><kw class="krdwrd-tag-1">What is the 'My Games' page about?</kw></b></a></li>
+			</ul>
+			<br></div>
+</div>
+<div class="tab_bottom_round"></div></div>
+<div style="width: 748px;">
+<div class="tab_top_squareround">
+<div class="tab_content">
+				
+			<h3><kw class="krdwrd-tag-2">Purchase Inquiries and Registration issues</kw></h3>
+			<ul class="noarrow">
+			<li><a href="#18"><b><kw class="krdwrd-tag-1">I purchased the game, it doesn't work? What should I do?</kw></b></a></li>
+			<li><a href="#20"><b><kw class="krdwrd-tag-1">I can't buy the game because I receive an error message. What should I do?</kw></b></a></li>
+			<li><a href="#22"><b><kw class="krdwrd-tag-1">How do I get my game's Registration Key?</kw></b></a></li>
+			<li><a href="#24"><b><kw class="krdwrd-tag-1">I didn't receive confirmation letter and don't have registration key; what should I do?</kw></b></a></li>
+			<li><a href="#26"><b><kw class="krdwrd-tag-1">My registration key doesn't work. The game says: 'Wrong Email or Key' what can I do?</kw></b></a></li>
+			<li><a href="#28"><b><kw class="krdwrd-tag-1">I lost my registration key, how can I find it?</kw></b></a></li>
+			<li><a href="#30"><b><kw class="krdwrd-tag-1">I lost my game; I can't find it on my computer. How can I get it back?</kw></b></a></li>
+			<li><a href="#32"><b><kw class="krdwrd-tag-1">I changed my Email address; do I need to contact you?</kw></b></a></li>
+			<li><a href="#34"><b><kw class="krdwrd-tag-1">I don't own a credit card / I don't like to give out my credit card details on the net. How can I purchase games?</kw></b></a></li>
+			<li><a href="#36"><b><kw class="krdwrd-tag-1">Do I need to pay any tax? What is VAT? Who needs to pay it?</kw></b></a></li>
+			</ul>
+			<br></div>
+</div>
+<div class="tab_bottom_round"></div></div>
+<div style="width: 748px;">
+<div class="tab_top_squareround">
+<div class="tab_content">
+			<h3><kw class="krdwrd-tag-2">Problems While Playing</kw></h3>
+			<ul class="noarrow">
+			<li><a href="#40"><b><kw class="krdwrd-tag-3">The game doesn't start or doesn't run well. What should I do?</kw></b></a></li>
+			<li><a href="#42"><b><kw class="krdwrd-tag-3">My screen is black and the game doesn't appear. What do I do?</kw></b></a></li>
+			<li><a href="#44"><b><kw class="krdwrd-tag-3">The game runs very slow. What can I do?</kw></b></a></li>
+			<li><a href="#46"><b><kw class="krdwrd-tag-3">The game's graphics or sounds are not functioning properly. What can I do?</kw></b></a></li>
+			</ul>
+			<br></div>
+</div>
+<div class="tab_bottom_round"></div></div>
+<div style="width: 748px;">
+<div class="tab_top_squareround">
+<div class="tab_content">
+			<h3><kw class="krdwrd-tag-2">Problems With Online Games</kw></h3>
+			<ul class="noarrow">
+			<li><a href="#51"><b><kw class="krdwrd-tag-3">I tried to play a game online but I get only a blank screen or a black screen with a red cross.</kw></b></a></li>
+			<br></ul></div>
+</div>
+<div class="tab_bottom_round"></div></div>
+<div style="width: 748px;">
+<div class="tab_top_squareround">
+<div class="tab_content">
+			<h3><kw class="krdwrd-tag-2">First Steps</kw></h3>
+			<ul class="noarrow">
+			<li>
+				<a name="2"></a><b><kw class="krdwrd-tag-3">What are the system requirements to run my games?</kw></b><br><kw class="krdwrd-tag-3">
+				Each game has its own set of requirements. When you click 'More Info', you'll be able to read about the System requirements of each game and make sure that your system is compatible. Many games require operating software call DirectX from Microsoft. To install DirectX, Please visit </kw><a href="http://www.microsoft.com/windows/directx" target="_new"><kw class="krdwrd-tag-3">Microsoft's DirectX download center</kw></a><kw class="krdwrd-tag-3"> and follow the installation instructions.
+			</kw></li>
+			<li>
+				<a name="4"></a><b><kw class="krdwrd-tag-3">How do I download games?</kw></b><br><kw class="krdwrd-tag-3">
+				On each game page, click the Download button. When asked whether to open or save the file, click 'Open' button to proceed. A short installation procedure will run automatically on you machine. Keep following the instructions and you will be playing in a minute or two!
+			</kw></li>
+			<li>
+				<a name="6"></a><b><kw class="krdwrd-tag-3">How can I play the game after installation?</kw></b><br><kw class="krdwrd-tag-3">
+				After your installation has been completed, a shortcut Icon should appear on your desktop. Double click on this Icon to start playing.</kw><br><kw class="krdwrd-tag-3">
+				Click on the "Buy" button on the game's web page. Please make sure that you have successfully installed the free trial version, before attempting to buy.
+			</kw></li>
+			<li>
+				<a name="8"></a><b><kw class="krdwrd-tag-3">How do I buy a game?</kw></b><br><kw class="krdwrd-tag-3">
+				Click on the "Buy" button on the game's web page. Please make sure that you have successfully installed the free trial version, before attempting to buy.
+			</kw></li>
+			<li>
+				<a name="10"></a><b><kw class="krdwrd-tag-3">Can I order the game on a CD-ROM?</kw></b><br><kw class="krdwrd-tag-3">
+				When you buy the game you can mark the CD option. After choosing your country from the list, you'll be able immediately to see the additional shipping price. Its usually much easier to download the game directly from the Internet. CD shipment usually takes less than 2 weeks, although it can be a little longer for International deliveries.
+			</kw></li>
+			<li>
+				<a name="12"></a><b><kw class="krdwrd-tag-3">After purchasing a game, how can I play the full version?</kw></b><br><kw class="krdwrd-tag-3">
+				Just click on the game icon on your desktop, the same way you did before buying the full version. When you purchased the game it should have been unlocked automatically, and its full version should be ready to play. If the game wasn't automatically unlocked, simply enter your registration keys which were sent to you in your confirmation email. To enter the registration key:</kw><br>
+				<br>
+				<ol>
+				<li><kw class="krdwrd-tag-3">Go to your confirmation email, (This is the email that was sent to you to confirm your purchase of the game.) In that email you will find the Registration Key. The Registration Key is a special code of numbers and letters. Copy the Registration Key.</kw></li>
+				<li><kw class="krdwrd-tag-3">Open the game.</kw></li>
+				<li><kw class="krdwrd-tag-3">Click on the Button that says, "Enter Registration Key"</kw></li>
+				<li><kw class="krdwrd-tag-3">Enter the Registration Key in the space provided.</kw></li>
+				</ol>
+			</li>
+			<li>
+				<a name="14"></a><b><kw class="krdwrd-tag-3">What is the 'My Games' page about? </kw></b><br><kw class="krdwrd-tag-3">
+				This page will let you see and run all the games you have downloaded in one convenient place. It includes information such as the trial time still left on every game and whether or not it was purchased. Click 'play now' on any game listed and it will automatically launch that game.
+			</kw></li>
+			</ul>
+			<a href="#top"><kw class="krdwrd-tag-1">back to top</kw></a>
+			<br></div>
+</div>
+<div class="tab_bottom_round"></div></div>
+<div style="width: 748px;">
+<div class="tab_top_squareround">
+<div class="tab_content">
+			<h3><kw class="krdwrd-tag-2">Purchase Inquiries and Registration issues</kw></h3>
+			<ul class="noarrow">
+			<li>
+				<a name="18"></a><b><kw class="krdwrd-tag-3">I purchased the game, it doesn't work? What should I do?</kw></b><br><kw class="krdwrd-tag-3">
+				Do not purchase the game again. First, try to download the game a second time, and open it. If that doesn't work, look for the solution at the following lines, you will probably find it helpful! If it still doesn't work </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3">.
+			</kw></li>
+			<li>
+				<a name="20"></a><b><kw class="krdwrd-tag-3">I can't buy the game because I receive an error message. What should I do?</kw></b><br>
+				<a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> as soon as possible with the exact error message you receive. Our dedicated support team will do the best to assist you to solve the problem and enjoy the game.
+			</kw></li>
+			<li>
+				<a name="22"></a><b><kw class="krdwrd-tag-3">How do I get my game's Registration Key?</kw></b><br><kw class="krdwrd-tag-3">
+				The registration code is normally not required, as after purchasing the game should be automatically unlocked. If you experience technical difficulties, try using the registration code provided in the automatic purchase confirmation email sent to you ( This is the email that was sent to you to confirm your purchase of the game. ) and follow these steps:</kw><br><kw class="krdwrd-tag-3">1) Copy the Registration Key. The Registration Key is a special code of numbers and letters. </kw><br><kw class="krdwrd-tag-3">2) Open the game. </kw><br><kw class="krdwrd-tag-3">3) Click on the Button that says, "Enter Registration Key." </kw><br><kw class="krdwrd-tag-3">4) Enter the Registration Key.
+			</kw></li>
+			<li>
+				<a name="24"></a><kw class="krdwrd-tag-3">I</kw><b><kw class="krdwrd-tag-3"> didn't receive confirmation letter and don't have registration key; what should I do?</kw></b> <br><kw class="krdwrd-tag-3">
+				If you purchased the game from us, we sent you a confirmation letter. If you haven't received it yet then you may have entered a wrong Email address or had a problem with your Email, make sure it's not over its storage capacity. Click here to: </kw><a href="https://www.setsystems.com/orderinfo.phtml" target="_new"><kw class="krdwrd-tag-3">View or Find your Order Information.</kw></a><kw class="krdwrd-tag-3"> Still can't find it? </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3">.
+			</kw></li>
+			<li>
+				<a name="26"></a><b><kw class="krdwrd-tag-3">My registration key doesn't work. The game says: 'Wrong Email or Key' what can I do?</kw></b><br><kw class="krdwrd-tag-3">
+				Your registration code can be used only on the same computer that you used to purchase the game. There are no O's (letters) only 0 (zeros, numbers). To avoid mistakes Copy and Paste both the registration code and the Email address from your confirmation letter as explained here: 1. Put your mouse cursor (The I shape) on the left of the Key (or text) you would like to copy. Left-click on the mouse and drag it over the text you wish to highlight. You need to be accurate. Release your mouse button. You will see the text highlighted.</kw><br><kw class="krdwrd-tag-3">2. Now, when the cursor is on the highlighted area, right-click once on the mouse, a little menu will open. Choose (left-click once): Copy. The text is now copied.</kw><br><kw class="krdwrd-tag-3">3. Move to the document or area (the registration bar) you wish that text to be placed. Place the cursor there.</kw><br><kw class="krdwrd-tag-3">4. When you're there, right-click once to let the little menu open again. Left click on Paste.</kw><br><kw class="krdwrd-tag-3">Now you should have the entire key number as it is in the right place.</kw><br><kw class="krdwrd-tag-3">Still get an error message? Please </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> and provide full details of your purchase (the email address you used when purchasing, order number, game name) and the exact error messages that you are getting.
+			</kw></li>
+			<li>
+				<a name="28"></a><b><kw class="krdwrd-tag-3">I lost my registration key, how can I find it?</kw></b><br><kw class="krdwrd-tag-3">
+				If you purchased the game from us, click on </kw><a href="https://www.setsystems.com/orderinfo.phtml" target="_new"><kw class="krdwrd-tag-3">View or Find your Order Information</kw></a><kw class="krdwrd-tag-3">. Still can't find it? </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3">.
+			</kw></li>
+			<li>
+				<a name="30"></a><b><kw class="krdwrd-tag-3">I lost my game; I can't find it on my computer. How can I get it back?</kw></b><br><kw class="krdwrd-tag-3">
+				Visit the game page and click the Download full version button. When asked whether to open or save the file, click 'Open' button to proceed.
+			</kw></li>
+			<li>
+				<a name="32"></a><b><kw class="krdwrd-tag-3">I changed my Email address; do I need to contact you?</kw></b><br><kw class="krdwrd-tag-3">
+				The Email address is part of your personal code. Your old Email address will still work with your keys even after you changed it. </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> only if you want us to send you information about new games and special deals we launch from time to time.
+			</kw></li>
+			<li>
+				<a name="34"></a><b><kw class="krdwrd-tag-3">I don't own a credit card / I don't like to give out my credit card details on the net. How can I purchase games?</kw></b><br><kw class="krdwrd-tag-3">
+				Please be advised that our ordering system is secured and authenticated. If you are still hesitant or don't own a credit card, we may be able to help you. Please </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> with the list of games that you would like to buy, and we'll do our best to supply you with a solution.
+			</kw></li>
+			<li>
+				<a name="36"></a><b><kw class="krdwrd-tag-3">Do I need to pay any tax? What is VAT? Who needs to pay it?</kw></b><br><kw class="krdwrd-tag-3">
+				European Union VAT is a general consumption tax assessed on the value added to goods and services only for EU citizens. For more information about that click: </kw><a href="https://secure.reg.net/help/WhatIsVAT.asp" target="_new"><kw class="krdwrd-tag-3">Value Added Tax (VAT).</kw></a><kw class="krdwrd-tag-3"> We also collect Colorado sales tax.
+			</kw></li>
+			</ul>
+			<a href="#top"><kw class="krdwrd-tag-1">back to top</kw></a>
+			<br></div>
+</div>
+<div class="tab_bottom_round"></div></div>
+<div style="width: 748px;">
+<div class="tab_top_squareround">
+<div class="tab_content">
+			<h3><kw class="krdwrd-tag-2">Problems While Playing</kw></h3>
+			<ul class="noarrow">
+			<li>
+				<a name="40"></a><b><kw class="krdwrd-tag-3">The game doesn't start or doesn't run well. What should I do?</kw></b><br><kw class="krdwrd-tag-3">
+				Many problems appear to get solved by un-installing the game, and then downloading it again. This may be caused by old or corrupted files. In order to make sure you have a fresh download, you may need to clear your browse's cache. To clear your browsers cache, open your internet browser ( for most computers, this is Internet Explorer) then go to Tool, then Internet Options, and click on Delete Files. While downloading a new version of the game, do not interrupt the download. Make sure that there are no other programs running when you install the game.
+			</kw></li>
+			<li>
+				<a name="42"></a><b><kw class="krdwrd-tag-3">My screen is black and the game doesn't appear. What do I do?</kw></b><br><kw class="krdwrd-tag-3">
+				It is possible that you do not have the latest version of DirectX installed on your computer. Please visit </kw><a href="http://www.microsoft.com/windows/directx" target="_new"><kw class="krdwrd-tag-3">Microsoft's DirectX download center</kw></a><kw class="krdwrd-tag-3"> and follow the instructions to install DirectX.
+			</kw></li>
+			<li>
+				<a name="44"></a><b><kw class="krdwrd-tag-3">The game runs very slow. What can I do?</kw></b><br><kw class="krdwrd-tag-3">
+				Make sure your computer meets the game's system requirements. Then, close all other applications. You may need the restart your computer and try again.
+			</kw></li>
+			<li>
+				<a name="46"></a><b><kw class="krdwrd-tag-3">The game's graphics or sounds are not functioning properly. What can I do?</kw></b><br><kw class="krdwrd-tag-3">
+				Make sure your multimedia drivers are updated. If not, install the latest drivers from the website of the video or sound card's manufacturer. If that still doesn't work, </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> for further assistance.
+			</kw></li>
+			</ul>
+			<a href="#top"><kw class="krdwrd-tag-1">back to top</kw></a>
+			<br></div>
+</div>
+<div class="tab_bottom_round"></div></div>
+<div style="width: 748px;">
+<div class="tab_top_squareround">
+<div class="tab_content">
+			<h3><kw class="krdwrd-tag-2">Problems With Online Games</kw></h3>
+			<ul class="noarrow">
+			<li>
+				<a name="51"></a><b><kw class="krdwrd-tag-1">I tried to play a game online but I get only a blank screen or a black screen with a red cross.</kw></b><br>
+				<a name="onlinegame"></a><kw class="krdwrd-tag-3">In order to run this game you must make sure your computer has the latest version of these components installed:</kw><br>
+				<a href="http://java.sun.com/webapps/getjava/BrowserRedirect?locale=en&amp;host=www.java.com:80" target="_new"><kw class="krdwrd-tag-1">Java</kw></a><kw class="krdwrd-tag-1">, 
+				</kw><a href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_new"><kw class="krdwrd-tag-1">Flash</kw></a><kw class="krdwrd-tag-1">
+				and </kw><a href="http://sdc.shockwave.com/shockwave/download/download.cgi" target="_new"><kw class="krdwrd-tag-1">Shockwave</kw></a>
+			</li>
+			</ul>
+			<a href="#top"><kw class="krdwrd-tag-1">back to top</kw></a>
+			<br></div>
+</div>
+<div class="tab_bottom_round"></div></div>
+<table cellpadding="0" cellspacing="0" width="748">
+<tbody><tr>
+<td class="reverse" style="padding: 10px 0px 0px;"><kw class="krdwrd-tag-1">Copyright 2007 Oberon Games, Inc. All rights reserved.</kw></td>
+<td align="right"><a href="http://gamecenter.oberon-media.com/privacy.htm" style="padding: 10px 10px 0px 0px;" class="reverse" target="_blank"><kw class="krdwrd-tag-1">Privacy</kw></a><a href="http://www.oberon-media.com" class="reverse" target="_blank"><kw class="krdwrd-tag-1">Oberon Corporate</kw></a></td>
+</tr>
+</tbody></table>
+</div>
+<div id="navigation">
+<table cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><a href="games.asp" onmouseover="roll.over('games_m1');" onmouseout="roll.out('games_m1');"><img alt="Games" src="images/nav/b_games_m_out.gif" name="games_m1_ROLL" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="publishing.asp" onmouseover="roll.over('publishing_m2');" onmouseout="roll.out('publishing_m2');"><img alt="Publishing" src="images/nav/b_publishing_m_out.gif" name="publishing_m2_ROLL" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="beta_program.asp" onmouseover="roll.over('beta_program_m3');" onmouseout="roll.out('beta_program_m3');"><img alt="Beta Program" src="images/nav/b_beta_program_m_out.gif" name="beta_program_m3_ROLL" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="news.asp" onmouseover="roll.over('news_m4');" onmouseout="roll.out('news_m4');"><img alt="News" src="images/nav/b_news_m_out.gif" name="news_m4_ROLL" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="support.asp" onmouseover="" onmouseout=""><img alt="Support" src="images/nav/b_support_m_over.gif" name="support_m5_ROLL" border="0"></a></td>
+</tr>
+<tr><td><img src="../images/clrpxl.gif" alt="" height="6" width="1"></td></tr>
+</tbody></table>
+<div><br><a href="dream_vacation.asp" target="_self"><img src="game_assets/dream_vacation/dream_vacation_nav_game.gif" alt="Dream Vacation Solitaire" height="60" width="132"></a></div>
+<div><br><a href="http://gamecenter.oberon-media.com/" target="_blank"><img src="images/game_center.gif" alt="Oberon Media Game Center" height="60" width="132"></a></div>
+</div>
+<div id="sub_logo"><a href="default.asp"><img src="images/logo_ogsub.gif" alt="Oberon Games" height="86" width="143"></a></div>
+</div>
+</body>

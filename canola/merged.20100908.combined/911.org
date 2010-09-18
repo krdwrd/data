@@ -1,0 +1,612 @@
+<head><base href="http://www.voanews.com/english/archive/2007-05/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- --><!-- Page generated 2008-01-10 19:32:43 by CommonSpot Version 4.0 SP2 (2004-08-02 17:00:00) --><!-- JavaScript & DHTML Code Copyright 1998-2004 PaperThin, Inc.  All rights reserved --><title>African Respect for Chinese Expatriates Grows</title>  
+
+   <meta name="Description" id="Description" content="displayarticle">
+
+<meta name="Keywords" id="Keywords" content="">
+<meta name="Generator" id="Generator" content="CommonSpot Content Server Version 4.0 SP2">
+<link rel="stylesheet" href="/english/style/default.css" type="text/css"><link rel="stylesheet" href="/english/style/defaultenglish.cfm" type="text/css"><style type="text/css">
+	.mw { color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none; }
+	a.mw:link	{color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+	a.mw:visited	{color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+	a.mw:hover	{color:#0000FF;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+</style> <script type="text/javascript" language="JavaScript">
+	var gMenuControlID=0;
+	var menus_included = 0;
+	var jsPageAuthorMode = 0;
+	var jsSessionPreviewON = 1;
+	var jsDlgLoader = '/english/Archive/loader.cfm';
+	var jsSiteID = 13;
+	var jsSubSiteID = 75;
+	var kurrentPageID = 165374;
+</script><script src="/commonspot/nw-lame.js" type="text/javascript" language="JavaScript"></script> 
+<script src="/voanews_shared/scripts/application.js" language="JavaScript"></script>
+<script src="/voanews_shared/scripts/swfobject.js" language="JavaScript"></script><!-- start datemodified -->
+
+<meta name="datemodified" content="2007-05-08"><!-- end datemodified -->
+
+<meta name="WT.ti" content="displayarticle">
+<link rel="P3Pv1" href="http://www.voanews.com/w3c/policy.html">
+<link rel="alternate" title="VOANews RSS" href="http://www.voanews.com//english//customCF/RecentStoriesRSS.cfm?keyword=TopStories" type="application/rss+xml">
+<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"></head><body class="CS_Document" lang="en"><script type="text/javascript" language="JavaScript">
+document.CS_StaticURL = "<NULL>";
+document.CS_DynamicURL = "<NULL>";
+</script><a name="__topdoc__"></a><script type="text/javascript" language="JavaScript">
+// always-include-ie.js  Copyright 1998-2004 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if (bName == "Netscape")
+{
+	if(bVer >= 3)
+bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+	if(bVer >= 4)
+bCanRollover=1;
+}
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+	window.status = "";
+}
+function setStatbar(statbar)
+{
+	var strStatbar=unescape(statbar);
+	window.status=strStatbar;
+}
+function onLoadComplete()
+{
+	if( menus_included == 1 )
+document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link,displaylink) 
+{
+	// links are in one of the following formats:
+	// 		cpe_60_0,CP___PAGEID=100
+	// 		CPNEWWIN:WindowName^params@CP___
+	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+	// displaylink is the server relative URL or fully qualified URL
+	if( jsPageAuthorMode == 0 )
+	{
+windowname = "";
+windowparams = "";
+// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
+pos = link.indexOf("CPNEWWIN:");
+if (pos != -1)
+{
+pos1 = link.indexOf ("^");
+windowname = link.substring (pos+9, pos1);
+pos2 = link.indexOf ("@");
+windowparams = link.substring (pos1 + 1, pos2);
+link = link.substring (pos2 + 1, link.length);
+}
+if( displaylink && displaylink != "" )
+{		
+if (windowname == "")
+window.location = displaylink;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (displaylink, windowname, windowparams);
+}
+}
+else
+{
+targetLink = link;
+if (link.indexOf ("CP___") != -1)
+{
+httpPos = -1;
+commaPos = link.indexOf(",");
+if (commaPos != -1)
+{
+targetUrl = link.substr(commaPos + 1);
+if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
+{
+httpPos = commaPos + 1;
+}		
+}
+if (httpPos != -1)
+targetLink = link.substr(httpPos);
+else
+targetLink = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+if (windowname == "")
+window.location = targetLink;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (targetLink, windowname, windowparams);
+}
+}
+else
+{
+if (windowname == "")
+window.location = link;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (link, windowname, windowparams);
+}
+}
+}
+	}
+	else if( jsSessionPreviewON == 1 )
+	{
+previewLink(link);
+	}
+	else
+	{
+if( document.all[parentID] )
+document.all[parentID].click();
+	}
+}
+function doWindowOpen(href,name,params)
+{
+	window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
+windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+	{
+windowparams = substringReplace(windowparams,':left=',',left=');
+windowparams = substringReplace(windowparams,'left=','left=');
+windowparams = substringReplace(windowparams,':ww=',',width=');
+windowparams = substringReplace(windowparams,'ww=','width=');		
+windowparams = substringReplace(windowparams,':hh=',',height=');
+windowparams = substringReplace(windowparams,'hh=','height=');
+windowparams = substringReplace(windowparams,':loc=',',location=');
+windowparams = substringReplace(windowparams,'loc=','location=');
+windowparams = substringReplace(windowparams,':dir=',',directories=');
+windowparams = substringReplace(windowparams,'dir=','directories=');
+windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+windowparams = substringReplace(windowparams,'tb=','toolbar=');
+windowparams = substringReplace(windowparams,':stat=',',status=');
+windowparams = substringReplace(windowparams,':mb=',',menubar=');
+windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+windowparams = substringReplace(windowparams,':rs=',',resizable=');
+	}
+	return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+	var pos = 0;
+	var target="";
+	while ((pos = source.indexOf(pattern)) != (-1))
+	{
+target = target + source.substring(0,pos) + replacement;
+source = source.substring(pos+pattern.length);
+pos = source.indexOf(pattern);
+	}
+	return (target + source);
+}
+// handle scheduled element links
+function show_sched_element(eid)
+{
+	evalCol = String(self.element_collection);
+	dispFlag = false;
+	ua = navigator.userAgent.toLowerCase();
+	if (bName == "Netscape" || ua.indexOf('aol') >= 0)
+	{
+// cloned from always-include-ns.js
+str = self.location.search;
+arrCtrls = new Array;
+for (i=0;i < self.element_collection.length;i++){
+sitem = self.element_collection[i];
+if (sitem.id == eid)
+arrCtrls[arrCtrls.length] = sitem.ctrl + "-" + eid;
+}
+dispFlag = arrCtrls.length != 0;
+// Look for the existing forceElement array		
+if (str != ""){
+qArray = str.split("&");
+forceElement = new Array();
+forceElementIndex = -1;
+for(i=0; i < qArray.length; i++)
+{
+el = qArray[i];
+qel = el.split('=');
+if  (qel.length == 1)
+qel[1] = '';
+if  (qel[0] == 'forceElement' || qel[0] == '?forceElement'){
+forceElement = qel[1].split(",");					
+forceElementIndex = i;
+break;
+}
+}	
+if (0 == forceElement.length)
+newLocation = str + "&forceElement=" + arrCtrls.join(",");
+else{	// There is a forceElement
+arrCtrlsCnt = arrCtrls.length;
+for (i=0;i < forceElement.length;i++){				// Loop over the existing elements
+iel = forceElement[i].split("-");
+for (j=0;j < arrCtrlsCnt;j++){
+jel = arrCtrls[j].split("-");
+if (jel[0] == iel[0])									// Is it the same control
+break;
+}
+if (j == arrCtrls.length)								// We reached the end  and did not find the control
+arrCtrls[arrCtrls.length] = forceElement[i];
+}
+qel = qArray[forceElementIndex].split("=");
+qArray[forceElementIndex] = qel[0] + "=" + arrCtrls.join(",");
+newLocation = qArray.join("&");
+}
+}
+else
+newLocation = "?forceElement=" + arrCtrls.join(",");
+self.location.search = newLocation;
+if  (!dispFlag)
+alert("You do not have access to the requested element.");
+}
+	else
+	{
+if ( evalCol != 'undefined' )
+{		
+for(i=0;i<self.element_collection.length;i++)
+{
+sitem = self.element_collection[i];
+sp = 'sched_elements_' + sitem.ctrl + '_' + sitem.id;
+obj = document.all.item(sp);
+if ( sitem.id == eid && obj != null)
+{
+dispFlag = true;
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'block';
+}
+}
+else 
+document.all(sp).style.display = 'block';
+for (j=0;j < self.element_collection.length;j++){
+if (sitem.ctrl == self.element_collection[j].ctrl && i != j){
+sp = 'sched_elements_' + self.element_collection[j].ctrl + '_' + self.element_collection[j].id;
+obj = document.all.item(sp);
+if ( obj != null )
+{
+if ( obj.length >= 0 )
+{	
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'none';
+}
+}
+else
+document.all(sp).style.display = 'none';
+}
+}
+}
+}
+}
+}
+if ( !dispFlag )
+alert("You do not have access to the requested element.")
+	}
+}
+</script>
+	<script type="text/javascript" language="JavaScript">
+	function glblLinkHandler(lobj, attr, val)
+	{
+return;
+}
+	function onLoadFinished()
+	{
+onLoadComplete();
+}
+	var js_gvPageID = 165374;
+	function gotoDiffLang(url)
+	{
+window.location = url + '&pageid=165374';
+	}
+	</script> <!-- showPageModeUI not set --><script type="text/javascript" language="JavaScript">
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if (bName == "Netscape")
+{
+if(bVer >= 3)
+bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+if(bVer >= 4)
+bCanRollover=1;
+}
+function ImageSet(imgID,newTarget)
+{
+if (bCanRollover)
+document[imgID].src=newTarget;
+}
+</script><!-- --> 
+<script language="JavaScript" type="text/javascript" src="/voanews_shared/templates/webtrends_voanews.com_datasource/webtrendsadvanced.js"></script>
+<div style="direction: ltr;" align="center">
+<table style="direction: ltr;" border="0" cellpadding="0" cellspacing="0" width="760">
+<tbody><tr valign="bottom">
+	<td valign="top" width="258"><a href="/">
+	<img src="/english/images/news_logo.gif" alt="" border="0">
+	</a>
+	</td>
+	<td valign="bottom" width="20">&nbsp;</td><td valign="middle" width="280"><div class="service"><div id="CS_Sched_165374_534"></div></div></td><td valign="middle" width="202"><p align="right">
+	<span class="smalltease"><a href="African-Respect-for-Chinese-Expatriates-Grows.cfm?textmode=1"><kw class="krdwrd-tag-1">
+Text Only</kw></a>
+</span>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr valign="bottom"><td height="17">
+<span class="smalltease"><kw class="krdwrd-tag-1">Search</kw></span>  
+	</td></tr>
+	<tr valign="bottom"><td height="8">
+	<form action="/english/search.cfm" method="post" name="search" id="search">
+	<input name="searchterm" size="10" type="text">
+	<input src="/english/images/go-ltr.gif" value="Submit" alt="Enter text to search for and click (&gt;&gt;)" name="submit" type="image">
+	</form></td></tr></tbody></table>
+	</p></td></tr></tbody></table><div class="CS_Element_LinkBar"> 
+	<table style="direction: ltr;" bgcolor="#e2e3e8" cellpadding="0" cellspacing="0" width="760">
+	<tbody><tr>
+<td class="NavBarTitle" valign="middle" width="350"><kw class="krdwrd-tag-1">&nbsp;V</kw><span class="NavBarTitleSmall"><kw class="krdwrd-tag-1">OICE OF</kw></span><kw class="krdwrd-tag-1"> A</kw><span class="NavBarTitleSmall"><kw class="krdwrd-tag-1">MERICA </kw></span></td>
+<td class="navbar1" onmouseover="this.className='navbar1mouseover';" onmouseout="this.className='navbar1';" height="20" valign="middle"><nobr>&nbsp;<a href="/english/portal.cfm" onmouseover="this.style.textDecoration='none'"><kw class="krdwrd-tag-1">VOA Home</kw></a>&nbsp;</nobr></td><td class="navbar1" onmouseover="this.className='navbar1mouseover';" onmouseout="this.className='navbar1';" height="20" valign="middle"><nobr>&nbsp;<a href="/english/index.cfm" onmouseover="this.style.textDecoration='none'"><kw class="krdwrd-tag-1">VOA English</kw></a>&nbsp;</nobr></td><td class="navbar1" onmouseover="this.className='navbar1mouseover';" onmouseout="this.className='navbar1';" height="20" valign="middle"><nobr>&nbsp;<a href="/english/categories.cfm" onmouseover="this.style.textDecoration='none'"><kw class="krdwrd-tag-1">Regions/Topics</kw></a>&nbsp;</nobr></td><td class="navbar1" onmouseover="this.className='navbar1mouseover';" onmouseout="this.className='navbar1';" height="20" valign="middle"><nobr>&nbsp;<a href="/english/email-subscription.cfm" onmouseover="this.style.textDecoration='none'"><kw class="krdwrd-tag-1">Subscribe to E-mail</kw></a>&nbsp;</nobr></td><td class="navbar1" onmouseover="this.className='navbar1mouseover';" onmouseout="this.className='navbar1';" height="20" valign="middle"><nobr>&nbsp;<a href="/english/screen_map.cfm" onmouseover="this.style.textDecoration='none'"><kw class="krdwrd-tag-1">Select Language</kw></a>&nbsp;</nobr></td><td class="navbar1" onmouseover="this.className='navbar1mouseover';" onmouseout="this.className='navbar1';" height="20" valign="middle"><nobr>&nbsp;<a href="/english/about/index.cfm" onmouseover="this.style.textDecoration='none'"><kw class="krdwrd-tag-1">About VOA</kw></a>&nbsp;</nobr></td>	
+</tr>
+</tbody></table>
+	</div>
+	<table style="border-right: 2px solid; direction: ltr;" border="0" cellpadding="0" cellspacing="0" width="760">
+	<tbody><tr>
+<td style="border-right: 2px solid;" rowspan="2" valign="top" width="115">
+<div class="CS_Element_Textblock"> <div class="CS_Textblock_Text"> <p align="left"><span class="leftmenutext"><img id="||CPIMAGE:4803|" alt="Listen to VOA English" src="/english/images/but_newscast_2.gif" border="0" height="30" hspace="0" width="115"><br>&nbsp; <font color="#000000"><kw class="krdwrd-tag-1">Latest&nbsp;Newscast</kw></font><br>&nbsp;&nbsp;<span class="media" id="Latest Newscast"><a href="ftp://8475.ftp.storage.akadns.net/mp3/voa/english/nnow/NNOW_HEADLINES.mp3"><img id="ftp://8475.ftp.storage.akadns.net/mp3/voa/english/nnow/NNOW_HEADLINES.mp3||CPIMAGE:72968|" alt="Download MP3" src="/english/images/mp3_media_icon.jpg" border="0" height="14" hspace="0" width="30"></a>&nbsp;<a id="http://www.voanews.com/wm/voa/english/nnow/NNOW_HEADLINES.asx" onmouseover="return self.status='http://www.voanews.com/wm/voa/english/nnow/NNOW_HEADLINES.asx'" style="" href="http://www.voanews.com/wm/voa/english/nnow/NNOW_HEADLINES.asx"><img id="http://www.voanews.com/wm/voa/english/nnow/NNOW_HEADLINES.asx||CPIMAGE:72952|" alt="Windows Media" src="/english/AmericanLife/images/win_media_icon.jpg" border="0" height="14" hspace="0" width="13"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.voanews.com/real/voa/english/nnow/NNOW_HEADLINES.ram"><img id="http://www.voanews.com/real/voa/english/nnow/NNOW_HEADLINES.ram||CPIMAGE:72950|" alt="Real Media" src="/english/AmericanLife/images/real_media_icon.jpg" border="0" height="14" hspace="0" width="13"></a></span><br>&nbsp; <font color="#000000"><em><kw class="krdwrd-tag-1">News Now</kw></em><kw class="krdwrd-tag-1"> Live</kw></font><br>&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;<span class="media" id="News Live Now"><a href="http://www.voanews.com/wm/live/newsnow.asx"><img id="http://www.voanews.com/wm/live/newsnow.asx||CPIMAGE:72952|" alt="Windows Media" src="/english/AmericanLife/images/win_media_icon.jpg" border="0" height="14" hspace="0" width="13"></a></span></font>&nbsp;&nbsp;&nbsp;&nbsp;<a id="http://www.voanews.com/real/live/newsnow.ram" onmouseover="return self.status='http://www.voanews.com/real/live/newsnow.ram'" style="" href="http://www.voanews.com/real/live/newsnow.ram"><img id="http://www.voanews.com/real/live/newsnow.ram||CPIMAGE:72950|" alt="Real Media" src="/english/AmericanLife/images/real_media_icon.jpg" border="0" height="14" hspace="0" width="13"></a></span><span class="leftmenutext"><br>&nbsp; <font color="#000000"><em><kw class="krdwrd-tag-1">VOA Africa</kw></em><kw class="krdwrd-tag-1"> Live</kw></font><br>&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;<span class="media" id="VOA Africa Now"><a href="http://www.voanews.com/real/live/live-englishtoafrica-a.asx"><img alt="Windows Media" src="/english/AmericanLife/images/win_media_icon.jpg" border="0" height="14" hspace="0" width="13"></a></span></font>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.voanews.com/real/live/live-englishtoafrica-a.ram"><img id="http://www.voanews.com/real/live/live-englishtoafrica-a.ram||CPIMAGE:72950|" alt="Real Media" src="/english/AmericanLife/images/real_media_icon.jpg" border="0" height="14" hspace="0" width="13"></a></span><br><span class="leftmenutext"><a id="/english/categories.cfm" onmouseover="return self.status='/english/categories.cfm'" style="" href="/english/categories.cfm"><img id="/english/categories.cfm||CPIMAGE:4804|" alt="Regions" src="/english/images/but_regions.gif" border="0" height="38" hspace="0" width="115"></a><a id="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram|" href="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram"><br>&nbsp;</a> <a id="/english/Africa/index.cfm|" href="/english/Africa/index.cfm"><kw class="krdwrd-tag-1">Africa</kw></a><br><a id="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram|" href="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram">&nbsp;</a> <a id="/english/americas.cfm|" href="/english/americas.cfm"><kw class="krdwrd-tag-1">Americas</kw></a><br><a id="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram|" href="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram">&nbsp;</a> <a id="/english/asia.cfm|" href="/english/asia.cfm"><kw class="krdwrd-tag-1">Asia</kw><br></a>&nbsp; <a href="/english/europe.cfm%20"><kw class="krdwrd-tag-1">Europe</kw></a><a id="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram|" href="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram"><br>&nbsp;</a> <a id="/english/middle_east.cfm|" href="/english/middle_east.cfm"><kw class="krdwrd-tag-1">Middle East</kw></a><br><a id="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram|" href="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram">&nbsp;</a> <a id="/english/usa.cfm|" href="/english/usa.cfm"><kw class="krdwrd-tag-1">U.S.A.</kw></a><br></span><span class="leftmenutext"><img id="||CPIMAGE:9791|" alt="VOA in depth" src="/english/images/but_voa_in-depth.gif" border="0" height="38" hspace="0" width="115"><br>&nbsp; <a id="/english/AmericanLife/index.cfm|" href="/english/AmericanLife/index.cfm"><kw class="krdwrd-tag-1">American Life</kw><br></a>&nbsp; <a id="CP___PAGEID=6939,index.cfm,71|" href="/english/Science/index.cfm"><kw class="krdwrd-tag-1">Health &amp; Science&nbsp;</kw></a><br>&nbsp;&nbsp;<a id="/english/Entertainment/index.cfm|" href="/english/Entertainment/index.cfm"><kw class="krdwrd-tag-1">Entertainment</kw><br></a>&nbsp; <a id="CP___PAGEID=250679,index.cfm,59|" href="/english/NewsAnalysis/index.cfm"><kw class="krdwrd-tag-1">News Analysis&nbsp;</kw></a><br>&nbsp; <a id="CP___PAGEID=122449,SpecialReports.cfm,1|" onmouseover=" glblLinkHandler(this,'textDecoration','underline');" style="text-decoration: none;" onmouseout=" glblLinkHandler(this,'textDecoration','none');" href="/english/SpecialReports.cfm"><kw class="krdwrd-tag-1">Special Reports</kw></a><br><img id="||CPIMAGE:2580|" alt="Programs A to Z" src="/english/images/but_programsaz_1.gif" border="0" height="38" hspace="0" width="115">&nbsp;<br>&nbsp; <a id="/english/About/programsatoz_a.cfm|" href="/english/About/programsatoz_a.cfm"><kw class="krdwrd-tag-1">Shows&nbsp;by Name</kw></a><br>&nbsp; <a id="CPNEWWIN:child^toolbar=1,location=1,directories=0,status=1,menubar=1,scrollbars=1,resizable=1@http://voanewsblog.blogspot.com|" onmouseover=" return self.status='http://voanewsblog.blogspot.com'; " onmouseout=" return self.status=''; " href="javascript:HandleLink('cpe_9289_0','CPNEWWIN:child^toolbar=1,location=1,directories=0,status=1,menubar=1,scrollbars=1,resizable=1@http://voanewsblog.blogspot.com');"><kw class="krdwrd-tag-1">VOA News Blog</kw></a><br>&nbsp; <a id="/english/t2a.cfm|" href="/english/t2a.cfm"><kw class="krdwrd-tag-1">T2A Chat</kw></a><br>&nbsp;&nbsp;<a id="/english/rss.cfm" onmouseover="return self.status='/english/rss.cfm'" style="" href="/english/rss.cfm"><img id="/english/rss.cfm||CPIMAGE:184007|" alt="XML RSS" src="/english/images/XML_RSS_little.gif" border="0" height="10" hspace="0" width="52"></a>&nbsp;<br>&nbsp;&nbsp;<a id="/english/mobile.cfm|" href="/english/mobile.cfm"><kw class="krdwrd-tag-1">VOA Mobile</kw></a><br>&nbsp;&nbsp;<a id="/english/podcasts.cfm " onmouseover="return self.status='/english/podcasts.cfm '" style="" href="/english/podcasts.cfm%20"><img alt="Podcast Icon" src="/english/images/podcast_icon_little.gif" align="texttop" border="0" height="14" hspace="0" width="45"></a><font color="#000080"><a id="/english/podcasts.cfm|" href="/english/podcasts.cfm"><font color="#000080"><kw class="krdwrd-tag-1">Podcasts</kw></font><br></a></font><span class="leftmenutext">&nbsp; <a id="/english/webcasts.cfm|" href="/english/webcasts.cfm"><kw class="krdwrd-tag-1">Webcasts</kw><br></a>&nbsp; </span></span><span class="leftmenutext"><span class="leftmenutext"><a id="CP___PAGEID=4615,correspondents.cfm,1|" href="/english/correspondents.cfm"><kw class="krdwrd-tag-1">Correspondents</kw></a><br>&nbsp; <a id="/english/screen_map.cfm|" href="/english/screen_map.cfm"><span class="leftmenutext"><font color="#000080"><kw class="krdwrd-tag-1">Broadcast Info</kw></font></span><span class="leftmenutext"><br></span></a><a id="/specialenglish/index.cfm" onmouseover="return self.status='/specialenglish/index.cfm'" style="" href="/specialenglish/index.cfm"><img id="/specialenglish/index.cfm||CPIMAGE:4805|" alt="Learning English" src="/english/images/but_learning.gif" border="0" height="32" hspace="0" width="115"></a></span><a id="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram|" href="http://www.voanews.com/real/voa/english/nnow/newsnowa.ram"><br>&nbsp;</a><a id="/specialenglish/index.cfm|" href="/specialenglish/index.cfm"><kw class="krdwrd-tag-1">Articles in </kw><br>&nbsp;<em><kw class="krdwrd-tag-1">Special English</kw></em></a><br>&nbsp;<a id="CPNEWWIN:child^toolbar=1,location=1,directories=0,status=1,menubar=1,scrollbars=1,resizable=1@http://names.voa.gov/|" onmouseover=" return self.status='http://names.voa.gov/'; " onmouseout=" return self.status=''; " href="javascript:HandleLink('cpe_9289_0','CPNEWWIN:child^toolbar=1,location=1,directories=0,status=1,menubar=1,scrollbars=1,resizable=1@http://names.voa.gov/');"><kw class="krdwrd-tag-1">Pronunciations</kw></a><br><a id="/uspolicy/index.cfm" onmouseover="return self.status='/uspolicy/index.cfm'" style="" href="/uspolicy/index.cfm"><img id="/uspolicy/index.cfm||CPIMAGE:2575|" alt="Editorials" src="/english/images/but_editorials_1.gif" border="0" height="38" hspace="0" width="115"></a><br>&nbsp; <a id="/uspolicy/index.cfm|" href="/uspolicy/index.cfm"><kw class="krdwrd-tag-1">Read Editorials</kw></a></span></p></div> </div> <div class="CS_Element_Layout"> &nbsp; </div> 
+</td>
+<td style="border-right: 1px solid; border-bottom: 1px dashed;" valign="top" width="489">
+	<table style="direction: ltr;" border="0" cellpadding="0" cellspacing="2" width="489"><tbody><tr><td valign="top"><div>
+
+<script type="text/javascript" language="JavaScript">
+	// we must put this out here to override the function if it's cached
+	function authorForm904(pageid, controlid, controltypeid, add, edit, select, isGlobal, hasData)
+	{
+strurlstring = "pageid=165374&controlid=" + controlid +  "&controlTypeID=" + controltypeid + "&editRights=1&approveRights=0";
+if ( add == 1 || edit == 1 )
+{
+if ( isGlobal == 1 && add == 1 && hasData == 1 )
+newdata = 0;
+else if ( add == 1 )
+newdata = 1;
+else
+newdata = 0;
+newWindow("submit_data","/english/Archive/loader.cfm?url=/commonspot/controls/custom/submit-data.cfm&newData=" + newdata + "&" + strurlstring);
+}
+else if (select == 1)
+newWindow("select_data","/english/Archive/loader.cfm?url=/commonspot/controls/custom/select-data.cfm&" + strurlstring);
+else
+alert ('You have no permissions to use this element.  Check with your administrator.');
+	}
+</script>
+<!-- --></div><div class="CS_Element_CustomCF">
+<div id="CS_CCF_165374_163252"> <div style="padding-left: 5px; padding-right: 5px;">
+<table style="direction: ltr;" border="0" width="100%">
+<tbody><tr><td><span class="articleheadline" style="direction: ltr;"><kw class="krdwrd-tag-2">African Respect for Chinese Expatriates Grows</kw></span></td></tr>
+<tr>
+<td valign="top">
+<span class="byline"><kw class="krdwrd-tag-1">
+By Darren Taylor</kw></span> 
+<br>
+<span class="dateline"><kw class="krdwrd-tag-1">Washington</kw></span><br>
+<span class="datetime"><em><kw class="krdwrd-tag-1">08 May 2007</kw></em></span><br>
+</td>
+<td align="left" valign="top"> </td>
+</tr>
+</tbody></table>
+<a href="http://www.voanews.com/mediaassets/english/2007_05/Audio/mp3/taylor_china%20in%20africa_pt5.mp3" class="media-asset" onclick="dcsMedia(event);"><span class="media-asset"><kw class="krdwrd-tag-1">Taylor report (MP3 1.41 MB)</kw></span></a>
+<img src="/voanews_shared/images/audio_icon.gif" alt="audio clip" border="0"><br>
+<a class="media-asset" href="http://www.voanews.com/english/figleaf/mp3filegenerate.cfm?filepath=http://www.voanews.com/mediaassets/english/2007_05/Audio/mp3/taylor_china%20in%20africa_pt5.mp3" onclick="dcsMedia(event);">
+<span class="media-asset"><kw class="krdwrd-tag-1">
+Listen to Taylor report (MP3 1.41 MB) 
+</kw><img src="/voanews_shared/images/audio_icon.gif" alt="audio clip" border="0">
+</span></a><br>
+<br>
+<span class="body"><p><b><kw class="krdwrd-tag-3">As China continues to invest millions of dollars in Africa, and Beijing boosts its aid package to the continent, hundreds of Chinese-owned businesses have established themselves throughout Africa. But there’ve been widespread allegations that the Chinese treat their workers very badly, paying them poorly and forcing them to work long hours in sometimes dangerous conditions. Many Africans have also lost their jobs in textile factories, as a result of cheap Chinese imports and labor. This has resulted in violent anti-Chinese protests in Zambia, for example. China has also been criticized for selling weapons to administrations accused of human rights violations in Africa. But there’s also some optimism surrounding China’s role on the continent. In the final part of a series focusing on China in Africa, VOA’s Darren Taylor reports on growing admiration amongst Africans for Chinese people making their living on the continent.&nbsp;&nbsp;&nbsp; </kw></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><kw class="krdwrd-tag-3">In many parts of Africa, the Chinese are admired for their resilience and hard work, says Prof. Deborah Brautigam of American University’s School of International Service, who has traveled to China and throughout Africa since the 1980’s to study Beijing’s changing relationship with the continent. </kw></p>
+<p><kw class="krdwrd-tag-3">Despite the negative aspects of China’s increasing involvement in Africa - such as allegations that it’s out to plunder the continent of its natural resources, ignores human rights concerns and “dumps” its cheap products on Africa - the country’s nationals who’ve established themselves on the continent have also garnered great respect. </kw></p>
+<p><kw class="krdwrd-tag-3">The Chinese are particularly admired, says Brautigam, for their frugal living habits.&nbsp; </kw></p>
+<p><kw class="krdwrd-tag-3">In recent years, China has exported a variety of experts to support Africa’s development, and Chinese contractors have built infrastructure all over the continent. But, in contrast with Western expatriates, says Brautigam, the Chinese always live at or below “local standards” - even when it’s quite within their means to live lavishly.&nbsp;&nbsp; </kw></p>
+<p><kw class="krdwrd-tag-3">“Some of these (Chinese) experts living at local standards have led local people to think that they must be convicts, because who else would live like that? They (usually) live way below local standards, let’s put it that way,” Brautigam says. </kw></p>
+<p><kw class="krdwrd-tag-3">She adds that while the focus of China’s increased involvement in Africa has been on the entrance of large Chinese businesses into the continent, an unreported aspect of the relationship is the “way in which Chinese small-scale traders going into Africa impacts on perceptions of China in Africa.” </kw></p>
+<p><kw class="krdwrd-tag-3">According to Brautigam, a large part of why China’s appeal has grown throughout Africa “has to do just with the on-the-ground comparison between Chinese businesspeople, and Western expatriates.”</kw></p>
+<p><kw class="krdwrd-tag-3">Joshua Kurlantzick, a fellow at the Carnegie Endowment for International Peace and expert on Chinese economic policy, agrees.&nbsp;&nbsp;&nbsp; </kw></p>
+<p><kw class="krdwrd-tag-3">“I can’t count the number of times I spoke with people in South Africa or Kenya or Mozambique, who explicitly made the comparison between Chinese traders – some of whom had actually been sleeping in the market – and Western expatriates…who are viewed very differently than small-scale Chinese traders.” </kw></p>
+<p><kw class="krdwrd-tag-3">Many Western expatriates in Africa live in relative luxury, and are resented by some Africans for their apparent efforts to isolate themselves from the communities amongst which they work.&nbsp;&nbsp; </kw></p>
+<p><kw class="krdwrd-tag-3">The Chinese also don’t interact very much with local Africans, Brautigam acknowledges.</kw></p>
+<p><kw class="krdwrd-tag-3">“One of the problems I think with the way that the Chinese invest and do their aid in Africa is that it’s very much in an enclave. The Chinese live together, they construct their own compounds…These are enclaves where a lot of Chinese businesses set up together and they’re much more comfortable like that and I think this is something that the Chinese need to think of breaking out of.”&nbsp;&nbsp; </kw></p>
+<p><kw class="krdwrd-tag-3">But according to Brautigam, China’s nationals working in Africa have nevertheless gained more respect on the continent because of their simple way of living. She uses a practical example she witnessed in the recent past to give credence to her point of view. </kw></p>
+<p><kw class="krdwrd-tag-3">In Sierra Leone, explains Brautigam, the Chinese established a hydropower project, as did the Italians, and both projects were staffed by expatriates. </kw></p>
+<p><kw class="krdwrd-tag-3">“The Chinese lived in these very simple, zinc-like township houses - very simple temporary structures, like dormitories. They all lived there. They worked all day long, and at the end of the day, they had to come back and they had to go to their vegetable farm. They all had to supply a certain amount of vegetables for their communal meals in the evening…Each one had to harvest the vegetables, bring them to the cook and the cook would make the meals.” </kw></p>
+<p><kw class="krdwrd-tag-3">But Brautigam says the experts at the Italian hydropower project lived very differently.&nbsp; </kw></p>
+<p><kw class="krdwrd-tag-3">“The Italian project had a container of food brought in from Italy every two weeks! And the (Italian) experts were living in very comfortable houses that were built (specially) for the project.”</kw></p>
+<p><kw class="krdwrd-tag-3">At another agricultural research scheme in Sierra Leone, says Brautigam, 12 Chinese experts lived “for years” in a simple building that they eventually vacated for their hosts to use as a storage facility for fresh produce. </kw></p>
+<p><kw class="krdwrd-tag-3">She contrasts the behavior of the Chinese agricultural experts with that of a group of American advisors, who’d established a similar project in West Africa. </kw></p>
+<p><kw class="krdwrd-tag-3">“The United States…had eight experts and they had built ranch-style houses in a little subdivision, with street lights and sidewalks, and everything the way it would be in Texas or someplace like that!” Brautigam laughs. </kw></p>
+<p><kw class="krdwrd-tag-3">While Western donors tend to spend a lot of their aid funds on luxurious housing and high salaries for their experts, and anything that’ll provide comfort for their expatriate staff in the host country, the Chinese prefer to spend the money on the actual aid projects, she says.&nbsp;&nbsp; </kw></p>
+<p><kw class="krdwrd-tag-3">“These (types of behavior) have implications in terms of the bang for the buck. If you’re building all those ranch-style houses, and flying in containers of food, your aid money doesn’t go as far,” Brautigam quips.&nbsp; </kw></p>
+<p><kw class="krdwrd-tag-3">Ndubisi Obiorah, the Executive Director of Nigeria’s Centre for Law and Social Action, says one of the major reasons for China’s popularity amongst African political and business leaders is the country’s provision of expatriates who provide cheaper expertise to the continent. </kw></p>
+<p><kw class="krdwrd-tag-3">In Nigeria, he says, the Chinese are perceived as being “better able to transfer technology to Nigerian employees than Western expatriates.” </kw></p>
+<p><kw class="krdwrd-tag-3">In Obiorah’s experience, China is popular amongst businesspeople in Africa because of a simple reason: Money.</kw></p>
+<p><kw class="krdwrd-tag-3">“Africans associate the Chinese with profits,” says Obiorah.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </kw></p>
+<p><kw class="krdwrd-tag-3">Kurlantzick says his research, which has focused upon perceptions of China in Africa, shows that the Chinese remain essentially popular on the continent, despite negative publicity such as the flood of cheap Chinese labor and goods into Africa. He says Africans have a “very favorable impression” of China largely because of the country’s eagerness to build essential infrastructure, such as roads, across the continent, which they consider essential to their attempts to escape from poverty. </kw></p>
+<p>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td class="E2AfeedbackTitlebg">
+<p><img id="||CPIMAGE:293348|" alt="Focus pointer bullet" src="/english/NewsAnalysis/images/pointer.gif" border="0" height="5" hspace="2" vspace="2" width="5"><span class="E2AfeedbackTitlefg"><kw class="krdwrd-tag-1"> Feedback</kw></span></p></td></tr>
+<tr>
+<td class="E2AfeedbackContent" width="100%">
+<p class="E2AfeedbackBody"><kw class="krdwrd-tag-3">We'd like to hear what you have to say. Let us know what you think of this report and other news and features on our website. Email your views about what is happening in Africa to: </kw><a href="javascript:main.compose('new','t=africa@voanews.com')"><kw class="krdwrd-tag-1">africa@voanews.com</kw></a><kw class="krdwrd-tag-3">.Please include your name and phone number if you would like us to include your comments on our programs. </kw></p></td></tr></tbody></table></p></span>
+<p></p><p>
+<span class="datetime">
+<a href="javascript:popupWindow('/english/templates/email.cfm?url=/english/archive/2007-05/African-Respect-for-Chinese-Expatriates-Grows.cfm',300,200)">
+<img src="/english/images/emailme.gif" alt="emailme.gif" border="0"><kw class="krdwrd-tag-1">
+E-mail This Article 
+</kw></a>
+<br>			
+<a href="javascript:popupWindow2('African-Respect-for-Chinese-Expatriates-Grows.cfm?renderforprint=1&amp;pageid=348237',640,480)">				
+<img src="/english/images/printerfriendly.gif" alt="printerfriendly.gif" border="0"><kw class="krdwrd-tag-1">
+Print Version
+</kw></a><br>
+</span>
+</p></div> </div><!-- --></div></td></tr></tbody></table>
+</td>
+<!--googleoff: index-->
+<td style="border-bottom: 1px dashed;" valign="top" width="150">
+<table style="direction: ltr;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
+<div class="CS_Element_Label">
+<div class="mainpageheader"><kw class="krdwrd-tag-1">&nbsp;
+Related Stories
+</kw></div>
+</div><table style="direction: ltr;" cellpadding="1" cellspacing="0">
+<tbody><tr>
+<td align="right" valign="top">
+<img src="/english/images/bull_01.gif">
+</td><td valign="top">
+<a href="/english/Africa/Chinese-Aid-Flows-into-Africa.cfm" class="smalltease"><kw class="krdwrd-tag-1">
+Chinese Aid Flows into Africa </kw></a>
+</td></tr>
+<tr>
+<td align="right" valign="top">
+<img src="/english/images/bull_01.gif">
+</td><td valign="top">
+<a href="/english/Africa/Concerns-Mount-about-Chinese-Oil-Interests-in-Africa.cfm" class="smalltease"><kw class="krdwrd-tag-1">
+Concerns Mount about Chinese Oil Interests in Africa </kw></a>
+</td></tr>
+<tr>
+<td align="right" valign="top">
+<img src="/english/images/bull_01.gif">
+</td><td valign="top">
+<a href="/english/Africa/Chinese-Weapons-Sales-to-Africa-Raise-Fresh-Concerns.cfm" class="smalltease"><kw class="krdwrd-tag-1">
+Chinese Weapons Sales to Africa Raise Fresh Concerns </kw></a>
+</td></tr>
+<tr>
+<td align="right" valign="top">
+<img src="/english/images/bull_01.gif">
+</td><td valign="top">
+<a href="/english/Africa/Analysts-Explain-Significance-of-Evolving-Relationship-Between-China-and-Africa.cfm" class="smalltease"><kw class="krdwrd-tag-1">
+Analysts Explain Significance of Evolving Relationship Between China and Africa </kw></a>
+</td></tr><tr><td>&nbsp;</td></tr></tbody></table><!-- --><div class="CS_Element_Label"> 
+<div class="mainpageheader"><kw class="krdwrd-tag-1">&nbsp;
+Top Story
+</kw></div>
+</div> 
+   <table summary="top story display *" style="direction: ltr;" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+   <td valign="baseline" width="10"><img src="/voanews_shared/images/bull_01.gif"></td>
+   <td dir="ltr">
+   
+
+   
+   		<span class="smalltease"><a href="/english/2008-06-25-voa6.cfm"><kw class="krdwrd-tag-1">Opposition Leader Tsvangirai Calls for Expanded African Involvement in Zimbabwe &nbsp;</kw><img src="/voanews_shared/images/audio_icon.gif" alt="Audio Clip Available" border="no">    		
+   		</a></span>
+   	</td>
+   </tr></tbody></table>
+   <!-- endtslink --><br></td></tr><tr><td><div class="CS_Element_Label"> 
+<div class="mainpageheader"><kw class="krdwrd-tag-1">&nbsp;
+More Stories
+</kw></div>
+</div> <table style="direction: ltr;" border="0" cellpadding="1" cellspacing="0"> 
+ <tbody><tr valign="top">
+ <td valign="baseline" width="10"><img src="/voanews_shared/images/bull_01.gif"></td>
+ <td valign="baseline">
+ <span class="smalltease">
+ 
+ <a href="/english/2008-06-25-voa23.cfm"><kw class="krdwrd-tag-1">Britain Bans Tours by Zimbabwe Cricketers &nbsp;</kw><img src="/voanews_shared/images/audio_icon.gif" alt="Audio Clip Available" border="no"> 
+ </a>
+ </span>
+ </td></tr>
+  	 
+ <tr valign="top">
+ <td valign="baseline" width="10"><img src="/voanews_shared/images/bull_01.gif"></td>
+ <td valign="baseline">
+ <span class="smalltease">
+ 
+ <a href="/english/2008-06-25-voa14.cfm"><kw class="krdwrd-tag-1">Coalition Forces Kill 4 Suspected Militants Around Iraq 
+ </kw></a>
+ </span>
+ </td></tr>
+  	 
+ <tr valign="top">
+ <td valign="baseline" width="10"><img src="/voanews_shared/images/bull_01.gif"></td>
+ <td valign="baseline">
+ <span class="smalltease">
+ 
+ <a href="/english/2008-06-25-voa8.cfm"><kw class="krdwrd-tag-1">Extremist Violence in Northwestern Pakistan Leaves 22 Dead 
+ </kw></a>
+ </span>
+ </td></tr>
+  	 
+ <tr valign="top">
+ <td valign="baseline" width="10"><img src="/voanews_shared/images/bull_01.gif"></td>
+ <td valign="baseline">
+ <span class="smalltease">
+ 
+ <a href="/english/2008-06-25-voa7.cfm"><kw class="krdwrd-tag-1">Political Crisis in Israel Averted, but Gaza Truce Shaky 
+ </kw></a>
+ </span>
+ </td></tr>
+  	 
+ <tr valign="top">
+ <td valign="baseline" width="10"><img src="/voanews_shared/images/bull_01.gif"></td>
+ <td valign="baseline">
+ <span class="smalltease">
+ 
+ <a href="/english/2008-06-25-voa16.cfm"><kw class="krdwrd-tag-1">US Divers Join in Search Efforts for Sunken Philippine Ferry Victims 
+ </kw></a>
+ </span>
+ </td></tr>
+  	 
+ <tr valign="top">
+ <td valign="baseline" width="10"><img src="/voanews_shared/images/bull_01.gif"></td>
+ <td valign="baseline">
+ <span class="smalltease">
+ 
+ <a href="/english/2008-06-25-voa30.cfm"><kw class="krdwrd-tag-1">French Muslim, Jewish Leaders Unite to Encourage Religious Tolerance &nbsp;</kw><img src="/voanews_shared/images/audio_icon.gif" alt="Audio Clip Available" border="no"> 
+ </a>
+ </span>
+ </td></tr>
+  	 
+ <tr valign="top">
+ <td valign="baseline" width="10"><img src="/voanews_shared/images/bull_01.gif"></td>
+ <td valign="baseline">
+ <span class="smalltease">
+ 
+ <a href="/english/2008-06-25-voa10.cfm"><kw class="krdwrd-tag-1">China Worried About Illegal Drugs During Olympics &nbsp;</kw><img src="/voanews_shared/images/audio_icon.gif" alt="Audio Clip Available" border="no"> 
+ </a>
+ </span>
+ </td></tr>
+  	 </tbody></table> <!-- end more from voa --> <!-- endmorefromvoa --> 
+</td></tr>
+</tbody></table>
+</td>
+<!--googleon: index-->	
+</tr>
+<tr>
+<td colspan="2">
+<div class="newsfooter"> <span class="CS_LinkBar_BeforeLabel"> &nbsp;</span> <a href="/english/About/fastfacts.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/english/About/fastfacts.cfm');return true;"><kw class="krdwrd-tag-1"> FAQs</kw></a> <span class="CS_LinkBar_Separator"><kw class="krdwrd-tag-1"> &nbsp;|&nbsp;</kw></span> <a href="/english/disclaim.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/english/disclaim.cfm');return true;"><kw class="krdwrd-tag-1"> Terms of Use &amp; Privacy Notice</kw></a> <span class="CS_LinkBar_Separator"><kw class="krdwrd-tag-1"> &nbsp;|&nbsp;</kw></span> <a href="http://www.bbg.gov" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('http://www.bbg.gov');return true;"><kw class="krdwrd-tag-1"> Broadcasting Board of Governors</kw></a> <span class="CS_LinkBar_Separator"><kw class="krdwrd-tag-1"> &nbsp;|&nbsp;</kw></span> <a href="/english/site-map.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/english/site-map.cfm');return true;"><kw class="krdwrd-tag-1"> Site Map</kw></a> <span class="CS_LinkBar_Separator"><kw class="krdwrd-tag-1"> &nbsp;|&nbsp;</kw></span> <a href="/english/link_to_us.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/english/link_to_us.cfm');return true;"><kw class="krdwrd-tag-1"> Link to Us</kw><br></a> <span class="CS_LinkBar_Separator"><kw class="krdwrd-tag-1"> &nbsp;|&nbsp;</kw></span> <a href="/english/contactVOA.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/english/contactVOA.cfm');return true;"><kw class="krdwrd-tag-1"> Contact Us</kw></a> </div> 
+</td>
+</tr>
+	</tbody></table>
+</div>
+<script language="JavaScript">
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcs1k31iwvievvahjx7t5tg27_2x2v";
+var gFpc="WT_FPC";
+var gConvert=true;
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+}
+</script><script type="text/javascript" src="http://statse.webtrendslive.com/dcs1k31iwvievvahjx7t5tg27_2x2v/wtid.js"></script>
+<script language="JavaScript" type="text/javascript" src="/voanews_shared/templates/webtrends.js"></script>
+<script type="text/javascript" src="/voanews_shared/ieupdate/ieupdate.js"></script>
+<noscript><kw>
+<img name="DCSIMG" src="http://statse.webtrendslive.com/DCS000025_2S9M/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.0.0&dcsfg=4" border="0" height="1" width="1">
+</kw></noscript>
+</body>

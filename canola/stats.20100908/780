@@ -1,0 +1,441 @@
+<head><base href="http://www.collegeart.org/guidelines/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Guidelines | College Art Association</title><!-- CSS-->
+
+
+	
+	 
+
+		
+	<link rel="stylesheet" type="text/css" media="handheld" href="http://www.collegeart.org/scripts/v3.5/handheld.css?v=h0rd2z1j">
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.collegeart.org/scripts/v3.5/screen.php?s=guidelines&amp;v=h0rd2z1j">
+	<link rel="stylesheet" type="text/css" media="print" href="http://www.collegeart.org/scripts/v3.5/print.css?v=h0rd2z1j">
+	<link rel="stylesheet" type="text/css" media="print" href="http://www.collegeart.org/scripts/v3.5/print.css?v=h0rd2z1j">
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.collegeart.org/scripts/v3.5/tab.css?v=h0rd2z1j">
+	<link rel="stylesheet" type="text/css" href="http://www.collegeart.org/scripts/v3.5/lightbox.css?v=h0rd2z1j" media="screen"><!-- Java-->
+	
+	<script type="text/javascript" src="http://www.collegeart.org/scripts/v3.5/general.js"> </script>
+	<script type="text/javascript" src="http://www.collegeart.org/scripts/v3.5/suckerfish.js"> </script>
+	<script type="text/javascript" src="http://www.collegeart.org/scripts/v3.5/menu.js"> </script>
+	<script type="text/javascript" src="http://www.collegeart.org/scripts/v3.5/tabber.js"> </script>
+	<script type="text/javascript" src="http://www.collegeart.org/scripts/v3.5/prototype.js"></script>
+	<script type="text/javascript" src="http://www.collegeart.org/scripts/v3.5/scriptaculous.js?load=effects"></script><script type="text/javascript" src="http://www.collegeart.org/scripts/v3.5/effects.js"></script><script type="text/javascript" src="http://www.collegeart.org/scripts/v3.5/effects.js"></script>
+	<script type="text/javascript" src="http://www.collegeart.org/scripts/v3.5/lightbox.js"></script></head><body onload="Show('d1', 1);">
+
+<p class="skip"><a href="#content"><kw class="krdwrd-tag-1-100"> Skip Navigation</kw></a></p>
+
+<div id="wrap">
+
+
+<div id="mn">
+		<ul id="top-menu">
+	<li><a href="https://services.collegeart.org/eWeb/DynamicPage.aspx?webcode=CSCDonationsList"><kw class="krdwrd-tag-1-90">Contribute</kw></a>
+  <ul>
+			<li><a href="https://services.collegeart.org/eWeb/DynamicPage.aspx?webcode=CSCDonationsList"><kw class="krdwrd-tag-1-90">Annual Campaign</kw></a></li>
+	  <li><a href="http://www.collegeart.org/pubsfund/"><em><kw class="krdwrd-tag-1-90">Art Bulletin</kw></em><kw class="krdwrd-tag-1-90"> &amp; </kw><em><kw class="krdwrd-tag-1-90">Art Journal</kw></em><kw class="krdwrd-tag-1-90"> Publications Fund</kw></a></li>
+			<li><a href="http://www.collegeart.org/prints/"><kw class="krdwrd-tag-1-90">Limited-Edition Prints</kw></a></li>
+            <li><a href="http://www.collegeart.org/artistprojects/"><kw class="krdwrd-tag-1-90">Artists’ Projects</kw></a></li>
+		</ul>
+	</li>
+
+<li>
+
+<a href="https://services.collegeart.org/eWeb/DynamicPage.aspx?webcode=Login" class="signin"><kw class="krdwrd-tag-1-90">Account Log In</kw></a>
+
+</li>
+</ul>
+
+<a href="http://www.collegeart.org">
+<img src="http://www.collegeart.org/images/v3.5/v35_lt.gif" class="logotype" alt="College Art Association">
+</a>
+
+<hr>
+
+	</div>
+	
+	<div id="top_menu">
+		<ul id="nav">
+	<li><a href="http://www.collegeart.org/aboutus/" class="l1"><kw class="krdwrd-tag-1-100">About</kw></a>
+		<ul>
+			<li><a href="http://www.collegeart.org/aboutus/mission.html" class="l2"><kw class="krdwrd-tag-1-100">Mission statement</kw></a></li>
+			<li><a href="http://www.collegeart.org/aboutus/bylaws.html" class="l2"><kw class="krdwrd-tag-1-100">Association by-laws</kw></a></li>
+			<li><a href="http://www.collegeart.org/aboutus/board.html" class="l2"><kw class="krdwrd-tag-1-100">Board of Directors</kw></a></li>
+<!-- 			<li><a href="http://www.collegeart.org/candidates/" class="l2">Board of Directors Election Candidates</a></li> -->
+			<li><a href="http://www.collegeart.org/committees/" class="l2"><kw class="krdwrd-tag-1-100">Committees</kw></a></li>
+			<li><a href="http://www.collegeart.org/aboutus/staff.html" class="l2"><kw class="krdwrd-tag-1-100">Staff Directory</kw></a></li>
+			<li><a href="http://www.collegeart.org/aboutus/plan2005.html" class="l2"><kw class="krdwrd-tag-1-100">CAA strategic plan, 2005–2010</kw></a></li>
+			<li><a href="http://www.collegeart.org/aboutus/centenary.html" class="l2"><kw class="krdwrd-tag-1-100">CAA Centenary 2011</kw></a></li>
+			<li><a href="http://www.collegeart.org/affiliated/" class="l2"><kw class="krdwrd-tag-1-100">Affiliated Societies</kw></a></li>
+			<li><a href="http://www.collegeart.org/advertising/" class="l2"><kw class="krdwrd-tag-1-100">Advertising with CAA</kw></a></li>
+			<li><a href="http://www.collegeart.org/partners/" class="l2"><kw class="krdwrd-tag-1-100">Business Partners</kw></a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.collegeart.org/membership/" class="l1"><kw class="krdwrd-tag-1-100">Membership</kw></a>
+		<ul>
+			<!--<li><a href="https://eservices.collegeart.org/scripts/mgrqispi.dll?APPNAME=CAAWEB&amp;PRGNAME=TOCFRAME&amp;ARGUMENTS=-A,-A,-A,-A,-N10" class="l2">Sign In</a></li>-->
+			<!-- <li><a href="https://eservices.collegeart.org/scripts/mgrqispi.dll?APPNAME=CAAWeb&amp;PRGNAME=TOCFRAME&amp;ARGUMENTS=-A,-A,-A,-A,-N11" class="l2">Join Online</a></li> -->
+			<li><a href="https://services.collegeart.org/eWeb/DynamicPage.aspx?webcode=CSCmembershipList" class="l2"><kw class="krdwrd-tag-1-100">JOIN NOW</kw></a></li>
+            <li><a href="https://services.collegeart.org/eWeb/DynamicPage.aspx?WebKey=330a676d-4092-4af3-9a86-78f7e9222e73" class="l2"><kw class="krdwrd-tag-1-100">Renew/Rejoin</kw></a></li>
+            
+            <li><a href="http://www.collegeart.org/membership/individual.html" class="l2"><kw class="krdwrd-tag-1-100">Individual Members Benefits</kw></a></li>
+			<li><a href="http://www.collegeart.org/membership/institution.html" class="l2"><kw class="krdwrd-tag-1-100">Institutional Members Benefits</kw></a></li>
+			<li><a href="http://www.collegeart.org/prints/" class="l2"><kw class="krdwrd-tag-1-100">Limited-Edition Prints</kw></a></li>
+            <li><a href="http://www.collegeart.org/artistprojects/" class="l2"><kw class="krdwrd-tag-1-100">Artists' Projects</kw></a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.collegeart.org/careers/" class="l1"><kw class="krdwrd-tag-1-100">Careers</kw></a>
+		<ul>
+			<li><a href="http://careercenter.collegeart.org/post.cfm" class="l2"><kw class="krdwrd-tag-1-100">Employers</kw></a></li>
+			<li><a href="http://careercenter.collegeart.org/search.cfm" class="l2"><kw class="krdwrd-tag-1-100">Job Seekers</kw></a></li>
+			<li><a href="http://www.collegeart.org/opportunities/" class="l2"><kw class="krdwrd-tag-1-100">Opportunities</kw></a></li>
+			<li><a href="http://www.collegeart.org/fellowships/" class="l2"><kw class="krdwrd-tag-1-100">Fellowships</kw></a></li>
+			<li><a href="http://www.collegeart.org/careers/workshops.html" class="l2"><kw class="krdwrd-tag-1-100">Workshops</kw></a></li>
+		</ul>
+	</li>
+	<li><a href="http://conference.collegeart.org/" class="l1"><kw class="krdwrd-tag-1-100">Conference</kw></a>	
+		<ul>
+			<!--<li><a href="http://conference.collegeart.org/2007" class="l2">2007</a></li>-->
+<!--			<li><a href="http://conference.collegeart.org/2008" class="l2">2008</a></li>-->
+			<li><a href="http://conference.collegeart.org/2009" class="l2"><kw class="krdwrd-tag-1-100">2009</kw></a></li>
+            <li><a href="http://conference.collegeart.org/2010" class="l2"><kw class="krdwrd-tag-1-100">2010</kw></a></li>
+			<li><a href="http://www.collegeart.org/awards/" class="l2"><kw class="krdwrd-tag-1-100">Awards</kw></a></li>
+			<li><a href="http://conference.collegeart.org/archive" class="l2"><kw class="krdwrd-tag-1-100">Archive</kw></a></li>
+			<li><a href="http://conference.collegeart.org/accounts" class="l2"><kw class="krdwrd-tag-1-100">CMS Sign-in</kw></a></li>														
+		</ul>
+	</li>
+	<li><a href="http://www.collegeart.org/advocacy/" class="l1"><kw class="krdwrd-tag-1-100">Advocacy</kw></a>
+		<ul>
+			<li><a href="http://www.collegeart.org/advocacy/policy/" class="l2"><kw class="krdwrd-tag-1-100">Policy</kw></a></li>
+			<li><a href="http://www.collegeart.org/advocacy/issues/" class="l2"><kw class="krdwrd-tag-1-100">Issues at a Glance</kw></a></li>		
+			<li><a href="http://www.collegeart.org/advocacy/archives/" class="l2"><kw class="krdwrd-tag-1-100">Archive</kw></a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.collegeart.org/publications/" class="l1"><kw class="krdwrd-tag-1-100">Publications</kw></a>	
+		<ul>
+			<li><a href="http://www.collegeart.org/artbulletin/" class="l2"><i><kw class="krdwrd-tag-1-100">The Art Bulletin</kw></i></a></li>
+			<li><a href="http://www.collegeart.org/artjournal/" class="l2"><i><kw class="krdwrd-tag-1-100">Art Journal</kw></i></a></li>
+			<li><a href="http://www.caareviews.org" class="l2"><i><kw class="krdwrd-tag-1-100">caa.reviews</kw></i></a></li>
+			<li><a href="http://www.collegeart.org/news/" class="l2"><i><kw class="krdwrd-tag-1-100">CAA News</kw></i></a></li>
+			<li><a href="http://www.collegeart.org/publications/abstracts.html" class="l2"><kw class="krdwrd-tag-1-100">Abstracts</kw></a></li>
+			<li><a href="http://www.collegeart.org/artbulletin/diserts.html" class="l2"><kw class="krdwrd-tag-1-100">Dissertations</kw></a></li>
+			<li><a href="http://www.jstor.org/" class="l2"><kw class="krdwrd-tag-1-100">JSTOR</kw></a></li>
+			<li><a href="http://www.collegeart.org/publications/pgrants.html" class="l2"><kw class="krdwrd-tag-1-100">Publication Grants</kw></a></li>
+            <li><a href="http://www.collegeart.org/publications/monographs.html" class="l2"><kw class="krdwrd-tag-1-100">Monographs</kw></a></li>
+            <li><a href="http://www.collegeart.org/ip/" class="l2"><kw class="krdwrd-tag-1-100">Intellectual Property and Copyright in the Arts</kw></a></li>
+            
+          
+            
+		</ul>
+	</li>
+	<li><a href="http://www.collegeart.org/guidelines/" class="l1"><kw class="krdwrd-tag-1-100">Guidelines</kw></a></li>
+	<li>
+		<form name="search" method="get" action="http://www.collegeart.org/search/index/">
+		<input name="q" maxlength="256" value="" class="search-input" type="text"> 
+		<input value="Search" class="search-button" type="submit">
+		</form>		
+	</li>
+</ul>
+
+
+	</div>
+   <a href="http://conference.collegeart.org/2009/"><img src="http://www.collegeart.org/images/LA_BANNER.jpg" alt="CAA LA Conference" border="0" width="780"></a>
+
+	<hr>
+		<div id="right">
+		
+
+<h3><kw class="krdwrd-tag-1-100">Current</kw></h3>
+<div id="current">
+	
+    
+<a href="https://services.collegeart.org/eWeb/DynamicPage.aspx?webcode=CSCmembershipList"><img src="http://www.collegeart.org/images/JoinNow_home.jpg" alt="CAANEWS Online" class="ad" width="258" height="125"></a><br>
+<a href="http://www.collegeart.org/news/MayNews_08"><img src="http://www.collegeart.org/images/caanews_0508.jpg" alt="CAANEWS Online" class="ad" width="258" height="125"></a><a href="http://www.collegeart.org/directories/"><br>
+<img src="http://www.collegeart.org/images/ads/caa_direcAd.jpg" alt="2007 Annual Conference Audio Recordings" class="ad" width="258" height="125"></a></div>
+
+<!--	
+
+<a href="http://conference.collegeart.org/2007/"><img src="http://www.collegeart.org/images/ads/conference_ad_sm.gif" alt="The 95th CAA Annual Conference in New York" class="ad" /></a> 
+
+	<a href="http://www.collegeart.org/candidates/"><img src="http://www.collegeart.org/images/ads/board-election-ad-sm.gif" alt="CAA Annual Board of Directors Election" class="ad" /></a>
+
+	<a href="http://conference.collegeart.org/2007/career"><img src="http://www.collegeart.org/images/ads/career_fair_ad_sm.gif" alt="2007 CAA Career Fair" class="ad" /></a>
+
+-->
+
+	</div>
+		<hr>
+
+	<div id="content">
+     
+	
+<h1><a href="http://www.collegeart.org/guidelines/"><kw class="krdwrd-tag-2-90">Guidelines</kw></a></h1>
+<h2><kw class="krdwrd-tag-2-90">M.F.A. Standards</kw></h2><kw class="krdwrd-tag-mrgtie-50">
+Adopted by CAA Board of Directors, April 16, 1977; revised October 12, 1991. </kw><br>
+<br>
+<strong><kw class="krdwrd-tag-2-90">DEFINITION AND PURPOSE</kw></strong><br>
+<br><kw class="krdwrd-tag-3-100">
+The M.F.A., unlike most master's degrees, is used as a </kw><em><kw class="krdwrd-tag-3-100">guarantee</kw></em><kw class="krdwrd-tag-3-100"> of a 
+high level of professional competence in the visual arts. It is also accepted 
+as an indication that the recipient has reached the end of the </kw><em><kw class="krdwrd-tag-3-100">formal</kw></em><kw class="krdwrd-tag-3-100"> 
+aspects of his/her education in the making of art, that is to say, it is the terminal 
+degree in visual arts education and thus equivalent to terminal degrees in other 
+fields, such as the Ph.D. or Ed.D.</kw><br>
+<br><kw class="krdwrd-tag-3-100">
+First and foremost, the profession demands from the recipient of the M.F.A. a 
+certifiable level of technical proficiency and the ability to make art. However, 
+having earned the degree does not necessarily guarantee an ability to teach this 
+proficiency to others. When work toward the M.F.A. has been concentrated in a 
+particular medium, there should be complete professional mastery of that medium. 
+The generalist, whose preparation has been broader and less specialized, must 
+still meet the critical demands of the profession by convincingly demonstrating 
+expertise and knowledge in a number of areas. The need for thorough training of 
+the mind, the eye, and the hand is self-evident. The remainder of this document 
+outlines specific standards and requirements for the M.F.A. that are approved 
+and endorsed by the CAA Board of Directors.</kw><br>
+<strong><kw class="krdwrd-tag-2-90">DEGREE REQUIREMENTS</kw></strong> 
+<h4><kw class="krdwrd-tag-2-90">Definition of Credit</kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">Because credits are a unit of measure, reflecting amounts of work 
+  over certain periods of time, a precise definition is needed in order to reconcile 
+  the differing academic record-keeping arrangements that exist throughout the 
+  nation. The College Art Association recognizes a standard in which one semester 
+  credit represents three hours of work per week over a semester of at least fifteen 
+  weeks (one-quarter credit is the equivalent of 66 percent of a semester credit). 
+  Work toward credit may take place in formal classes, critiques, and technical 
+  workshops, or may be independent studio activity. While the distribution of 
+  time spent between formal and independent options is a decision that must be 
+  made by the faculty, who determine specific educational patterns within a given 
+  institution and a given discipline, the ratio of three hours of work per credit 
+  must be met.</kw></blockquote>
+<h4><kw class="krdwrd-tag-2-90">Credit Requirements</kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">The minimum requirement for the M.F.A. is 60 semester credits of course 
+  work at the graduate level (or 90 quarter credits), including courses in art 
+  history and cognate areas of study. These required credits may not include course 
+  work that is required as make-up for undergraduate deficiencies.</kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  Undergraduate degrees (B.A., B.F.A., B.S., B.Ed.) differ in disciplinary credit 
+  distribution and educational emphasis. In order to compensate for these differences 
+  in the studies (both undergraduate and graduate) leading ultimately to the M.F.A. 
+  degree, the following combined (undergraduate </kw><em><kw class="krdwrd-tag-3-100">plus</kw></em><kw class="krdwrd-tag-3-100"> graduate) semester 
+  credit totals are recommended: art studio, 100; history of art, 24. However, 
+  new genres/disciplines in the visual arts at the graduate level may require 
+  or take into consideration undergraduate study outside traditional art studio 
+  areas (video and computer-based art, for example). Thus the total semester credit 
+  hours recommended for the undergraduate/graduate program leading to the M.F.A. 
+  in studio art may have to be adjusted to include appropriate course work relevant 
+  to new genres of studio practice. The above recommendations are not absolute 
+  minimum requirements, but provide reasonable guidelines for faculties concerned 
+  with maintaining the standards of the profession. </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  In addition to the required number of credits, which are essential, the M.F.A. 
+  as a terminal degree demands a level of maturity that can develop only from 
+  study over an extended period of time. It is strongly recommended that there 
+  be a balance between classes with scheduled meetings and those that are supervisory; 
+  the practice of basing the M.F.A. entirely on supervisory courses and individual 
+  critiques must be discouraged, as this format does not lend itself to sustained 
+  intellectual, artistic, and theoretical exchange. Moreover, CAA strongly recommends 
+  that two years of study for the degree be considered an absolute minimum, with 
+  three years preferable and advisable. </kw></blockquote>
+<h4><kw class="krdwrd-tag-2-90">Studio Curriculum</kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">It is not the intention of CAA to provide curriculum outlines and 
+  thus undermine the valid principle of diversity in higher education. Credit 
+  distribution must be left to individual programs in the belief that they will 
+  capitalize on their strengths and minimize their weaknesses in order to provide 
+  the most sound education possible. At the same time, there are certain requirements 
+  and standards that should be considered in every program of study. </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  Graduate faculties have the responsibility of structuring courses and course 
+  sequences in studio disciplines to lead to the achievement of professional competence. 
+  This goal may be met through concentration in any one specific discipline (painting, 
+  sculpture, performance, ceramics, video, etc.) and/or by intelligently designed 
+  interdisciplinary programs of study. For the latter, it should be stressed that 
+  the range of diversity must, of necessity, be limited in order to guarantee 
+  the depth of involvement demanded by graduate standards in each discipline. 
+  Each student deserves from the staff careful consideration of individual needs 
+  and conscientious direction in planning an appropriate course of study. </kw></blockquote>
+<h4><kw class="krdwrd-tag-2-90">Requirements in Art History, Art Criticism, and Other Cognate Areas </kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">Much of a practicing artist's knowledge of our cultural heritage is 
+  gained through studying art history. Accordingly, formal courses in art history 
+  are considered essential to an M.F.A. program (CAA recommends a minimum combined 
+  undergraduate and graduate total of 24 semester credits). For M.F.A. candidates, 
+  advanced courses on various historical periods, styles, and themes are strongly 
+  recommended. To encourage greater diversity among students seeking the professional 
+  degree, requirements should include options stressing the history and role of 
+  the visual arts in cultures other than those of Western Europe and North American. 
+  (Statistics compiled by the National Association of Schools of Art and Design 
+  indicate that the number of students of color completing the M.F.A. degree remains 
+  disproportionately low.) Seminars in modern and contemporary art history, theory, 
+  and criticism are especially appropriate for M.F.A. candidates. Art criticism, 
+  which develops from art history and in some respects cannot be separated from 
+  it, is another crucial part of the informed artist's education. Self-criticism 
+  and external comparison are among the means by which artists evaluate their 
+  ideas, processes, and/or the objects they make; these skills cannot be left 
+  entirely to intuition or casually grasped assumptions. A large part of criticism 
+  of self and others is verbal (in many cases, a major component of a work of 
+  art may be verbal); therefore, verbal skills must not be ignored. The need for 
+  continual writing, criticism, and self-explication in the careers of most artists 
+  is self-evident. </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  Other disciplines of educational value to the student should also be encouraged 
+  where relevant, and may in some cases replace art history, theory, and/or criticism 
+  courses. In addition to helping students design their programs of study, the 
+  faculty must consider all of their individual needs and advise M.F.A. candidates 
+  to take full advantage of appropriate resources in areas both in and outside 
+  the visual arts that are available in the M.F.A. granting institution, guiding 
+  them to learning in such cognate areas as will augment the total educational 
+  experience. </kw></blockquote>
+<h4><kw class="krdwrd-tag-2-90">Theses and Comprehensive Examinations </kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">A written thesis on art history or theory should not necessarily be 
+  required; however, a critical statement, in writing, on the student's work, 
+  its development, and its cultural and historical references should be insisted 
+  on as a logical alternative. </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  Comprehensive, out-of-class art history examinations, whether oral or written, 
+  should not be required. High-quality performance in course work itself can be 
+  counted on as assurance of the student's having a good working knowledge of 
+  the material. </kw></blockquote>
+<h4><kw class="krdwrd-tag-2-90">Graduate Exhibition </kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">As a final step prior to receiving the degree, each M.F.A. candidate 
+  should be required to mount a substantial exhibition of his/her work. Some schools 
+  face a difficult problem of providing satisfactory spaces for individual exhibitions, 
+  which should be solved by finding large facilities for group shows, either on 
+  or off campus. Even when space considerations necessitate group exhibitions, 
+  however, every care must be taken to insure that individual students are able 
+  to place a sufficient number of works together for viewers to assess their development. 
+  This is particularly important in contexts in which the M.F.A. exhibition serves 
+  as an introduction of the student's work to a larger professional art community. 
+  Since the profession demands from M.F.A. degree recipients an ability "to make 
+  art," a faculty, institutional, and public review of the final product is absolutely 
+  necessary. </kw></blockquote>
+<h4><kw class="krdwrd-tag-2-90">Slide Portfolio and Retention of Student Work </kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">A slide portfolio of the M.F.A. exhibition should be required and 
+  kept by the school for the record. In addition, institutional resources should, 
+  if possible, be used to purchase one or more examples of work for the school's 
+  permanent collection. CAA, in its resolution of April 29, 1972, has discouraged 
+  the all-too-prevalent past practice of institutions </kw><strong><kw class="krdwrd-tag-3-100">demanding,</kw></strong><kw class="krdwrd-tag-3-100"> 
+  without compensation, examples of student work. The acquisition of student work 
+  assumes the existence of adequate display and/or storage facilities for artwork. 
+</kw></blockquote>
+<strong><kw class="krdwrd-tag-2-90">ADMISSIONS</kw></strong> 
+<h4><kw class="krdwrd-tag-2-90">Preadmission Preparation and Dealing with Deficiencies </kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">Admission to M.F.A. programs should be based on the nature, extent, 
+  and quality of undergraduate preparation, including courses in studio art, art 
+  history, and other academic subjects. Quality of studio preparation can best 
+  be judged on the basis of careful evaluation of work done at the undergraduate 
+  level; therefore, a portfolio review is regarded as an absolute necessity in 
+  the admissions process. </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  While many institutions consider the B.F.A. to be the standard qualifying degree, 
+  the fact that the applicant has attended a B.A. or B.S.-granting institution 
+  does not necessarily rule out acceptance in most M.F.A. programs. Whatever the 
+  undergraduate degree, most entering graduate students tend not to be completely 
+  prepared in one or more of the areas cited above and will require remedial work. 
+  </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  Prior to the admission of a successful applicant, the graduate faculty should 
+  determine the individual's deficiencies in studio art, art history, and general 
+  studies and inform the student of its findings. The prospective student should 
+  also be given a clear indication of the prerequisite make-up the institution 
+  will require, emphasizing that no course work to compensate for gaps in undergraduate 
+  preparation can be counted as contributing to the minimum number of credits 
+  required for the M.F.A. degree. </kw></blockquote>
+<h4><kw class="krdwrd-tag-2-90">Advising on Degree Requirements </kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">Admission committees are urged to clearly inform each potential student 
+  of the institution's M.F.A. requirements and other relevant matters concerning 
+  the specific make-up of the degree program, pointing out the various guidelines 
+  previously outlined in this document, including the minimum of 60 graduate credits, 
+  and other curricular requirements. </kw></blockquote>
+<h4><kw class="krdwrd-tag-2-90">The M.A. as a Qualifying Prerequisite </kw></h4>
+<blockquote><kw class="krdwrd-tag-3-100">Some institutions use the M.A. degree (30 credits) as a qualifying 
+  prerequisite for final acceptance into M.F.A. candidacy, allowing the student 
+  to apply the earned credits toward the higher degree. This practice is legitimate 
+  only if the quality of work toward the M.A. is acceptable within the terminal 
+  degree standards, and if total degree requirements are ultimately met. </kw></blockquote>
+<strong><kw class="krdwrd-tag-2-90">GRADUATE FACULTY</kw></strong><br>
+<blockquote><kw class="krdwrd-tag-3-100">It is axiomatic that M.F.A. programs should have excellent and well-qualified 
+  teachers. While quality of teaching is of primary importance, professional recognition 
+  of individual faculty members is also desirable. Not every good teacher needs 
+  to be a recognized star, but CAA is concerned that all graduate faculty members 
+  be fully competent professionally and that they be professionally active in 
+  their respective disciplines and fields. This standard does not necessarily 
+  imply the imposition of age and experience standards. Some very young artist/teachers 
+  are as well qualified as many faculty members who have taught for a number of 
+  years. Each individual must be judged on his/her own strengths and weaknesses. 
+  </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  A faculty needs to be large enough so that students can receive the amount of 
+  instruction they deserve, and diverse enough in its areas of expertise to cover 
+  thoroughly all fields offered. It is not necessary for every institution to 
+  offer everything; however, the disciplines that it does and does not offer should 
+  be made clear to all applicants. To guarantee graduate programs of quality, 
+  it is of critical importance that schools or university departments offer fields 
+  of study only when excellent instructional resources are available in a specific 
+  discipline or within an interdisciplinary range. </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  Visiting artists and visiting lecturers can provide inspiration and broadened 
+  horizons for any student body (and faculty), multiplying diversity of intellectual, 
+  aesthetic, and cultural points of view, from which all can benefit. Full value 
+  from such outside authorities, however, usually demands more extended contact 
+  than that afforded by a one-hour lecture, which can leave students with only 
+  fragmentary, superficial impressions of what they have heard and seen. Visits 
+  of several days duration are recommended. It is also important that affirmative 
+  action goals not be solely addressed through visiting artist programs; rather, 
+  permanent faculties should reflect not only gender but also other demographic 
+  patterns. </kw></blockquote>
+<strong><kw class="krdwrd-tag-2-90">FACILITIES</kw></strong><br>
+<blockquote><kw class="krdwrd-tag-3-100">M.F.A. programs should be offered only in those areas that are fully 
+  and adequately equipped with a reasonably full range of available technology 
+  and satisfactory working spaces for the students. While facilities can never 
+  take the place of gifted teachers and students, the better they are, the more 
+  those using them will benefit. Specialized equipment is absolutely necessary 
+  in some areas, and students should not only become technically competent in 
+  its use, but should also understand fully safe shop and studio practices and 
+  procedures. </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  Private studios for graduate students are a near necessity, though they should 
+  not be so private--so segregated--that they prevent healthy contact and interchange. 
+  Independent studios should be supplemented by readily available access to all 
+  shops, labs, and general studios. In institutions that do not provide private 
+  studios for graduate students, students must have access to a private communal 
+  space set aside for their specific needs as a community. </kw><br>
+  <br><kw class="krdwrd-tag-3-100">
+  No M.F.A. program can exist without adequate library, museum, and exhibition 
+  resources. The need for access to the library at all hours, within reason, is 
+  clear. M.F.A. students must have reasonable access to the visual cultures of 
+  the past and have continuous contact with the works of the present. </kw></blockquote>
+<strong><kw class="krdwrd-tag-2-90">FINANCIAL SUPPORT</kw></strong><br>
+<blockquote><kw class="krdwrd-tag-3-100"> It is not appropriate, within the limits of this document, to deal 
+  at length with the important subject of graduate assistantships and other forms 
+  of financial assistance. At the same time, CAA wishes to enunciate two principles 
+  that have direct bearing on the question of standards in M.F.A. programs:</kw><br>
+  <br><kw class="krdwrd-tag-3-90">
+  1. No graduate academic credit should be given for teaching or other assistantship 
+  work for which pay is received.</kw><br>
+  <br><kw class="krdwrd-tag-3-90">
+  2. When graduate faculties distribute assistantship assignments, they must consider 
+  with care the hours each week needed by their students to complete the academic 
+  obligations expected of them. The foregoing requirements and guidelines define 
+  clearly the amount of time and commitment necessary to justify the granting 
+  of the M.F.A. Undue interference with the right of students to apply themselves 
+  to their primary mission in graduate school is both unfair and unwise. </kw></blockquote>
+	</div>
+	
+	<hr>
+
+	<div id="fine_mod">
+				<p id="bottom_menu"><a href="http://www.collegeart.org/advertising/"><kw class="krdwrd-tag-1-100">Advertise</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="http://www.collegeart.org/partners/"><kw class="krdwrd-tag-1-100">Partners</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="http://www.collegeart.org/prints/"><kw class="krdwrd-tag-1-100">Fine Art Prints</kw></a><kw class="krdwrd-tag-1-100">| </kw><a href="http://www.collegeart.org/privacy-policy/"><kw class="krdwrd-tag-1-100">Privacy Policy</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="http://www.collegeart.org/refund-policy/"><kw class="krdwrd-tag-1-100">Refund Policy</kw></a><kw class="krdwrd-tag-1-100"> | </kw><a href="http://www.collegeart.org/sitereqs/"><kw class="krdwrd-tag-1-100">Website Requirements</kw></a></p>
+		
+		<p><kw class="krdwrd-tag-1-100">Copyright © 2008 College Art Association.</kw></p> 
+		
+		<p class="contact"><kw class="krdwrd-tag-1-100">275 Seventh Avenue, 18th Floor, New York, NY 10001 | T: 212-691-1051 | F: 212-627-2381 | </kw><a href="mailto:nyoffice@collegeart.org"><kw class="krdwrd-tag-1-100">nyoffice@collegeart.org</kw></a></p>
+		
+		<p><kw class="krdwrd-tag-1-90">The College Art Association supports all practitioners and interpreters of visual art and culture, including artists and scholars, who join together to cultivate the ongoing understanding of art as a fundamental form of human expression. Representing its members’ professional needs, CAA is committed to the highest professional and ethical standards of scholarship, creativity, connoisseurship, criticism, and teaching.</kw></p>
+	</div>
+	<br clear="all">
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-163099-2";
+urchinTracker();
+</script>
+
+<div id="overlay"></div><div class="loading" id="lightbox"><div id="lbLoadMessage"><p><kw class="krdwrd-tag-1-100">Loading</kw></p></div></div><div id="overlay"></div><div class="loading" id="lightbox"><div id="lbLoadMessage"><p class="krdwrd-tag-1-100">Loading</p></div></div></body>

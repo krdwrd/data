@@ -1,0 +1,848 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://msnmy.oberon-media.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>MSN Games</title>
+
+
+
+	
+	
+	<meta name="Revisit-After" content="7 Days">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta http-equiv="imagetoolbar" content="no">
+	<link id="cssfile" href="/skin/oberon.css" rel="stylesheet" type="text/css">
+	<link id="cssfile" href="/skin/oberon2.css" rel="stylesheet" type="text/css">
+	<script language="javascript" src="/skin/DOMhunter.js"></script>
+<link media="screen" href="http://css.ap.msn.com/nhffs.css?v=20060815" rel="stylesheet"><link media="screen" href="http://css.ap.msn.com/ap.css?v=20060815" rel="stylesheet"><link id="cssfile" href="/skin/leftbar.css" rel="stylesheet" type="text/css"><link id="cssfile" href="/skin/oberon2.css" rel="stylesheet" type="text/css"><link></head><body topmargin="0" id="msn" bgcolor="#ffffff">
+<center>
+<!-- first table is responsible to align all the page to the top
+<table border="0" width="767"  cellpadding="0" cellspacing="0"> -->
+<table cellpadding="0" cellspacing="0" width="747">
+<tbody><tr>
+    <td colspan="2" style="padding-left: 8px; padding-top: 10px;">
+	<!-- Custom top bar -->
+	<!-- include the top bar here -->
+
+	<script src="http://js.ap.msn.com/OpLab.js?v=20060815"></script>
+	
+	
+	
+	
+	<img id="ctag" alt="" src="http://c.msn.com/c.gif?di=11&amp;pi=9573&amp;ps=10223&amp;tp=http://malaysia.msn.com/catbotent.aspx&amp;rf=" height="1" width="1">
+	<div class="hbanner">
+		<div id="msnhead" class="En">
+			<div class="showlink">
+				<div class="big6">
+					<ul>
+						<li><a href="http://malaysia.msn.com"><kw class="krdwrd-tag-1">MSN Home</kw></a></li>
+						<li><a href="http://www.hotmail.com"><kw class="krdwrd-tag-1">Hotmail</kw></a></li>
+						<li><a href="http://spaces.msn.com/?mkt=en-my"><kw class="krdwrd-tag-1">Spaces</kw></a></li>
+						<li><a href="http://messenger.msn.com.my"><kw class="krdwrd-tag-1">Messenger</kw></a></li>
+					</ul>
+				</div>
+				<div id="search">
+				<form id="qf" action="http://search.msn.com.my/results.aspx" class="searchnormal" method="get">
+					<fieldset id="fieldsearch">
+					<label accesskey="s" for="q"><kw class="krdwrd-tag-1">Web Search:</kw></label>
+					<input id="q" name="q" size="14" maxlength="150" type="text">
+					<input class="button" name="submit" value="Search" type="submit">
+					<input name="form" value="MSNHMY" type="hidden"></fieldset></form>
+				</div>
+			</div>
+			<div class="brand">
+				<div class="toollink">
+					<b></b><li><b><a href="http://help.msn.com/en_my/frameset.asp?ini=Autoportalv1.ini"><kw class="krdwrd-tag-1">Help</kw></a></b></li>
+				</div>
+				<h1>
+					<a href="http://malaysia.msn.com"><img alt="MSN Logo" id="logo" src="http://st.msn.com/as/shell/lg/pos/en-my_pos.gif" title="go to MSN.com" class="IMGNormal" height="35" width="118">
+					<script type="text/javascript" src="http://js.ap.msn.com/2.0/hdr40.js"></script>
+					<script type="text/javascript">var s="http://st.msn.com/as/shell/lg/pos/en-my_pos.gif";logo();</script></a>
+					<a id="sitename" class="IMGNormal" href="http://malaysia.msn.com"><kw class="krdwrd-tag-1">Games</kw></a>
+				</h1>
+			</div>
+		</div>
+	</div>
+
+	<!-- / End of include the top bar here -->
+    </td>
+</tr>
+<tr><td colspan="2"><img src="/graphics/1pixel.gif" alt="" border="0" height="6" width="1"></td></tr>
+
+<tr><td colspan="2" style="padding-left: 8px;" align="center" width="100%">
+<!--banner ad-->
+</td></tr>
+
+<tr><td colspan="2"><img src="/graphics/1pixel.gif" alt="" border="0" height="8" width="1"></td></tr>
+
+
+<tr>
+	<td style="padding-left: 8px;" valign="top" width="145">
+		<!-- Custom left bar -->
+		<!-- include the left bar here -->
+		<div style="font-family: Arial,Helvetica,sans-serif; color: rgb(255, 255, 255); font-weight: bold; font-size: 11px; padding-left: 15px; padding-top: 5px; width: 145px; height: 43px; background-image: url(&quot;/skin/images/leftbar_top145.gif&quot;); background-repeat: no-repeat; background-position: 0px 50%;"><kw class="krdwrd-tag-1">FEATURED GAME</kw></div>
+		<div style="background-color: rgb(45, 109, 179);">
+
+<script type="text/javascript">
+
+function omGoToCategory(newUrl) {
+  window.location.href = newUrl;
+  return false;
+}
+
+chosenCat = 0;
+function SwitchMenu(obj){
+	if(document.getElementById){
+    var el = document.getElementById(obj);
+    var ar = document.getElementById("cont").getElementsByTagName("DIV");
+        if(el.style.display == "none"){
+            for (var i=0; i<ar.length; i++){
+                ar[i].style.display = "none";
+            }
+            el.style.display = "block";
+        }else{
+            el.style.display = "none";
+        }
+    }
+    //close last icon opened
+    if (chosenCat > 0)
+	{
+		chosenCatMenu = "menu" + chosenCat;
+		chosenCatTd = "category_" + chosenCat;
+		chosenCatTdIcon = "icon_category_" + chosenCat;
+		if (document.getElementById) {
+			document.getElementById(chosenCatMenu).className = "LeftSideleftbar_menuOut";
+			document.getElementById(chosenCatTd).className = "LeftSideleftbar_category";
+			document.getElementById(chosenCatTdIcon).className = "LeftSideleftbar_icon_category";
+		}
+	}
+	//close this icon opened
+    if (chosenCat == obj)
+	{
+		chosenCatMenu = "menu" + chosenCat;
+		chosenCatTd = "category_" + chosenCat;
+		chosenCatTdIcon = "icon_category_" + chosenCat;
+		if (document.getElementById) { 
+			document.getElementById(chosenCatMenu).className = "LeftSideleftbar_menuOut";
+			document.getElementById(chosenCatTd).className = "LeftSideleftbar_category";
+			document.getElementById(chosenCatTdIcon).className = "LeftSideleftbar_icon_category";
+		}
+		chosenCat = 0;
+	}
+	//open new icon
+	else
+	{
+		chosenCat = obj;
+		chosenCatMenu = "menu" + chosenCat;
+		chosenCatTd = "category_" + chosenCat;
+		chosenCatTdIcon = "icon_category_" + chosenCat;
+		document.getElementById(chosenCatMenu).className = "LeftSideleftbar_menuOver";
+		document.getElementById(chosenCatTd).className = "LeftSideleftbar_categoryChosen";
+		document.getElementById(chosenCatTdIcon).className = "LeftSideleftbar_icon_categoryChosen";
+	}
+}
+function ChangeClass(menu, menuNum, newClass) { 
+     if (document.getElementById && chosenCat != menuNum) {
+         document.getElementById(menu).className = newClass;
+     } 
+} 
+
+
+document.onselectstart = new Function("return true");
+</script>
+
+
+<!-- Menu start -->
+<div id="cont">
+    <span class="LeftSideFeaturedGamesHeader">
+		<table border="0" cellpadding="0" cellspacing="0">
+			
+			<tbody><tr>
+				<td class="LeftSideleftbar_Header_Text"><kw class="krdwrd-tag-1">FEATURED GAME</kw></td>
+			</tr>
+			
+		</tbody></table>
+	</span>
+    <span id="menu1" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=1000&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_1',1,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_1',1,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_1"></td>
+				<td class="LeftSideleftbar_category" id="category_1"><kw class="krdwrd-tag-1">Top</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu2" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=1002&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_2',2,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_2',2,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_2"></td>
+				<td class="LeftSideleftbar_category" id="category_2"><kw class="krdwrd-tag-1">New</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu3" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=1007&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_3',3,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_3',3,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_3"></td>
+				<td class="LeftSideleftbar_category" id="category_3"><kw class="krdwrd-tag-1">Puzzle</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu4" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=1003&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_4',4,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_4',4,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_4"></td>
+				<td class="LeftSideleftbar_category" id="category_4"><kw class="krdwrd-tag-1">Action</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu5" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=110012530&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_5',5,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_5',5,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_5"></td>
+				<td class="LeftSideleftbar_category" id="category_5"><kw class="krdwrd-tag-1">Arcade</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu6" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=1006&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_6',6,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_6',6,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_6"></td>
+				<td class="LeftSideleftbar_category" id="category_6"><kw class="krdwrd-tag-1">Mahjong</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu7" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=1004&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_7',7,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_7',7,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_7"></td>
+				<td class="LeftSideleftbar_category" id="category_7"><kw class="krdwrd-tag-1">Cards</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu8" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=110011217&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_8',8,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_8',8,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_8"></td>
+				<td class="LeftSideleftbar_category" id="category_8"><kw class="krdwrd-tag-1">Sports</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu9" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=110015873&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_9',9,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_9',9,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_9"></td>
+				<td class="LeftSideleftbar_category" id="category_9"><kw class="krdwrd-tag-1">Kids</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu10" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=1005&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_10',10,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_10',10,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_10"></td>
+				<td class="LeftSideleftbar_category" id="category_10"><kw class="krdwrd-tag-1">Jigsaw</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+
+    <span id="menu11" class="LeftSideleftbar_menuOut" onclick="omGoToCategory('/category.htm?code=1008&amp;RefId=&amp;origin=leftbar_cat')" onmouseover="ChangeClass('category_11',11,'LeftSideleftbar_categoryChosen')" onmouseout="ChangeClass('category_11',11,'LeftSideleftbar_category')">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td class="LeftSideleftbar_icon_category" id="icon_category_11"></td>
+				<td class="LeftSideleftbar_category" id="category_11"><kw class="krdwrd-tag-1">Word</kw></td>
+			</tr>
+		</tbody></table>
+	</span>
+<span class="leftbar_border_bottom"></span>
+
+</div>
+
+
+<!-- // Menu end -->
+</div>
+		<div style="border-top: 1px solid rgb(109, 152, 205) ! important; width: 145px; height: 43px; font-size: 1px; line-height: 1px; background-image: url(&quot;/skin/images/leftbar_bottom145.gif&quot;); background-repeat: no-repeat; background-position: 0px 50%;"></div>
+		<!-- / End of left bar -->
+		<div style="width: 160px;">&nbsp;</div>
+		<!--skyscraper ad-->
+	</td>
+	<td align="left" valign="top" width="597">
+
+
+	
+
+	<script language="JavaScript" type="text/javascript">
+		//when mouse over item
+		function doMouseOver(obj)
+		{
+			obj.src = (obj.src).replace("_out", "_over");
+			return;
+		}
+		//when mouse out item
+		function doMouseOut(obj)
+		{
+			obj.src = (obj.src).replace("_over", "_out");
+			return;
+		}
+
+		//pop the online version popup
+		function popOnlineVersion(code)
+		{
+			window.open("/onlineGame.htm?code=" + code, "online", "width=780, height=535");
+			return;
+		}
+
+	</script>
+<center>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td valign="top" width="597">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td style="background-image: url(&quot;/graphics/msnmy/roundBorderHeader2.gif&quot;); background-position: right top; background-repeat: no-repeat;" height="21" valign="top" nowrap="nowrap">
+			<!-- Top nav bar -->
+				<table id="Table1" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr><td colspan="9" height="11"></td></tr>
+				<tr>
+					<td style="border-left: 1px solid rgb(88, 133, 217);" valign="top">&nbsp;<a href="/index.htm?RefId=&amp;Session=&amp;origin=pmenu_ind"><img src="/graphics/msnmy/en/navTopGames_out.gif" alt="" onmouseover="doMouseOver(this);" onmouseout="doMouseOut(this);" border="0" hspace="0"></a></td>
+					<td valign="top"><a href="/moreGames.htm?RefId=&amp;Session=&amp;origin=pmenu_mrgm"><img src="/graphics/msnmy/en/navMoreGames_out.gif" alt="" onmouseover="doMouseOver(this);" onmouseout="doMouseOut(this);" border="0" hspace="0"></a></td>
+
+	<!--<td valign="top"><a href="/multi.htm?RefId=&Session=&origin=pmenu_multi"><img src="/graphics/msnmy/en/navMultiGames_out.gif" alt="" hspace="0" border="0" onMouseOver="doMouseOver(this);" onMouseOut="doMouseOut(this);"></a></td>-->
+
+<script language="javascript">
+	if(navigator.appName == "Microsoft Internet Explorer") {
+		  document.write("<td valign=\"top\"><a href=\"/myGames.htm?RefId=&Session=&origin=pmenu_mygm\"><img src=\"/graphics/msnmy/en/navMy_out.gif\" alt=\"\" hspace=\"0\" border=\"0\" onMouseOver=\"doMouseOver(this);\" onMouseOut=\"doMouseOut(this);\"></a></td>");
+	}
+	else {
+		  document.write("<td valign=\"top\"><img src=\"/skin/images/nub.gif\" hspace=\"0\" vspace=\"3\" border=\"0\" alt=\"\"></td>");
+	}
+</script><td valign="top"><img src="/skin/images/nub.gif" alt="" border="0" hspace="0" vspace="3"></td><td valign="top"><img src="/skin/images/nub.gif" alt="" border="0" hspace="0" vspace="3"></td>
+
+					<td style="border-right: 1px solid rgb(88, 133, 217);" width="100%">&nbsp;</td>
+				</tr>
+				</tbody></table>
+			<!-- /Top nav bar -->
+			</td>
+		</tr>
+		<tr>
+			<td class="oberonBorder">
+
+        <script language="javascript">
+        //pop the support request popup
+        function popSupport()
+        {
+			window.open('https://www.oberon-media.com/channels/wizard/?ChannelID=1102467&ChannelURL=msnmy%2Eoberon%2Dmedia%2Ecom', 'support', 'width=450, height=515,scrollbars=yes');
+            return;
+        }
+        </script>
+        <!-- Content -->
+        <table id="Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr>
+            <td height="18">&nbsp;</td>
+        </tr>
+        <tr>
+            <td id="headerStrip" height="26"><div class="oberonH1"><kw class="krdwrd-tag-2">&nbsp;Support</kw></div></td>
+        </tr>
+        <tr>
+            <td height="10"></td>
+        </tr>
+        <tr>
+        <td>
+        <table style="table-layout: fixed;" id="Table2" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>        
+            <td valign="top">
+            <!-- Left column 396 -->
+            <table id="Table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+                <td><img src="/graphics/msnmy/en/faq.gif" border="0"></td>
+            </tr>
+            <tr>
+                <td>
+                <table id="Table4" border="0" cellspacing="8">
+				
+	<tbody><tr><td colspan="2"><div class="oberonH1"><kw class="krdwrd-tag-2">First steps</kw></div></td></tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#2" class="oberonNavM"><kw class="krdwrd-tag-1">What are the system requirements to run my games?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#4" class="oberonNavM"><kw class="krdwrd-tag-1">How do I download games?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#6" class="oberonNavM"><kw class="krdwrd-tag-1">How can I play the game after installation? </kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#8" class="oberonNavM"><kw class="krdwrd-tag-1">How do I buy a game? </kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#10" class="oberonNavM"><kw class="krdwrd-tag-1">Can I order the game on a CD-ROM?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#12" class="oberonNavM"><kw class="krdwrd-tag-1">After purchasing a game, how can I play the full version?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#14" class="oberonNavM"><kw class="krdwrd-tag-1">What is the 'My Games' page about? </kw></a></td>
+    </tr>
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1">&nbsp;</div></td></tr>
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1"><kw class="krdwrd-tag-2">Purchase Inquiries and Registration issues</kw></div></td></tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#18" class="oberonNavM"><kw class="krdwrd-tag-1">I purchased the game, it doesn't work? What should I do?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#20" class="oberonNavM"><kw class="krdwrd-tag-1">I can't buy the game because I receive an error message. What should I do?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#22" class="oberonNavM"><kw class="krdwrd-tag-1">How do I get my game's Registration Key?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#24" class="oberonNavM"><kw class="krdwrd-tag-1">I didn't receive confirmation letter and don't have registration key; what should I do? </kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#26" class="oberonNavM"><kw class="krdwrd-tag-1">My registration key doesn't work. The game says: 'Wrong Email or Key' what can I do?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#28" class="oberonNavM"><kw class="krdwrd-tag-1">I lost my registration key, how can I find it?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#30" class="oberonNavM"><kw class="krdwrd-tag-1">I lost my game; I can't find it on my computer. How can I get it back?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#32" class="oberonNavM"><kw class="krdwrd-tag-1">I changed my Email address; do I need to contact you?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#34" class="oberonNavM"><kw class="krdwrd-tag-1">I don't own a credit card / I don't like to give out my credit card details on the net. How can I purchase games?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#36" class="oberonNavM"><kw class="krdwrd-tag-1">Do I need to pay any tax? What is VAT? Who needs to pay it?</kw></a></td>
+    </tr>
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1">&nbsp;</div></td></tr>
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1"><kw class="krdwrd-tag-2">Problems While Playing</kw></div></td></tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#40" class="oberonNavM"><kw class="krdwrd-tag-1">The game doesn't start or doesn't run well. What should I do?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#42" class="oberonNavM"><kw class="krdwrd-tag-1">My screen is black and the game doesn't appear. What do I do?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#44" class="oberonNavM"><kw class="krdwrd-tag-1">The game runs very slow. What can I do?</kw></a></td>
+    </tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#46" class="oberonNavM"><kw class="krdwrd-tag-1">The game's graphics or sounds are not functioning properly. What can I do?</kw></a></td>
+    </tr>
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1">&nbsp;</div></td></tr>
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1"><kw class="krdwrd-tag-2">PROBLEMS WITH ONLINE GAMES</kw></div></td></tr>
+
+	<tr>
+		<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+        <td><a href="#51" class="oberonNavM"><kw class="krdwrd-tag-1">I tried to play a game online but I get only a blank screen or a black screen with a red cross.</kw></a></td>
+    </tr>
+
+				</tbody></table>
+				</td>
+			</tr>                            
+			<tr>
+                <td style="background-image: url(&quot;/graphics/msnmy/horzDottedLine.gif&quot;); background-repeat: repeat-x;" height="1"></td>
+            </tr>
+            <tr>
+                <td>
+                <table id="Table5" cellspacing="8"> 
+	                 
+	            <tbody><tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1"><kw class="krdwrd-tag-2">First steps</kw></div></td></tr>
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="2"></a><kw class="krdwrd-tag-2">What are the system requirements to run my games?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Each game has its own set of requirements. When you click 'More Info', you'll be able to read about the System requirements of each game and make sure that your system is compatible. Many games require operating software call DirectX from Microsoft. To install DirectX, Please visit </kw><a href="http://www.microsoft.com/windows/directx" target="_new"><kw class="krdwrd-tag-3">Microsoft's DirectX download center</kw></a><kw class="krdwrd-tag-3"> and follow the installation instructions.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="4"></a><kw class="krdwrd-tag-2">How do I download games?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">On each game page, click the Download button. When asked whether to open or save the file, click 'Open' button to proceed. A short installation procedure will run automatically on you machine. Keep following the instructions and you will be playing in a minute or two!</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="6"></a><kw class="krdwrd-tag-2">How can I play the game after installation? </kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">After your installation has been completed, a shortcut Icon should appear on your desktop. Double click on this Icon to start playing.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="8"></a><kw class="krdwrd-tag-2">How do I buy a game? </kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Click on the "Buy" button on the game's web page. Please make sure that you have successfully installed the free trial version, before attempting to buy.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="10"></a><kw class="krdwrd-tag-2">Can I order the game on a CD-ROM?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">When you buy the game you can mark the CD option. After choosing your country from the list, you'll be able immediately to see the additional shipping price. Its usually much easier to download the game directly from the Internet. CD shipment usually takes less than 2 weeks, although it can be a little longer for International deliveries.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="12"></a><kw class="krdwrd-tag-2">After purchasing a game, how can I play the full version?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Just click on the game icon on your desktop, the same way you did before buying the full version. When you purchased the game it should have been unlocked automatically, and its full version should be ready to play. If the game wasn't automatically unlocked, simply enter your registration keys which were sent to you in your confirmation email. To enter the registration key:
+</kw><br><kw class="krdwrd-tag-3">1) Go to your confirmation email, (This is the email that was sent to you to confirm your purchase of the game.) In that email you will find the Registration Key. The Registration Key is a special code of numbers and letters. Copy the Registration Key. 
+</kw><br><kw class="krdwrd-tag-3">2) Open the game. 
+</kw><br><kw class="krdwrd-tag-3">3) Click on the Button that says, "Enter Registration Key" 
+</kw><br><kw class="krdwrd-tag-3">4) Enter the Registration Key in the space provided.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="14"></a><kw class="krdwrd-tag-2">What is the 'My Games' page about? </kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">This page will let you see and run all the games you have downloaded in one convenient place. It includes information such as the trial time still left on every game and whether or not it was purchased. Click 'play now' on any game listed and it will automatically launch that game.</kw></td>
+</tr> 
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1">&nbsp;</div></td></tr>
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1"><kw class="krdwrd-tag-2">Purchase Inquiries and Registration issues</kw></div></td></tr>
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="18"></a><kw class="krdwrd-tag-2">I purchased the game, it doesn't work? What should I do?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Do not purchase the game again. First, try to download the game a second time, and open it. If that doesn't work, look for the solution at the following lines, you will probably find it helpful! If it still doesn't work </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-1">contact us</kw></a><kw class="krdwrd-tag-1">.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="20"></a><kw class="krdwrd-tag-2">I can't buy the game because I receive an error message. What should I do?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> as soon as possible with the exact error message you receive. Our dedicated support team will do the best to assist you to solve the problem and enjoy the game. </kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="22"></a><kw class="krdwrd-tag-2">How do I get my game's Registration Key?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">The registration code is normally not required, as after purchasing the game should be automatically unlocked. If you experience technical difficulties, try using the registration code provided in the automatic purchase confirmation email sent to you ( This is the email that was sent to you to confirm your purchase of the game. ) and follow these steps:</kw><br><kw class="krdwrd-tag-3">1) Copy the Registration Key. The Registration Key is a special code of numbers and letters. </kw><br><kw class="krdwrd-tag-3">2) Open the game. </kw><br><kw class="krdwrd-tag-3">3) Click on the Button that says, "Enter Registration Key." </kw><br><kw class="krdwrd-tag-3">4) Enter the Registration Key.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="24"></a><kw class="krdwrd-tag-2">I didn't receive confirmation letter and don't have registration key; what should I do? </kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">If you purchased the game from us, we sent you a confirmation letter. If you haven't received it yet then you may have entered a wrong Email address or had a problem with your Email, make sure it's not over its storage capacity. To inquire about your order please </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3">.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="26"></a><kw class="krdwrd-tag-2">My registration key doesn't work. The game says: 'Wrong Email or Key' what can I do?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Your registration code can be used only on the same computer that you used to purchase the game. There are no O's (letters) only 0 (zeros, numbers). To avoid mistakes Copy and Paste both the registration code and the Email address from your confirmation letter as explained here: 1. Put your mouse cursor (The I shape) on the left of the Key (or text) you would like to copy. Left-click on the mouse and drag it over the text you wish to highlight. You need to be accurate. Release your mouse button. You will see the text highlighted.</kw><br><kw class="krdwrd-tag-3">2. Now, when the cursor is on the highlighted area, right-click once on the mouse, a little menu will open. Choose (left-click once): Copy. The text is now copied.</kw><br><kw class="krdwrd-tag-3">3. Move to the document or area (the registration bar) you wish that text to be placed. Place the cursor there.</kw><br><kw class="krdwrd-tag-3">4. When you're there, right-click once to let the little menu open again. Left click on Paste.</kw><br><kw class="krdwrd-tag-3">Now you should have the entire key number as it is in the right place.</kw><br><kw class="krdwrd-tag-3">Still get an error message? Please </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> and provide full details of your purchase (the email address you used when purchasing, order number, game name) and the exact error messages that you are getting. </kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="28"></a><kw class="krdwrd-tag-2">I lost my registration key, how can I find it?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">If you purchased the game from us, please </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-1">.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="30"></a><kw class="krdwrd-tag-2">I lost my game; I can't find it on my computer. How can I get it back?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Visit the game page and click the Download full version button. When asked whether to open or save the file, click 'Open' button to proceed.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="32"></a><kw class="krdwrd-tag-2">I changed my Email address; do I need to contact you?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">The Email address is part of your personal code. Your old Email address will still work with your keys even after you changed it. </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> only if you want us to send you information about new games and special deals we launch from time to time.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="34"></a><kw class="krdwrd-tag-2">I don't own a credit card / I don't like to give out my credit card details on the net. How can I purchase games?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Please be advised that our ordering system is secured and authenticated. If you are still hesitant or don't own a credit card, we may be able to help you. Please </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> with the list of games that you would like to buy, and we'll do our best to supply you with a solution. </kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="36"></a><kw class="krdwrd-tag-2">Do I need to pay any tax? What is VAT? Who needs to pay it?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">European Union VAT is a general consumption tax assessed on the value added to goods and services only for EU citizens. For more information about that click: </kw><a href="https://secure.reg.net/help/WhatIsVAT.asp" target="_new"><kw class="krdwrd-tag-3">Value Added Tax (VAT).</kw></a><kw class="krdwrd-tag-3"> We also collect Colorado sales tax.</kw></td>
+</tr> 
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1">&nbsp;</div></td></tr>
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1"><kw class="krdwrd-tag-2">Problems While Playing</kw></div></td></tr>
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="40"></a><kw class="krdwrd-tag-2">The game doesn't start or doesn't run well. What should I do?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Many problems appear to get solved by un-installing the game, and then downloading it again. This may be caused by old or corrupted files. In order to make sure you have a fresh download, you may need to clear your browse's cache. To clear your browsers cache, open your internet browser ( for most computers, this is Internet Explorer) then go to Tool, then Internet Options, and click on Delete Files. While downloading a new version of the game, do not interrupt the download. Make sure that there are no other programs running when you install the game.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="42"></a><kw class="krdwrd-tag-2">My screen is black and the game doesn't appear. What do I do?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">It is possible that you do not have the latest version of DirectX installed on your computer. Please visit </kw><a href="http://www.microsoft.com/windows/directx" target="_new"><kw class="krdwrd-tag-3">Microsoft's DirectX download center</kw></a><kw class="krdwrd-tag-3"> and follow the instructions to install DirectX.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="44"></a><kw class="krdwrd-tag-2">The game runs very slow. What can I do?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Make sure your computer meets the game's system requirements. Then, close all other applications. You may need the restart your computer and try again.</kw></td>
+</tr> 
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="46"></a><kw class="krdwrd-tag-2">The game's graphics or sounds are not functioning properly. What can I do?</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><kw class="krdwrd-tag-3">Make sure your multimedia drivers are updated. If not, install the latest drivers from the website of the video or sound card's manufacturer. If that still doesn't work, </kw><a onclick="popSupport();" href="#"><kw class="krdwrd-tag-3">contact us</kw></a><kw class="krdwrd-tag-3"> for further assistance.</kw></td>
+</tr> 
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1">&nbsp;</div></td></tr>
+<tr><td colspan="2"><br></td></tr>
+	<tr><td colspan="2"><div class="oberonH1"><kw class="krdwrd-tag-2">PROBLEMS WITH ONLINE GAMES</kw></div></td></tr>
+
+<tr>
+	<td valign="top"><img src="/graphics/msnmy/arrowRight.gif" alt="" border="0" vspace="3"></td>
+	<td class="oberonNormalT"><a name="51"></a><kw class="krdwrd-tag-2">I tried to play a game online but I get only a blank screen or a black screen with a red cross.</kw></td>
+</tr>
+
+<tr>
+	<td></td>
+	<td class="oberonNormal"><a name="onlinegame"> </a><kw class="krdwrd-tag-3">
+In order to run this game you must make sure your computer has the latest version of these components installed: </kw><br>
+
+<a href="http://java.sun.com/webapps/getjava/BrowserRedirect?locale=en&amp;host=www.java.com:80" target="_new"><kw class="krdwrd-tag-3">Java</kw></a><kw class="krdwrd-tag-3">, 
+</kw><a href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_new"><kw class="krdwrd-tag-3">Flash</kw></a><kw class="krdwrd-tag-3">
+and </kw><a href="http://sdc.shockwave.com/shockwave/download/download.cgi" target="_new"><kw class="krdwrd-tag-3">Shockwave</kw></a>
+</td>
+</tr> 
+
+                </tbody></table>
+                </td>
+	    </tr><tr><td><br></td></tr>
+            
+            </tbody></table>
+	    <table id="Table6" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td><img src="/graphics/msnmy/en/Support.gif" border="0"></td>
+            </tr>
+            <tr>
+                <td>
+				                
+<table id="Table7" cellspacing="8">
+<tbody><tr>
+    <td class="oberonNormal"><kw class="krdwrd-tag-1">If you have a problem that is not solved by the FAQ list on this page, please click below to contact our customer support team. Inquiries sent to support will be answered promptly within 72 hour.
+</kw><br>
+<a name="clickToContact"> </a>
+<br><a class="normalT" onclick="popSupport();" href="#"><kw class="krdwrd-tag-1">Click here to contact us</kw></a>
+<br><kw class="krdwrd-tag-1">(will open a popup window)
+</kw></td>
+</tr>
+</tbody></table>
+
+                </td>
+            </tr>
+            </tbody></table>
+            <!-- /Left column -->
+            </td>
+        </tr>    
+        </tbody></table>
+        </td>
+        </tr></tbody></table>
+        <!-- /Content -->
+		
+		<br>
+		</td>
+	</tr>
+	<tr>
+		<td style="background-image: url(&quot;/graphics/msnmy/roundBorderFooter.gif&quot;); background-repeat: no-repeat;" align="left" height="45">
+			<table border="0" width="100%">
+			<tbody><tr>
+				<td>
+					<table>
+						<tbody><tr>
+							<td><a href="/about.htm?RefId=&amp;Session=&amp;origin=pmenu_about" class="oberonNormal"><kw class="krdwrd-tag-1">About us</kw></a></td>
+							<td class="oberonNormal"><img src="/graphics/common/navDivider.gif" alt="" border="0" height="22" width="5"></td>
+							<td class="oberonNormal"><a href="/support.htm?RefId=&amp;Session=&amp;origin=pmenu_support" class="oberonNormal"><kw class="krdwrd-tag-1">Support</kw></a></td>
+							<td class="oberonNormal"><img src="/graphics/common/navDivider.gif" alt="" border="0" height="22" width="5"></td>
+							<td class="oberonNormal"><a href="/notices.htm?RefId=&amp;Session=&amp;origin=pmenu_notices" class="oberonNormal"><kw class="krdwrd-tag-1">Notices</kw></a></td>
+							<td class="oberonNormal"><img src="/graphics/common/navDivider.gif" alt="" border="0" height="22" width="5"></td>
+							<td class="oberonNormal"><a href="/privacy.htm?RefId=&amp;Session=&amp;origin=pmenu_privacy" class="oberonNormal"><kw class="krdwrd-tag-1">Oberon Media Privacy</kw></a></td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td align="right" width="171"><img src="/graphics/common/presented.gif" alt="Oberon Media" border="0" hspace="8"></td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+</center>
+
+	</td>
+</tr>
+</tbody></table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="767">
+		<tbody><tr><td class="bottom-links" height="31" nowrap="nowrap">
+
+		<!--START msn footer-->
+		<div id="footer" style="width: 100%;">
+			<div id="msnfoot" style="font-size: 11px;">
+				<span style="color: rgb(102, 102, 102);"><kw class="krdwrd-tag-1">© 2006 Microsoft</kw></span>&nbsp;&nbsp;&nbsp;
+				<a href="http://privacy.msn.com.my/default.asp"><kw class="krdwrd-tag-1">MSN Privacy</kw></a>&nbsp;&nbsp;&nbsp;
+				<a href="http://privacy.msn.com.my/tou/default.asp"><kw class="krdwrd-tag-1">Legal</kw></a>&nbsp;&nbsp;&nbsp;
+				<a href="http://malaysia.msn.com/advertiseonmsn.aspx"><kw class="krdwrd-tag-1">Advertise</kw></a>&nbsp;
+				<span style="width: 360px;">&nbsp;</span>
+				<span>
+					<a href="http://ccc01.opinionlab.com/o.asp?id=aOubaHgb"><kw class="krdwrd-tag-1">Feedback</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;
+					</kw><a href="http://help.msn.com/en_my/frameset.asp?ini=Autoportalv1.ini"><kw class="krdwrd-tag-1">Help</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;
+					</kw><a href="http://support.msn.com/default.aspx?locale=en-my"><kw class="krdwrd-tag-1">Support</kw></a>
+				</span>
+			</div>
+		</div>
+		<!--END msn header-->
+
+
+		</td>
+	</tr>
+</tbody></table>
+
+</center>
+<script language="javascript" type="text/javascript">
+	//DOMHunter();
+</script>
+</body></html>

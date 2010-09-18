@@ -1,0 +1,2434 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://cardiovascres.oxfordjournals.org/cgi/content/full/59/2/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Influence of differential vascular remodeling on the coronary vasomotor response -- McLeod et al. 59 (2): 520 -- Cardiovascular Research</title>
+
+
+
+
+
+
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+	<script language="JavaScript">
+	<!--
+	function startTarget(windowname,wid,hei) {
+	
+	var dotpos = windowname.indexOf(".");
+	if (dotpos > -1)
+	{
+	var tempwn = windowname.substring(0,dotpos) +
+		windowname.substring(dotpos + 1, windowname.length);
+	windowname = tempwn;
+	}
+	var sizestring = 'width=' + wid + ',height=' + hei;
+	window.open('',windowname,'scrollbars,resizable,' + sizestring + '\'');
+	}
+	// -->
+	</script><!-- has inhead tag -->
+
+
+
+
+	
+	
+		 
+	
+		
+	<script language="JavaScript">
+		<!--
+			function RightslinkPopUp( title, date, author, copyright, contentID, volumeNum, issueNum, startPage, endPage, issn, eissn )
+			{
+				var url = "https://s100.copyright.com/AppDispatchServlet"; 
+				var location = url
+				+ "?publisherName=" + escape("oup")
+				+ "&publication=" + escape("cardiovascres")
+				+ "&title=" + escape(title)
+				+ "&publicationDate=" + escape(date)
+				+ "&author=" + escape(author)
+				+ "&copyright=" + escape(copyright)
+				+ "&contentID=" + escape(contentID)
+				+ "&volumeNum=" + escape(volumeNum)
+				+ "&issueNum=" + escape(issueNum)
+				+ "&startPage=" + escape(startPage)
+				+ "&endPage=" + escape(endPage)
+				+ "&issn=" + escape(issn)
+				+ "&eissn=" + escape(eissn)
+				+ "&orderBeanReset=true";
+				
+				PopUp = window.open( location,'Rightslink','location=no,toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550');
+			}
+		// -->
+	</script>
+
+	
+		
+<style type="text/css"><!--
+	@media screen,print,handheld
+{
+    .notonscreen { display: none; }
+}
+--></style><!-- ac in the head available -->
+
+
+ 
+
+		<style type="text/css"><!--
+table.content_box_outer_table {
+	padding-left:10px;
+	padding-bottom:5px;
+	padding-top:0px;
+	padding-right:0px;
+	}
+
+table.content_box_outer_table_in_sidebar_frame {
+	padding-left:10px;
+	padding-bottom:0px;
+	padding-top:10px;
+	padding-right:10px;
+	}
+
+table.content_box_inner_table {
+	background-color:#f0f0f0;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	}
+
+table.content_box_pdfinframes {
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:4px;
+	}
+
+td.content_box_title_highlight {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#000066;
+	font-size:120%;
+	font-weight:bold;
+	text-align:center;
+	padding:1px;
+	vertical-align:middle;
+	}
+
+td.content_box_title {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#828282;
+	font-size:120%;
+	font-weight:bold;
+	padding:1px;
+	text-align:center;
+	vertical-align:middle;
+	}
+
+td.content_box_space_between_sections {
+	padding-top:2px;
+	}
+
+td.content_box_arrow {
+	text-align:right;
+	padding-left:5px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_item {
+	text-align:left;
+	vertical-align:top;
+	padding-left:3px;
+	padding-right:5px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_pdfinframes_citation_cell {
+	background-color:#ffffff;
+	border:1px #000000 solid;
+	padding:3px;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	text-align:left;
+	}
+
+
+font.openaccess {
+	font-weight:bold;
+	padding-left:3px;
+	padding-right:3px;
+	background-color:#ffffff;
+	}
+font.openaccess_open {
+	color:#000000;
+	}
+font.openaccess_access {
+	color:#cc0000;
+	}
+font.openaccess_oa {
+	}
+.content_box_openaccess_title {
+	text-align:center;
+	white-space:nowrap;
+	background-color:#BABABA;
+	}
+
+
+
+
+div.referrer-based-search-line {
+	font-family: arial,sans-serif;
+	font-size: 0.75em;
+	background-color: #009918;
+	padding: 3px 25px;
+	margin: 0px 4px 5px 0px;
+}
+
+div.referrer-based-search-line .search-terms{
+	font-weight: bold;
+}
+
+div.referrer-based-search-line .collection-name{
+	font-style: italic;
+}
+
+@media screen,print,handheld
+{
+    .notonscreen { display: none; }
+}
+--></style>
+
+		
+
+<style type="text/css" media="screen">
+@import "/resource/css/hw.css";
+@import "/resource/css/cardiovascres.css";
+</style>
+<link rel="stylesheet" type="text/css" href="/resource/css/print.css" media="print">
+<script type="text/javascript" src="/resource/js/main.js"></script>
+
+		
+	    <script language="javascript">
+		<!-- 
+	function popwin(url,wid,hei,fromtop,fromleft) {
+		var winPref = "channelmode=no,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=no,width=" + wid + ",height=" + hei + ",top=" + fromtop + ",left=" + fromleft;
+		window.open(url, "popwin", winPref);
+	}
+	// -->
+	</script>
+        <script type="text/javascript" src="/javascript/ajax/xmlhttprequest.js"></script>
+<script type="text/javascript" src="/javascript/ajax/utility.js"></script>
+<script type="text/javascript" src="/javascript/entrez/callback.js"></script>
+
+	
+		
+	
+	
+<link rel="alternate" type="application/rss+xml" title="Cardiovasc Res current issue" href="http://cardiovascres.oxfordjournals.org/rss/current.xml"> 
+<link rel="alternate" type="application/rss+xml" title="Cardiovasc Res latest 3 issues" href="http://cardiovascres.oxfordjournals.org/rss/recent.xml"> 
+<link rel="alternate" type="application/rss+xml" title="Cardiovasc Res Advance Access articles" href="http://cardiovascres.oxfordjournals.org/rss/ahead.xml"> 
+
+
+<meta name="robots" content="nofollow">
+
+
+
+<meta name="citation_journal_title" content="Cardiovascular Research">
+<meta name="citation_issn" content="0008-6363">
+
+<meta name="citation_authors" content="McLeod, Andrew L.; Newby, David E.; Northridge, David B.; Fox, Keith A.A.; Uren, Neal G.">
+<meta name="citation_title" content="Influence of differential vascular remodeling on the coronary vasomotor response">
+<meta name="citation_date" content="08/01/2003">
+<meta name="citation_volume" content="59">
+<meta name="citation_issue" content="2">
+<meta name="citation_firstpage" content="520">
+<meta name="citation_id" content="59/2/520">
+<meta name="citation_mjid" content="cardiovascres;59/2/520">
+<meta name="citation_doi" content="10.1016/S0008-6363(03)00396-1">
+<meta name="citation_abstract_html_url" content="http://cardiovascres.oxfordjournals.org/cgi/content/abstract/59/2/520">
+<meta name="citation_fulltext_html_url" content="http://cardiovascres.oxfordjournals.org/cgi/content/full/59/2/520">
+<meta name="citation_pdf_url" content="http://cardiovascres.oxfordjournals.org/cgi/reprint/59/2/520.pdf">
+<meta name="citation_pmid" content="12909335">
+
+<meta name="dc.Contributor" content="McLeod, Andrew L.">
+<meta name="dc.Contributor" content="Newby, David E.">
+<meta name="dc.Contributor" content="Northridge, David B.">
+<meta name="dc.Contributor" content="Fox, Keith A.A.">
+<meta name="dc.Contributor" content="Uren, Neal G.">
+<meta name="dc.Title" content="Influence of differential vascular remodeling on the coronary vasomotor response">
+<meta name="dc.Identifier" content="10.1016/S0008-6363(03)00396-1">
+<meta name="dc.Date" content="08/01/2003">
+
+<meta name="ROBOTS" content="NOARCHIVE"></head><body class="general_page journal cardiovascres">
+
+
+<a name="top"><!-- null --></a>
+
+
+<!-- OAS SETUP begin -->
+<script type="text/javascript">
+<!--
+//configuration
+OAS_url ='http://oas.oxfordjournals.org/RealMedia/ads/';
+OAS_listpos = 'Top,Bottom';
+OAS_query = '?';
+OAS_sitepage = location.hostname + location.pathname;
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) { document.write('<a href="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" target=_top>');
+document.write('<img src="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" border=0></a>');
+}
+//-->
+</script>
+<script type="text/javascript">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1)
+OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<SC'+'ript language=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + OAS_query + '"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://oas.oxfordjournals.org/RealMedia/ads/adstream_mjx.ads/krdwrd.org/pages/dat/dumped/692/1333270334@Top,Bottom?"></script><script language="JavaScript1.1" src="http://oas.oxfordjournals.org/RealMedia/ads/adstream_mjx.ads/cardiovascres.oxfordjournals.org/cgi/content/full/59/2/520/1393138904@Top,Bottom?"></script><script type="text/javascript">
+<!-- document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11 && typeof(OAS_RICH)!='undefined')
+OAS_RICH(pos);
+else
+OAS_NORMAL(pos);
+}
+//-->
+</script>
+<!-- OAS SETUP end -->
+<div id="wrap">
+<p class="hide">
+<a href="#content"><kw class="krdwrd-tag-1">Skip Navigation</kw></a>
+</p>
+<div id="secondary_nav">
+<strong id="page_logo" title="Oxford Journals"><a href="http://www.oxfordjournals.org/"><span><kw class="krdwrd-tag-1">Oxford Journals</kw></span></a></strong>
+<ul>
+<li id="nav_contact_us" title="Contact Us"><a href="http://www.oxfordjournals.org/contact_us.html"><span><kw class="krdwrd-tag-1">Contact Us</kw></span></a></li>
+<li id="nav_my_basket" title="My Basket"><a href="https://secure.oxfordjournals.org/basket.html"><span><kw class="krdwrd-tag-1">My Basket</kw></span></a></li>
+<li id="nav_my_account" title="My Account"><a href="http://services.oxfordjournals.org/cgi/tslogin?url=http://www.oxfordjournals.org/service/Register"><span><kw class="krdwrd-tag-1">My Account</kw></span></a></li>
+</ul>
+</div>
+<div id="header">
+<h1 id="page_title" title="Cardiovascular Research"><a href="/"><span><kw class="krdwrd-tag-1">Cardiovascular Research</kw></span></a></h1>
+</div>
+<div id="primary_nav">
+<ul>
+<li id="nav_about_this_journal" title="About This Journal"><a href="http://www.oxfordjournals.org/cardiovascres/about.html"><span><kw class="krdwrd-tag-1">About This Journal</kw></span></a></li>
+<li id="nav_contact_this_journal" title="Contact This Journal"><a href="/cgi/feedback/"><span><kw class="krdwrd-tag-1">Contact This Journal</kw></span></a></li>
+<li id="nav_subscriptions" title="Subscriptions"><a href="/subscriptions/index.dtl"><span><kw class="krdwrd-tag-1">Subscriptions</kw></span></a></li>
+<li id="nav_current_issue" title="Current Issue"><a href="/current.dtl"><span><kw class="krdwrd-tag-1">Current Issue</kw></span></a></li>
+<li id="nav_archive" title="Archive"><a href="/archive/"><span><kw class="krdwrd-tag-1">Archive</kw></span></a></li>
+<li id="nav_search" title="Search"><a href="/search.dtl"><span><kw class="krdwrd-tag-1">Search</kw></span></a></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="user_nav">
+<!-- subline logic: standard default -->
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+
+
+
+
+	
+	
+	
+	 
+	
+
+
+	
+	
+
+
+
+
+				<!-- inst auth StSL--><!-- default inst auth  --><font face="verdana,arial,helvetica" size="-2">
+	<nobr><strong><kw class="krdwrd-tag-1">Institution: Universitat Osnabruck</kw></strong></nobr>
+	<nobr><a target="_top" href="/cgi/login?uri=%2Fcgi%2Fcontent%2Ffull%2F59%2F2%2F520"><kw class="krdwrd-tag-1">Sign In as Personal Subscriber</kw></a></nobr>
+	
+		
+		
+	
+	
+	</font>
+	
+ <!-- showauthstring -->
+	<!-- INST -->
+	<!-- INDV -->
+        <!-- SPONSORED -->
+	<!-- USER.PFA -->
+	<!-- USER.PFABSAIC -->
+	<!-- NOT GUEST -->
+	
+
+	
+
+
+
+ 
+
+
+</div>
+
+
+
+<div id="breadcrumbs">
+<ul>
+<li class="first">
+<a href="http://www.oxfordjournals.org"><kw class="krdwrd-tag-1">Oxford Journals</kw></a>
+</li>
+
+<li>
+<a href="http://www.oxfordjournals.org/subject/medicine//"><kw class="krdwrd-tag-1">Medicine</kw></a>
+</li>
+
+
+<li><a href="/"><kw class="krdwrd-tag-1">Cardiovascular Research</kw></a></li>
+
+<li><a href="/content/vol59/issue2/index.dtl"><kw class="krdwrd-tag-1">Volume 59, Number 2</kw></a></li>
+
+<li><kw class="krdwrd-tag-1">Pp. 520-526</kw></li>
+
+</ul>
+</div>
+
+<div id="articlenav">
+<a href="/cgi/content/short/59/2/512"><img src="/icons/toc/toc_arrowprev.gif" alt="left arrow" border="0"></a>&nbsp;<a href="/cgi/content/short/59/2/512"><kw class="krdwrd-tag-1">Previous Article</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="/cgi/content/short/59/2/527"><kw class="krdwrd-tag-1">Next Article</kw></a>&nbsp;<a href="/cgi/content/short/59/2/527"><img src="/icons/toc/toc_arrownext.gif" alt="right arrow" border="0"></a>
+</div> <div id="content">
+<a name="content"></a>
+<div id="hw">
+<!--OAS AD'Top'begin-->
+<div id="oas_top">
+<script type="text/javascript">
+<!--
+OAS_AD('Top');
+//-->
+</script><a href="http://oas.oxfordjournals.org/RealMedia/ads/click_nx.ads/krdwrd.org/pages/dat/dumped/692/1333270334@Top,Bottom%21Top?" target="_top"><img src="http://oas.oxfordjournals.org/RealMedia/ads/adstream_nx.ads/krdwrd.org/pages/dat/dumped/692/1333270334@Top,Bottom%21Top?" border="0"></a><a href="http://oas.oxfordjournals.org/RealMedia/ads/click_nx.ads/cardiovascres.oxfordjournals.org/cgi/content/full/59/2/520/1393138904@Top,Bottom%21Top?" target="_top"><img src="http://oas.oxfordjournals.org/RealMedia/ads/adstream_nx.ads/cardiovascres.oxfordjournals.org/cgi/content/full/59/2/520/1393138904@Top,Bottom%21Top?" border="0"></a>
+</div>
+<!--OAS AD'Top'end-->
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+		 
+
+
+	
+	
+	
+
+
+ 
+
+
+
+
+
+
+	 
+ 
+
+
+
+
+
+
+<font size="-1"><kw class="krdwrd-tag-1">Cardiovascular Research 2003 59(2):520-526; doi:10.1016/S0008-6363(03)00396-1
+
+</kw><br><kw class="krdwrd-tag-1">
+
+© 2003 by </kw><a href="/misc/terms.dtl"><kw class="krdwrd-tag-1">European Society of Cardiology</kw></a><br>
+
+</font> 
+
+
+
+ 
+	 
+		  
+			
+	
+		<table class="content_box_outer_table" align="right">
+		
+		
+			<tbody><tr>
+			<td>
+		
+	
+
+<!-- beginning of inner table -->
+	<table class="content_box_inner_table">
+<!-- citation -->
+
+	
+		
+
+
+
+
+	
+
+	
+
+	
+		
+			
+<tbody><tr><td class="content_box_title_highlight" colspan="2"><kw class="krdwrd-tag-1">This Article</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+				
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				
+				<strong><a href="/cgi/content/abstract/59/2/520"><kw class="krdwrd-tag-1">
+				Abstract</kw></a></strong>
+				 					<img alt="Freely available" src="/icons/shared/toc/free.gif" border="0" width="32" height="7">
+				
+	
+				</td></tr>
+			
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+	
+
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+		
+	
+	
+		
+	
+
+	
+
+	
+		
+			
+		
+	
+
+	
+
+	
+	 
+
+	
+	 
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		<strong>
+		
+		
+		
+			
+				
+				
+					<a href="/cgi/reprint/59/2/520">
+		<strong><kw class="krdwrd-tag-1">FREE Full Text</kw></strong><kw class="krdwrd-tag-1"> (PDF) </kw><img alt="Freely available" src="/icons/shared/toc/free.gif" border="0" width="32" height="7"> </a>
+
+
+				
+			
+		
+		</strong>
+		</td></tr>
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+
+	
+		
+
+	
+		
+		
+
+			
+
+
+	
+
+			
+
+			
+		
+	
+
+			
+	  
+	
+
+			
+
+			
+
+			
+	
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+
+	
+	
+	
+
+	
+		
+	
+
+	 
+
+	
+	
+		  
+    
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+		
+	
+		
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;saveAlert=no&amp;cited_by_criteria_resid=cardiovascres;59/2/520&amp;return_type=article&amp;return_url=http%3A%2F%2Fcardiovascres.oxfordjournals.org%2Fcgi%2Fcontent%2Ffull%2F59%2F2%2F520"><kw class="krdwrd-tag-1">
+				Alert me when this article is cited</kw></a></strong>
+			</td></tr>
+	
+
+		
+		
+
+		
+		
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;saveAlert=no&amp;correction_criteria_value=59/2/520&amp;return_type=article&amp;return_url=http%3A%2F%2Fcardiovascres.oxfordjournals.org%2Fcgi%2Fcontent%2Ffull%2F59%2F2%2F520"><kw class="krdwrd-tag-1">
+				Alert me if a correction is posted</kw></a></strong>
+			</td></tr>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		
+	
+
+			
+			
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Services</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/mailafriend?url=http%3A%2F%2Fcardiovascres.oxfordjournals.org%2Fcgi%2Fcontent%2Ffull%2F59%2F2%2F520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response"><kw class="krdwrd-tag-1">
+				Email this article to a friend</kw></a></strong>
+			</td></tr>
+			
+			
+
+
+	
+
+	
+
+	
+
+		
+		
+
+
+
+			
+			
+			
+		
+	
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		<strong>
+		<a href="/cgi/search?qbe=cardiovascres;S0008-6363_03_00396-1&amp;journalcode=cardiovascres&amp;minscore=5000"><kw class="krdwrd-tag-1">
+		Similar articles in this journal</kw></a>
+		</strong>
+		</td></tr>
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=12909335&amp;link_type=MED_NBRS"><kw class="krdwrd-tag-1">
+				Similar articles in PubMed</kw></a></strong>
+			</td></tr>
+		
+	
+
+
+		
+
+
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/etoc"><kw class="krdwrd-tag-1">
+				Alert me to new issues of the journal</kw></a></strong>
+			</td></tr>
+		
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=cardiovascres;59/2/520"><kw class="krdwrd-tag-1">
+				Add to My Personal Archive</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+			<strong><a href="/cgi/citmgr?gca=cardiovascres;59/2/520"><kw class="krdwrd-tag-1">
+			Download to citation manager</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+
+	
+		
+	
+
+	
+
+
+
+  			
+		
+		
+		
+	
+
+	
+	
+	
+	
+	
+
+
+
+	
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item"><strong><a href="#" onclick="RightslinkPopUp('Influence of differential vascular remodeling on the coronary vasomotor response',
+	'1 August 2003',
+	
+'Andrew L. McLeod, et. al.'
+
+,
+	'Copyright (c) 2003 by the European Society of Cardiology.',
+	'10.1016/S0008-6363(03)00396-1',
+	'59',
+	'2',
+	'520',
+	'526',
+	'0008-6363',
+	''); 
+	return false;"><kw class="krdwrd-tag-1">Request Permissions</kw></a></strong></td></tr>
+
+	
+
+
+		
+
+		
+
+	
+	
+	
+		
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+				
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Google Scholar</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AA.%20L.+author%3AMcLeod%22"><kw class="krdwrd-tag-1">
+							Articles by McLeod, A. L.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AN.%20G.+author%3AUren%22"><kw class="krdwrd-tag-1">
+							Articles by Uren, N. G.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+		
+		
+	
+	
+	
+		
+	
+	
+
+		
+			
+				
+					
+						
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://cardiovascres.oxfordjournals.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/59/2/520%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLARRELATED"><kw class="krdwrd-tag-1">Search for Related Content</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+		
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">PubMed</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=12909335&amp;link_type=PUBMED"><kw class="krdwrd-tag-1">
+				PubMed Citation</kw></a></strong>
+			</td></tr>
+		
+	
+
+	
+		
+		
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=McLeod+AL&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1">
+							Articles by McLeod, A. L.</kw></a></strong>
+						</td></tr>
+				
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Uren+NG&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1">
+							Articles by Uren, N. G.</kw></a></strong>
+						</td></tr>
+				
+			
+		
+
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+	
+
+		
+			
+		
+	 
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Social Bookmarking</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+	<tr><td class="content_box_arrow"><img alt=" " src="/icons/spacer.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		
+			
+			<a href="/cgi/external_ref?tag_url=http://cardiovascres.oxfordjournals.org/cgi/content/long/59/2/520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response+--+McLeod+et+al.+59+%282%29%3A+520+--+Cardiovasc+Res&amp;doi=10.1016/S0008-6363%2803%2900396-1&amp;link_type=CITEULIKE" title="CiteULike"><img src="/icons/shared/socbookmark/citeulike.gif" alt="Add to CiteULike" border="0"></a>&nbsp;&nbsp;
+			
+		
+			
+		
+			
+			<a href="/cgi/external_ref?tag_url=http://cardiovascres.oxfordjournals.org/cgi/content/long/59/2/520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response+--+McLeod+et+al.+59+%282%29%3A+520+--+Cardiovasc+Res&amp;doi=10.1016/S0008-6363%2803%2900396-1&amp;link_type=CONNOTEA" title="Connotea"><img src="/icons/shared/socbookmark/connotea.gif" alt="Add to Connotea" border="0"></a>&nbsp;&nbsp;
+			
+		
+			
+			<a href="/cgi/external_ref?tag_url=http://cardiovascres.oxfordjournals.org/cgi/content/long/59/2/520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response+--+McLeod+et+al.+59+%282%29%3A+520+--+Cardiovasc+Res&amp;doi=10.1016/S0008-6363%2803%2900396-1&amp;link_type=DEL_ICIO_US" title="Del.icio.us"><img src="/icons/shared/socbookmark/delicious.gif" alt="Add to Del.icio.us" border="0"></a>&nbsp;&nbsp;
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		<br><a href="http://www.oxfordjournals.org/help/features/index.html#socialbookmarking"><kw class="krdwrd-tag-1">What's this?</kw></a>
+	</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</tbody></table>
+</td></tr></tbody></table> 
+
+
+		
+	
+
+
+
+ 
+
+
+
+
+
+
+
+<p> 
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+    
+	
+	
+	
+	
+		<font size="-1">
+<a href="/misc/terms.shtml"><kw class="krdwrd-tag-1">Copyright © 2003, European Society of Cardiology</kw></a>
+</font><br>
+</p><h2><kw class="krdwrd-tag-2">
+Influence of differential vascular remodeling on the coronary vasomotor response</kw></h2>
+<strong>
+<nobr><kw class="krdwrd-tag-1">Andrew L. McLeod</kw><sup><kw class="krdwrd-tag-1">a</kw></sup><sup><kw class="krdwrd-tag-1">,b</kw></sup></nobr><kw class="krdwrd-tag-1">, 
+</kw><nobr><kw class="krdwrd-tag-1">David E. Newby</kw><sup><kw class="krdwrd-tag-1">a</kw></sup><sup><kw class="krdwrd-tag-1">,*</kw></sup></nobr><kw class="krdwrd-tag-1">, 
+</kw><nobr><kw class="krdwrd-tag-1">David B. Northridge</kw><sup><kw class="krdwrd-tag-1">b</kw></sup></nobr><kw class="krdwrd-tag-1">, 
+</kw><nobr><kw class="krdwrd-tag-1">Keith A.A. Fox</kw><sup><kw class="krdwrd-tag-1">a</kw></sup></nobr><kw class="krdwrd-tag-1"> and 
+</kw><nobr><kw class="krdwrd-tag-1">Neal G. Uren</kw><sup><kw class="krdwrd-tag-1">a</kw></sup></nobr>
+</strong><p>
+<font size="-1">
+<sup><kw class="krdwrd-tag-1">a</kw></sup><kw class="krdwrd-tag-1">Department of Cardiology, Royal infirmary, 51 Little France Crescent, Little France, Edinburgh EH16 4SA, UK</kw><br>
+<sup><kw class="krdwrd-tag-1">b</kw></sup><kw class="krdwrd-tag-1">Department of Cardiology, Western General Hospital, Crewe Road, Edinburgh EH4 2XU, UK
+</kw></font></p><p>
+
+<font size="-1"><sup><kw class="krdwrd-tag-1">*</kw></sup><kw class="krdwrd-tag-1"> Corresponding author. Tel.: +44-131-242-6422; fax: +44-131-242-6422.  </kw><span id="em0"><a class="krdwrd-tag-1" href="mailto:d.e.newby@ed.ac.uk">d.e.newby@ed.ac.uk</a></span><script type="text/javascript"><!--
+ var u = "d.e.newby", d = "ed.ac.uk"; document.getElementById("em0").innerHTML = '<a href="mailto:' + u + '@' + d + '">' + u + '@' + d + '<\/a>'//--></script></font></p><p>
+
+<font size="-1"><kw class="krdwrd-tag-1">Received 23 January 2003; </kw></font><font size="-1"><kw class="krdwrd-tag-1">accepted  9 April 2003</kw></font></p><p>
+
+<a name="ABS"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+Abstract
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Top</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">Abstract</kw></font><br>
+<a href="#SEC1"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">1. Introduction</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">2. Methods</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">3. Results</kw><br></a>
+<a href="#SEC4"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">4. Discussion</kw><br></a>
+<a href="#SEC5"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">5. Conclusions</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+
+<b><kw class="krdwrd-tag-2">Objectives:</kw></b><kw class="krdwrd-tag-3"> Arterial remodeling may increase or decrease the</kw><sup> </sup><kw class="krdwrd-tag-3">luminal encroachment of atherosclerotic plaques in the coronary</kw><sup> </sup><kw class="krdwrd-tag-3">circulation. However, the factors determining the nature and</kw><sup> </sup><kw class="krdwrd-tag-3">consequences of the remodeling process remain poorly characterized.</kw><sup> </sup><kw class="krdwrd-tag-3">The study aims were to assess whether the pattern of vascular</kw><sup> </sup><kw class="krdwrd-tag-3">remodeling influences the physical and vasomotor responses of</kw><sup> </sup><kw class="krdwrd-tag-3">the coronary arteries in vivo in man. </kw><b><kw class="krdwrd-tag-2">Methods:</kw></b><kw class="krdwrd-tag-3"> Coronary vessel</kw><sup> </sup><kw class="krdwrd-tag-3">area, distensibility and stiffness were determined in positively,</kw><sup> </sup><kw class="krdwrd-tag-3">negatively and non-remodeled arterial segments using intravascular</kw><sup> </sup><kw class="krdwrd-tag-3">ultrasound and Doppler flow measurement. Epicardial vasomotor</kw><sup> </sup><kw class="krdwrd-tag-3">responses were determined following intracoronary boluses of</kw><sup> </sup><kw class="krdwrd-tag-3">acetylcholine (10</kw><sup><kw class="krdwrd-tag-3">–6</kw></sup><kw class="krdwrd-tag-3"> and 10</kw><sup><kw class="krdwrd-tag-3">–4</kw></sup><kw class="krdwrd-tag-3"> M), adenosine (24–30</kw><sup> </sup><kw class="krdwrd-tag-3">µg) and nitroglycerin (200 µg). </kw><b><kw class="krdwrd-tag-3">Results:</kw></b><kw class="krdwrd-tag-3"> Fifty-six</kw><sup> </sup><kw class="krdwrd-tag-3">coronary arterial segments were studied in 25 patients. In comparison</kw><sup> </sup><kw class="krdwrd-tag-3">to non- and positively remodeled segments, negatively remodeled</kw><sup> </sup><kw class="krdwrd-tag-3">segments had a higher stiffness index (67±16 vs. 33±5</kw><sup> </sup><kw class="krdwrd-tag-3">and 38±8, respectively; </kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.02) and appeared to have</kw><sup> </sup><kw class="krdwrd-tag-3">lower compliance and distensibility (0.66±0.17 vs. 1.65±0.54</kw><sup> </sup><kw class="krdwrd-tag-3">and 0.94±0.18/mmHg; </kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3"> = NS). Non-remodeled segments had</kw><sup> </sup><kw class="krdwrd-tag-3">a greater change in vessel area with 10</kw><sup><kw class="krdwrd-tag-3">–6</kw></sup><kw class="krdwrd-tag-3"> M acetylcholine</kw><sup> </sup><kw class="krdwrd-tag-3">(4.9±0.8%), compared to positively and negatively remodeled</kw><sup> </sup><kw class="krdwrd-tag-3">segments (0.6±1.8% and –4.9±1.8%, respectively,</kw><sup> </sup><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.05). A significant degree of preservation of vasodilatation</kw><sup> </sup><kw class="krdwrd-tag-3">to 10</kw><sup><kw class="krdwrd-tag-3">–6</kw></sup><kw class="krdwrd-tag-3"> M acetylcholine was evident in positively remodeled</kw><sup> </sup><kw class="krdwrd-tag-3">compared with negatively remodeled segments (</kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.05). Nitroglycerin</kw><sup> </sup><kw class="krdwrd-tag-3">caused greater vasodilatation in non-remodeled segments (7.2±3.8%)</kw><sup> </sup><kw class="krdwrd-tag-3">than either positively or negatively remodeled segments (4.7±0.9</kw><sup> </sup><kw class="krdwrd-tag-3">and 3.7±0.6%, respectively, </kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.05). </kw><b><kw class="krdwrd-tag-2">Conclusions:</kw></b><sup> </sup><kw class="krdwrd-tag-3">Vascular remodeling is an important and major determinant of</kw><sup> </sup><kw class="krdwrd-tag-3">local epicardial vasomotor responses. Both structural and functional</kw><sup> </sup><kw class="krdwrd-tag-3">abnormalities are associated with negative remodeling that may</kw><sup> </sup><kw class="krdwrd-tag-3">contribute to the adverse effects of such lesions.</kw><sup> </sup></p><p>
+
+
+
+</p><p><strong><kw class="krdwrd-tag-1">KEYWORDS </kw></strong><kw class="krdwrd-tag-1"> Coronary circulation; Endothelial function; Blood flow; Remodeling; Acetylcholine</kw></p><p>
+<a name="SEC1"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+1. Introduction
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">1. Introduction</kw></font><br>
+<a href="#SEC2"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">2. Methods</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">3. Results</kw><br></a>
+<a href="#SEC4"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">4. Discussion</kw><br></a>
+<a href="#SEC5"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">5. Conclusions</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3">
+
+Coronary arterial remodeling is described by the response of</kw><sup> </sup><kw class="krdwrd-tag-3">the arterial wall to the presence of an atherosclerotic plaque.</kw><sup> </sup><kw class="krdwrd-tag-3">In many cases, the artery expands to accommodate the developing</kw><sup> </sup><kw class="krdwrd-tag-3">plaque burden such that there may be little or no luminal encroachment:</kw><sup> </sup><kw class="krdwrd-tag-3">so-called positive remodeling </kw><a href="#BIB1"><kw class="krdwrd-tag-3">[1]</kw></a><kw class="krdwrd-tag-3">. However, this vascular expansion</kw><sup> </sup><kw class="krdwrd-tag-3">may be absent (non-remodeled) or reversed (negatively remodeled)</kw><sup> </sup><kw class="krdwrd-tag-3">leading to more rapid luminal encroachment and the development</kw><sup> </sup><kw class="krdwrd-tag-3">of significant flow-limiting stenoses. The remodeling process</kw><sup> </sup><kw class="krdwrd-tag-3">can consequently have a profound influence on the outcome of</kw><sup> </sup><kw class="krdwrd-tag-3">atheroma deposition with the same plaque burden leading to either</kw><sup> </sup><kw class="krdwrd-tag-3">an absent (positive remodeling) or significant (negative remodeling)</kw><sup> </sup><kw class="krdwrd-tag-3">luminal stenosis and myocardial ischemia. To date, the factors</kw><sup> </sup><kw class="krdwrd-tag-3">determining the nature and consequences of the remodeling process</kw><sup> </sup><kw class="krdwrd-tag-3">remain poorly characterized.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+Since the seminal work of Furchgott and Zawadski, it has been</kw><sup> </sup><kw class="krdwrd-tag-3">widely recognized that the endothelium can influence vascular</kw><sup> </sup><kw class="krdwrd-tag-3">tone through an array of mediators </kw><a href="#BIB2"><kw class="krdwrd-tag-3">[2]</kw></a><kw class="krdwrd-tag-3">. Endothelial stimulation</kw><sup> </sup><kw class="krdwrd-tag-3">results in the rapid release of vasodilator mediators, including</kw><sup> </sup><kw class="krdwrd-tag-3">prostacyclin, nitric oxide and endothelium-derived hyperpolarising</kw><sup> </sup><kw class="krdwrd-tag-3">factor, as well as vasoconstrictor mediators, such as angiotensin</kw><sup> </sup><kw class="krdwrd-tag-3">II and endothelin-1. Indeed, both nitric oxide and endothelin-1</kw><sup> </sup><kw class="krdwrd-tag-3">are released continuously by the endothelium to regulate basal</kw><sup> </sup><kw class="krdwrd-tag-3">vascular tone and blood pressure </kw><a href="#BIB3"><kw class="krdwrd-tag-3">[3–6]</kw></a><a href="#BIB4"></a><a href="#BIB5"></a><a href="#BIB6"></a><kw class="krdwrd-tag-3">. Thus, there is</kw><sup> </sup><kw class="krdwrd-tag-3">an inextricable interplay between these endothelium-derived</kw><sup> </sup><kw class="krdwrd-tag-3">vasodilator and vasoconstrictor mediators that have a local</kw><sup> </sup><kw class="krdwrd-tag-3">counter-regulatory paracrine action on the adjacent vascular</kw><sup> </sup><kw class="krdwrd-tag-3">smooth muscle </kw><a href="#BIB7"><kw class="krdwrd-tag-3">[7]</kw></a><kw class="krdwrd-tag-3">.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+The endothelium responds to physical changes within the vascular</kw><sup> </sup><kw class="krdwrd-tag-3">lumen, such as leucocyte adhesion and alterations in shear stress,</kw><sup> </sup><kw class="krdwrd-tag-3">and the vessel wall, such as barotrauma and lipid deposition.</kw><sup> </sup><kw class="krdwrd-tag-3">Given these interactions, the integrity of endothelial function</kw><sup> </sup><kw class="krdwrd-tag-3">may profoundly influence the local vessel wall response to lipid</kw><sup> </sup><kw class="krdwrd-tag-3">deposition and atheroma formation </kw><a href="#BIB8"><kw class="krdwrd-tag-3">[8]</kw></a><kw class="krdwrd-tag-3">, and thereby determine</kw><sup> </sup><kw class="krdwrd-tag-3">the resultant pattern of vascular remodeling </kw><a href="#BIB9"><kw class="krdwrd-tag-3">[9,10]</kw></a><a href="#BIB10"></a><kw class="krdwrd-tag-3">. However,</kw><sup> </sup><kw class="krdwrd-tag-3">the exact relationship between endothelial function and the</kw><sup> </sup><kw class="krdwrd-tag-3">direction of vascular remodeling in atherosclerotic coronary</kw><sup> </sup><kw class="krdwrd-tag-3">arteries is unclear.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+The purpose of the present study was to assess whether the pattern</kw><sup> </sup><kw class="krdwrd-tag-3">of vascular remodeling influenced the physical and vasomotor</kw><sup> </sup><kw class="krdwrd-tag-3">responses of the coronary arteries in vivo in man. Using intravascular</kw><sup> </sup><kw class="krdwrd-tag-3">ultrasound (IVUS) and Doppler flow velocity measurement, the</kw><sup> </sup><kw class="krdwrd-tag-3">resting physical characteristics of vascular remodeling were</kw><sup> </sup><kw class="krdwrd-tag-3">determined, and the endothelium-dependent and -independent vasomotor</kw><sup> </sup><kw class="krdwrd-tag-3">function was characterized in remodeled coronary artery segments.</kw><sup> </sup></p><p>
+
+<a name="SEC2"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+2. Methods
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">1. Introduction</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">2. Methods</kw></font><br>
+<a href="#SEC3"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">3. Results</kw><br></a>
+<a href="#SEC4"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">4. Discussion</kw><br></a>
+<a href="#SEC5"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">5. Conclusions</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+<strong><kw class="krdwrd-tag-2">2.1 Patients</kw></strong><br><kw class="krdwrd-tag-3">
+
+Twenty-five patients (20 male, mean age 59±2 years) with</kw><sup> </sup><kw class="krdwrd-tag-3">angiographic evidence of mild to moderate coronary artery disease</kw><sup> </sup><kw class="krdwrd-tag-3">were recruited at the time of coronary angiography in two centres</kw><sup> </sup><kw class="krdwrd-tag-3">(Royal Infirmary and Western General Hospital, Edinburgh, UK).</kw><sup> </sup><kw class="krdwrd-tag-3">Patients were excluded if they had severe left main stem disease,</kw><sup> </sup><kw class="krdwrd-tag-3">left ventricular hypertrophy or significant concurrent illness.</kw><sup> </sup><kw class="krdwrd-tag-3">All patients had their coronary risk factors determined by standard</kw><sup> </sup><kw class="krdwrd-tag-3">clinical criteria. Hypercholesterolemia was defined as a fasting</kw><sup> </sup><kw class="krdwrd-tag-3">total cholesterol &gt;200 mg/dl prior to initiation of lipid</kw><sup> </sup><kw class="krdwrd-tag-3">lowering therapy. The study was undertaken with the approval</kw><sup> </sup><kw class="krdwrd-tag-3">of the local research ethics committee, in accordance with the</kw><sup> </sup><kw class="krdwrd-tag-3">principles outlined in the Declaration of Helsinki, and the</kw><sup> </sup><kw class="krdwrd-tag-3">written informed consent of each subject.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2">2.2 Study protocol</kw></strong><br><kw class="krdwrd-tag-3">
+
+All patients discontinued their medication on the study day,</kw><sup> </sup><kw class="krdwrd-tag-3">attended fasted and underwent diagnostic coronary angiography.</kw><sup> </sup><kw class="krdwrd-tag-3">Standard diagnostic images were taken using the Judkin's technique</kw><sup> </sup><kw class="krdwrd-tag-3">with a non-ionic contrast agent (Niopam</kw><sup><small><small><kw class="krdwrd-tag-3">TM</kw></small></small></sup><kw class="krdwrd-tag-3"> 340, MERCK Pharmaceuticals,</kw><sup> </sup><kw class="krdwrd-tag-3">Middlesex, UK). A non-tortuous, non-branching segment of artery</kw><sup> </sup><kw class="krdwrd-tag-3">with a reference luminal diameter of </kw><img src="/math/ge.gif" alt="≥" border="0"><kw class="krdwrd-tag-3">3.0 mm and luminal irregularity</kw><sup> </sup><kw class="krdwrd-tag-3">(diameter stenosis of 20–70%) was then identified for</kw><sup> </sup><kw class="krdwrd-tag-3">IVUS assessment. Where percutaneous coronary intervention was</kw><sup> </sup><kw class="krdwrd-tag-3">planned, the study was performed in an adjacent artery prior</kw><sup> </sup><kw class="krdwrd-tag-3">to the interventional procedure.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+A 7 French guiding catheter was used to cannulate the left or</kw><sup> </sup><kw class="krdwrd-tag-3">right coronary artery and, following a 5000 IU intravenous bolus</kw><sup> </sup><kw class="krdwrd-tag-3">of heparin (Leo Laboratories Ltd., Princes Risborough, UK),</kw><sup> </sup><kw class="krdwrd-tag-3">a 0.014 in. 12.5 MHz Doppler wire (Flowire</kw><sup><small><small><kw class="krdwrd-tag-3">TM</kw></small></small></sup><kw class="krdwrd-tag-3">, Endosonics, Rancho</kw><sup> </sup><kw class="krdwrd-tag-3">Cordova, CA) was passed across the arterial segment under study.</kw><sup> </sup><kw class="krdwrd-tag-3">A 3.2 F Ultracross</kw><sup><small><small><kw class="krdwrd-tag-3">TM</kw></small></small></sup><kw class="krdwrd-tag-3"> 30 MHz IVUS imaging catheter (Atlantis</kw><sup> </sup><kw class="krdwrd-tag-3">SCIMED</kw><sup><kw class="krdwrd-tag-3">®</kw></sup><kw class="krdwrd-tag-3">, Boston Scientific Corporation, Maple Grove, MN)</kw><sup> </sup><kw class="krdwrd-tag-3">was advanced over the Doppler wire (Nitrocine</kw><sup><small><small><kw class="krdwrd-tag-3">TM</kw></small></small></sup><kw class="krdwrd-tag-3">, SCWARZ Pharma</kw><sup> </sup><kw class="krdwrd-tag-3">Ltd, Chesham, UK).</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+The IVUS examination of the proximal artery was performed at</kw><sup> </sup><kw class="krdwrd-tag-3">0.5 mm/s using a motorized pullback device (Boston Scientific</kw><sup> </sup><kw class="krdwrd-tag-3">Corporation). All IVUS images were recorded on high fidelity</kw><sup> </sup><kw class="krdwrd-tag-3">s-VHS videotape for later off-line quantitative analysis. Subsequent</kw><sup> </sup><kw class="krdwrd-tag-3">three-dimensional computerized reconstruction of the two-dimensional</kw><sup> </sup><kw class="krdwrd-tag-3">IVUS images was performed using the TomTec</kw><sup><small><small><kw class="krdwrd-tag-3">TM</kw></small></small></sup><kw class="krdwrd-tag-3"> system (TomTec</kw><sup> </sup><kw class="krdwrd-tag-3">GmbH, Munich, Germany).</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2">2.3 Assessment of remodeled segments</kw></strong><br><kw class="krdwrd-tag-3">
+
+During the automated pullback, potential regions of interest</kw><sup> </sup><kw class="krdwrd-tag-3">(remodeled segments) were identified. Segments were selected</kw><sup> </sup><kw class="krdwrd-tag-3">for inclusion in the study if there was optimal image quality</kw><sup> </sup><kw class="krdwrd-tag-3">without rotational, angular or image artifacts; clear demarcation</kw><sup> </sup><kw class="krdwrd-tag-3">of the endoluminal and the external elastic laminal borders;</kw><sup> </sup><kw class="krdwrd-tag-3">and less than 180 degrees of calcification. Segment remodeling</kw><sup> </sup><kw class="krdwrd-tag-3">was defined according to existing criteria based on the vessel</kw><sup> </sup><kw class="krdwrd-tag-3">area at the index site relative to normal or near-normal proximal</kw><sup> </sup><kw class="krdwrd-tag-3">and distal reference segments. IVUS pullbacks were acquired</kw><sup> </sup><kw class="krdwrd-tag-3">to define these regions. This enabled classification of the</kw><sup> </sup><kw class="krdwrd-tag-3">remodeled segment by calculating the relative vessel area as</kw><sup> </sup><kw class="krdwrd-tag-3">the ratio of the vessel area at the index segment to the mean</kw><sup> </sup><kw class="krdwrd-tag-3">of the vessel area at proximal and distal reference segments.</kw><sup> </sup><kw class="krdwrd-tag-3">Categorization of segments was defined as follows: non-remodeled</kw><sup> </sup><kw class="krdwrd-tag-3">segments=vessel area ratio of &gt;0.95 and &lt;1.05; positively</kw><sup> </sup><kw class="krdwrd-tag-3">remodeled segments=ratio of &gt;1.05; and negatively remodeled</kw><sup> </sup><kw class="krdwrd-tag-3">segments=ratio of &lt;0.95.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2">2.4 Drug administration</kw></strong><br><kw class="krdwrd-tag-3">
+
+Following the pullback examination, the IVUS imaging catheter</kw><sup> </sup><kw class="krdwrd-tag-3">was repositioned at the index segment. The Doppler guide wire</kw><sup> </sup><kw class="krdwrd-tag-3">was retracted to the tip of the imaging catheter and maintained</kw><sup> </sup><kw class="krdwrd-tag-3">in a stable position by the short monorail segment of the IVUS</kw><sup> </sup><kw class="krdwrd-tag-3">catheter </kw><a href="#BIB11"><kw class="krdwrd-tag-3">[11,12]</kw></a><a href="#BIB12"></a><kw class="krdwrd-tag-3">. Acetylcholine at a dose of 10</kw><sup><kw class="krdwrd-tag-3">–6</kw></sup><kw class="krdwrd-tag-3"> and</kw><sup> </sup><kw class="krdwrd-tag-3">10</kw><sup><kw class="krdwrd-tag-3">–4</kw></sup><kw class="krdwrd-tag-3"> M (Miochol</kw><sup><small><small><kw class="krdwrd-tag-3">TM</kw></small></small></sup><kw class="krdwrd-tag-3">, OMJ Pharmaceuticals Inc.), adenosine</kw><sup> </sup><kw class="krdwrd-tag-3">at a dose of 24–30 µg (Sanofi Winthrop Ltd., Guildford,</kw><sup> </sup><kw class="krdwrd-tag-3">UK) and nitroglycerin at a dose of 200 µg (Schwarz Pharma</kw><sup> </sup><kw class="krdwrd-tag-3">Ltd.) were given as 2 ml boluses, followed by 2 ml 0.9% saline</kw><sup> </sup><kw class="krdwrd-tag-3">flush via the guide catheter </kw><a href="#BIB12"><kw class="krdwrd-tag-3">[12]</kw></a><kw class="krdwrd-tag-3">. The IVUS images and Doppler</kw><sup> </sup><kw class="krdwrd-tag-3">ultrasound were recorded simultaneously to allow the measurement</kw><sup> </sup><kw class="krdwrd-tag-3">of luminal area and blood flow velocity for 2 min following</kw><sup> </sup><kw class="krdwrd-tag-3">each drug bolus.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2">2.5 Ultrasound measurements</kw></strong><br><kw class="krdwrd-tag-3">
+
+Coronary artery cross-sectional area (vessel and luminal area)</kw><sup> </sup><kw class="krdwrd-tag-3">was measured using computerized planimetry (Clearview</kw><sup><small><small><kw class="krdwrd-tag-3">TM</kw></small></small></sup><kw class="krdwrd-tag-3">, Boston</kw><sup> </sup><kw class="krdwrd-tag-3">Scientific Corporation.) of the vessel lumen at the onset of</kw><sup> </sup><kw class="krdwrd-tag-3">the QRS complex (diastole) and the offset of the T wave (systole)</kw><sup> </sup><a href="#BIB13"><kw class="krdwrd-tag-3">[13]</kw></a><kw class="krdwrd-tag-3">. Blood flow velocity was determined using average peak</kw><sup> </sup><kw class="krdwrd-tag-3">velocity of the Doppler wire signal. Coronary artery blood flow</kw><sup> </sup><kw class="krdwrd-tag-3">was previously defined as half the product of the average peak</kw><sup> </sup><kw class="krdwrd-tag-3">velocity and the diastolic luminal cross-sectional area </kw><a href="#BIB12"><kw class="krdwrd-tag-3">[12,14]</kw></a><a href="#BIB14"></a><kw class="krdwrd-tag-3">.</kw><sup> </sup><kw class="krdwrd-tag-3">The atheromatous plaque volume was calculated using a well-validated</kw><sup> </sup><kw class="krdwrd-tag-3">edge detection algorithm as previously described and was expressed</kw><sup> </sup><kw class="krdwrd-tag-3">as mm</kw><sup><kw class="krdwrd-tag-3">3</kw></sup><kw class="krdwrd-tag-3"> per mm of vessel </kw><a href="#BIB12"><kw class="krdwrd-tag-3">[12,15,16]</kw></a><a href="#BIB15"></a><a href="#BIB16"></a><kw class="krdwrd-tag-3">. The distensibility index</kw><sup> </sup><kw class="krdwrd-tag-3">of the coronary artery was defined as [(</kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3">A</kw></i><kw class="krdwrd-tag-3">/</kw><i><kw class="krdwrd-tag-3">A</kw></i><kw class="krdwrd-tag-3">)/</kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">]</kw><font face="arial,helvetica"><kw class="krdwrd-tag-3">x</kw></font><kw class="krdwrd-tag-3">10</kw><sup><kw class="krdwrd-tag-3">3</kw></sup><kw class="krdwrd-tag-3">/mm Hg; where</kw><sup> </sup><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3">A</kw></i><kw class="krdwrd-tag-3"> represents the luminal area change between systole and diastole,</kw><sup> </sup><i><kw class="krdwrd-tag-3">A</kw></i><kw class="krdwrd-tag-3"> the smallest luminal area in diastole, and </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3"> the difference</kw><sup> </sup><kw class="krdwrd-tag-3">in systolic and diastolic blood pressure </kw><a href="#BIB13"><kw class="krdwrd-tag-3">[13,17,18]</kw></a><a href="#BIB17"></a><a href="#BIB18"></a><kw class="krdwrd-tag-3">. The stiffness</kw><sup> </sup><kw class="krdwrd-tag-3">index, </kw><i><kw class="krdwrd-tag-3">β</kw></i><kw class="krdwrd-tag-3">, was calculated using the following equation:</kw><sup> </sup><i><kw class="krdwrd-tag-3">β</kw></i><kw class="krdwrd-tag-3"> = [ln(</kw><i><kw class="krdwrd-tag-3">P</kw></i><sub><kw class="krdwrd-tag-3">sys</kw></sub><kw class="krdwrd-tag-3">/</kw><i><kw class="krdwrd-tag-3">P</kw></i><sub><kw class="krdwrd-tag-3">dias</kw></sub><kw class="krdwrd-tag-3">)]/(</kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3">D</kw></i><kw class="krdwrd-tag-3">/</kw><i><kw class="krdwrd-tag-3">D</kw></i><kw class="krdwrd-tag-3">), where </kw><i><kw class="krdwrd-tag-3">P</kw></i><sub><kw class="krdwrd-tag-3">sys</kw></sub><kw class="krdwrd-tag-3"> represents the systolic</kw><sup> </sup><kw class="krdwrd-tag-3">pressure, </kw><i><kw class="krdwrd-tag-3">P</kw></i><sub><kw class="krdwrd-tag-3">dias</kw></sub><kw class="krdwrd-tag-3"> the diastolic pressure, </kw><img src="/math/Delta.gif" alt="{Delta}" border="0"><i><kw class="krdwrd-tag-3">D</kw></i><kw class="krdwrd-tag-3"> the difference between</kw><sup> </sup><kw class="krdwrd-tag-3">systolic and diastolic mean lumen diameters, and </kw><i><kw class="krdwrd-tag-3">D</kw></i><kw class="krdwrd-tag-3"> the diastolic</kw><sup> </sup><kw class="krdwrd-tag-3">mean luminal diameter </kw><a href="#BIB13"><kw class="krdwrd-tag-3">[13,19]</kw></a><a href="#BIB19"></a><kw class="krdwrd-tag-3">.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2">2.6 Data analysis and statistics</kw></strong><br><kw class="krdwrd-tag-3">
+
+Data were examined by analysis of variance (ANOVA) with repeated</kw><sup> </sup><kw class="krdwrd-tag-3">measures and Student's </kw><i><kw class="krdwrd-tag-3">t</kw></i><kw class="krdwrd-tag-3">-test using StatView </kw><i><kw class="krdwrd-tag-3">v</kw></i><kw class="krdwrd-tag-3">5.0.1 (SAS Institute</kw><sup> </sup><kw class="krdwrd-tag-3">Inc., Cary, NC). Where ANOVA demonstrated significant differences</kw><sup> </sup><kw class="krdwrd-tag-3">in responses, post-hoc comparisons were made using the Fisher</kw><sup> </sup><kw class="krdwrd-tag-3">protected least significant difference test (StatView </kw><i><kw class="krdwrd-tag-3">v</kw></i><kw class="krdwrd-tag-3">5.0.1).</kw><sup> </sup><kw class="krdwrd-tag-3">All results are expressed as mean±standard error of the</kw><sup> </sup><kw class="krdwrd-tag-3">mean. Statistical significance was taken at the 5% level.</kw><sup> </sup></p><p>
+
+<a name="SEC3"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+3. Results
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">1. Introduction</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">2. Methods</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">3. Results</kw></font><br>
+<a href="#SEC4"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">4. Discussion</kw><br></a>
+<a href="#SEC5"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">5. Conclusions</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3">
+
+Baseline patient characteristics are shown in </kw><a href="#TBL1"><kw class="krdwrd-tag-3">Table 1</kw></a><kw class="krdwrd-tag-3">. The majority</kw><sup> </sup><kw class="krdwrd-tag-3">of patients had at least one risk factor for coronary artery</kw><sup> </sup><kw class="krdwrd-tag-3">disease; in particular, a history of hypercholesterolemia (19/25).</kw><sup> </sup><kw class="krdwrd-tag-3">A maximum of three segments were selected in each artery to</kw><sup> </sup><kw class="krdwrd-tag-3">give a total of 56 segments: 28 non-remodeled, 15 positively</kw><sup> </sup><kw class="krdwrd-tag-3">remodeled and 13 negatively remodeled. The left anterior descending</kw><sup> </sup><kw class="krdwrd-tag-3">artery was studied in 12 patients, right coronary artery in</kw><sup> </sup><kw class="krdwrd-tag-3">six patients, and left circumflex coronary artery in seven patients.</kw><sup> </sup><kw class="krdwrd-tag-3">Heart rate and mean arterial pressure were stable throughout</kw><sup> </sup><kw class="krdwrd-tag-3">the study in all subjects. There were no procedural or post-procedural</kw><sup> </sup><kw class="krdwrd-tag-3">in-hospital complications.</kw><sup> </sup></p><p>
+
+<a name="TBL1"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<strong><kw class="krdwrd-tag-1">View this table:</kw></strong><br>
+<nobr><a href="/cgi/content/full/59/2/520/TBL1"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/59/2/520/TBL1" onclick="startTarget('TBL1', 500, 400); this.href='/cgi/content-nw/full/59/2/520/TBL1'" onmouseover="window.status='View figure in a separate window'; return true" target="TBL1"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-1">
+Table 1 Patient characteristics (</kw><i><kw class="krdwrd-tag-1">n</kw></i><kw class="krdwrd-tag-1"> = 25)</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<strong><kw class="krdwrd-tag-2">3.1 Characteristics of vessel segments</kw></strong><br><kw class="krdwrd-tag-3">
+
+Non-remodeled segments (4.4±0.8 mm</kw><sup><kw class="krdwrd-tag-3">2</kw></sup><kw class="krdwrd-tag-3">) had significantly</kw><sup> </sup><kw class="krdwrd-tag-3">less plaque cross-sectional area than either positively remodeled</kw><sup> </sup><kw class="krdwrd-tag-3">(8.0±1.1 mm</kw><sup><kw class="krdwrd-tag-3">2</kw></sup><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.05) or negatively remodeled (7.1±0.6</kw><sup> </sup><kw class="krdwrd-tag-3">mm</kw><sup><kw class="krdwrd-tag-3">2</kw></sup><kw class="krdwrd-tag-3">, </kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.01) segments. Total vessel cross-sectional area</kw><sup> </sup><kw class="krdwrd-tag-3">was similar for the three types of vessel remodeling (</kw><a href="#FIG1"><kw class="krdwrd-tag-3">Fig. 1</kw></a><kw class="krdwrd-tag-3">).</kw><sup> </sup><kw class="krdwrd-tag-3">Negatively remodeled segments had a higher stiffness index in</kw><sup> </sup><kw class="krdwrd-tag-3">comparison to non- and positively remodeled segments (67±16</kw><sup> </sup><kw class="krdwrd-tag-3">vs. 33±5 and 38±8, respectively; </kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.02). Negatively</kw><sup> </sup><kw class="krdwrd-tag-3">remodeled segments also appeared to have a lower compliance</kw><sup> </sup><kw class="krdwrd-tag-3">and distensibility (0.66±0.17 vs. 1.65±0.54 and</kw><sup> </sup><kw class="krdwrd-tag-3">0.94±0.18/mmHg; </kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3"> = NS) but this was not statistically</kw><sup> </sup><kw class="krdwrd-tag-3">significant.</kw><sup> </sup><p>
+
+<a name="FIG1"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/59/2/520/FIG1"><img src="/content/vol59/issue2/images/small/59-2-520-fig1.gif" alt="Figure 1" border="2" vspace="5" width="200" height="138" hspace="10"></a><br>
+
+<strong><kw class="krdwrd-tag-1">View larger version</kw></strong><kw class="krdwrd-tag-1"> (21K):</kw><br>
+<nobr><a href="/cgi/content/full/59/2/520/FIG1"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/59/2/520/FIG1" onclick="startTarget('FIG1', 590, 503); this.href='/cgi/content-nw/full/59/2/520/FIG1'" onmouseover="window.status='View figure in a separate window'; return true" target="FIG1"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<a href="/cgi/powerpoint/59/2/520/FIG1"><kw class="krdwrd-tag-1">[Download PowerPoint slide]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-2">
+Fig. 1 Baseline physical characteristics of non- (white bars), positively (gray bars) and negatively (black bars) remodeled segments. ANOVA for comparison of remodeled segment types.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<strong><kw class="krdwrd-tag-2">3.2 Vasomotor responses</kw></strong><br>
+
+<font size="-1"><strong><kw class="krdwrd-tag-2">3.2.1 Resistance vessels</kw></strong></font><br><kw class="krdwrd-tag-3">
+
+Acetylcholine, adenosine and nitroglycerin all caused coronary</kw><sup> </sup><kw class="krdwrd-tag-3">resistance vessel vasodilatation and an increase in coronary</kw><sup> </sup><kw class="krdwrd-tag-3">artery blood flow (</kw><i><kw class="krdwrd-tag-3">P</kw></i><img src="/math/le.gif" alt="≤" border="0"><kw class="krdwrd-tag-3">0.002; </kw><a href="#FIG2"><kw class="krdwrd-tag-3">Fig. 2</kw></a><kw class="krdwrd-tag-3">) with adenosine causing the</kw><sup> </sup><kw class="krdwrd-tag-3">largest increase (</kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.004 vs. other agents). There were no</kw><sup> </sup><kw class="krdwrd-tag-3">differences in the resistance vessel responses between the three</kw><sup> </sup><kw class="krdwrd-tag-3">remodeling groups.</kw><sup> </sup><p>
+
+<a name="FIG2"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/59/2/520/FIG2"><img src="/content/vol59/issue2/images/small/59-2-520-fig2.gif" alt="Figure 2" border="2" vspace="5" width="200" height="138" hspace="10"></a><br>
+
+<strong><kw class="krdwrd-tag-1">View larger version</kw></strong><kw class="krdwrd-tag-1"> (30K):</kw><br>
+<nobr><a href="/cgi/content/full/59/2/520/FIG2"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/59/2/520/FIG2" onclick="startTarget('FIG2', 590, 504); this.href='/cgi/content-nw/full/59/2/520/FIG2'" onmouseover="window.status='View figure in a separate window'; return true" target="FIG2"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<a href="/cgi/powerpoint/59/2/520/FIG2"><kw class="krdwrd-tag-1">[Download PowerPoint slide]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-2">
+Fig. 2 Baseline (white bars) and peak (black bars) coronary blood flow (percentage change, gray bars) to intracoronary acetylcholine, adenosine and nitroglycerin. ANOVA for comparison of percentage increase in blood flow for the four drug boluses. Paired </kw><i><kw class="krdwrd-tag-1">t</kw></i><kw class="krdwrd-tag-2">-test for comparison of baseline and peak blood flow for each drug bolus.</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<font size="-1"><strong><kw class="krdwrd-tag-2">3.2.2 Conduit vessels</kw></strong></font><br><kw class="krdwrd-tag-3">
+
+All vessel segments vasodilated to adenosine and nitroglycerin,</kw><sup> </sup><kw class="krdwrd-tag-3">and vasoconstricted to 10</kw><sup><kw class="krdwrd-tag-3">–4</kw></sup><kw class="krdwrd-tag-3"> M acetylcholine (</kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.05</kw><sup> </sup><kw class="krdwrd-tag-3">for all; </kw><a href="#FIG3"><kw class="krdwrd-tag-3">Fig. 3</kw></a><kw class="krdwrd-tag-3">). The vasomotor response to acetylcholine 10</kw><sup><kw class="krdwrd-tag-3">–6</kw></sup><sup> </sup><kw class="krdwrd-tag-3">M varied according to the category of vascular remodeling (</kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.001;</kw><sup> </sup><a href="#FIG3"><kw class="krdwrd-tag-3">Fig. 3</kw></a><kw class="krdwrd-tag-3">). Non-remodeled segments had a greater change in vessel</kw><sup> </sup><kw class="krdwrd-tag-3">cross-sectional area with 10</kw><sup><kw class="krdwrd-tag-3">–6</kw></sup><kw class="krdwrd-tag-3"> M acetylcholine (4.9±0.8%),</kw><sup> </sup><kw class="krdwrd-tag-3">compared to positively and negatively remodeled segments (0.6±1.8</kw><sup> </sup><kw class="krdwrd-tag-3">and –4.9±1.8%, respectively, </kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.05). A significant</kw><sup> </sup><kw class="krdwrd-tag-3">degree of preservation of vasodilatation to 10</kw><sup><kw class="krdwrd-tag-3">–6</kw></sup><kw class="krdwrd-tag-3"> M acetylcholine</kw><sup> </sup><kw class="krdwrd-tag-3">was evident in positively remodeled compared with negatively</kw><sup> </sup><kw class="krdwrd-tag-3">remodeled segments (</kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.05). There was a trend towards greater</kw><sup> </sup><kw class="krdwrd-tag-3">adenosine-induced vasodilatation in non-remodeled segments (increase</kw><sup> </sup><kw class="krdwrd-tag-3">in vessel cross-sectional area of 6.2±1.0%) compared</kw><sup> </sup><kw class="krdwrd-tag-3">with positively (3.7±0.8%) and negatively (3.9±0.9%)</kw><sup> </sup><kw class="krdwrd-tag-3">remodeled segments (</kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3"> = 0.14, </kw><a href="#FIG3"><kw class="krdwrd-tag-3">Fig. 3</kw></a><kw class="krdwrd-tag-3">). Similarly, nitroglycerin</kw><sup> </sup><kw class="krdwrd-tag-3">caused greater vasodilatation in non-remodeled segments (increase</kw><sup> </sup><kw class="krdwrd-tag-3">in vessel cross-sectional area of 7.2±3.8%) than either</kw><sup> </sup><kw class="krdwrd-tag-3">positively (4.7±0.9%) or negatively (3.7±0.6%)</kw><sup> </sup><kw class="krdwrd-tag-3">remodeled segments (</kw><i><kw class="krdwrd-tag-3">P</kw></i><kw class="krdwrd-tag-3">&lt;0.01, </kw><a href="#FIG3"><kw class="krdwrd-tag-3">Fig. 3</kw></a><kw class="krdwrd-tag-7">).</kw><sup> </sup><p>
+
+<a name="FIG3"><!-- null --></a>
+<br clear="all"></p><center><table cellpadding="0" cellspacing="0" width="95%"><tbody><tr bgcolor="#e1e1e1"><td><table cellpadding="2" cellspacing="2">
+<tbody><tr bgcolor="#e1e1e1"><td align="center" bgcolor="#ffffff" valign="top">
+<a href="/cgi/content/full/59/2/520/FIG3"><img src="/content/vol59/issue2/images/small/59-2-520-fig3.gif" alt="Figure 3" border="2" vspace="5" width="200" height="130" hspace="10"></a><br>
+
+<strong><kw class="krdwrd-tag-1">View larger version</kw></strong><kw class="krdwrd-tag-1"> (16K):</kw><br>
+<nobr><a href="/cgi/content/full/59/2/520/FIG3"><kw class="krdwrd-tag-1">[in this window]</kw></a><br>
+<a href="/cgi/content-nw/full/59/2/520/FIG3" onclick="startTarget('FIG3', 590, 486); this.href='/cgi/content-nw/full/59/2/520/FIG3'" onmouseover="window.status='View figure in a separate window'; return true" target="FIG3"><kw class="krdwrd-tag-1">[in a new window]</kw></a><br>
+<a href="/cgi/powerpoint/59/2/520/FIG3"><kw class="krdwrd-tag-1">[Download PowerPoint slide]</kw></a><br>&nbsp;</nobr>
+</td><td align="left" valign="top"><kw class="krdwrd-tag-2">
+Fig. 3 Changes in vessel area following intracoronary acetylcholine, adenosine and nitroglycerin in non- (white bars), positively (gray bars) and negatively (black bars) remodeled segments. ANOVA for comparison of remodeled segment types. *</kw><i><kw class="krdwrd-tag-2">P</kw></i><kw class="krdwrd-tag-2">&lt;0.05 (</kw><i><kw class="krdwrd-tag-2">t</kw></i><kw class="krdwrd-tag-2">-test; negatively remodeled segments vs. positively or non-remodeled segments).</kw><p>
+
+
+</p></td></tr></tbody></table>
+</td></tr></tbody></table></center>&nbsp;<br>
+
+
+<a name="SEC4"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+4. Discussion
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">1. Introduction</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">2. Methods</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">3. Results</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">4. Discussion</kw></font><br>
+<a href="#SEC5"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">5. Conclusions</kw><br></a>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3">
+
+We have demonstrated that, in keeping with a more fibrotic and</kw><sup> </sup><kw class="krdwrd-tag-3">vasospastic response to atheroma deposition, negatively remodeled</kw><sup> </sup><kw class="krdwrd-tag-3">coronary arterial segments are stiffer and less distensible.</kw><sup> </sup><kw class="krdwrd-tag-3">Moreover, we have shown that the type of vascular remodeling</kw><sup> </sup><kw class="krdwrd-tag-3">determines the local epicardial vasomotor response to both endothelium-dependent</kw><sup> </sup><kw class="krdwrd-tag-3">and -independent vasodilators. In particular, negatively remodeled</kw><sup> </sup><kw class="krdwrd-tag-3">segments have an exaggerated vasoconstrictor response to acetylcholine</kw><sup> </sup><kw class="krdwrd-tag-3">and impaired endothelium-independent vasodilatation. We conclude</kw><sup> </sup><kw class="krdwrd-tag-3">that negative remodeling is associated with more pronounced</kw><sup> </sup><kw class="krdwrd-tag-3">local vascular and endothelial dysfunction.</kw><sup> </sup><p>
+
+<strong><kw class="krdwrd-tag-2">4.1 Endothelial function</kw></strong><br><kw class="krdwrd-tag-3">
+
+At the lowest concentration of acetycholine, there was preservation</kw><sup> </sup><kw class="krdwrd-tag-3">of endothelium-dependent vasodilatation in non-remodeled segments</kw><sup> </sup><kw class="krdwrd-tag-3">and, to a lesser extent, positively remodeled segments. However,</kw><sup> </sup><kw class="krdwrd-tag-3">in negatively remodeled segments, low dose acetylcholine caused</kw><sup> </sup><kw class="krdwrd-tag-3">vasoconstriction that was equivalent to that observed with high</kw><sup> </sup><kw class="krdwrd-tag-3">dose acetylcholine in all segments. The phenomenon of paradoxical</kw><sup> </sup><kw class="krdwrd-tag-3">epicardial vasoconstriction during acetylcholine administration</kw><sup> </sup><kw class="krdwrd-tag-3">in atherosclerotic coronary arteries was first described 15</kw><sup> </sup><kw class="krdwrd-tag-3">years ago </kw><a href="#BIB20"><kw class="krdwrd-tag-3">[20]</kw></a><kw class="krdwrd-tag-3">. It has been attributed to the direct muscarinic</kw><sup> </sup><kw class="krdwrd-tag-3">vasoconstrictor action of acetylcholine on the vascular smooth</kw><sup> </sup><kw class="krdwrd-tag-3">muscle cells in the absence of functional endothelium-dependent</kw><sup> </sup><kw class="krdwrd-tag-3">vasodilatation. Consistent with previous work </kw><a href="#BIB21"><kw class="krdwrd-tag-3">[21]</kw></a><kw class="krdwrd-tag-3">, our observation</kw><sup> </sup><kw class="krdwrd-tag-3">of low dose acetylcholine-induced vasoconstriction cannot be</kw><sup> </sup><kw class="krdwrd-tag-3">directly attributed to the atherosclerotic plaque burden since</kw><sup> </sup><kw class="krdwrd-tag-3">both positively and negatively remodeled segments had a similar</kw><sup> </sup><kw class="krdwrd-tag-3">plaque load but distinct vasomotor responses. It may, in part,</kw><sup> </sup><kw class="krdwrd-tag-3">be explained by the reduced vasodilatation response to the endothelium-independent</kw><sup> </sup><kw class="krdwrd-tag-3">vasodilator, nitroglycerin, suggesting impaired vascular smooth</kw><sup> </sup><kw class="krdwrd-tag-3">muscle sensitivity to nitric oxide in remodeled segments. However,</kw><sup> </sup><kw class="krdwrd-tag-3">this cannot be the only explanation since the reduced response</kw><sup> </sup><kw class="krdwrd-tag-3">to nitroglycerin was observed in both positively and negatively</kw><sup> </sup><kw class="krdwrd-tag-3">remodeled segments but only negatively remodeled segments demonstrated</kw><sup> </sup><kw class="krdwrd-tag-3">vasoconstriction to low dose acetylcholine. This suggests that</kw><sup> </sup><kw class="krdwrd-tag-3">negative remodeling is associated with endothelial dysfunction</kw><sup> </sup><kw class="krdwrd-tag-3">or alterations in muscarinic receptor responsiveness.</kw><sup> </sup></p><p>
+
+<strong><kw class="krdwrd-tag-2">4.2 Vascular remodeling</kw></strong><br><kw class="krdwrd-tag-3">
+
+The current finding of an association between negative remodeling</kw><sup> </sup><kw class="krdwrd-tag-3">and vascular dysfunction does not address the question of cause</kw><sup> </sup><kw class="krdwrd-tag-3">and effect. It is tempting to speculate that localized vascular</kw><sup> </sup><kw class="krdwrd-tag-3">and endothelial dysfunction may lead to a more vasospastic artery</kw><sup> </sup><kw class="krdwrd-tag-3">that would cause increased vessel stiffness and negative remodeling.</kw><sup> </sup><kw class="krdwrd-tag-3">Alternatively, these features may have a common etiology with</kw><sup> </sup><kw class="krdwrd-tag-3">the potentially more fibrotic and inflammatory reaction to atheroma</kw><sup> </sup><kw class="krdwrd-tag-3">formation not only leading to negative remodeling but also vascular</kw><sup> </sup><kw class="krdwrd-tag-3">and endothelial dysfunction. In this regard, longitudinal studies</kw><sup> </sup><kw class="krdwrd-tag-3">would be of value to monitor the changes in vascular function</kw><sup> </sup><kw class="krdwrd-tag-3">and vessel remodeling over time in order to determine which</kw><sup> </sup><kw class="krdwrd-tag-3">is the dominant factor in determining these vascular effects.</kw><sup> </sup><kw class="krdwrd-tag-3">This would also determine if vessels negatively remodel from</kw><sup> </sup><kw class="krdwrd-tag-3">the beginning or go through an initial phase of positive remodeling</kw><sup> </sup><kw class="krdwrd-tag-3">which becomes exhausted through progressive endothelial dysfunction</kw><sup> </sup><kw class="krdwrd-tag-3">and fibrosis </kw><a href="#BIB22"><kw class="krdwrd-tag-3">[22]</kw></a><kw class="krdwrd-tag-3">. In a hypercholesterolemic rabbit model, endothelial</kw><sup> </sup><kw class="krdwrd-tag-3">dysfunction was associated with negative remodeling and restenosis</kw><sup> </sup><kw class="krdwrd-tag-3">after balloon injury implicating endothelial dysfunction in</kw><sup> </sup><kw class="krdwrd-tag-3">the causation of negative remodeling </kw><a href="#BIB23"><kw class="krdwrd-tag-3">[23]</kw></a><kw class="krdwrd-tag-3">.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+Irrespective of the causative relationship, the present study</kw><sup> </sup><kw class="krdwrd-tag-3">suggests that there are functional abnormalities associated</kw><sup> </sup><kw class="krdwrd-tag-3">with coronary artery remodeling in addition to anatomical and</kw><sup> </sup><kw class="krdwrd-tag-3">structural changes. There has been only one previous study to</kw><sup> </sup><kw class="krdwrd-tag-3">address this issue. Lerman and colleagues used quantitative</kw><sup> </sup><kw class="krdwrd-tag-3">coronary angiography to determine epicardial responses to 10</kw><sup><kw class="krdwrd-tag-3">–4</kw></sup><sup> </sup><kw class="krdwrd-tag-3">M acetylcholine and nitroglycerin in the left anterior descending</kw><sup> </sup><kw class="krdwrd-tag-3">coronary artery </kw><a href="#BIB9"><kw class="krdwrd-tag-3">[9]</kw></a><kw class="krdwrd-tag-3">. This study used a single dose of acetylcholine</kw><sup> </sup><kw class="krdwrd-tag-3">and employed a different classification of vascular remodeling.</kw><sup> </sup><kw class="krdwrd-tag-3">However, consistent with our current findings, Lerman and co-workers</kw><sup> </sup><kw class="krdwrd-tag-3">suggested that positive remodeling is associated with endothelial</kw><sup> </sup><kw class="krdwrd-tag-3">dysfunction. We have now extended these observations by providing</kw><sup> </sup><kw class="krdwrd-tag-3">more detailed assessments of remodeled segments, and demonstrating</kw><sup> </sup><kw class="krdwrd-tag-3">that negative remodeling is associated with more pronounced</kw><sup> </sup><kw class="krdwrd-tag-3">endothelium-dependent and -independent vasomotor abnormalities.</kw><sup> </sup></p><p>
+
+<font size="-1"><strong><kw class="krdwrd-tag-2">4.2.1 Study limitations</kw></strong></font><br><kw class="krdwrd-tag-3">
+
+This study was conducted in the necessary clinical setting of</kw><sup> </sup><kw class="krdwrd-tag-3">patients with a combination of risk factors and concomitant</kw><sup> </sup><kw class="krdwrd-tag-3">therapies undergoing diagnostic coronary angiography. The modest</kw><sup> </sup><kw class="krdwrd-tag-3">sample size means that this study lacks sufficient power to</kw><sup> </sup><kw class="krdwrd-tag-3">address the influence of all the individual variables associated</kw><sup> </sup><kw class="krdwrd-tag-3">with coronary artery disease. The study was also performed at</kw><sup> </sup><kw class="krdwrd-tag-3">a single time point and temporal changes in the remodeling process</kw><sup> </sup><kw class="krdwrd-tag-3">are unknown.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+We defined the remodeling segment with reference to proximal</kw><sup> </sup><kw class="krdwrd-tag-3">and distal segments. Because of the clinical setting of this</kw><sup> </sup><kw class="krdwrd-tag-3">study, some of these segments will have incorporated some mild</kw><sup> </sup><kw class="krdwrd-tag-3">degree of atherosclerotic plaque: the so-called ‘near-normal’</kw><sup> </sup><kw class="krdwrd-tag-3">segments. Because this could theoretically affect the classification</kw><sup> </sup><kw class="krdwrd-tag-3">of the remodeling segments, we avoided arterial segments where</kw><sup> </sup><kw class="krdwrd-tag-3">the remodeling classification was unclear. It should also be</kw><sup> </sup><kw class="krdwrd-tag-3">recognised that our findings may not be representative of all</kw><sup> </sup><kw class="krdwrd-tag-3">coronary artery atherosclerotic plaques. Heavily calcified lesions</kw><sup> </sup><kw class="krdwrd-tag-3">were excluded because the resultant acoustic shadow makes it</kw><sup> </sup><kw class="krdwrd-tag-3">very difficult to measure vessel areas. In addition, whilst</kw><sup> </sup><kw class="krdwrd-tag-3">we excluded segments with rotational, angular or image artifacts,</kw><sup> </sup><kw class="krdwrd-tag-3">we cannot completely eliminate these effects and recognise this</kw><sup> </sup><kw class="krdwrd-tag-3">as a potential limitation.</kw><sup> </sup></p><p>
+
+<a name="SEC5"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+5. Conclusions
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">1. Introduction</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">2. Methods</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">3. Results</kw><br></a>
+<a href="#SEC4"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">4. Discussion</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">5. Conclusions</kw></font><br>
+<a href="#BIBL"><img alt=" " src="/icons/toc/darrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">References</kw><br></a>
+</font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3">
+
+Vascular remodeling is an important and major determinant of</kw><sup> </sup><kw class="krdwrd-tag-3">epicardial vasomotor responses. Both structural and functional</kw><sup> </sup><kw class="krdwrd-tag-3">abnormalities are associated with negative remodeling that may</kw><sup> </sup><kw class="krdwrd-tag-3">contribute to the adverse effects of such lesions.</kw><sup> </sup></p><p><kw class="krdwrd-tag-3">
+
+Time for primary review 32 days.</kw><sup> </sup></p><p>
+
+<sup> </sup></p><p>
+
+<sup> </sup></p><p>
+
+<sup> </sup></p><p>
+
+<sup> </sup></p><p>
+
+
+<a name="ACK"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+Acknowledgements
+</kw></font></th></tr></tbody></table>
+&nbsp;<br><kw class="krdwrd-tag-3">
+
+This work was conducted with the support of the British Heart</kw><sup> </sup><kw class="krdwrd-tag-1">Foundation (FS/99026 for ALM and PG/98150).</kw><sup> </sup></p><p>
+
+
+
+
+<a name="BIBL"><!-- null --></a>
+<br clear="right"><table bgcolor="#e1e1e1" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr><td align="left" bgcolor="#ffffff" valign="middle" width="5%"><img alt=" " src="/icons/toc/rarrow.gif" width="10" height="21" hspace="5"></td>
+ <th align="left" valign="middle" width="95%"><font size="+2"><kw class="krdwrd-tag-2">&nbsp;&nbsp;
+References
+</kw></font></th></tr></tbody></table>
+<table align="right" border="1" cellpadding="5"><tbody><tr><th align="left"><font size="-1">
+<a href="#top"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Top</kw><br></a>
+<a href="#ABS"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">Abstract</kw><br></a>
+<a href="#SEC1"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">1. Introduction</kw><br></a>
+<a href="#SEC2"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">2. Methods</kw><br></a>
+<a href="#SEC3"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">3. Results</kw><br></a>
+<a href="#SEC4"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">4. Discussion</kw><br></a>
+<a href="#SEC5"><img alt=" " src="/icons/toc/uarrow.gif" border="0" width="11" height="9" hspace="5"><kw class="krdwrd-tag-1">5. Conclusions</kw><br></a>
+<img alt=" " src="/icons/toc/dot.gif" border="0" width="11" height="9" hspace="5"><font color="#464c53"><kw class="krdwrd-tag-1">References</kw></font><br>
+</font></th></tr></tbody></table>
+&nbsp;<br>
+
+</p><ol compact="compact">
+<a name="BIB1"><!-- null --></a><li value="1"><kw class="krdwrd-tag-1"> Glagov S., Weisenberg E., Zarins C.K., et al. Compensatory enlargement of human atherosclerotic coronary arteries. N Engl J Med (1987) 316:1371–1375.</kw><!-- HIGHWIRE ID="59:2:520:1" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=nejm&amp;resid=316/22/1371"><kw class="krdwrd-tag-1">[Abstract]</kw></a><!-- /HIGHWIRE --><a name="BIB2"><!-- null --></a></li><li value="2"><kw class="krdwrd-tag-1"> Furchgott R.F., Zawadski J.V. The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine. Nature (1980) 288:373–376.</kw><!-- HIGHWIRE ID="59:2:520:2" --><a href="/cgi/external_ref?access_num=10.1038/288373a0&amp;link_type=DOI"><kw class="krdwrd-tag-1">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=6253831&amp;link_type=MED"><kw class="krdwrd-tag-1">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB3"><!-- null --></a></li><li value="3"><kw class="krdwrd-tag-1"> Vallance P., Collier J., Moncada S. Effects of endothelium-derived nitric oxide on peripheral arteriolar tone in man. Lancet (1989) ii:997–1000.</kw><!-- HIGHWIRE ID="59:2:520:3" --><!-- /HIGHWIRE --><a name="BIB4"><!-- null --></a></li><li value="4"><kw class="krdwrd-tag-1"> Haynes W.G., Ferro C.J., O'Kane K.P.J., et al. Systemic endothelin receptor blockade decreases peripheral vascular resistance and blood pressure in humans. Circulation (1996) 93:1860–1870.</kw><!-- HIGHWIRE ID="59:2:520:4" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=93/10/1860"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB5"><!-- null --></a></li><li value="5"><kw class="krdwrd-tag-1"> Haynes W.G., Noon J.P., Walker B.R., et al. L-NMMA increases blood pressure in man. Lancet (1993) 342:931–932.</kw><!-- HIGHWIRE ID="59:2:520:5" --><a href="/cgi/external_ref?access_num=10.1016/0140-6736%2893%2991981-Q&amp;link_type=DOI"><kw class="krdwrd-tag-1">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=A1993MA96300047&amp;link_type=ISI"><kw class="krdwrd-tag-1">[ISI]</kw></a><a href="/cgi/external_ref?access_num=8105193&amp;link_type=MED"><kw class="krdwrd-tag-1">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB6"><!-- null --></a></li><li value="6"><kw class="krdwrd-tag-1"> Haynes W.G., Webb D.J. Contribution of endogenous generation of endothelin-1 to basal vascular tone in man. Lancet (1994) 344:852–854.</kw><!-- HIGHWIRE ID="59:2:520:6" --><a href="/cgi/external_ref?access_num=10.1016/S0140-6736%2894%2992827-4&amp;link_type=DOI"><kw class="krdwrd-tag-1">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=A1994PH25300011&amp;link_type=ISI"><kw class="krdwrd-tag-1">[ISI]</kw></a><a href="/cgi/external_ref?access_num=7916401&amp;link_type=MED"><kw class="krdwrd-tag-1">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB7"><!-- null --></a></li><li value="7"><kw class="krdwrd-tag-1"> Verhaar M.C., Strachan F.E., Newby D.E., et al. Endothelin-A receptor antagonist-mediated vasodilatation is attenuated by inhibition of nitric oxide synthesis and by endothelin-B receptor blockade. Circulation (1998) 97:752–756.</kw><!-- HIGHWIRE ID="59:2:520:7" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=97/8/752"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB8"><!-- null --></a></li><li value="8"><kw class="krdwrd-tag-1"> Newby D.E., MacLeod A.L., Uren N.G., et al. Impaired coronary tissue plasminigen activator release is associated with coronary atherosclerosis and cigarette smoking: direct link between endothelial dysfunction and atherothrombosis. Circulation (2001) 103:1936–1941.</kw><!-- HIGHWIRE ID="59:2:520:8" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=103/15/1936"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB9"><!-- null --></a></li><li value="9"><kw class="krdwrd-tag-1"> Lerman A., Cannan C.R., Higano S.H., et al. Coronary vascular remodeling in association with endothelial dysfunction. Am J Cardiol (1998) 81:1105–1109.</kw><!-- HIGHWIRE ID="59:2:520:9" --><a href="/cgi/external_ref?access_num=10.1016/S0002-9149%2898%2900135-0&amp;link_type=DOI"><kw class="krdwrd-tag-1">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=000073530600008&amp;link_type=ISI"><kw class="krdwrd-tag-1">[ISI]</kw></a><a href="/cgi/external_ref?access_num=9605050&amp;link_type=MED"><kw class="krdwrd-tag-1">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB10"><!-- null --></a></li><li value="10"><kw class="krdwrd-tag-1"> Sudhir K., Mullen W.L., Hausmann D., et al. Contribution of endothelium-derived nitric oxide to coronary arterial distensibility: an in vivo two-dimensional intravascular ultrasound study. Am Heart J (1995) 129:726–732.</kw><!-- HIGHWIRE ID="59:2:520:10" --><a href="/cgi/external_ref?access_num=10.1016/0002-8703%2895%2990322-4&amp;link_type=DOI"><kw class="krdwrd-tag-1">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=A1995QQ12200016&amp;link_type=ISI"><kw class="krdwrd-tag-1">[ISI]</kw></a><a href="/cgi/external_ref?access_num=7900624&amp;link_type=MED"><kw class="krdwrd-tag-1">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB11"><!-- null --></a></li><li value="11"><kw class="krdwrd-tag-1"> Schwarzacher S.P., Uren N.G., Ward M.R., et al. Determinants of coronary remodeling in transplant coronary disease. Circulation (2000) 101:1384–1389.</kw><!-- HIGHWIRE ID="59:2:520:11" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=101/12/1384"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB12"><!-- null --></a></li><li value="12"><kw class="krdwrd-tag-1"> Newby D.E. Intracoronary infusions and the assessment of coronary blood flow in clinical studies. Heart (2000) 84:118–120.</kw><!-- HIGHWIRE ID="59:2:520:12" --><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=heartjnl&amp;resid=84/2/118"><nobr><kw class="krdwrd-tag-1">[</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB13"><!-- null --></a></li><li value="13"><kw class="krdwrd-tag-1"> Jeremias A., Spies C., Herity N.A., et al. Coronary artery compliance and adaptive vessel remodelling in patients with stable and unstable coronary artery disease. Heart (2000) 84:314–319.</kw><!-- HIGHWIRE ID="59:2:520:13" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=heartjnl&amp;resid=84/3/314"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB14"><!-- null --></a></li><li value="14"><kw class="krdwrd-tag-1"> Doucette J.W., Corl P.D., Payne H.M., et al. Validation of a Doppler guide wire for intravascular measurement of coronary artery flow velocity. Circulation (1992) 85:1899–1911.</kw><!-- HIGHWIRE ID="59:2:520:14" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=85/5/1899"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB15"><!-- null --></a></li><li value="15"><kw class="krdwrd-tag-1"> von Birgelen C., Di Mario C., Wenguang L., et al. Morphometric analysis in three-dimensional intravascular ultrasound: an in vitro and in vivo study performed with a novel system for the contour detection of lumen and plaque. Am Heart J (1996) 132:516–527.</kw><!-- HIGHWIRE ID="59:2:520:15" --><a href="/cgi/external_ref?access_num=10.1016/S0002-8703%2896%2990233-1&amp;link_type=DOI"><kw class="krdwrd-tag-1">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=A1996VG74700003&amp;link_type=ISI"><kw class="krdwrd-tag-1">[ISI]</kw></a><a href="/cgi/external_ref?access_num=8800020&amp;link_type=MED"><kw class="krdwrd-tag-1">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB16"><!-- null --></a></li><li value="16"><kw class="krdwrd-tag-1"> von Birgelen C., de Vrey E.A., Mintz G.S., et al. ECG-gated three-dimensional intravascular ultrasound: feasibility and reproducibility of the automated analysis of coronary artery lumen and atherosclerotic plaque dimensions in humans. Circulation (1997) 96:2944–2952.</kw><!-- HIGHWIRE ID="59:2:520:16" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=96/9/2944"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB17"><!-- null --></a></li><li value="17"><kw class="krdwrd-tag-1"> Nakatani S., Yamagishi M., Tamai J., et al. Assessment of coronary artery distensibility by intravascular ultrasound. Application of simultaneous measurements of luminal area and pressure. Circulation (1995) 91:2904–2910.</kw><!-- HIGHWIRE ID="59:2:520:17" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=91/12/2904"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB18"><!-- null --></a></li><li value="18"><kw class="krdwrd-tag-1"> Yamagishi M., Umeno T., Hongo Y., et al. Intravascular ultrasonic evidence for importance of plaque distribution (eccentric vs. circumferential) in determining distensibility of the left anterior descending artery. Am J Cardiol (1997) 79:1596–1600.</kw><!-- HIGHWIRE ID="59:2:520:18" --><a href="/cgi/external_ref?access_num=10.1016/S0002-9149%2897%2900205-1&amp;link_type=DOI"><kw class="krdwrd-tag-1">[CrossRef]</kw></a><a href="/cgi/external_ref?access_num=A1997XF10500005&amp;link_type=ISI"><kw class="krdwrd-tag-1">[ISI]</kw></a><a href="/cgi/external_ref?access_num=9202347&amp;link_type=MED"><kw class="krdwrd-tag-1">[Medline]</kw></a><!-- /HIGHWIRE --><a name="BIB19"><!-- null --></a></li><li value="19"><kw class="krdwrd-tag-1"> Hirai T., Sasayama S., Kawasaki T., et al. Stiffness of systemic arteries in patients with myocardial infarction. A non-invasive method to predict severity of coronary atherosclerosis. Circulation (1989) 80:78–86.</kw><!-- HIGHWIRE ID="59:2:520:19" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=80/1/78"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB20"><!-- null --></a></li><li value="20"><kw class="krdwrd-tag-1"> Ludmer P.L., Selwyn A.P., Shook T.L., et al. Paradoxical vasoconstriction induced by acetylcholine in atherosclerotic coronary arteries. N Engl J Med (1986) 315:1046–1051.</kw><!-- HIGHWIRE ID="59:2:520:20" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=nejm&amp;resid=315/17/1046"><kw class="krdwrd-tag-1">[Abstract]</kw></a><!-- /HIGHWIRE --><a name="BIB21"><!-- null --></a></li><li value="21"><kw class="krdwrd-tag-1"> Nishimura R.A., Lerman A., Chesebro J.H., et al. Epicardial vasomotor responses to acetylcholine are not predicted by coronary atherosclerosis as assessed by intracoronary ultrasound. J Am Coll Cardiol (1995) 26:41–49.</kw><!-- HIGHWIRE ID="59:2:520:21" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=jacc&amp;resid=26/1/41"><kw class="krdwrd-tag-1">[Abstract]</kw></a><!-- /HIGHWIRE --><a name="BIB22"><!-- null --></a></li><li value="22"><kw class="krdwrd-tag-1"> Ward M., Pasterkamp G., Yeung A., et al. Arterial remodeling: mechanisms and clinical implications. Circulation (2000) 102:1186–1191.</kw><!-- HIGHWIRE ID="59:2:520:22" --><a href="/cgi/ijlink?linkType=FULL&amp;journalCode=circulationaha&amp;resid=102/10/1186"><nobr><kw class="krdwrd-tag-1">[</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --><a name="BIB23"><!-- null --></a></li><li value="23"><kw class="krdwrd-tag-1"> Lafont A., Durand E., Samuel J.L., et al. Endothelial dysfunction and collagen accumulation: two independent factors for restenosis and constrictive remodeling after experimental angioplasty. Circulation (1999) 100:1109–1115.</kw><!-- HIGHWIRE ID="59:2:520:23" --><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=circulationaha&amp;resid=100/10/1109"><nobr><kw class="krdwrd-tag-1">[Abstract/</kw><font color="#cc0000"><kw class="krdwrd-tag-1">Free</kw></font><kw class="krdwrd-tag-1">&nbsp;Full&nbsp;Text]</kw></nobr></a><!-- /HIGHWIRE --></li></ol>
+
+
+		
+        
+        
+	
+	
+	
+	
+	
+
+
+
+
+ 
+
+<img src="/icons/spacer.gif" alt=" " width="0" height="30"><br><a href="/cgi/external_ref?tag_url=http://cardiovascres.oxfordjournals.org/cgi/content/long/59/2/520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response+--+McLeod+et+al.+59+%282%29%3A+520+--+Cardiovasc+Res&amp;doi=10.1016/S0008-6363%2803%2900396-1&amp;link_type=CITEULIKE" style="text-decoration: none; font-size: smaller;" title="CiteULike"><img src="/icons/shared/socbookmark/citeulike.gif" alt="Add to CiteULike" border="0"><kw class="krdwrd-tag-1"> CiteULike</kw></a>&nbsp;&nbsp;&nbsp;<a href="/cgi/external_ref?tag_url=http://cardiovascres.oxfordjournals.org/cgi/content/long/59/2/520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response+--+McLeod+et+al.+59+%282%29%3A+520+--+Cardiovasc+Res&amp;doi=10.1016/S0008-6363%2803%2900396-1&amp;link_type=CONNOTEA" style="text-decoration: none; font-size: smaller;" title="Connotea"><img src="/icons/shared/socbookmark/connotea.gif" alt="Add to Connotea" border="0"><kw class="krdwrd-tag-1"> Connotea</kw></a>&nbsp;&nbsp;&nbsp;<a href="/cgi/external_ref?tag_url=http://cardiovascres.oxfordjournals.org/cgi/content/long/59/2/520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response+--+McLeod+et+al.+59+%282%29%3A+520+--+Cardiovasc+Res&amp;doi=10.1016/S0008-6363%2803%2900396-1&amp;link_type=DEL_ICIO_US" style="text-decoration: none; font-size: smaller;" title="Del.icio.us"><img src="/icons/shared/socbookmark/delicious.gif" alt="Add to Del.icio.us" border="0"><kw class="krdwrd-tag-1"> Del.icio.us</kw></a>&nbsp;&nbsp;&nbsp; <a href="/help/social_bookmarks.dtl" style="font-size: smaller;"><kw class="krdwrd-tag-1">What's this?</kw></a>
+
+
+
+
+
+
+
+
+<br clear="all">
+
+
+
+
+  <font face="">
+  
+  </font>
+<br clear="all">
+<br clear="all">
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+<br clear="all">
+
+
+	
+	 
+		
+		
+		  
+			
+	
+		<table class="content_box_outer_table">
+		
+		
+			<tbody><tr>
+			<td>
+		
+	
+
+<!-- beginning of inner table -->
+	<table class="content_box_inner_table">
+<!-- citation -->
+
+	
+		
+
+
+
+
+	
+
+	
+
+	
+		
+			
+<tbody><tr><td class="content_box_title_highlight" colspan="2"><kw class="krdwrd-tag-1">This Article</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+				
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				
+				<strong><a href="/cgi/content/abstract/59/2/520"><kw class="krdwrd-tag-1">
+				Abstract</kw></a></strong>
+				 					<img alt="Freely available" src="/icons/shared/toc/free.gif" border="0" width="32" height="7">
+				
+	
+				</td></tr>
+			
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+	
+
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+		
+	
+	
+		
+	
+
+	
+
+	
+		
+			
+		
+	
+
+	
+
+	
+	 
+
+	
+	 
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		<strong>
+		
+		
+		
+			
+				
+				
+					<a href="/cgi/reprint/59/2/520">
+		<strong><kw class="krdwrd-tag-1">FREE Full Text</kw></strong><kw class="krdwrd-tag-1"> (PDF) </kw><img alt="Freely available" src="/icons/shared/toc/free.gif" border="0" width="32" height="7"> </a>
+
+
+				
+			
+		
+		</strong>
+		</td></tr>
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+
+
+
+
+	
+		
+
+	
+		
+
+	
+		
+		
+
+			
+
+
+	
+
+			
+
+			
+		
+	
+
+			
+	  
+	
+
+			
+
+			
+
+			
+	
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+
+	
+	
+	
+
+	
+		
+	
+
+	 
+
+	
+	
+		  
+    
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+		
+	
+		
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;saveAlert=no&amp;cited_by_criteria_resid=cardiovascres;59/2/520&amp;return_type=article&amp;return_url=http%3A%2F%2Fcardiovascres.oxfordjournals.org%2Fcgi%2Fcontent%2Ffull%2F59%2F2%2F520"><kw class="krdwrd-tag-1">
+				Alert me when this article is cited</kw></a></strong>
+			</td></tr>
+	
+
+		
+		
+
+		
+		
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;saveAlert=no&amp;correction_criteria_value=59/2/520&amp;return_type=article&amp;return_url=http%3A%2F%2Fcardiovascres.oxfordjournals.org%2Fcgi%2Fcontent%2Ffull%2F59%2F2%2F520"><kw class="krdwrd-tag-1">
+				Alert me if a correction is posted</kw></a></strong>
+			</td></tr>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		
+	
+
+			
+			
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Services</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/mailafriend?url=http%3A%2F%2Fcardiovascres.oxfordjournals.org%2Fcgi%2Fcontent%2Ffull%2F59%2F2%2F520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response"><kw class="krdwrd-tag-1">
+				Email this article to a friend</kw></a></strong>
+			</td></tr>
+			
+			
+
+
+	
+
+	
+
+	
+
+		
+		
+
+
+
+			
+			
+			
+		
+	
+
+		
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		<strong>
+		<a href="/cgi/search?qbe=cardiovascres;S0008-6363_03_00396-1&amp;journalcode=cardiovascres&amp;minscore=5000"><kw class="krdwrd-tag-1">
+		Similar articles in this journal</kw></a>
+		</strong>
+		</td></tr>
+
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=12909335&amp;link_type=MED_NBRS"><kw class="krdwrd-tag-1">
+				Similar articles in PubMed</kw></a></strong>
+			</td></tr>
+		
+	
+
+
+		
+
+
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/alerts/etoc"><kw class="krdwrd-tag-1">
+				Alert me to new issues of the journal</kw></a></strong>
+			</td></tr>
+		
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=cardiovascres;59/2/520"><kw class="krdwrd-tag-1">
+				Add to My Personal Archive</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+		
+		
+		
+
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+			<strong><a href="/cgi/citmgr?gca=cardiovascres;59/2/520"><kw class="krdwrd-tag-1">
+			Download to citation manager</kw></a></strong>
+			</td></tr>
+		
+		
+	
+
+
+	
+		
+	
+
+	
+
+
+
+  			
+		
+
+	
+	
+	
+	
+	
+
+
+
+	
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item"><strong><a href="#" onclick="RightslinkPopUp('Influence of differential vascular remodeling on the coronary vasomotor response',
+	'1 August 2003',
+	
+'Andrew L. McLeod, et. al.'
+
+,
+	'Copyright (c) 2003 by the European Society of Cardiology.',
+	'10.1016/S0008-6363(03)00396-1',
+	'59',
+	'2',
+	'520',
+	'526',
+	'0008-6363',
+	''); 
+	return false;"><kw class="krdwrd-tag-1">Request Permissions</kw></a></strong></td></tr>
+
+	
+
+
+		
+
+		
+
+	
+	
+	
+		
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+				
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Google Scholar</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AA.%20L.+author%3AMcLeod%22"><kw class="krdwrd-tag-1">
+							Articles by McLeod, A. L.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="http://scholar.google.com/scholar?q=%22author%3AN.%20G.+author%3AUren%22"><kw class="krdwrd-tag-1">
+							Articles by Uren, N. G.</kw></a></strong>
+						</td></tr>
+				
+				
+			
+		
+		
+	
+	
+	
+		
+	
+	
+
+		
+			
+				
+					
+						
+						
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=%0A%09%09%09%09%09%09http://cardiovascres.oxfordjournals.org%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09/cgi/content/abstract/59/2/520%0A%09%09%09%09%09%09%0A%09%09%09%09%09&amp;link_type=GOOGLESCHOLARRELATED"><kw class="krdwrd-tag-1">Search for Related Content</kw></a></strong>
+						</td></tr>		
+						
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+		
+<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">PubMed</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+			
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+				<strong><a href="/cgi/external_ref?access_num=12909335&amp;link_type=PUBMED"><kw class="krdwrd-tag-1">
+				PubMed Citation</kw></a></strong>
+			</td></tr>
+		
+	
+
+	
+		
+		
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=McLeod+AL&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1">
+							Articles by McLeod, A. L.</kw></a></strong>
+						</td></tr>
+				
+			
+				
+
+						
+		<tr><td class="content_box_arrow" valign="top" width="4"><img alt="Right arrow" src="/icons/shared/misc/arrowTtrim.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+							<strong><a target="_blank" href="/cgi/external_ref?access_num=Uren+NG&amp;link_type=AUTHORSEARCH"><kw class="krdwrd-tag-1">
+							Articles by Uren, N. G.</kw></a></strong>
+						</td></tr>
+				
+			
+		
+
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+	
+
+		
+			
+		
+	 
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr><tr><td class="content_box_title" colspan="2"><kw class="krdwrd-tag-1">Social Bookmarking</kw></td></tr>
+	<tr><td class="content_box_space_between_sections" colspan="2"><img alt=" " src="/icons/spacer.gif" width="200" height="1"></td></tr>
+	<tr><td class="content_box_arrow"><img alt=" " src="/icons/spacer.gif" border="0" width="4" height="11"></td><td class="content_box_item">
+		
+			
+			<a href="/cgi/external_ref?tag_url=http://cardiovascres.oxfordjournals.org/cgi/content/long/59/2/520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response+--+McLeod+et+al.+59+%282%29%3A+520+--+Cardiovasc+Res&amp;doi=10.1016/S0008-6363%2803%2900396-1&amp;link_type=CITEULIKE" title="CiteULike"><img src="/icons/shared/socbookmark/citeulike.gif" alt="Add to CiteULike" border="0"></a>&nbsp;&nbsp;
+			
+		
+			
+		
+			
+			<a href="/cgi/external_ref?tag_url=http://cardiovascres.oxfordjournals.org/cgi/content/long/59/2/520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response+--+McLeod+et+al.+59+%282%29%3A+520+--+Cardiovasc+Res&amp;doi=10.1016/S0008-6363%2803%2900396-1&amp;link_type=CONNOTEA" title="Connotea"><img src="/icons/shared/socbookmark/connotea.gif" alt="Add to Connotea" border="0"></a>&nbsp;&nbsp;
+			
+		
+			
+			<a href="/cgi/external_ref?tag_url=http://cardiovascres.oxfordjournals.org/cgi/content/long/59/2/520&amp;title=Influence+of+differential+vascular+remodeling+on+the+coronary+vasomotor+response+--+McLeod+et+al.+59+%282%29%3A+520+--+Cardiovasc+Res&amp;doi=10.1016/S0008-6363%2803%2900396-1&amp;link_type=DEL_ICIO_US" title="Del.icio.us"><img src="/icons/shared/socbookmark/delicious.gif" alt="Add to Del.icio.us" border="0"></a>&nbsp;&nbsp;
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		<br><a href="http://www.oxfordjournals.org/help/features/index.html#socialbookmarking"><kw class="krdwrd-tag-1">What's this?</kw></a>
+	</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</tbody></table>
+</td></tr></tbody></table> 
+
+
+					
+					
+	
+
+<br clear="all">
+
+
+
+
+
+
+
+
+	
+</div>
+<!-- /footer.mc begins -->
+</div>
+<!-- OAS AD 'Bottom' begin -->
+<div id="oas_bottom">
+<script type="text/javascript">
+<!--
+OAS_AD('Bottom');
+//-->
+</script><a href="http://oas.oxfordjournals.org/RealMedia/ads/click_nx.ads/krdwrd.org/pages/dat/dumped/692/1333270334@Top,Bottom%21Bottom?" target="_top"><img src="http://oas.oxfordjournals.org/RealMedia/ads/adstream_nx.ads/krdwrd.org/pages/dat/dumped/692/1333270334@Top,Bottom%21Bottom?" border="0"></a><a href="http://oas.oxfordjournals.org/RealMedia/ads/click_nx.ads/cardiovascres.oxfordjournals.org/cgi/content/full/59/2/520/1393138904@Top,Bottom%21Bottom?" target="_top"><img src="http://oas.oxfordjournals.org/RealMedia/ads/adstream_nx.ads/cardiovascres.oxfordjournals.org/cgi/content/full/59/2/520/1393138904@Top,Bottom%21Bottom?" border="0"></a>
+</div>
+<!--OAS AD'Bottom'end -->
+
+<div id="secondary_footer">
+<div id="issn"><kw class="krdwrd-tag-1">
+Online ISSN 1755-3245 - Print ISSN 0008-6363
+</kw></div>
+<div id="copyright">
+<a href="/misc/terms.dtl"><kw class="krdwrd-tag-1">Copyright ©</kw></a><kw class="krdwrd-tag-1"> 2007 European Society of Cardiology
+</kw></div>
+</div>
+<div id="primary_footer">
+<div id="site_logo">
+<strong><span><kw class="krdwrd-tag-1">Oxford Journals</kw></span></strong>
+<em><span><kw class="krdwrd-tag-1">Oxford University Press</kw></span></em>
+</div>
+<div id="third_nav">
+<ul>
+<li><a href="http://www.oxfordjournals.org/site_map.html"><kw class="krdwrd-tag-1">Site Map</kw></a></li>
+<!-- <li><a href="http://www.oxfordjournals.org/terms_conditions.html">Terms &amp; Conditions</a></li> -->
+<li><a href="http://www.oup.co.uk/privacy/"><kw class="krdwrd-tag-1">Privacy Policy</kw></a></li>
+<li><a href="http://www.oxfordjournals.org/faq/"><kw class="krdwrd-tag-1">Frequently Asked Questions</kw></a></li>
+</ul>
+</div>
+<div id="other_oup_sites">
+<form action="http://www.oxfordjournals.org/service/redirect">
+<div>
+<label for="site_list"><kw class="krdwrd-tag-1">Other Oxford University Press sites:</kw></label>
+<select name="url" id="site_list">
+<option class="krdwrd-tag-1" value="http://www.oup.com/">Oxford University Press</option>
+<option class="krdwrd-tag-1" value="http://www.oxfordjournals.org/japan/">Oxford Journals Japan</option>
+<option class="krdwrd-tag-1" value="http://www.anb.org/">American National Biography</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/booksellers/">Booksellers' Information Service</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/oxed/children/">Children's Fiction and Poetry</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/oxed/children/">Children's Reference</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/corporate/">Corporate &amp; Special Sales</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/dictionaries/">Dictionaries</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/newdnb/">Dictionary of National Biography</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/digital_reference/">Digital Reference</option>
+<option class="krdwrd-tag-1" value="http://www.oup.com/elt/">English Language Teaching</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/best.textbooks/">Higher Education Textbooks</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/academic/humanities/">Humanities</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/ieu/">International Education Unit</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/law/">Law</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/academic/medicine/">Medicine</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/music/">Music</option>
+<option class="krdwrd-tag-1" value="http://www.oup.com/online">Online Products</option>
+<option class="krdwrd-tag-1" value="http://www.oed.com/">Oxford English Dictionary</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/reference/">Reference</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/rights/">Rights and Permissions</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/academic/science/">Science</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/oxed/">School Books</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/academic/socsci/">Social Sciences</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/general/vsi/">Very Short Introductions</option>
+<option class="krdwrd-tag-1" value="http://www.oup.co.uk/worldsclassics/">World's Classics</option>
+</select>
+<input src="/resource/image/buttons/go.gif" alt="Go" class="inline_button" type="image">
+</div>
+</form>
+</div>
+</div>
+</div>
+<!-- /footer.mc ends -->
+
+
+
+
+</body></html>

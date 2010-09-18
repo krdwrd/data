@@ -1,0 +1,836 @@
+<head><base href="http://letters.salon.com/politics/war_room/2008/05/29/obama_policy/view/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Letters: Will Obama's "new kind of politics" involve new policy ideas? - Salon</title>
+
+
+	
+	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/base.css">
+	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/header.css">
+	<link rel="stylesheet" type="text/css" media="all" href="/lib/styles/letters.css"><!-- OAS SETUP begin -->
+		
+
+<script type="text/javascript" language="JavaScript">
+<!--
+//configuration
+OAS_url = 'http://judo.salon.com/RealMedia/ads/';
+OAS_sitepage = 'www.salonmagazine.com/letters/default.html';
+
+
+			OAS_listpos = 'Top,Frame2,x10,x15,x50,Right,Right1,Right2,Right3,Bottom,Bottom1,Bottom2'; 
+	
+
+
+OAS_target = '_top';
+OAS_query = '';
+//end of configuration
+
+OAS_version = 10;
+OAS_rn = '001234567890'; 
+OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); 
+OAS_rns = OAS_rn.substring (2, 11);
+
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' 
+	+ OAS_url + 'adstream_jx.ads/' + OAS_sitepage 
+	+ '/1' + OAS_rns + '@TopLeft"><\/SCRIPT>');
+
+
+  article_url= 'http://www.salon.com/politics/war_room/2008/05/29/obama_policy/index.html';
+
+
+function OAS_NORMAL(pos) {
+  document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0><\/A>');
+}
+//-->
+</script><script language="JavaScript1.1" src="http://judo.salon.com/RealMedia/ads/adstream_jx.ads/www.salonmagazine.com/letters/default.html/1811660020@TopLeft"></script><script language="JavaScript1.1" src="http://judo.salon.com/RealMedia/ads/adstream_jx.ads/www.salonmagazine.com/letters/default.html/1358464676@TopLeft"></script>
+
+<script type="text/javascript" language="JavaScript1.1">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 ||
+(navigator.userAgent.indexOf('****Mozilla/4.0 WebTV') != -1))
+   OAS_version = 10;
+if (OAS_version >= 11)
+   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + 
+'?' + OAS_query + '"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://judo.salon.com/RealMedia/ads/adstream_mjx.ads/www.salonmagazine.com/letters/default.html/1811660020@Top,Frame2,x10,x15,x50,Right,Right1,Right2,Right3,Bottom,Bottom1,Bottom2?"></script><script language="JavaScript1.1" src="http://judo.salon.com/RealMedia/ads/adstream_mjx.ads/www.salonmagazine.com/letters/default.html/1358464676@Top,Frame2,x10,x15,x50,Right,Right1,Right2,Right3,Bottom,Bottom1,Bottom2?"></script>
+
+<script type="text/javascript" language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) {
+  if (OAS_version >= 11)
+    OAS_RICH(pos);
+  else
+    OAS_NORMAL(pos);
+}
+//-->
+</script>
+
+
+
+	<link rel="apple-touch-icon" href="http://images.salon.com/apple-touch-icon.png"></head><body id="letters">
+
+<div id="header" class="clearfix">
+    <div id="header_top" class="clearfix">
+     <div id="logo">
+		  <h1 class="sitepass"><a href="http://www.salon.com/"><img src="http://images.salon.com/src/cover/salonlogo_p.gif" alt="salon.com" height="113" width="129"></a></h1>
+	     </div>
+		<div id="header_sitepass">
+	  <div id="sitepass_top_ad">
+	    <div id="top_ad" class="ad_content">
+	      <script type="text/javascript" language="JavaScript1.1">
+		<!-- 
+		OAS_AD('Top'); 
+		//-->
+	      </script>
+	      <noscript><kw>
+		<a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@Top"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/home.html@Top" alt="" border="0"></a>
+	      </kw></noscript>
+	    </div>
+	  </div>
+	</div>
+		 <div id="search">
+
+	   <div id="search_form">
+	     <form action="http://search.salon.com/results/" method="get" onsubmit="if(this.query.value == this.query.defaultValue &amp;&amp; this.breadth[0].checked == this.breadth[0].defaultChecked) { this.query.focus(); return false; }">
+	       <div id="search_bar"><label class="hidden" for="search_top" style="display: none;"><kw class="krdwrd-tag-1">Search: </kw></label><input name="query" id="search_top" value="Search" onfocus='if (this.value == this.defaultValue) this.value="";' onblur='if (this.value == "") this.value = this.defaultValue;' type="search">&nbsp;&nbsp;<input value="Go!" type="submit">&nbsp;<input name="breadth" value="salon" id="salon_radio" checked="checked" type="radio"><label for="salon_radio"><kw class="krdwrd-tag-1">Salon</kw></label>&nbsp;<input name="breadth" value="web" id="web_radio" type="radio"><label for="web_radio"><kw class="krdwrd-tag-1">The Web</kw></label>&nbsp;<img src="http://images.salon.com/src/yahoo_search.png" alt="Powered by Yahoo!" style="margin: 5px 0pt -5px 20px;" height="27" width="125"></div>
+				</form>
+			</div>
+
+				<div id="sitepass_sitepass">
+					<div id="sitepass_img">
+							<script type="text/javascript">
+							<!--
+							OAS_AD('Frame2');
+							//-->
+							</script>
+							<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/politics/content/large.html@Frame2"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/politics/content/large.html@Frame2" alt=""></a></kw></noscript>
+					</div>
+					<p><kw class="krdwrd-tag-1">Site Presented By</kw></p>
+			</div>
+	 		</div>
+	</div>
+
+	<div id="header_bottom" class="clearfix">
+		<div id="todays_date">
+			<div id="todays_date_text"><span><kw class="krdwrd-tag-1">Tuesday, Jun 24, 2008</kw></span></div>
+		</div>
+		<div id="top_navbar">
+			<ul id="topics">
+				<li id="topics_ent" class="first"><a name="&amp;lid=topnav_ent&amp;lpos=text" href="http://dir.salon.com/topics/arts_entertainment/" title="Arts &amp; Entertainment"><kw class="krdwrd-tag-1">A&amp;E</kw></a></li>
+				<li id="topics_books"><a name="&amp;lid=topnav_books&amp;lpos=text" href="http://dir.salon.com/topics/books/"><kw class="krdwrd-tag-1">Books</kw></a></li>
+				<li id="topics_comics"><a name="&amp;lid=topnav_comics&amp;lpos=text" href="http://dir.salon.com/topics/comics/"><kw class="krdwrd-tag-1">Comics</kw></a></li>
+				<li id="topics_community"><a name="&amp;lid=topnav_community&amp;lpos=text" href="http://www.salon.com/dialogue/"><kw class="krdwrd-tag-1">Community</kw></a></li>
+				<li id="topics_mwt"><a name="&amp;lid=topnav_life&amp;lpos=text" href="http://dir.salon.com/topics/mwt/"><kw class="krdwrd-tag-1">Life</kw></a></li>
+				<li id="topics_movies"><a name="&amp;lid=topnav_movies&amp;lpos=text" href="http://www.salon.com/ent/movies/"><kw class="krdwrd-tag-1">Movies</kw></a></li>
+				<li id="topics_news"><a name="&amp;lid=topnav_news&amp;lpos=text" href="http://dir.salon.com/topics/news/"><kw class="krdwrd-tag-1">News &amp; Politics</kw></a></li>
+				<li id="topics_opinion"><a name="&amp;lid=topnav_opinion&amp;lpos=text" href="http://dir.salon.com/topics/opinion/"><kw class="krdwrd-tag-1">Opinion</kw></a></li>
+				<li id="topics_sports"><a name="&amp;lid=topnav_sports&amp;lpos=text" href="http://dir.salon.com/topics/sports/"><kw class="krdwrd-tag-1">Sports</kw></a></li>
+				<li id="topics_tech"><a name="&amp;lid=topnav_tech&amp;lpos=text" href="http://dir.salon.com/topics/technology_business/"><kw class="krdwrd-tag-1">Tech &amp; Business</kw></a></li>
+			</ul>
+		</div>
+			<div id="login"><a name="&amp;lid=premium_login&amp;lpos=text" href="http://letters.salon.com/login/"><span><kw class="krdwrd-tag-1">Log in</kw></span></a></div>
+		</div>
+</div>
+
+
+<div id="letters_content_wrapper" class="clearfix">
+	<div id="letters_main_column">
+		<div class="content">
+						
+<h1><kw class="krdwrd-tag-2">Letters to the Editor</kw></h1>
+
+<form id="letter_selection" class="clearfix" method="get" action="/politics/war_room/2008/05/29/obama_policy/view/index.html">
+	<div class="group clearfix">
+		<input onchange='if(!this.defaultChecked)document.getElementById("letter_selection").submit()' value="all" id="all_letters_radio" name="show" checked="checked" type="radio">
+		<label for="all_letters_radio"><kw class="krdwrd-tag-1">All letters</kw></label>
+		<input onclick='if(!this.defaultChecked)document.getElementById("letter_selection").submit()' value="ec" id="editors_choice_letters_radio" name="show" type="radio">
+		<label for="editors_choice_letters_radio"><img src="/images/star_edchoice.gif" style="vertical-align: middle;" alt=""><kw class="krdwrd-tag-1">Only Editors' Choices</kw></label>
+		</div>
+	<div class="group clearfix">
+		<input onclick='if(!this.defaultChecked)document.getElementById("letter_selection").submit()' value="desc" id="desc_letters_radio" name="order" type="radio">
+		<label for="desc_letters_radio"><kw class="krdwrd-tag-1">Newest First</kw></label>
+		<input onclick='if(!this.defaultChecked)document.getElementById("letter_selection").submit()' value="asc" id="asc_letters_radio" name="order" checked="checked" type="radio">
+		<label for="asc_letters_radio"><kw class="krdwrd-tag-1">Oldest First</kw></label>
+		<noscript><kw><input value="Filter Letters" type="submit"></kw></noscript>
+	</div>
+</form>
+	
+<div class="letter_entry"><kw class="krdwrd-tag-1">Letters posted here are associated with the following article:</kw></div>
+
+<div id="letter_source_container">
+	<div id="letter_source">
+		<div class="letter_headline"><a href="http://www.salon.com/politics/war_room/2008/05/29/obama_policy/index.html"><kw class="krdwrd-tag-2">Will Obama's "new kind of politics" involve new policy ideas?</kw></a></div>
+		<div class="letter_teaser"><kw class="krdwrd-tag-3">A Washington Post reporter concludes that Barack Obama's platform involves changes in tone and leadership style, but not the kind of policy shifts Bill Clinton brought to the White House. </kw></div>
+			<div class="letter_byline"><kw class="krdwrd-tag-1">Justin Jouvenal [2008-05-29]</kw></div>
+		</div>
+</div>
+
+<div id="letter_close_thread">
+    <em><kw class="krdwrd-tag-1">The letters thread is now closed.</kw></em>
+</div>
+
+
+    <div class="pagination"><kw class="krdwrd-tag-1">Page  </kw><span class="thispagenum"><kw class="krdwrd-tag-1">1</kw></span> <a href="/politics/war_room/2008/05/29/obama_policy/view/index2.html"><kw class="krdwrd-tag-1">2</kw></a>  <a href="/politics/war_room/2008/05/29/obama_policy/view/index3.html"><kw class="krdwrd-tag-1">3</kw></a>  <a href="/politics/war_room/2008/05/29/obama_policy/view/index4.html"><kw class="krdwrd-tag-1">4</kw></a>  <a href="/politics/war_room/2008/05/29/obama_policy/view/index5.html"><kw class="krdwrd-tag-1">5</kw></a> <a href="/politics/war_room/2008/05/29/obama_policy/view/index2.html"><kw class="krdwrd-tag-1"> Next Page &gt;&gt; </kw></a></div>
+  
+  
+  
+  <ul id="letter_list">
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">new kind of politics</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">I think there is some sloppy language here - a "new kind of
+politics" is not the same as new kind of policies, it is all about
+how the participants manage the process and how they will address
+partisan differences. These are separate issues.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					notjafo
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/2a0038823fde525c37894cf99574197c/author/"><kw class="krdwrd-tag-1">Read notjafo's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/68928fbd642c3b45dfe3a612dae77aee.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:00 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Innovations</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">Can't say that Clinton's innovations were all that great and I
+don't think Bush really moved from Republican orthodoxy. I'd be
+happy if any of the Democratic agenda actually moved forward.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					ligedog
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/326396da58e54c964f60f91e4a0b28a8/author/"><kw class="krdwrd-tag-1">Read ligedog's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/543201dca72173d5144d73bc07ee31ae.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:01 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Call everyone a racist, play victim and then blame your landslide defeat on Hillary.</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">That's the card. Nothing more need be said. Obama's a sleaze and
+a clown but that's being redundant.</kw></p>
+
+
+	<div class="letter_entry_author"><kw class="krdwrd-tag-1">-- 
+					ShawnWM
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/e93d71c6552f37d53918e794d239b30d/author/"><kw class="krdwrd-tag-1">Read ShawnWM's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/894769dd6630f0ca5e18931d9758309d.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:08 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Has anyone noticed...</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">... whether Justin Jouvenal can talk while Joan Walsh is
+drinking water? Just curious.</kw></p>
+<p><kw class="krdwrd-tag-3">(I was going to ask that under an earlier WR post, but I figured
+I was pulling the trigger too quickly and would give him the
+benefit of the doubt. Oh, well. Somewhere, Edgar Bergen and Charlie
+McCarthy are rolling over in their graves and/or boxes.)</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					Hotspur
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/e57aacae7b6d7cd0a4099208cd3cf322/author/"><kw class="krdwrd-tag-1">Read Hotspur's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/1b5371c1702f7352daefca28d1153459.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:09 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Not "transformational" like Clinton?!</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">"He has not dissented from party orthodoxy in the way Bill
+Clinton did on the way to the presidency in 1992."</kw></p>
+<p><kw class="krdwrd-tag-3">That's because Bill Clinton triangulated his way to Reaganism
+Lite, in many areas. Call it realism, or what have you, but Clinton
+simply didn't have ideas or policies to present as a counterpoise
+to Reaganism, which therefore continued to warp public discourse:
+everybody "knew" that Government wasn't the answer to poverty,
+inequality, etc. etc., so (with the exception of Hillary's botched
+health care initiative) incremental tweaks were the order of the
+day even before the GOP takeover of Congress in '94.</kw></p>
+<p><kw class="krdwrd-tag-3">Perhaps Obama's emphasis on "tone" isn't just a cover for a lack
+of substance. Maybe by "tone" Obama and his staff refer to the fact
+that while Bill Clinton had an opportunity to reformulate post-FDR
+liberalism for the 21st century, yet failed to do so, Obama will
+not repeat the same mistake. (How much of the New Deal was
+"tone"?)</kw></p>
+<p><kw class="krdwrd-tag-3">To be sure, the times may have been wrong for a bold statement
+of progressive policies and values when Clinton took office; but
+thanks to his lack of vision and boldness, not to mention certain
+zipper-related malfunctions, we'll never know, and that's the
+tragedy of the Clinton presidency.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					lsujp
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/01b7eabf91608cc0cf08280d884cf718/author/"><kw class="krdwrd-tag-1">Read lsujp's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/6f38c149ced8cec2d38f9b97cbdf89c4.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:15 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">shawnNeuteredMoron</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">the fascist troll rolls on, deodorant in reverse, spreading
+stench wherever he excretes his talking points and his forty word
+vocabulary on line. A week from now, billary will be done
+officially. Practically, she's been done for months. Blither on,
+shawn, then go back to the Warmonger Express with the rest of the
+fascist tools.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					jeffersonian
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/9ea39729a6f17d79d253971fd6eff932/author/"><kw class="krdwrd-tag-1">Read jeffersonian's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/fe3911ee0dfae77351b82f1a107e6614.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:21 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Looking forward to a return to competence. </kw></h3>
+
+    <p><kw class="krdwrd-tag-3">Perhaps there isn't much paper difference between Obama and
+Clinton's policies. But the difference between Bush's policies and
+Obama's, both on paper and in action, will be night and day.</kw></p>
+<p><kw class="krdwrd-tag-3">Or Bush and Clinton's policies, for that matter. But the
+Democratic primary is basically all over but the shoutin'.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					metasailor
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/a91fa7c018ea51a62615ba5398a5e5c5/author/"><kw class="krdwrd-tag-1">Read metasailor's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/cf27b9159190a6ba67357ad4d374218b.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:36 PM</kw></span>
+	</div>
+					
+			<div id="Right" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('Right');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@Right"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@Right" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+	
+														    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">@ ShawnWM</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">"</kw><i><kw class="krdwrd-tag-3">Call everyone a </kw><b><kw class="krdwrd-tag-3">sexist</kw></b><kw class="krdwrd-tag-3">, play victim and then blame
+your </kw><b><kw class="krdwrd-tag-3">primary</kw></b><kw class="krdwrd-tag-3"> defeat on </kw><b><kw class="krdwrd-tag-3">the media</kw></b><kw class="krdwrd-tag-3">.</kw></i></p>
+<p><i><kw class="krdwrd-tag-3">That's the card. Nothing more need be said. </kw><b><kw class="krdwrd-tag-3">Hillary's</kw></b><kw class="krdwrd-tag-3">
+a </kw><b><kw class="krdwrd-tag-3">desperate sore loser</kw></b><kw class="krdwrd-tag-3"> and a clown but that's being
+redundant.</kw></i><kw class="krdwrd-tag-3">"</kw></p>
+<p><kw class="krdwrd-tag-3">Fixed for you.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					metasailor
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/a91fa7c018ea51a62615ba5398a5e5c5/author/"><kw class="krdwrd-tag-1">Read metasailor's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/210e625d01db32659997cf600d7a1810.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:40 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Clinton's policy shifts ...</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">were what, exactly? He got George H.W. Bush's NAFTA enacted, and
+completed the GATT negotiations in much the same way that Bush Sr.
+would have. He got welfare reform passed. He ran a pro-Wall-Street
+Treasury department and presided over a boom that wasn't of his own
+making. He was a competent president and ran a competent
+government. But his administration's only lasting impacts were
+conservative changes and the loss of Congress to the
+Republicans.</kw></p>
+<p><kw class="krdwrd-tag-3">In foreign policy moves, he involved the US in the various
+Yugoslav wars, but Bush Sr. would have done much the same.</kw></p>
+<p><kw class="krdwrd-tag-3">All that said, he looks great compared to what came after.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					Joe Buck
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/934436be0d3295236e31498ab1d72b2f/author/"><kw class="krdwrd-tag-1">Read Joe Buck's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/811a30c2d00cad4e521092a277c05481.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:54 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">How about standing up for democratic principles?</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">Obama breaks with Democratic orthodoxy simply by standing up for
+Democratic ideas, instead of cowering in a corner whenever some
+Republican says "boo!" That in itself will mark a refreshing
+180-turn from what Democrats -- including Hillary Clinton -- have
+been doing for the past eight years. (Did I say eight? I meant
+14.)</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					rlsumi
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/f22f093bc10aebfa1f1eb10ca85cb6a0/author/"><kw class="krdwrd-tag-1">Read rlsumi's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/eeac0b56992128f9a42d4d9d809ec87b.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 05:59 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">New? Politics?</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">Heavens no, we've seen Populist dictat that morphs into either
+uselessness or fascism as far back as Napolean I.</kw></p>
+
+
+	<div class="letter_entry_author"><kw class="krdwrd-tag-1">-- 
+					Electro Robot
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/9d788698c82a1fbaf72a7825ac642eff/author/"><kw class="krdwrd-tag-1">Read Electro Robot's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/0e68f9010389fcb175b27d50bf51969c.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 06:04 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Can't stop laughing!</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">I suppose this is kind of off topic however when I read posts
+such as </kw><b><kw class="krdwrd-tag-3">metasailor's</kw></b><kw class="krdwrd-tag-3"> "correction" of ShawnWM's post or
+indeed </kw><b><kw class="krdwrd-tag-3">lsujp's</kw></b><kw class="krdwrd-tag-3"> summation including the phrase </kw><i><kw class="krdwrd-tag-3">but thanks
+to his lack of vision and boldness, not to mention certain
+zipper-related malfunctions, we'll never know</kw></i><kw class="krdwrd-tag-3"> or anything by
+the inimitable </kw><b><kw class="krdwrd-tag-3">jeffersonian</kw></b><kw class="krdwrd-tag-3"> I honestly cannot stop laughing.
+Thank you all for the chuckles, if only I was as frequently
+original. Salon letters has become very entertaining lately; I
+guess I'm easily amused.</kw></p>
+<p><kw class="krdwrd-tag-1">-bilhelm</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					bilhelm
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/5bbca7bf0e62c8a568061c56720214c0/author/"><kw class="krdwrd-tag-1">Read bilhelm's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/ef1b5ce81f15a831f68e3e7053fc7301.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 06:07 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Obama is from the Democratic wing of the Democratic Party</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">As opposed to Hillary who is from the triangulation wing of the
+Democratic Party, just like Bill.</kw></p>
+<p><kw class="krdwrd-tag-3">I'd be happy to see some Democratic programs get enacted. That
+would be a new kind of politics. Think of it - a Democrat enacting
+Democratic policies, as opposed to Bill Clinton who was a Democrat
+who gave the GOP everything they wanted.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					dataguyx
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/ffb06519037a38f5996c740ffd4f65ea/author/"><kw class="krdwrd-tag-1">Read dataguyx's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/48fe8ec8c95da5e4593c6f0d871b8945.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 06:08 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Being a real Democrat IS innovative nowadays</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">As ligedog and others have pointed out, we can do with a whole
+lot less of the "new ideas" we saw under Clinton - i.e.
+capitualting to the right and cozying up to big business.</kw></p>
+<p><kw class="krdwrd-tag-3">A Democrat who actually plans to make the Democratic party
+platform his real agenda is very very welcome in my book.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					playajackal
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/c6404312892266a7de5dc6de91d33bfc/author/"><kw class="krdwrd-tag-1">Read playajackal's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/70269fa8ba5a731c5ffadaae2eeca173.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 06:13 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Next March</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">The first time President Obama capitulates to the weak
+Republican minority over something really important in a farce of
+bipartisan collegiality, the buyer's remorse of legions of hope
+junkies will settle in.</kw></p>
+<p><kw class="krdwrd-tag-3">But that still makes him lightyears better than Grampa McCrazy.
+And it won't make the legions of shrieking Hilladroids right --
+because she'd do exactly the same thing. She'd just justify it with
+different rhetoric and then later claim she did nothing wrong.</kw></p>
+
+
+	<div class="letter_entry_author premium"><kw class="krdwrd-tag-1">-- 
+					Bukk63
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/f75efe0a6f7c5d991ac3dc0d806f4d0c/author/"><kw class="krdwrd-tag-1">Read Bukk63's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/7f2b282eca3ad8f5a33b1df7122c2fed.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 06:21 PM</kw></span>
+	</div>
+					
+			<div id="x10" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('x10');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@x10"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@x10" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+	
+											    	</li>
+      	<li class="letter_node">
+    	<h3><kw class="krdwrd-tag-2">Misconception</kw></h3>
+
+    <p><kw class="krdwrd-tag-3">Some other posters (and to his credit, Justin) have hit on a
+misconception about Obama's "change" meme. It's not about wildly
+new policy ideas. It's about a sense of decency in the dialogue in
+Washington and a commander in chief who's not wed to the same old
+boomer arguments we've been rehashing for 30+ years now.</kw></p>
+
+
+	<div class="letter_entry_author"><kw class="krdwrd-tag-1">-- 
+					Mike LeP
+			</kw></div>
+			<div class="letter_entry_author_more"><kw class="krdwrd-tag-1">[</kw><a href="/9fca1d8cad1e653da970711cb2288ae5/author/"><kw class="krdwrd-tag-1">Read Mike LeP's other letters</kw></a><kw class="krdwrd-tag-1">]</kw></div>
+	
+	<div class="letter_entry_footer">
+		<a href="/politics/war_room/2008/05/29/obama_policy/permalink/7fd0cf23912d534e54dca78dcfc1e322.html" class="permalink"><kw class="krdwrd-tag-1">Permalink</kw></a>
+		<span class="datestamp"><kw class="krdwrd-tag-1">Thursday, May 29, 2008 06:27 PM</kw></span>
+	</div>
+					
+
+			    	</li>
+   
+  </ul>
+  
+    <div class="pagination"><kw class="krdwrd-tag-1">Page  </kw><span class="thispagenum"><kw class="krdwrd-tag-1">1</kw></span> <a href="/politics/war_room/2008/05/29/obama_policy/view/index2.html"><kw class="krdwrd-tag-1">2</kw></a>  <a href="/politics/war_room/2008/05/29/obama_policy/view/index3.html"><kw class="krdwrd-tag-1">3</kw></a>  <a href="/politics/war_room/2008/05/29/obama_policy/view/index4.html"><kw class="krdwrd-tag-1">4</kw></a>  <a href="/politics/war_room/2008/05/29/obama_policy/view/index5.html"><kw class="krdwrd-tag-1">5</kw></a> <a href="/politics/war_room/2008/05/29/obama_policy/view/index2.html"><kw class="krdwrd-tag-1"> Next Page &gt;&gt; </kw></a></div>
+  
+
+		</div>
+		
+<div id="ad_right">
+	<div id="Right1" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('Right1');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@Right1"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@Right1" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+	<div id="Right2" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('Right2');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@Right2"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@Right2" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+	<div id="Right3" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('Right3');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@Right3"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@Right3" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+	<div id="x50" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('x50');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@x50"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@x50" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+</div>
+	</div>
+	<div id="letters_side_column">
+		
+<div id="x15" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('x15');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@x15"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@x15" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+
+<div id="most_active" class="sidebar_group">
+	<h2 class="red_block"><kw class="krdwrd-tag-1">Most Active Stories</kw></h2>
+	<ul>
+				<li>
+			<h3><a href="http://www.salon.com/opinion/feature/2008/06/23/pumas/index.html" title="http://www.salon.com/opinion/feature/2008/06/23/pumas/index.html" class="headline"><kw class="krdwrd-tag-1">Why Clinton voters say they won't support Obama</kw></a></h3>
+			<p><kw class="krdwrd-tag-mrgtie">The attack of the PUMAs, or a dozen reasons why Clinton voters are still too angry to come home.</kw></p>
+			<p class="byline"><kw class="krdwrd-tag-1">By Rebecca Traister</kw></p>
+			<p class="more"><a href="/opinion/feature/2008/06/23/pumas/view/index.html"><kw class="krdwrd-tag-1">Read letters</kw><!-- about this article--></a></p>
+		</li>
+				<li>
+			<h3><a href="http://www.salon.com/opinion/greenwald/2008/06/21/obama/index.html" title="http://www.salon.com/opinion/greenwald/2008/06/21/obama/index.html" class="headline"><kw class="krdwrd-tag-1">Obama's support for the FISA "compromise"</kw></a></h3>
+			<p><kw class="krdwrd-tag-mrgtie">There are many important lessons from yesterday's announcement that he now supports a warrantless eavesdropping and telecom amnesty bill</kw></p>
+			<p class="byline"><kw class="krdwrd-tag-1">Glenn Greenwald</kw></p>
+			<p class="more"><a href="/opinion/greenwald/2008/06/21/obama/view/index.html"><kw class="krdwrd-tag-1">Read letters</kw><!-- about this article--></a></p>
+		</li>
+				<li>
+			<h3><a href="http://www.salon.com/opinion/feature/2008/06/23/clinton_voters/index.html" title="http://www.salon.com/opinion/feature/2008/06/23/clinton_voters/index.html" class="headline"><kw class="krdwrd-tag-1">Why Clinton voters will come back to the fold</kw></a></h3>
+			<p><kw class="krdwrd-tag-mrgtie">Don't worry about those angry Hillary supporters who say they'll vote for McCain or stay home in November. History proves they'll vote for Obama. </kw></p>
+			<p class="byline"><kw class="krdwrd-tag-1">By Walter Shapiro</kw></p>
+			<p class="more"><a href="/opinion/feature/2008/06/23/clinton_voters/view/index.html"><kw class="krdwrd-tag-1">Read letters</kw><!-- about this article--></a></p>
+		</li>
+				<li>
+			<h3><a href="http://www.salon.com/opinion/greenwald/2008/06/22/calabresi/index.html" title="http://www.salon.com/opinion/greenwald/2008/06/22/calabresi/index.html" class="headline"><kw class="krdwrd-tag-1">Time magazine uncritically prints Nancy Pelosi's "justifications" for the FISA "compromise"</kw></a></h3>
+			<p><kw class="krdwrd-tag-mrgtie">The congressional Democratic leadership explains that sacrificing the Fourth Amendment and the rule of law is necessary to win some more swing seats.</kw></p>
+			<p class="byline"><kw class="krdwrd-tag-1">Glenn Greenwald</kw></p>
+			<p class="more"><a href="/opinion/greenwald/2008/06/22/calabresi/view/index.html"><kw class="krdwrd-tag-1">Read letters</kw><!-- about this article--></a></p>
+		</li>
+				<li>
+			<h3><a href="http://www.salon.com/opinion/greenwald/2008/06/23/tnr/index.html" title="http://www.salon.com/opinion/greenwald/2008/06/23/tnr/index.html" class="headline"><kw class="krdwrd-tag-1">The New Republic syndrome</kw></a></h3>
+			<p><kw class="krdwrd-tag-mrgtie">A mentality that repeatedly admitted wrongdoing, reversed itself and spawned great destruction nonetheless continues to dominate the Democratic Party.</kw></p>
+			<p class="byline"><kw class="krdwrd-tag-1">Glenn Greenwald</kw></p>
+			<p class="more"><a href="/opinion/greenwald/2008/06/23/tnr/view/index.html"><kw class="krdwrd-tag-1">Read letters</kw><!-- about this article--></a></p>
+		</li>
+			</ul> 
+	<p><a href="/" class="red_arrow"><kw class="krdwrd-tag-1">Read More</kw></a></p>
+</div>
+
+<div class="sidebar_group">
+	<h2 class="red_block"><kw class="krdwrd-tag-1">Letters Help</kw></h2>
+	<ul>
+		<li><a href="/editaccount/"><kw class="krdwrd-tag-1">Edit your account:</kw></a><kw class="krdwrd-tag-1"> Change e-mail address, password, other settings</kw></li>
+		<li><kw class="krdwrd-tag-1">Send </kw><a href="http://www.salon.com/about/letters/index.html"><kw class="krdwrd-tag-1">private e-mail</kw></a><kw class="krdwrd-tag-1"> to the editors</kw></li>
+		<li><a href="http://letters.salon.com/about/index.html"><kw class="krdwrd-tag-1">Find out more</kw></a><kw class="krdwrd-tag-1"> about letters</kw></li>
+		<li><kw class="krdwrd-tag-1">Problems?</kw><br><kw class="krdwrd-tag-1">Complaints?</kw><br><a href="mailto:lettersproblems@salon.com"><kw class="krdwrd-tag-1">E-mail us</kw></a></li>
+	</ul>
+</div>
+
+<div class="sidebar_group" id="daily_delivery">
+	<h2 class="red_block"><kw class="krdwrd-tag-1">Daily Delivery</kw></h2>
+	<p><kw class="krdwrd-tag-1">Salon headlines in your mailbox</kw><br>
+	</p><form action="https://sub.salon.com/newsletter/" method="post">
+		<input name="method" value="register" type="hidden">
+		<input name="newsletter" value="y" type="hidden">
+		<input id="email" name="email" value="email address" type="text">
+		<input name="newsletter_format" id="h" value="html" checked="checked" type="radio"><label for="h"><kw class="krdwrd-tag-1">HTML</kw></label>
+		<input name="newsletter_format" id="p" value="text" type="radio"><label for="p"><kw class="krdwrd-tag-1">TEXT</kw></label>
+		<br><br>
+		<input name="submitNewsletter" value="Sign me up" class="button" onclick="return checkEmail(email);" type="submit">
+	</form>
+</div>
+	</div>
+</div>
+
+
+<div id="Bottom" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('Bottom');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@Bottom"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@Bottom" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+<div id="Bottom1" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('Bottom1');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@Bottom1"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@Bottom1" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+<div id="Bottom2" class="ad_content">
+        <script type="text/javascript" language="JavaScript1.1">
+       	<!--
+		OAS_AD('Bottom2');
+	// -->
+	</script>
+	<noscript><kw><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/home.html@Bottom2"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/home.html@Bottom2" alt="Advertisement" border="0" height="" width=""></a><br><br></kw></noscript>
+</div>
+
+<div id="footer" class="clearfix">
+	<div id="address"></div>
+	<div id="fine_print">
+		<ul>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/"><kw class="krdwrd-tag-1">Salon</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/about/"><kw class="krdwrd-tag-1">About Salon</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/help/"><kw class="krdwrd-tag-1">Contact &amp; Help</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/letters/corrections/"><kw class="krdwrd-tag-1">Corrections</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/adsales/"><kw class="krdwrd-tag-1">Advertise in Salon</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://personals.salon.com/"><kw class="krdwrd-tag-1">Salon Personals</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/plus/mobile"><kw class="krdwrd-tag-1">Salon Mobile</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="https://sub.salon.com/newsletter/"><kw class="krdwrd-tag-1">Salon Newsletter</kw></a></li>
+			<li class="last"><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/plus/rss"><kw class="krdwrd-tag-1">RSS Feeds</kw></a></li>
+		</ul>
+		<ul>
+		<li class="title"><kw class="krdwrd-tag-1">Salon Premium:</kw></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="https://sub.salon.com/login/?loginfrom&amp;pos=footer"><kw class="krdwrd-tag-1">Premium log in</kw></a></li>
+			<li class="last"><a name="&amp;lid=footer&amp;lpos=text" href="https://sub.salon.com/?whatis&amp;pos=footer"><kw class="krdwrd-tag-1">What is Salon Premium?</kw></a></li>
+		</ul>
+		<ul>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/arts_entertainment/"><kw class="krdwrd-tag-1">A &amp; E</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/books/"><kw class="krdwrd-tag-1">Books</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/comics/"><kw class="krdwrd-tag-1">Comics</kw></a></li>
+			<li><kw class="krdwrd-tag-1">Community: </kw><a name="&amp;lid=footer&amp;lpos=text" href="http://tabletalk.salon.com/webx?" style="border-right: 0pt none;"><kw class="krdwrd-tag-1">Table Talk</kw></a><kw class="krdwrd-tag-1"> &amp; </kw><a name="&amp;lid=footer&amp;lpos=text" href="http://well.com/"><kw class="krdwrd-tag-1">The WELL</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/mwt/"><kw class="krdwrd-tag-1">Life</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/news/"><kw class="krdwrd-tag-1">News &amp; Politics</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/opinion/"><kw class="krdwrd-tag-1">Opinion</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/sports/"><kw class="krdwrd-tag-1">Sports</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/technology_business/"><kw class="krdwrd-tag-1">Tech &amp; Business</kw></a></li>
+			<li class="last"><a name="&amp;lid=footer&amp;lpos=text" href="http://letters.salon.com/"><kw class="krdwrd-tag-1">Letters</kw></a></li>
+		</ul>
+		<ul>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/ir/"><kw class="krdwrd-tag-1">Investor Relations</kw></a></li>
+			<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/about/policy/"><kw class="krdwrd-tag-1">Privacy Policy</kw></a></li>
+			<li class="last"><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/about/tos/"><kw class="krdwrd-tag-1">Terms of Service</kw></a></li>
+		</ul>
+		<p id="copyright"><kw class="krdwrd-tag-1">Copyright © 2008 Salon Media Group, Inc.  Reproduction of material from any Salon pages without written permission is strictly prohibited. SALON® is registered in the U.S. Patent and Trademark Office as a trademark of Salon Media Group Inc.</kw></p>
+	</div>
+</div>
+
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED.
+U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script type="text/javascript" language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="a.salon.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM540506EPZE38EN3";//ACCOUNT NUMBER(S)
+
+hbx.pn="letter";
+hbx.mlc="/letters/politics/war_room/2008/05/29/obama_policy/view";
+
+
+hbx.pndef="title";
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="manual";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+
+hbx.seg="-2,-1,-6,3,-5";
+
+
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn= "";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr= "";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+
+
+hbx.hc2="";//CUSTOM 2
+
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script type="text/javascript" language="javascript1.1" defer="defer" src="/lib/javascript/hbx.js"></script>
+<!--END WEBSIDESTORY CODE-->	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	_uacct = "UA-1232497-1";
+	_udn="salon.com";
+	urchinTracker();
+</script>
+
+
+</body>

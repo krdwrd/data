@@ -1,0 +1,527 @@
+<head><base href="http://www.navy.mil/search/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Navy MWR Offers Assistance to Those Heading to Asia</title>
+
+
+
+<meta name="DESCRIPTION" content="Navy Morale, Welfare and Recreation (MWR) can now provide Sailors a sneak peek of what foreign lands, such as Japan and ">
+<meta name="PRIORITY" content="Headline">
+<meta name="DATE_RELEASE" content="2/3/2006 12:48:00 PM">
+<meta name="AUTHOR" content="This story was written by Journalist 3rd Class Chris M. Hwang, Navy Personnel Command Communications">
+<meta name="SUBMITTED" content="This story was submitted by npc Administrator">
+<link href="../newsstand.css" rel="stylesheet" type="text/css">
+
+<script language="JAVASCRIPT1.1">
+<!--
+var VidWindow = new Object();
+
+function openVideo(strVideo)
+{ 
+	var tempItem = strVideo;
+	var openVideo
+	openVideow = window.open(tempItem,'VIDEO_WIN','toolbar=no,location=yes,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=no,width=600,height=625');
+	openVideow.focus();
+}
+
+//-->
+</script>
+<script type="text/javascript">
+<!--
+
+// Test for Microsoft Internet Explorer
+//-----------------------------------------------------------------------
+function isMSIE() 
+//-----------------------------------------------------------------------
+{
+	return (navigator.appVersion.indexOf("MSIE") != -1)
+}
+
+
+// Netscape CSS Bug Fix
+if (document.layers){
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	}
+	
+//-----------------------------------------------------------------------
+function reloadPage() 
+//-----------------------------------------------------------------------
+{
+	if (innerWidth != origWidth || innerHeight != origHeight)
+		location.reload();
+}
+	
+if (document.layers) onresize = reloadPage;	
+
+
+// Email Link Protection Functions
+var user;
+var domain;
+var suffix;
+var linktitle;
+
+// Show and Hide Functions
+//-----------------------------------------------------------------------
+function hide_main_menu(div_id)
+//-----------------------------------------------------------------------
+{
+	var menu_id;
+	
+	menu_id = document.getElementById(div_id);
+	
+	/* Hide the specified menu */
+	if (menu_id == null)
+	{
+		return;
+	}
+	else 
+	{
+		menu_id.className = 'hide';
+	}
+}
+
+//-----------------------------------------------------------------------
+function toggle_main_menu(div_id)
+//-----------------------------------------------------------------------
+{
+	var menu_id, old_value;
+	
+	menu_id = document.getElementById(div_id);
+	if (menu_id == null)
+		return;
+		
+	/* Retrive current class value */
+	old_value = menu_id.className;
+	
+	/* First hide all menus */
+	if (menu_ids) {
+		for(i=0; i<menu_ids.length; i++) {
+			document.getElementById(menu_ids[i]).className = 'hide';
+			}
+	}
+
+	/* set new class value */
+	if (old_value == 'hide')
+	{
+		menu_id.className = 'show';
+	}
+	else
+	{
+		menu_id.className = 'hide';	
+	}
+}	
+
+//-----------------------------------------------------------------------
+function show_all_menus()
+//-----------------------------------------------------------------------
+{
+	if (menu_ids) {
+		for(i=0; i<menu_ids.length; i++) {
+			document.getElementById(menu_ids[i]).className = 'show';
+			}
+	}
+}	
+
+//-----------------------------------------------------------------------
+function toggle_display(div_id)
+//-----------------------------------------------------------------------
+{
+	var child;
+
+	/* Hide all menus */
+	if (menu_ids) {
+		for(i=0; i<menu_ids.length; i++) {
+			document.getElementById(menu_ids[i]).className = 'hide';
+			}
+	}
+	
+/*	child = document.all(window.event.srcElement.child);*/
+	child = document.getElementById(div_id);
+	
+	if (child == null)
+		return;
+	else
+	{
+		if (child.className == 'hide')
+		{
+			child.className = 'show';
+		}
+		else
+		{
+			child.className = 'hide';
+		}
+	}
+}
+
+//-->
+</script>
+		
+
+<style type="text/css">
+@import url(/css/intra_bar_style.css);
+body {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        background-color: #000033;
+}
+-->
+</style><style>
+        @import url(/css/intra_bar_style.css);
+body {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+}
+</style></head><body leftmargin="0" topmargin="0" alink="#666666" background="/images/body-tile.png" bgcolor="#999999" text="#000033" vlink="#666666" link="#0066cc" marginheight="0" marginwidth="0">
+<script language="JAVASCRIPT1.1">
+<!--
+function clearText(theBox) {
+  theBox.value = "";
+}
+//-->
+</script>
+<script language="JavaScript">
+function openwincno(){ 
+properties='menubar=0,toolbar=0,location=0,directories=0,status=0,scrollbars=no,resizable=0,width=700,height=300,top=150,left=150'
+win_1 = window.open ('cnopd.html', 'cno', properties);
+}
+</script>
+<script language="JavaScript">
+function openwin(){ 
+properties='menubar=0,toolbar=0,location=0,directories=0,status=0,scrollbars=no,resizable=0,width=700,height=300,top=150,left=150'
+win_1 = window.open ('radio.html', 'ahradio', properties);
+}
+</script>
+
+<table style="background-image: url(&quot;/graphics/Navymil.png&quot;); background-position: right center; background-repeat: no-repeat;" align="center" bgcolor="#000033" border="0" cellpadding="0" cellspacing="0" width="1000" height="50">
+<form name="srchForm" method="get" action="http://dodsearch.afis.osd.mil/search"></form>
+  <tbody><tr>
+    <td><a href="http://www.navy.mil"><img src="/images/blank.gif" alt="" border="0" width="725" height="50"></a></td>
+        <td align="right">
+          <table border="0" cellpadding="0" cellspacing="1" width="265">
+            <tbody><tr>
+                  <td><p>&nbsp;<a href="http://www.navy.com" style="text-decoration: none; font-family: sans-serif; font-weight: bold; font-size: 7pt; color: rgb(255, 255, 255);"><strong><kw class="krdwrd-tag-1">Careers</kw></strong></a></p></td>
+                  <td><p>&nbsp;<a href="/navydata/infoIndex.asp" style="text-decoration: none; font-family: sans-serif; font-weight: bold; font-size: 7pt; color: rgb(255, 255, 255);"><strong><kw class="krdwrd-tag-1">Info&nbsp;Index</kw></strong></a></p></td>
+                  <td><p>&nbsp;<a href="/about.asp" style="text-decoration: none; font-family: sans-serif; font-weight: bold; font-size: 7pt; color: rgb(255, 255, 255);"><strong><kw class="krdwrd-tag-1">About&nbsp;Us</kw></strong></a></p></td>
+                  <td><p>&nbsp;<a href="/submit/contacts.asp" style="text-decoration: none; font-family: sans-serif; font-weight: bold; font-size: 7pt; color: rgb(255, 255, 255);"><strong><kw class="krdwrd-tag-1">Contact&nbsp;Us</kw></strong></a></p></td>
+                  <td><p>&nbsp;<a href="/" style="text-decoration: none; font-family: sans-serif; font-weight: bold; font-size: 7pt; color: rgb(255, 255, 255);"><strong><kw class="krdwrd-tag-1">Home</kw></strong></a>&nbsp;</p></td>
+            </tr>
+                <tr>
+                  <td colspan="5" align="center"><input maxlength="255" name="q" id="q" value="Search Navy.mil" style="height: 18px; width: 200px; font-size: 9px; font-weight: bold;" onfocus="clearText(this);" type="text">&nbsp;&nbsp;<input src="/images/go_darkgray.gif" name="btnG" alt="Submit" border="0" type="image"></td>
+                </tr>
+                <tr>
+                  <td colspan="5" align="center"><p><a href="/search/advanced_search.asp" style="font-size: 11px; font-family: sans-serif; text-decoration: none; color: rgb(255, 255, 255);"><kw class="krdwrd-tag-1"> &gt;&gt;&gt; Advanced Search </kw></a></p></td>
+                </tr>
+          </tbody></table>
+			<input name="client" value="navy_search" type="hidden">
+			<input name="proxystylesheet" value="navy_search" type="hidden">
+			<input name="output" value="xml_no_dtd" type="hidden">
+			<input name="site" id="site" value="navy_all" type="hidden">
+        </td>
+  </tr>
+
+</tbody></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1000">
+  <tbody><tr>
+    <td>
+        <!-- Begin Standard USN Header Bar -->
+
+
+
+<script language="JavaScript" type="text/javascript">
+
+var menu_ids = new Array('column2_menu','column3_menu','column4_menu','column5_menu','column6_menu');
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td bgcolor="#cfdbe7">
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="3%"><img src="/images/blank.gif" alt="" border="0" width="26" height="1"></td>
+<td width="11%"><a href=""></a></td>
+<td width="11%"><a title="US Navy Today - for 508 viewers please click here then tab into the menu for this area" tabindex="200" class="header_menu_item" href="javascript:void(0);" name="column2_menu_link" id="column2_menu_link" child="column2_menu" onclick="toggle_main_menu('column2_menu');"><kw class="krdwrd-tag-1">&nbsp;US Navy Today</kw></a></td>
+
+<td width="11%"><a title="About the Navy - for 508 viewers please click here then tab into the menu for this area" tabindex="300" class="header_menu_item" href="javascript:void(0);" name="column3_menu_link" id="column3_menu_link" child="column3_menu" onclick="toggle_main_menu('column3_menu');"><kw class="krdwrd-tag-1">&nbsp;About the Navy</kw></a></td>
+
+<td width="11%"><a title="Navy Leadership - for 508 viewers please click here then tab into the menu for this area" tabindex="400" class="header_menu_item" href="javascript:void(0);" name="column4_menu_link" id="column4_menu_link" child="column4_menu" onclick="toggle_main_menu('column4_menu');"><kw class="krdwrd-tag-1">&nbsp;Navy Leadership</kw></a></td>
+
+<td width="11%"><a title="Media Resources - for 508 viewers please click here then tab into the menu for this area" tabindex="500" class="header_menu_item" href="javascript:void(0);" name="column5_menu_link" id="column5_menu_link" child="column5_menu" onclick="toggle_main_menu('column5_menu');"><kw class="krdwrd-tag-1">&nbsp;Media Resources</kw></a></td>
+
+<td width="11%"><a title="Links of Interest - for 508 viewers please click here then tab into the menu for this area" tabindex="600" class="header_menu_item" href="javascript:void(0);" name="column6_menu_link" id="column6_menu_link" child="column6_menu" onclick="toggle_main_menu('column6_menu');"><kw class="krdwrd-tag-1">&nbsp;Links of Interest</kw></a></td>
+
+<td width="17%"><a tabindex="700" class="header_menu_item" href="/navydata/infoIndex.asp"><kw class="krdwrd-tag-1">&nbsp;Information Index </kw></a></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<!-- Column2 Menu Popup Items --->
+<div id="column2_menu" class="hide">
+<div class="header_submenu">
+<div class="header_submenu_title"><kw class="krdwrd-tag-1">US Navy Today:</kw></div>
+<table border="0" cellpadding="5" cellspacing="0" width="1000">
+<tbody><tr valign="top">
+<td width="9"></td>
+<td width="330">
+<div><a tabindex="221" class="header_submenu_item" href="/navydata/navy_legacy_hr.asp?id=146"><kw class="krdwrd-tag-1">Status of the Navy </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="241" class="header_submenu_item" href="/links/alpha.asp"><kw class="krdwrd-tag-1">Navy Web Sites </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="261" class="header_submenu_item" href="/search/display_history.asp?story_id=1397"><kw class="krdwrd-tag-1">Today in Naval History </kw></a></div>
+</td>
+</tr>
+</tbody></table>
+<div class="header_submenu_hide_link_area"><a class="header_submenu_hide_link" tabindex="290" href="javascript:void(0);" onclick="hide_main_menu('column2_menu');"><kw class="krdwrd-tag-1">Hide US Navy Today Menu</kw></a></div>
+</div>
+</div>
+
+<!-- Column3 Menu Popup Items --->
+<div id="column3_menu" class="hide">
+<div class="header_submenu">
+<div class="header_submenu_title"><kw class="krdwrd-tag-1">About the Navy:</kw></div>
+<table border="0" cellpadding="5" cellspacing="0" width="1000">
+<tbody><tr valign="top">
+<td width="9"></td>
+<td width="330">
+<div><a tabindex="321" class="header_submenu_item" href="/navydata/organization/org-top.asp"><kw class="krdwrd-tag-1">Navy Organization </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="341" class="header_submenu_item" href="/navydata/our_ships.asp"><kw class="krdwrd-tag-1">Our Ships </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="361" class="header_submenu_item" href="/navydata/fact.asp"><kw class="krdwrd-tag-1">Fact File </kw></a></div>
+<div><a tabindex="362" class="header_submenu_item" href="/navydata/faq.asp"><kw class="krdwrd-tag-1">FAQ (Got a Question?) </kw></a></div>
+</td>
+</tr>
+</tbody></table>
+<div class="header_submenu_hide_link_area"><a class="header_submenu_hide_link" tabindex="390" href="javascript:void(0);" onclick="hide_main_menu('column3_menu');"><kw class="krdwrd-tag-1">Hide About the Navy Menu</kw></a></div>
+</div>
+</div>
+
+<!-- Column4 Menu Popup Items --->
+<div id="column4_menu" class="hide">
+<div class="header_submenu">
+<div class="header_submenu_title"><kw class="krdwrd-tag-1">Navy Leadership:</kw></div>
+<table border="0" cellpadding="5" cellspacing="0" width="1000">
+<tbody><tr valign="top">
+<td width="9"></td>
+<td width="330">
+<div><a tabindex="421" class="header_submenu_item" href="/navydata/leadership/ldrDisplay.asp?m=325"><kw class="krdwrd-tag-1">Secretary of the Navy </kw></a></div>
+<div><a tabindex="422" class="header_submenu_item" href="/navydata/bios/bio_list.asp"><kw class="krdwrd-tag-1">Biographies </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="441" class="header_submenu_item" href="/navydata/leadership/ldrDisplay.asp?m=253"><kw class="krdwrd-tag-1">Chief of Naval Operations </kw></a></div>
+<div><a tabindex="442" class="header_submenu_item" href="/navydata/ccklist.asp"><kw class="krdwrd-tag-1">Leadership Tools </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="461" class="header_submenu_item" href="/navydata/leadership/ldrDisplay.asp?m=346"><kw class="krdwrd-tag-1">Master Chief Petty Officer of the Navy </kw></a></div>
+</td>
+</tr>
+</tbody></table>
+<div class="header_submenu_hide_link_area"><a class="header_submenu_hide_link" tabindex="490" href="javascript:void(0);" onclick="hide_main_menu('column4_menu');"><kw class="krdwrd-tag-1">Hide Navy Leadership Menu</kw></a></div>
+</div>
+</div>
+
+<!-- Column5 Menu Popup Items --->
+<div id="column5_menu" class="hide">
+<div class="header_submenu">
+<div class="header_submenu_title"><kw class="krdwrd-tag-1">Media Resources:</kw></div>
+<table border="0" cellpadding="5" cellspacing="0" width="1000">
+<tbody><tr valign="top">
+<td width="9"></td>
+<td width="330">
+<div><a tabindex="521" class="header_submenu_item" href="/view_photos_top.asp"><kw class="krdwrd-tag-1">Photo Gallery </kw></a></div>
+<div><a tabindex="522" class="header_submenu_item" href="/view_galleries.asp"><kw class="krdwrd-tag-1">Eye on the Fleet Featured Gallery </kw></a></div>
+<div><a tabindex="523" class="header_submenu_item" href="/view_videos.asp?vtype=5"><kw class="krdwrd-tag-1">All Hands Television Archive </kw></a></div>
+<div><a tabindex="524" class="header_submenu_item" href="/podcast/podcast.asp"><kw class="krdwrd-tag-1">Podcasts and RSS Feeds </kw></a></div>
+<div><a tabindex="525" class="header_submenu_item" href="/view_videos.asp"><kw class="krdwrd-tag-1">Video Gallery </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="541" class="header_submenu_item" href="/navydata/cnopList.asp"><kw class="krdwrd-tag-1">CNO Podcast </kw></a></div>
+<div><a tabindex="542" class="header_submenu_item" href="/view_videos.asp?vtype=6"><kw class="krdwrd-tag-1">Daily News Update Archive </kw></a></div>
+<div><a tabindex="543" class="header_submenu_item" href="/view_webads.asp"><kw class="krdwrd-tag-1">Web Ad Gallery </kw></a></div>
+<div><a tabindex="544" class="header_submenu_item" href="/view_printads.asp"><kw class="krdwrd-tag-1">Print Ad Gallery </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="561" class="header_submenu_item" href="/navydata/radioList.asp"><kw class="krdwrd-tag-1">All Hands Radio Archive </kw></a></div>
+<div><a tabindex="562" class="header_submenu_item" href="/allhands.asp"><kw class="krdwrd-tag-1">All Hands Magazine </kw></a></div>
+<div><a tabindex="563" class="header_submenu_item" href="/view_ggphotos.asp"><kw class="krdwrd-tag-1">Graphics Gallery </kw></a></div>
+<div><a tabindex="564" class="header_submenu_item" href="/view_ahhphotos.asp"><kw class="krdwrd-tag-1">All Hands Photo Gallery </kw></a></div>
+<div><a tabindex="565" class="header_submenu_item" href="/tools/subscribe_navnews.asp"><kw class="krdwrd-tag-1">Subscribe/Unsubscribe to Navy News </kw></a></div>
+<div><a tabindex="566" class="header_submenu_item" href="/photo_submit.asp"><kw class="krdwrd-tag-1">How to Submit a Photo to Navy Visual News </kw></a></div>
+<div><a tabindex="567" class="header_submenu_item" href="/submit/index.asp"><kw class="krdwrd-tag-1">How to Submit a Story to Navy.mil </kw></a></div>
+</td>
+</tr>
+</tbody></table>
+<div class="header_submenu_hide_link_area"><a class="header_submenu_hide_link" tabindex="590" href="javascript:void(0);" onclick="hide_main_menu('column5_menu');"><kw class="krdwrd-tag-1">Hide Media Resources Menu</kw></a></div>
+</div>
+</div>
+
+<!-- Column6 Menu Popup Items --->
+<div id="column6_menu" class="hide">
+<div class="header_submenu">
+<div class="header_submenu_title"><kw class="krdwrd-tag-1">Links of Interest:</kw></div>
+<table border="0" cellpadding="5" cellspacing="0" width="1000">
+<tbody><tr valign="top">
+<td width="9"></td>
+<td width="330">
+<div><a tabindex="621" class="header_submenu_item" href="/navco/"><kw class="krdwrd-tag-1">Navy Office of Community Outreach </kw></a></div>
+<div><a tabindex="622" class="header_submenu_item" href="http://www.navyenterprise.navy.mil/"><kw class="krdwrd-tag-1">Navy Enterprise </kw></a></div>
+<div><a tabindex="623" class="header_submenu_item" href="http://www.npc.navy.mil/Channels/" target="new"><kw class="krdwrd-tag-1">Navy Personnel Command </kw></a></div>
+<div><a tabindex="624" class="header_submenu_item" href="http://navyreserve.navy.mil/Public/Staff/WelcomeAboard/default.htm" target="new"><kw class="krdwrd-tag-1">Navy Reserve </kw></a></div>
+<div><a tabindex="625" class="header_submenu_item" href="https://wwwa.nko.navy.mil/portal/splash/index.jsp" target="new"><kw class="krdwrd-tag-1">Navy Knowledge Online </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="641" class="header_submenu_item" href="http://www.cnic.navy.mil/cnic_hq_site/ANFA/index.htm" target="new"><kw class="krdwrd-tag-1">Affected Navy Family Assistance </kw></a></div>
+<div><a tabindex="642" class="header_submenu_item" href="http://www.militaryonesource.com/skins/MOS/home.aspx" target="new"><kw class="krdwrd-tag-1">Military One Source </kw></a></div>
+<div><a tabindex="643" class="header_submenu_item" href="http://www.lifelines.navy.mil/lifelines/index.htm" target="new"><kw class="krdwrd-tag-1">Lifelines </kw></a></div>
+<div><a tabindex="644" class="header_submenu_item" href="http://www.nmcrs.org/" target="new"><kw class="krdwrd-tag-1">Navy / Marine Corps Relief </kw></a></div>
+</td>
+<td width="330">
+<div><a tabindex="661" class="header_submenu_item" href="http://www.defenselink.mil/" target="new"><kw class="krdwrd-tag-1">Defense Link </kw></a></div>
+<div><a tabindex="662" class="header_submenu_item" href="http://www.usmc.mil/" target="new"><kw class="krdwrd-tag-1">US Marine Corps </kw></a></div>
+<div><a tabindex="663" class="header_submenu_item" href="http://www.army.mil/" target="new"><kw class="krdwrd-tag-1">Army </kw></a></div>
+<div><a tabindex="664" class="header_submenu_item" href="http://www.af.mil/" target="new"><kw class="krdwrd-tag-1">Air Force </kw></a></div>
+<div><a tabindex="665" class="header_submenu_item" href="http://www.uscg.mil/" target="new"><kw class="krdwrd-tag-1">US Coast Guard </kw></a></div>
+<div><a tabindex="666" class="header_submenu_item" href="http://www.pentagonchannel.mil/" target="new"><kw class="krdwrd-tag-1">Pentagon Channel </kw></a></div>
+</td>
+</tr>
+</tbody></table>
+<div class="header_submenu_hide_link_area"><a class="header_submenu_hide_link" tabindex="690" href="javascript:void(0);" onclick="hide_main_menu('column6_menu');"><kw class="krdwrd-tag-1">Hide Links of Interest Menu</kw></a></div>
+</div>
+</div>
+
+<!-- End of Standard US Navy Header Bar -->
+
+
+<table bgcolor="#999999" border="0" cellpadding="0" cellspacing="0" width="1000">
+  <tbody><tr> 
+    <td rowspan="4" bgcolor="#ffffff"><img src="../images/blank.gif" alt="" width="10" height="1"></td>
+    <td bgcolor="#ffffff"><img src="../images/blank.gif" alt="" width="630" height="1"></td>
+    <td rowspan="4" bgcolor="#ffffff"><img src="../images/blank.gif" alt="" width="10" height="1"></td>
+    <td rowspan="4" bgcolor="#ffffff"><img src="../images/blank.gif" alt="" width="2" height="1"></td>
+    <td rowspan="4" background="../images/bg_cccccc.gif"><img src="../images/blank.gif" alt="" width="40" height="1"></td>
+    <td align="center" background="../images/bg_cccccc.gif" width="260"><img src="../images/blank.gif" alt="" width="1" height="15"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" rowspan="2" bgcolor="#ffffff" valign="top"> 
+    
+       
+      <!-- PASTE TOP STORY HEADLINE BELOW --> 
+      <p><b class="headline"><kw class="krdwrd-tag-2"> Navy MWR Offers Assistance to Those Heading to Asia</kw></b><br><kw class="krdwrd-tag-1">
+         Story Number: NNS060203-04</kw><br><kw class="krdwrd-tag-1">
+
+		 Release Date: 2/3/2006 12:48:00 PM</kw><br>
+		 
+        <a href="../cck/NNS060203-04.pdf" target="new"><img src="../images/cck_icon3.gif" alt="Captain's Call Kit - Important Navy information prepared in an easy to distribute format." border="0" width="50" height="17"></a><br>
+		<span class="menudark"><kw class="krdwrd-tag-1">(Captain's Call Kit - Important Navy information prepared in an easy to distribute format.)</kw></span>
+        </p>
+      <p> <!-- PASTE BYLINE BELOW --><kw class="krdwrd-tag-2"> By Journalist 3rd Class Chris M. Hwang, Navy Personnel Command Communications</kw></p>
+      <!-- PASTE STORY BELOW --> 
+      <p><kw class="krdwrd-tag-3">MILLINGTON, Tenn. (NNS) -- Navy Morale, Welfare and Recreation (MWR) can now provide Sailors a sneak peek of what foreign lands, such as Japan and other parts of Asia, have to offer through a new series of interactive CD-ROMs.</kw><br>
+ <br><kw class="krdwrd-tag-3">
+The CDs contain informative and entertaining videos about quality of life resources. The interactive function allows Sailors and their family members to link directly to Web sites that contain valuable information on travel, culture and other practical topics.  </kw><br>
+<br><kw class="krdwrd-tag-3">
+Topics include housing, currency rates and language.  Links in the CD-ROM easily direct Sailors to apartment floor plans or convert dollars to yens.  </kw><br>
+<br><kw class="krdwrd-tag-3">
+To make shopping and traveling less challenging, the CD translates frequently used phrases from English to Japanese. Phrases range from “thank you” to “where’s the restaurant?”  </kw><br>
+<br><kw class="krdwrd-tag-3">
+“Instead of just getting a set of orders, Sailors can view entertaining videos that will give them an idea of what it would be like overseas,” said Ruel Odom, head of Marketing and Multimedia Development Branch for Community Support Programs. “On the CDs, Sailors, family members and civilian employees stationed in the selected overseas locations provide comments and recommendations regarding their experiences at duty stations in Asia.”</kw><br>
+<br><kw class="krdwrd-tag-3">
+Odom, a retired master chief, has had a great impact on promoting exciting and rewarding billets across the world.  </kw><br>
+<br><kw class="krdwrd-tag-3">
+“The primary reason I decided to produce the CDs for overseas locations was due to my own experiences. My first overseas tour was in Japan. I was very apprehensive about going and had very little information about the country. I didn’t know what to expect. After I got there, I loved the experience, and spent over 12 years there, serving as command master chief for Naval Air Facility Misawa, U.S. Navy Forces Japan, and Carrier Air Wing 5,” said Odom.  </kw><br>
+<br><kw class="krdwrd-tag-3">
+Although the CDs are primarily focused on Japan, they also contain information about Diego Garcia, Guam, Korea and other countries in the region.  </kw><br>
+<br><kw class="krdwrd-tag-3">
+CD-ROMs for Europe and the Middle East are also in production. Sailors can request copies to learn more about Rota, Sigonella, Naples, Bahrain, Dubai and much more in Summer 2006.</kw><br>
+<br><kw class="krdwrd-tag-3">
+To request a copy of Japan and Asia CD-ROM, visit </kw><a href="http://www.mwr.navy.mil" target="_BLANK"><kw class="krdwrd-tag-1">www.mwr.navy.mil</kw></a><kw class="krdwrd-tag-3">. </kw><br>
+ <br><kw class="krdwrd-tag-3">
+For related news, visit the Navy Personnel Command Navy NewsStand page at </kw><a href="http://www.news.navy.mil/local/npc/" target="_BLANK"><kw class="krdwrd-tag-1">www.news.navy.mil/local/npc</kw></a><kw class="krdwrd-tag-3">/. </kw></p>
+      <!-------End - STORY PASTE---------> 
+      <p align="center"><a href="email_story.asp?story_id=22172"><kw class="krdwrd-tag-1">E-mail this story to a friend</kw></a><kw class="krdwrd-tag-1">&nbsp;|&nbsp;</kw><a href="mailto:navynewsservice@navy.mil?subject=Comment%20about%20story%20number:%20NNS060203-04&amp;body=Headline:%20Navy%20MWR%20Offers%20Assistance%20to%20Those%20Heading%20to%20Asia"><kw class="krdwrd-tag-1">Send 
+        a comment about this story</kw></a></p>
+        
+      <!-------RELATED STORIES CODE -------------------------->
+      	
+    </td>
+      <td background="../images/bg_cccccc.gif" valign="top" width="260">  
+  <input name="client" value="navy_search" type="hidden">
+		<input name="proxystylesheet" value="navy_search" type="hidden">
+		<input name="output" value="xml_no_dtd" type="hidden">
+        <input name="site" value="navy_stories" type="hidden">
+		<table border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr> <form method="get" name="searchform" action="http://dodsearch.afis.osd.mil/search"></form>
+        <td colspan="2"> 
+          <p class="groupheadlinesmall" style="padding-bottom: 4px;"><b><label for="q"><kw class="krdwrd-tag-1">Search:</kw></label></b></p>
+        </td>
+      </tr>
+      <tr> 
+      </tr>
+      <tr> 
+        <td> 
+          <input id="q" name="q" style="width: 200px;" size="10" type="text">
+        </td>
+        <td> 
+          <input src="../images/go_gray.gif" alt="Go" value="Search" id="submit1" name="submit1" border="0" vspace="10" width="18" height="12" type="image">
+        </td>
+      </tr>
+      <tr> 
+        <!--td class="menudark" colspan="2" valign="bottom"> <b> 
+          <input type=radio name=search_type value="All" checked>
+          All <br>
+          <input type=radio name=search_type value="Any">
+          Any <br>
+          <input type=radio name=search_type value="Exact">
+          Exact </b></td-->
+      </tr>
+	  
+    </tbody></table>
+        <br>
+        <p><a href="display_word.asp?story_id=22172"><img src="../images/doc_icon2.gif" alt="MS Word Friendly" border="0"></a></p><p><a href="print.asp?story_id=22172&amp;VIRIN=&amp;imagetype=0&amp;page=1"><img src="../images/printer_icon2.gif" alt="Print Friendly" border="0"></a></p> 
+        <p><a href="../cck/NNS060203-04.pdf" target="new"><img src="../images/cck_icon.gif" alt="Download CCK" border="0" width="47" height="11"></a></p>
+         <br>
+        <p><a href="../tools/subscribe_navnews.asp" class="menudark"><kw class="krdwrd-tag-1">Subscribe NavNews</kw></a></p>
+		<p><a href="../submit/" class="menudark"><kw class="krdwrd-tag-1">Submit Story/Photos</kw></a></p>
+<a href="../submit/" class="menudark">		</a><p><a href="../tools/" class="menudark"><kw class="krdwrd-tag-1">Tools</kw></a></p>
+        <p><a href="/submit/contacts.asp" class="menudark"><kw class="krdwrd-tag-1">Contact Us</kw></a></p>
+        <p><a href="../privacy.asp" class="menudark"><kw class="krdwrd-tag-1">Privacy &amp; Security</kw></a></p>
+        <p><a href="../about.asp" class="menudark"><kw class="krdwrd-tag-1">About This Site</kw></a></p>
+		<p><a href="../external.asp" class="menudark"><kw class="krdwrd-tag-1">External Links</kw></a></p>
+        <p><a href="/" class="menudark"><kw class="krdwrd-tag-1">Home</kw></a><img src="../images/blank.gif" alt="" width="148" height="1"></p>
+      <br><br>
+
+      <!-- Ad Time                                                   ---->
+	  <!-- First, we'll see if an ad has been placed in the story    ---->
+      
+	
+	<!-- Now, If no ad was placed, well put one of the top 10 in but only 1 time out of 4    ---->
+      
+			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" id="ShockwaveFlash1" width="138" height="180">
+     			<param name="movie" value="../media/webad/gif/webad1236.swf"> 
+     			<param name="loop" value="false"> 
+     			<param name="quality" value="high"> 
+     			<param name="bgcolor" value="#FFFFFF"> 
+     			
+    			<embed src="../media/webad/gif/webad1236.swf" loop="false" quality="high" bgcolor="#FFFFFF" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" width="138" height="180">
+  			<noembed class="krdwrd-tag-1">&amp;lt;kw&amp;gt;&amp;amp;lt;a href="" class="menudark"&amp;amp;gt;All Hands PDF Version&amp;amp;lt;/a&amp;amp;gt;&amp;lt;/kw&amp;gt;</noembed>
+			</object>
+
+			
+	
+	</td>
+  </tr>
+  <tr> 
+    <td background="../images/bg_cccccc.gif" valign="bottom" width="260">&nbsp; </td>
+  </tr>
+  <tr> 
+    <td colspan="3" bgcolor="#ffffff" valign="top">&nbsp;</td>
+    <td background="../images/bg_cccccc.gif" valign="top" width="260">&nbsp;</td>
+  </tr>
+</tbody></table>
+</td></tr></tbody></table></body>

@@ -1,0 +1,1038 @@
+<head><base href="http://www.biblio.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Erling's Word by Walker - Used Books at Biblio.com</title>
+
+
+
+<meta name="description" content="">
+
+
+<script language="javascript" type="text/javascript">
+<!--
+var ld = false;
+if (document.images)
+{
+  pic2= new Image(13,75); 
+  pic2.src="/i/en/navback-hover.gif"; 
+}
+function stopError() {
+	return true;
+}
+window.onerror = stopError
+//-->
+</script>
+
+
+<script src="/js/mootools-release-1.11.js" type="text/javascript" language="javascript"></script>
+<script src="/js/biblio.js" type="text/javascript" language="javascript"></script>
+
+<link rel="stylesheet" href="/css/en/standard.css" type="text/css" title="standard">
+<link rel="stylesheet" href="/css/en/one_col.css" type="text/css" title="standard"><!--[if lt IE 8.]>
+<link rel="stylesheet" href="/css/en/ie.css" type="text/css"/>
+<![endif]--><!--[if lt IE 7.]>
+<link rel="stylesheet" href="/css/en/ie6.css" type="text/css"/>
+<link rel="stylesheet" href="/css/en/ie6_one_col.css" type="text/css" title="standard"/>
+<script defer type="text/javascript" src="/js/pngfix.js"></script>
+<![endif]-->
+
+
+
+
+
+<style type="text/css">
+<!--
+ 
+	
+#side-image {
+	background: url('/images/clear.gif');
+	background-repeat: no-repeat;
+}
+#side-image, #image-caption {
+	background-color: ;
+}
+
+	
+-->
+</style></head><body>
+    <div id="middle-container-right">
+		<div id="breadcrumb">
+						<a href="/"><kw class="krdwrd-tag-1">Home</kw></a><kw class="krdwrd-tag-1"> &gt; </kw><a href="/usedbooksearch.bib"><kw class="krdwrd-tag-1">Booksearch</kw></a><kw class="krdwrd-tag-1"> &gt; Search results
+					</kw></div>
+    </div>
+    <div id="middle-container-left">
+		    </div>
+
+<div id="top-main-container">
+	<div id="top-container">
+		<div id="top-container-right">
+		  <div id="accountbox">
+            
+<a href="http://www.biblio.com/cart.php"><img src="http://i.biblio.com/i/en/carticon.gif" border="0" height="15"><kw class="krdwrd-tag-1"> 0 items in cart</kw></a><kw class="krdwrd-tag-1">
+&nbsp;&nbsp; | &nbsp;&nbsp;
+</kw><a href="http://www.biblio.com/account_menu.php"><kw class="krdwrd-tag-1">My Account</kw></a><kw class="krdwrd-tag-1">
+&nbsp;&nbsp; | &nbsp;&nbsp;
+</kw><a href="http://www.biblio.com/help.php"><kw class="krdwrd-tag-1">Help</kw></a>
+&nbsp;&nbsp;
+<div style="font-size: 90%;">
+<a href="https://www.biblio.com/login.php"><kw class="krdwrd-tag-1">Log in</kw></a><kw class="krdwrd-tag-1"> or </kw><a href="https://www.biblio.com/create_account.php"><kw class="krdwrd-tag-1">create a free account</kw></a><kw class="krdwrd-tag-1">!
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+</kw></div>
+
+          </div>
+<br clear="all">
+            <div id="navbox">
+
+
+ <table id="navtop" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><div id="leftnavpiece"></div></td>
+<td class="comp"><a href="http://www.biblio.com/usedbooksearch.bib" onmouseover="if (ld != null) {lockOn('searchmenu'); showMenu('searchmenu', this);}" onmouseout="if (ld != null) {lockOff('searchmenu'); hideMenu('searchmenu');}"><kw class="krdwrd-tag-1">Book Search</kw></a></td>
+<td class="comp"><a href="http://www.biblio.com/pages/browse_all.html" onmouseover="if (ld != null) {lockOn('browsemenu'); showMenu('browsemenu', this);}" onmouseout="if (ld != null) {lockOff('browsemenu'); hideMenu('browsemenu');}"><kw class="krdwrd-tag-1">Browse books</kw></a></td>
+<td class="comp"><a href="http://www.biblio.com/booksellers.php" onmouseover="if (ld != null) {lockOn('booksellermenu'); showMenu('booksellermenu',this);}" onmouseout="if (ld != null) {lockOff('booksellermenu'); hideMenu('booksellermenu');}"><kw class="krdwrd-tag-1">Booksellers</kw></a></td>
+<td class="comp"><a href="http://www.biblio.com/ltd/" onmouseover="if (ld != null) {lockOn('raremenu'); showMenu('raremenu', this);}" onmouseout="if(ld != null) {lockOff('raremenu'); hideMenu('raremenu');}"><kw class="krdwrd-tag-1">Rare books</kw></a></td>
+<td class="comp"><a href="http://www.biblio.com/textbooks/"><kw class="krdwrd-tag-1">Textbooks</kw></a></td>
+<td><div id="rightnavpiece"></div></td>
+
+</tr>
+</tbody></table>
+
+            </div>
+        </div>    
+        <div id="top-container-left">
+			<a href="/"><img src="http://i.biblio.com/i/en/logo.gif" id="logo" alt="Biblio book search and marketplace. Used, rare and out of print books" border="0"></a>
+        </div>   
+	</div>
+    
+</div>
+<div id="allbody">
+<div id="middle-main-container">
+  <div id="middle-container">
+	<div id="searchboxadvanced" style="overflow: hidden; height: 0px; display: none;">
+<form action="http://www.biblio.com/search.php"><table id="advancedsearchtable" align="center" border="0"><tbody><tr><td colspan="3"><h1><kw class="krdwrd-tag-1">SEARCH FOR USED &amp; RARE BOOKS</kw></h1></td><td><a onclick="toggleSearch();" class="scriptlink" style="font-size: 90%;"><b style="color: rgb(255, 255, 255);"><kw class="krdwrd-tag-1">↑</kw></b><kw class="krdwrd-tag-1"> show basic search</kw></a></td></tr><tr><td align="right"><kw class="krdwrd-tag-1">Author:</kw></td><td><input name="author" value="Walker" type="text"></td><td align="right"><kw class="krdwrd-tag-1">Publisher:</kw></td><td><input name="publisher" value="" type="text"></td></tr><tr><td align="right"><kw class="krdwrd-tag-1">Title:</kw></td><td><input name="title" value="Erling's Word" type="text"></td><td align="right"><kw class="krdwrd-tag-1">ISBN:</kw></td><td><input name="isbn" value="" type="text"></td></tr><tr><td align="right"><kw class="krdwrd-tag-1">Keywords:</kw></td><td><input name="keywords" value="" type="text"></td><td align="right"><kw class="krdwrd-tag-1">Shipping from:</kw></td><td align="left"><select name="country"><option class="krdwrd-tag-1" value="" selected="selected">Any country</option><option class="krdwrd-tag-1" label="United States" value="1">United States</option>
+<option class="krdwrd-tag-1" label="United Kingdom" value="2">United Kingdom</option>
+<option class="krdwrd-tag-1" label="Canada" value="5">Canada</option>
+<option class="krdwrd-tag-1" label="Australia" value="7">Australia</option>
+<option class="krdwrd-tag-1" label="Germany" value="6">Germany</option>
+<option class="krdwrd-tag-1" label="France" value="3">France</option>
+<option class="krdwrd-tag-1" label="Spain" value="4">Spain</option>
+<option class="krdwrd-tag-1" label="New Zealand" value="36">New Zealand</option>
+<option class="krdwrd-tag-1" label="Italy" value="21">Italy</option>
+<option class="krdwrd-tag-1" label="Japan" value="23">Japan</option>
+<option class="krdwrd-tag-1" label="-----------" value="999">-----------</option>
+<option class="krdwrd-tag-1" label="Albania" value="79">Albania</option>
+<option class="krdwrd-tag-1" label="Algeria" value="35">Algeria</option>
+<option class="krdwrd-tag-1" label="American Samoa" value="109">American Samoa</option>
+<option class="krdwrd-tag-1" label="Andorra" value="126">Andorra</option>
+<option class="krdwrd-tag-1" label="Argentina" value="14">Argentina</option>
+<option class="krdwrd-tag-1" label="Armenia" value="86">Armenia</option>
+<option class="krdwrd-tag-1" label="Austria" value="40">Austria</option>
+<option class="krdwrd-tag-1" label="Bahamas" value="69">Bahamas</option>
+<option class="krdwrd-tag-1" label="Bahrain" value="102">Bahrain</option>
+<option class="krdwrd-tag-1" label="Barbados" value="118">Barbados</option>
+<option class="krdwrd-tag-1" label="Belarus" value="59">Belarus</option>
+<option class="krdwrd-tag-1" label="Belgium" value="39">Belgium</option>
+<option class="krdwrd-tag-1" label="Belize" value="140">Belize</option>
+<option class="krdwrd-tag-1" label="Bermuda" value="136">Bermuda</option>
+<option class="krdwrd-tag-1" label="Bhutan" value="107">Bhutan</option>
+<option class="krdwrd-tag-1" label="Bolivia" value="56">Bolivia</option>
+<option class="krdwrd-tag-1" label="Bosnia" value="132">Bosnia</option>
+<option class="krdwrd-tag-1" label="Botswana" value="137">Botswana</option>
+<option class="krdwrd-tag-1" label="Brazil" value="11">Brazil</option>
+<option class="krdwrd-tag-1" label="Brunei" value="135">Brunei</option>
+<option class="krdwrd-tag-1" label="Bulgaria" value="81">Bulgaria</option>
+<option class="krdwrd-tag-1" label="Burma" value="77">Burma</option>
+<option class="krdwrd-tag-1" label="Cambodia" value="75">Cambodia</option>
+<option class="krdwrd-tag-1" label="Canary Islands" value="115">Canary Islands</option>
+<option class="krdwrd-tag-1" label="Cayman Islands" value="114">Cayman Islands</option>
+<option class="krdwrd-tag-1" label="Chile" value="130">Chile</option>
+<option class="krdwrd-tag-1" label="China" value="22">China</option>
+<option class="krdwrd-tag-1" label="Colombia" value="17">Colombia</option>
+<option class="krdwrd-tag-1" label="Costa Rica" value="32">Costa Rica</option>
+<option class="krdwrd-tag-1" label="Cote d'Ivoire" value="92">Cote d'Ivoire</option>
+<option class="krdwrd-tag-1" label="Croatia" value="52">Croatia</option>
+<option class="krdwrd-tag-1" label="Cuba" value="33">Cuba</option>
+<option class="krdwrd-tag-1" label="Cyprus" value="84">Cyprus</option>
+<option class="krdwrd-tag-1" label="Czech Republic" value="54">Czech Republic</option>
+<option class="krdwrd-tag-1" label="Denmark" value="16">Denmark</option>
+<option class="krdwrd-tag-1" label="Dominica" value="134">Dominica</option>
+<option class="krdwrd-tag-1" label="Dominican Republic" value="31">Dominican Republic</option>
+<option class="krdwrd-tag-1" label="Ecuador" value="141">Ecuador</option>
+<option class="krdwrd-tag-1" label="Egypt" value="93">Egypt</option>
+<option class="krdwrd-tag-1" label="El Salvador" value="67">El Salvador</option>
+<option class="krdwrd-tag-1" label="Estonia" value="138">Estonia</option>
+<option class="krdwrd-tag-1" label="Fiji" value="111">Fiji</option>
+<option class="krdwrd-tag-1" label="Finland" value="41">Finland</option>
+<option class="krdwrd-tag-1" label="Georgia" value="87">Georgia</option>
+<option class="krdwrd-tag-1" label="Gibraltar" value="117">Gibraltar</option>
+<option class="krdwrd-tag-1" label="Greece" value="20">Greece</option>
+<option class="krdwrd-tag-1" label="Greenland" value="53">Greenland</option>
+<option class="krdwrd-tag-1" label="Grenada" value="120">Grenada</option>
+<option class="krdwrd-tag-1" label="Guam" value="113">Guam</option>
+<option class="krdwrd-tag-1" label="Guatemala" value="63">Guatemala</option>
+<option class="krdwrd-tag-1" label="Haiti" value="122">Haiti</option>
+<option class="krdwrd-tag-1" label="Honduras" value="65">Honduras</option>
+<option class="krdwrd-tag-1" label="Hong Kong" value="105">Hong Kong</option>
+<option class="krdwrd-tag-1" label="Hungary" value="42">Hungary</option>
+<option class="krdwrd-tag-1" label="Iceland" value="19">Iceland</option>
+<option class="krdwrd-tag-1" label="India" value="34">India</option>
+<option class="krdwrd-tag-1" label="Iraq" value="98">Iraq</option>
+<option class="krdwrd-tag-1" label="Ireland" value="28">Ireland</option>
+<option class="krdwrd-tag-1" label="Israel" value="38">Israel</option>
+<option class="krdwrd-tag-1" label="Jamaica" value="68">Jamaica</option>
+<option class="krdwrd-tag-1" label="Jordan" value="94">Jordan</option>
+<option class="krdwrd-tag-1" label="Korea (North)" value="83">Korea (North)</option>
+<option class="krdwrd-tag-1" label="Korea (South)" value="24">Korea (South)</option>
+<option class="krdwrd-tag-1" label="Kuwait" value="97">Kuwait</option>
+<option class="krdwrd-tag-1" label="Laos" value="76">Laos</option>
+<option class="krdwrd-tag-1" label="Latvia" value="62">Latvia</option>
+<option class="krdwrd-tag-1" label="Lebanon" value="95">Lebanon</option>
+<option class="krdwrd-tag-1" label="Libya" value="116">Libya</option>
+<option class="krdwrd-tag-1" label="Liechtenstein" value="124">Liechtenstein</option>
+<option class="krdwrd-tag-1" label="Lithuania" value="61">Lithuania</option>
+<option class="krdwrd-tag-1" label="Luxembourg" value="123">Luxembourg</option>
+<option class="krdwrd-tag-1" label="Macedonia" value="80">Macedonia</option>
+<option class="krdwrd-tag-1" label="Malaysia" value="74">Malaysia</option>
+<option class="krdwrd-tag-1" label="Maldives" value="108">Maldives</option>
+<option class="krdwrd-tag-1" label="Malta" value="85">Malta</option>
+<option class="krdwrd-tag-1" label="Mexico" value="13">Mexico</option>
+<option class="krdwrd-tag-1" label="Micronesia" value="110">Micronesia</option>
+<option class="krdwrd-tag-1" label="Monaco" value="125">Monaco</option>
+<option class="krdwrd-tag-1" label="Morocco" value="88">Morocco</option>
+<option class="krdwrd-tag-1" label="Nepal" value="78">Nepal</option>
+<option class="krdwrd-tag-1" label="Netherlands" value="43">Netherlands</option>
+<option class="krdwrd-tag-1" label="Netherlands Antilles" value="139">Netherlands Antilles</option>
+<option class="krdwrd-tag-1" label="Nicaragua" value="66">Nicaragua</option>
+<option class="krdwrd-tag-1" label="Norway" value="9">Norway</option>
+<option class="krdwrd-tag-1" label="Oman" value="103">Oman</option>
+<option class="krdwrd-tag-1" label="Pakistan" value="57">Pakistan</option>
+<option class="krdwrd-tag-1" label="Panama" value="64">Panama</option>
+<option class="krdwrd-tag-1" label="Papua New Guinea" value="71">Papua New Guinea</option>
+<option class="krdwrd-tag-1" label="Paraguay" value="131">Paraguay</option>
+<option class="krdwrd-tag-1" label="Peru" value="12">Peru</option>
+<option class="krdwrd-tag-1" label="Philippines" value="72">Philippines</option>
+<option class="krdwrd-tag-1" label="Poland" value="51">Poland</option>
+<option class="krdwrd-tag-1" label="Portugal" value="44">Portugal</option>
+<option class="krdwrd-tag-1" label="Puerto Rico" value="30">Puerto Rico</option>
+<option class="krdwrd-tag-1" label="Qatar" value="101">Qatar</option>
+<option class="krdwrd-tag-1" label="Romania" value="60">Romania</option>
+<option class="krdwrd-tag-1" label="Russia" value="26">Russia</option>
+<option class="krdwrd-tag-1" label="San Marino" value="127">San Marino</option>
+<option class="krdwrd-tag-1" label="Saudi Arabia" value="49">Saudi Arabia</option>
+<option class="krdwrd-tag-1" label="Scotland" value="27">Scotland</option>
+<option class="krdwrd-tag-1" label="Senegal" value="91">Senegal</option>
+<option class="krdwrd-tag-1" label="Serbia" value="133">Serbia</option>
+<option class="krdwrd-tag-1" label="Seychelles" value="142">Seychelles</option>
+<option class="krdwrd-tag-1" label="Sierra Leone" value="90">Sierra Leone</option>
+<option class="krdwrd-tag-1" label="Singapore" value="47">Singapore</option>
+<option class="krdwrd-tag-1" label="Slovakia" value="55">Slovakia</option>
+<option class="krdwrd-tag-1" label="Slovenia" value="129">Slovenia</option>
+<option class="krdwrd-tag-1" label="South Africa" value="18">South Africa</option>
+<option class="krdwrd-tag-1" label="Sri Lanka" value="106">Sri Lanka</option>
+<option class="krdwrd-tag-1" label="St. Lucia" value="121">St. Lucia</option>
+<option class="krdwrd-tag-1" label="Sweden" value="10">Sweden</option>
+<option class="krdwrd-tag-1" label="Switzerland" value="8">Switzerland</option>
+<option class="krdwrd-tag-1" label="Syria" value="96">Syria</option>
+<option class="krdwrd-tag-1" label="Taiwan" value="50">Taiwan</option>
+<option class="krdwrd-tag-1" label="Thailand" value="45">Thailand</option>
+<option class="krdwrd-tag-1" label="Tonga" value="112">Tonga</option>
+<option class="krdwrd-tag-1" label="Trinidad and Tobago" value="119">Trinidad and Tobago</option>
+<option class="krdwrd-tag-1" label="Tunisia" value="89">Tunisia</option>
+<option class="krdwrd-tag-1" label="Turkey" value="46">Turkey</option>
+<option class="krdwrd-tag-1" label="U.S. Virgin Islands" value="58">U.S. Virgin Islands</option>
+<option class="krdwrd-tag-1" label="Ukraine" value="15">Ukraine</option>
+<option class="krdwrd-tag-1" label="United Arab Emirates" value="100">United Arab Emirates</option>
+<option class="krdwrd-tag-1" label="Uruguay" value="48">Uruguay</option>
+<option class="krdwrd-tag-1" label="Vatican" value="128">Vatican</option>
+<option class="krdwrd-tag-1" label="Venezuela" value="29">Venezuela</option>
+<option class="krdwrd-tag-1" label="Yemen" value="99">Yemen</option>
+<option class="krdwrd-tag-1" label="Yugoslavia" value="82">Yugoslavia</option>
+</select></td></tr><tr><!--td align="right">Place published:</td><td><input type="text" name=place value="" /></td--><td align="right"><kw class="krdwrd-tag-1">Date between:</kw></td><td align="left"><input name="mindate" value="" size="4" maxlength="4" type="text"><kw class="krdwrd-tag-1">and</kw><input name="maxdate" value="" size="4" maxlength="4" type="text"></td><td align="right"><kw class="krdwrd-tag-1">Binding:</kw></td><td align="left"><select name="format"><option class="krdwrd-tag-1" value="" selected="selected">Any</option><option class="krdwrd-tag-1" value="hardcover">Hardcover</option><option class="krdwrd-tag-1" value="paperback">Paperback</option></select></td></tr><!--tr><td align="right">Illustrator:</td><td><input type="text" name="illustrator" value="" /></td></tr--><tr><td align="right"></td><td align="left"><input name="first" type="checkbox"><kw class="krdwrd-tag-1"> First edition</kw><br><input name="signed" type="checkbox"><kw class="krdwrd-tag-1"> Signed</kw><br></td><td align="right"></td><td align="left" valign="top"><input name="dj" type="checkbox"><kw class="krdwrd-tag-1"> With dust jacket</kw><!-- <input type=checkbox name="omit_bce"/> Hide bookclub editions<br/><input type=checkbox name="omit_exl"/> Hide ex-library copies--></td></tr><tr><td colspan="4" style="border-bottom: 1px solid rgb(204, 204, 204); height: 8px;"> </td></tr><tr><td align="right"><kw class="krdwrd-tag-1">Price between:</kw></td><td colspan="1" align="left"><input name="minprice" value="" size="5" type="text"><kw class="krdwrd-tag-1"> and</kw><input name="maxprice" value="" size="5" type="text"></td><td align="right"><kw class="krdwrd-tag-1">Currency:</kw></td><td align="left">			<select name="currency" style="font-size: 11px;">
+			<option class="krdwrd-tag-1" value="">Default currency</option>
+			<option class="krdwrd-tag-1" label="Australian Dollars" value="4">Australian Dollars</option>
+<option class="krdwrd-tag-1" label="Austrian Schillings" value="25">Austrian Schillings</option>
+<option class="krdwrd-tag-1" label="Belgian Francs" value="26">Belgian Francs</option>
+<option class="krdwrd-tag-1" label="Brazillian Real" value="5">Brazillian Real</option>
+<option class="krdwrd-tag-1" label="Canadian Dollars" value="6">Canadian Dollars</option>
+<option class="krdwrd-tag-1" label="Chinese Yuan" value="7">Chinese Yuan</option>
+<option class="krdwrd-tag-1" label="Danish Krone" value="8">Danish Krone</option>
+<option class="krdwrd-tag-1" label="Euro" value="9">Euro</option>
+<option class="krdwrd-tag-1" label="Finnish Markkas" value="27">Finnish Markkas</option>
+<option class="krdwrd-tag-1" label="French Francs" value="28">French Francs</option>
+<option class="krdwrd-tag-1" label="German Marks" value="29">German Marks</option>
+<option class="krdwrd-tag-1" label="Greek Drachmas" value="36">Greek Drachmas</option>
+<option class="krdwrd-tag-1" label="Hong Kong Dollars" value="10">Hong Kong Dollars</option>
+<option class="krdwrd-tag-1" label="Indian Rupee" value="11">Indian Rupee</option>
+<option class="krdwrd-tag-1" label="Irish Pounds" value="30">Irish Pounds</option>
+<option class="krdwrd-tag-1" label="Italian Lire" value="31">Italian Lire</option>
+<option class="krdwrd-tag-1" label="Japanese Yen" value="3">Japanese Yen</option>
+<option class="krdwrd-tag-1" label="Luxembourg Francs" value="32">Luxembourg Francs</option>
+<option class="krdwrd-tag-1" label="Malaysian Ringgit" value="12">Malaysian Ringgit</option>
+<option class="krdwrd-tag-1" label="Mexican Peso" value="13">Mexican Peso</option>
+<option class="krdwrd-tag-1" label="Netherlands Guilders" value="33">Netherlands Guilders</option>
+<option class="krdwrd-tag-1" label="New Zealand Dollars" value="14">New Zealand Dollars</option>
+<option class="krdwrd-tag-1" label="Norwegian Krone" value="15">Norwegian Krone</option>
+<option class="krdwrd-tag-1" label="Portuguesee Scudos" value="34">Portuguesee Scudos</option>
+<option class="krdwrd-tag-1" label="Singapore Dollar" value="16">Singapore Dollar</option>
+<option class="krdwrd-tag-1" label="South African Rand" value="17">South African Rand</option>
+<option class="krdwrd-tag-1" label="SOUTH KOREAN WON" value="18">SOUTH KOREAN WON</option>
+<option class="krdwrd-tag-1" label="Spanish Pesetas" value="35">Spanish Pesetas</option>
+<option class="krdwrd-tag-1" label="Sri Lankan Rupee" value="19">Sri Lankan Rupee</option>
+<option class="krdwrd-tag-1" label="Swedish Krona" value="20">Swedish Krona</option>
+<option class="krdwrd-tag-1" label="Swiss Franc" value="21">Swiss Franc</option>
+<option class="krdwrd-tag-1" label="Taiwanese Dollars" value="22">Taiwanese Dollars</option>
+<option class="krdwrd-tag-1" label="Thailand Baht" value="23">Thailand Baht</option>
+<option class="krdwrd-tag-1" label="UK Pounds" value="2">UK Pounds</option>
+<option class="krdwrd-tag-1" label="USD" value="1" selected="selected">USD</option>
+<option class="krdwrd-tag-1" label="Venezuelan Bolivar" value="24">Venezuelan Bolivar</option>
+
+			</select>
+  
+</td></tr><tr><td align="right"><kw class="krdwrd-tag-1">Sort results by:</kw></td><td align="left"><select name="order"><option class="krdwrd-tag-1" value="priceasc" selected="selected">Price (Lowest first)</option><option class="krdwrd-tag-1" value="pricedesc">Price (Highest first)</option><option class="krdwrd-tag-1" value="authorasc">Author (A-Z)</option><option class="krdwrd-tag-1" value="authordesc">Author (Z-A)</option><option class="krdwrd-tag-1" value="titleasc">Title (A-Z)</option><option class="krdwrd-tag-1" value="titledesc">Title (Z-A)</option><option class="krdwrd-tag-1" value="newestfirst">Most recently added</option><option class="krdwrd-tag-1" value="relevance">Relevance</option></select></td><td align="right"><kw class="krdwrd-tag-1">Display:</kw></td><td align="left"><select name="pageper"><option class="krdwrd-tag-1" value="20">20</option><option class="krdwrd-tag-1" value="50">50</option><option class="krdwrd-tag-1" value="100">100</option><option class="krdwrd-tag-1" value="200">200</option></select><kw class="krdwrd-tag-1">results per page</kw></td></tr><tr><td colspan="4" class="header" align="right"><input class="searchbutton" value="Search" title="Start my search" align="right" type="submit"></td></tr></tbody></table><input name="stage" value="1" type="hidden"></form>
+</div>
+<div id="searchboxsimple">
+<form action="http://www.biblio.com/search.php" method="get">
+<span style="font-size: 90%; font-weight: bold;"><kw class="krdwrd-tag-1">SEARCH 50 MILLION USED &amp; NEW BOOKS:</kw></span>
+<input name="keyisbn" value="" type="text"> <input value="search" class="searchbutton" type="submit">
+ <script language="javascript" type="text/javascript">
+<!--
+document.write('<a onclick="return toggleSearch();" class="scriptlink" style="font-size: 90%;"><b style="color: #ffffff;">&#8595;</b> advanced options</a>');
+-->
+</script><a onclick="return toggleSearch();" class="scriptlink krdwrd-tag-1" style="font-size: 90%;"><b class="krdwrd-tag-1" style="color: rgb(255, 255, 255);">↓</b> advanced options</a><a onclick="return toggleSearch();" class="scriptlink" style="font-size: 90%;"><b style="color: rgb(255, 255, 255);"><kw class="krdwrd-tag-1">↓</kw></b><kw class="krdwrd-tag-1"> advanced options</kw></a>
+<noscript><kw>
+<a href="http://www.biblio.com/usedbooksearch.bib" class="scriptlink krdwrd-tag-1" style="font-size: 90%;"><b class="krdwrd-tag-1" style="color: rgb(255, 255, 255);">↓</b> advanced options</a>
+</kw></noscript>
+<input name="stage" value="1" type="hidden">
+</form>
+
+</div>
+	  </div>  
+  
+</div>
+<br clear="all">
+<div id="content">
+
+<div id="sidepromo"><br></div>
+<div style="width: 100%;"> </div> <script language="javascript">
+var c_d = new Array();
+</script>
+<div id="result-container">
+<div id="search-result-refine">
+<h3><kw class="krdwrd-tag-1">Narrow your search</kw></h3>
+<div><b><kw class="krdwrd-tag-1">Filter by condition</kw></b><kw class="krdwrd-tag-1">: </kw></div>
+<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=20&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;vgb=1&amp;order=priceasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=" rel="nofollow"><kw class="krdwrd-tag-1">VG or better</kw></a> <span class="refine-count"><kw class="krdwrd-tag-1">(4)</kw></span><br>
+<br>
+<div><b><kw class="krdwrd-tag-1">Filter by price</kw></b><kw class="krdwrd-tag-1">:</kw></div>
+<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=1&amp;maxprice=5&amp;dbrowse_author=&amp;dbrowse_title=" rel="nofollow"><kw class="krdwrd-tag-1">Less than $5</kw></a> <span class="refine-count"><kw class="krdwrd-tag-1">(5)</kw></span><br>
+<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=5&amp;maxprice=10&amp;dbrowse_author=&amp;dbrowse_title=" rel="nofollow"><kw class="krdwrd-tag-1">$5-10</kw></a> <span class="refine-count"><kw class="krdwrd-tag-1">(2)</kw></span><br>
+<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=25&amp;maxprice=50&amp;dbrowse_author=&amp;dbrowse_title=" rel="nofollow"><kw class="krdwrd-tag-1">$25-50</kw></a> <span class="refine-count"><kw class="krdwrd-tag-1">(1)</kw></span><br>
+<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=50&amp;maxprice=100&amp;dbrowse_author=&amp;dbrowse_title=" rel="nofollow"><kw class="krdwrd-tag-1">$50-100</kw></a> <span class="refine-count"><kw class="krdwrd-tag-1">(1)</kw></span><br>
+<br>
+<div><b><kw class="krdwrd-tag-1">Filter by binding</kw></b><kw class="krdwrd-tag-1">: </kw></div>
+<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=paperback&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=" rel="nofollow"><kw class="krdwrd-tag-1">Paperback</kw></a> <span class="refine-count"><kw class="krdwrd-tag-1">(8)</kw></span><br>
+<br>
+<div><b><kw class="krdwrd-tag-1">Filter by attribute</kw></b><kw class="krdwrd-tag-1">: </kw></div>
+<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=sq&amp;photo=y&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=" rel="nofollow"><kw class="krdwrd-tag-1">With photos</kw></a> <span class="refine-count"><kw class="krdwrd-tag-1">(2)</kw></span><br>
+<br>
+<div><b><kw class="krdwrd-tag-1">Filter by subject</kw></b><kw class="krdwrd-tag-1">: </kw></div>
+<br>
+<div><b><kw class="krdwrd-tag-1">Filter by country</kw></b><kw class="krdwrd-tag-1">: </kw></div>
+<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;country=1&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=" rel="nofollow"><kw class="krdwrd-tag-1">United States</kw></a> <span class="refine-count"><kw class="krdwrd-tag-1">(7)</kw></span><br>
+<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;country=5&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=" rel="nofollow"><kw class="krdwrd-tag-1">Canada</kw></a> <span class="refine-count"><kw class="krdwrd-tag-1">(2)</kw></span><br>
+<h3><kw class="krdwrd-tag-1">Tools</kw></h3>
+<a href="/usedbooksearch.bib"><kw class="krdwrd-tag-1">New search</kw></a> <br> 
+
+<a href="#wants"><kw class="krdwrd-tag-1">Add to want list</kw></a> <br>
+<a href="http://www.biblio.com/email_search.php?sid=3086527" rel="nofollow"><kw class="krdwrd-tag-1">E-mail search</kw></a> <br>
+<a href="http://www.biblio.com/link_search.php?sid=3086527" rel="nofollow"><kw class="krdwrd-tag-1">Link to search</kw></a>
+</div>
+</div>
+<div id="search-result-block">
+<div id="search-nav">
+<h1><kw class="krdwrd-tag-1">Search Results</kw></h1>
+<div id="searchstring"><kw class="krdwrd-tag-1">Title : </kw><b><kw class="krdwrd-tag-1">erling's word</kw></b>&nbsp;<a href="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=" title="Remove this criteria"><kw class="krdwrd-tag-1">[X]</kw></a><kw class="krdwrd-tag-1">&nbsp;&nbsp;Author : </kw><b><kw class="krdwrd-tag-1">walker</kw></b>&nbsp;<a href="http://www.biblio.com/search.php?stage=1&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=" title="Remove this criteria"><kw class="krdwrd-tag-1">[X]</kw></a></div>
+<br>
+<div style="border-top: 1px solid rgb(153, 153, 153); border-bottom: 1px solid rgb(153, 153, 153); padding: 5px 0px; width: 100%; height: 2em;">
+<div style="height: 2em; width: 50%; float: left;"><kw class="krdwrd-tag-1">
+Results </kw><b style="font-size: 125%;"><kw class="krdwrd-tag-1">1</kw></b><kw class="krdwrd-tag-1"> - </kw><b style="font-size: 125%;"><kw class="krdwrd-tag-1">9</kw></b><kw class="krdwrd-tag-1"> of </kw><b style="font-size: 125%;"><kw class="krdwrd-tag-1">9</kw></b> 
+</div>
+<div style="height: 24px; width: 50%; float: right;">
+<form name="jumpsort" method="get" action=""><kw class="krdwrd-tag-1">
+Sort by:
+</kw><select name="sort" onchange="return jump(this);">
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=" selected="selected">Lowest price</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=pricedesc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Highest price</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=authorasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Author A-Z</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=authordesc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Author Z-A</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=titleasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Title A-Z</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=titledesc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Title Z-A</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=iddesc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Most recently added</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=relevance&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Best match</option>
+</select>
+</form>
+</div></div>
+<br clear="all"><kw class="krdwrd-tag-1">
+Page: 
+</kw><b><kw class="krdwrd-tag-1">1</kw></b>
+
+<br>
+<br>
+</div>
+	
+<table class="search-result" width="100%">
+<tbody><tr>
+<td valign="top">
+<b class="resnum"><kw class="krdwrd-tag-1">1)</kw></b>
+</td>
+<td valign="top" width="100%">
+<a href="http://www.biblio.com/books/143452705.html" class="srtitle"><kw class="krdwrd-tag-1">Erlings Word</kw></a><br>
+<div class="srauthor"><kw class="krdwrd-tag-1">Lars Walker</kw></div>
+	<div class="showmore"><a href="http://www.biblio.com/isbn/0671878506.html"><kw class="krdwrd-tag-1">[ISBN: 0671878506]</kw></a></div>
+	<br>
+<div style="position: relative; width: 70px;">
+<table align="left"><tbody><tr><td>
+<a href="http://www.biblio.com/books/143452705.html"><img src="http://i.biblio.com/z/504/878/9780671878504.jpg" alt="Erlings Word" title="Erlings Word" class="photo" onmouseover="showSearchImage($('bg_img_143452705'))" onmouseout="hideSearchImage($('bg_img_143452705'))" align="left" border="0" width="50"></a>
+<br clear="all">
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.</kw></span>
+<div style="opacity: 0.999999; display: none;" class="big_book_box" id="bg_img_143452705">
+<img src="http://i.biblio.com/z/504/878/9780671878504.jpg">
+<br>
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.  May not represent actual copy or condition available.</kw></span>
+</div>
+</td></tr></tbody></table>
+</div>
+
+<div class="desc"><kw class="krdwrd-tag-1"> Clean, </kw><span class="rr" onmouseover='showTip("tt_103", this);' onmouseout='hideTip("tt_103");'><kw class="krdwrd-tag-1">crisp</kw></span><kw class="krdwrd-tag-1"> and </kw><span class="rr" onmouseover='showTip("tt_52", this);' onmouseout='hideTip("tt_52");'><kw class="krdwrd-tag-1">tight</kw></span><kw class="krdwrd-tag-1">, with light tonal aging of the text,... (</kw><a href="http://www.biblio.com/books/143452705.html"><kw class="krdwrd-tag-1">more information</kw></a><kw class="krdwrd-tag-1">) </kw><br><br><i><kw class="krdwrd-tag-1">Offered by Jonathan Friedman (Florida, United States)</kw></i> 
+<div id="fav_seller" class="tipblock" style="display: none;"><kw class="krdwrd-tag-1">
+Favorite bookseller : you've previously added this bookseller to your favorites list.
+</kw></div>
+<div id="tt_52" class="tipblock" style="display: none;"><b><kw class="krdwrd-tag-1">tight</kw></b><kw class="krdwrd-tag-1"> : Used to mean that the binding of a book has not been overly loosened by frequent use.</kw></div><br><div id="tt_103" class="tipblock" style="display: none;"><b><kw class="krdwrd-tag-1">crisp</kw></b><kw class="krdwrd-tag-1"> : A term often used to indicate a book's new-like condition. Indicates that the hinges are not loosened. A book described as crisp will not have 'well-read' pages, i.e., where the book will naturally open to certain pages or sections.</kw></div><br>
+</div>
+
+</td>
+<td valign="top">
+<div class="order-box">
+	<div class="price" style="line-height: 20px; text-align: left; margin-left: 5px;"><kw class="krdwrd-tag-1">
+$1.61
+
+</kw><span style="color: rgb(102, 102, 102); font-size: 90%;"><kw class="krdwrd-tag-1">
+  (€1.04)
+</kw></span>
+</div>
+<div style="text-align: left; margin-top: 8px; font-size: 90%;">
+<a href="/cart.php?add=1&amp;bid=143452705&amp;sid=ee02e386fc10c61d68bc1fb388c8c49b&amp;int=search-" title="Add to cart" rel="nofollow"><img src="http://i.biblio.com/i/en/addtocart.gif" alt="Add to cart" align="bottom" border="0"></a>&nbsp;
+<div style="font-size: 11px;">
+<a href="#" onclick="return openShipping(143452705);"><kw class="krdwrd-tag-1">[Shipping rates]</kw></a><br>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+	
+<table class="search-result" width="100%">
+<tbody><tr>
+<td valign="top">
+<b class="resnum"><kw class="krdwrd-tag-1">2)</kw></b>
+</td>
+<td valign="top" width="100%">
+<a href="http://www.biblio.com/books/77787412.html" class="srtitle"><kw class="krdwrd-tag-1">Erling's Word</kw></a><br>
+<div class="srauthor"><kw class="krdwrd-tag-1">Walker, Lars</kw></div>
+	<div class="showmore"><a href="http://www.biblio.com/isbn/0671878506.html"><kw class="krdwrd-tag-1">[ISBN: 0671878506]</kw></a></div>
+	<br>
+<div style="position: relative; width: 70px;">
+<a href="http://www.biblio.com/books/77787412.html"><img src="http://i.biblio.com/b/412s/77787412-0-s.jpg" alt="Erling's Word" title="Erling's Word" class="photo" onmouseover="showSearchImage($('bg_img_77787412'))" onmouseout="hideSearchImage($('bg_img_77787412'))" align="left" border="0" width="50"></a>
+<div style="opacity: 0.999999; display: none;" class="big_book_box" id="bg_img_77787412">
+<img src="/b/412m/77787412-0-m.jpg">
+</div>
+</div>
+
+<div class="desc"><kw class="krdwrd-tag-1">Baen, 1997-11-01.  Paperback. Very Good.   ... (</kw><a href="http://www.biblio.com/books/77787412.html"><kw class="krdwrd-tag-1">more information</kw></a><kw class="krdwrd-tag-1">) </kw><br><br><i><kw class="krdwrd-tag-1">Offered by FictionDB.com (California, United States)</kw></i> 
+<div id="fav_seller" class="tipblock" style="display: none;"><kw class="krdwrd-tag-1">
+Favorite bookseller : you've previously added this bookseller to your favorites list.
+</kw></div>
+
+</div>
+
+</td>
+<td valign="top">
+<div class="order-box">
+	<div class="price" style="line-height: 20px; text-align: left; margin-left: 5px;"><kw class="krdwrd-tag-1">
+$2.58
+
+</kw><span style="color: rgb(102, 102, 102); font-size: 90%;"><kw class="krdwrd-tag-1">
+  (€1.67)
+</kw></span>
+</div>
+<div style="text-align: left; margin-top: 8px; font-size: 90%;">
+<a href="/cart.php?add=1&amp;bid=77787412&amp;sid=e509bceaa1bb891d8b2d60ac35775c75&amp;int=search-" title="Add to cart" rel="nofollow"><img src="http://i.biblio.com/i/en/addtocart.gif" alt="Add to cart" align="bottom" border="0"></a>&nbsp;
+<div style="font-size: 11px;">
+<a href="#" onclick="return openShipping(77787412);"><kw class="krdwrd-tag-1">[Shipping rates]</kw></a><br>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+	
+<table class="search-result" width="100%">
+<tbody><tr>
+<td valign="top">
+<b class="resnum"><kw class="krdwrd-tag-1">3)</kw></b>
+</td>
+<td valign="top" width="100%">
+<a href="http://www.biblio.com/books/46996713.html" class="srtitle"><kw class="krdwrd-tag-1">ERLINGS WORD</kw></a><br>
+<div class="srauthor"><kw class="krdwrd-tag-1">Walker, Lars</kw></div>
+	<div class="showmore"><a href="http://www.biblio.com/isbn/0671878506.html"><kw class="krdwrd-tag-1">[ISBN: 0671878506]</kw></a></div>
+	<br>
+<div style="position: relative; width: 70px;">
+<table align="left"><tbody><tr><td>
+<a href="http://www.biblio.com/books/46996713.html"><img src="http://i.biblio.com/z/504/878/9780671878504.jpg" alt="ERLINGS WORD" title="ERLINGS WORD" class="photo" onmouseover="showSearchImage($('bg_img_46996713'))" onmouseout="hideSearchImage($('bg_img_46996713'))" align="left" border="0" width="50"></a>
+<br clear="all">
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.</kw></span>
+<div style="opacity: 0.999999; display: none;" class="big_book_box" id="bg_img_46996713">
+<img src="http://i.biblio.com/z/504/878/9780671878504.jpg">
+<br>
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.  May not represent actual copy or condition available.</kw></span>
+</div>
+</td></tr></tbody></table>
+</div>
+
+<div class="desc"><kw class="krdwrd-tag-1">Baen, November 1, 1997.  Paperback. Good.  Science Fiction &amp; Fantasy : Fantasy : General ... (</kw><a href="http://www.biblio.com/books/46996713.html"><kw class="krdwrd-tag-1">more information</kw></a><kw class="krdwrd-tag-1">) </kw><br><br><i><kw class="krdwrd-tag-1">Offered by Pioneer Book (Utah, United States)</kw></i> 
+<div id="fav_seller" class="tipblock" style="display: none;"><kw class="krdwrd-tag-1">
+Favorite bookseller : you've previously added this bookseller to your favorites list.
+</kw></div>
+
+</div>
+
+</td>
+<td valign="top">
+<div class="order-box">
+	<div class="price" style="line-height: 20px; text-align: left; margin-left: 5px;"><kw class="krdwrd-tag-1">
+$3.49
+
+</kw><span style="color: rgb(102, 102, 102); font-size: 90%;"><kw class="krdwrd-tag-1">
+  (€2.25)
+</kw></span>
+</div>
+<div style="text-align: left; margin-top: 8px; font-size: 90%;">
+<a href="/cart.php?add=1&amp;bid=46996713&amp;sid=8ab30f8f326e086bd9c77aeac4ce351b&amp;int=search-" title="Add to cart" rel="nofollow"><img src="http://i.biblio.com/i/en/addtocart.gif" alt="Add to cart" align="bottom" border="0"></a>&nbsp;
+<div style="font-size: 11px;">
+<a href="#" onclick="return openShipping(46996713);"><kw class="krdwrd-tag-1">[Shipping rates]</kw></a><br>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+	
+<table class="search-result" width="100%">
+<tbody><tr>
+<td valign="top">
+<b class="resnum"><kw class="krdwrd-tag-1">4)</kw></b>
+</td>
+<td valign="top" width="100%">
+<a href="http://www.biblio.com/books/113318679.html" class="srtitle"><kw class="krdwrd-tag-1">Erling's Word</kw></a><br>
+<div class="srauthor"><kw class="krdwrd-tag-1">Walker, Lars</kw></div>
+	<div class="showmore"><a href="http://www.biblio.com/isbn/0671878506.html"><kw class="krdwrd-tag-1">[ISBN: 0671878506]</kw></a></div>
+	<br>
+<div style="position: relative; width: 70px;">
+<a href="http://www.biblio.com/books/113318679.html"><img src="http://i.biblio.com/b/679s/113318679-0-s.jpg" alt="Erling's Word" title="Erling's Word" class="photo" onmouseover="showSearchImage($('bg_img_113318679'))" onmouseout="hideSearchImage($('bg_img_113318679'))" align="left" border="0" width="50"></a>
+<div style="opacity: 0.999999; display: none;" class="big_book_box" id="bg_img_113318679">
+<img src="/b/679m/113318679-0-m.jpg">
+</div>
+</div>
+
+<div class="desc"><kw class="krdwrd-tag-1">Baen, 1997-11-01.  1st 11/1997. </kw><span class="rr" onmouseover='showTip("tt_31", this);' onmouseout='hideTip("tt_31");'><kw class="krdwrd-tag-1">Mass Market Paperback</kw></span><kw class="krdwrd-tag-1">. Very Good +.  Mass Market Paperback : Baen : 87850 : 1st 11/1997 : Very Good + : Cover Artist: Elmore, Larry ... (</kw><a href="http://www.biblio.com/books/113318679.html"><kw class="krdwrd-tag-1">more information</kw></a><kw class="krdwrd-tag-1">) </kw><br><br><i><kw class="krdwrd-tag-1">Offered by Art Vaughan's Used  Books (Pennsylvania, United States)</kw></i> 
+<div id="fav_seller" class="tipblock" style="display: none;"><kw class="krdwrd-tag-1">
+Favorite bookseller : you've previously added this bookseller to your favorites list.
+</kw></div>
+<div id="tt_31" class="tipblock" style="display: none;"><b><kw class="krdwrd-tag-1">Mass market paperback</kw></b><kw class="krdwrd-tag-1"> : Also known as the pocket paperback. A small format paperback usually measuring about 4" by 6". 
+
+</kw></div><br>
+</div>
+
+</td>
+<td valign="top">
+<div class="order-box">
+	<div class="price" style="line-height: 20px; text-align: left; margin-left: 5px;"><kw class="krdwrd-tag-1">
+$3.50
+
+</kw><span style="color: rgb(102, 102, 102); font-size: 90%;"><kw class="krdwrd-tag-1">
+  (€2.26)
+</kw></span>
+</div>
+<div style="text-align: left; margin-top: 8px; font-size: 90%;">
+<a href="/cart.php?add=1&amp;bid=113318679&amp;sid=0bddd652481a1a1a1de264ce3eba0908&amp;int=search-" title="Add to cart" rel="nofollow"><img src="http://i.biblio.com/i/en/addtocart.gif" alt="Add to cart" align="bottom" border="0"></a>&nbsp;
+<div style="font-size: 11px;">
+<a href="#" onclick="return openShipping(113318679);"><kw class="krdwrd-tag-1">[Shipping rates]</kw></a><br>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+	
+<table class="search-result" width="100%">
+<tbody><tr>
+<td valign="top">
+<b class="resnum"><kw class="krdwrd-tag-1">5)</kw></b>
+</td>
+<td valign="top" width="100%">
+<a href="http://www.biblio.com/books/2061446.html" class="srtitle"><kw class="krdwrd-tag-1">ERLING'S WORD</kw></a><br>
+<div class="srauthor"><kw class="krdwrd-tag-1">Walker, Lars.  Cover art by Larry Elmore</kw></div>
+<br>
+
+<div class="desc"><kw class="krdwrd-tag-1">Baen, (Riverdale, N.Y., 1997), Ist printing.. 308 pp, </kw><span class="rr" onmouseover='showTip("tt_31", this);' onmouseout='hideTip("tt_31");'><kw class="krdwrd-tag-1">mass market paperback</kw></span><kw class="krdwrd-tag-1">.  "It all started with a Viking raid: When he is captured and forced into slavery, Ailill the Irishman must pretend to be a priest or die.  Better to be a high-value priest than a low-value corpse, he thinks, and so it . happens that a failed novitiate (he loved women too well) is taken up by Norway's first Christian lord, Erling Skjalgsson to bring the Word to his people...It's going to take a miracle for Ailill to succeed, or... (</kw><a href="http://www.biblio.com/books/2061446.html"><kw class="krdwrd-tag-1">more information</kw></a><kw class="krdwrd-tag-1">) </kw><br><br><i><kw class="krdwrd-tag-1">Offered by Capricorn Books (Ontario, Canada)</kw></i> 
+<div id="fav_seller" class="tipblock" style="display: none;"><kw class="krdwrd-tag-1">
+Favorite bookseller : you've previously added this bookseller to your favorites list.
+</kw></div>
+<div id="tt_31" class="tipblock" style="display: none;"><b><kw class="krdwrd-tag-1">Mass market paperback</kw></b><kw class="krdwrd-tag-1"> : Also known as the pocket paperback. A small format paperback usually measuring about 4" by 6". 
+
+</kw></div><br>
+</div>
+
+</td>
+<td valign="top">
+<div class="order-box">
+	<div class="price" style="line-height: 20px; text-align: left; margin-left: 5px;"><kw class="krdwrd-tag-1">
+$5.00
+
+</kw><span style="color: rgb(102, 102, 102); font-size: 90%;"><kw class="krdwrd-tag-1">
+  (€3.23)
+</kw></span>
+</div>
+<div style="text-align: left; margin-top: 8px; font-size: 90%;">
+<a href="/cart.php?add=1&amp;bid=2061446&amp;sid=3c96deb35fdc68f7c9cea0c326bb0437&amp;int=search-" title="Add to cart" rel="nofollow"><img src="http://i.biblio.com/i/en/addtocart.gif" alt="Add to cart" align="bottom" border="0"></a>&nbsp;
+<div style="font-size: 11px;">
+<a href="#" onclick="return openShipping(2061446);"><kw class="krdwrd-tag-1">[Shipping rates]</kw></a><br>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+	
+<table class="search-result" width="100%">
+<tbody><tr>
+<td valign="top">
+<b class="resnum"><kw class="krdwrd-tag-1">6)</kw></b>
+</td>
+<td valign="top" width="100%">
+<a href="http://www.biblio.com/books/96272555.html" class="srtitle"><kw class="krdwrd-tag-1">Erling's Word</kw></a><br>
+<div class="srauthor"><kw class="krdwrd-tag-1">Walker, Lars</kw></div>
+<br>
+
+<div class="desc"><kw class="krdwrd-tag-1"> Used, </kw><span class="rr" onmouseover='showTip("tt_235", this);' onmouseout='hideTip("tt_235");'><kw class="krdwrd-tag-1">Mass Market</kw></span><kw class="krdwrd-tag-1"> Paperback;  ... (</kw><a href="http://www.biblio.com/books/96272555.html"><kw class="krdwrd-tag-1">more information</kw></a><kw class="krdwrd-tag-1">) </kw><br><br><i><kw class="krdwrd-tag-1">Offered by Seaside Book &amp; Stamp (Nova Scotia, Canada)</kw></i> 
+<div id="fav_seller" class="tipblock" style="display: none;"><kw class="krdwrd-tag-1">
+Favorite bookseller : you've previously added this bookseller to your favorites list.
+</kw></div>
+<div id="tt_235" class="tipblock" style="display: none;"><b><kw class="krdwrd-tag-1">Mass Market</kw></b><kw class="krdwrd-tag-1"> : Also known as the pocket paperback. A small format paperback usually measuring about 4" by 6".</kw></div><br>
+</div>
+
+</td>
+<td valign="top">
+<div class="order-box">
+	<div class="price" style="line-height: 20px; text-align: left; margin-left: 5px;"><kw class="krdwrd-tag-1">
+$6.00
+
+</kw><span style="color: rgb(102, 102, 102); font-size: 90%;"><kw class="krdwrd-tag-1">
+  (€3.87)
+</kw></span>
+</div>
+<div style="text-align: left; margin-top: 8px; font-size: 90%;">
+<a href="/cart.php?add=1&amp;bid=96272555&amp;sid=0f97ebee7be7e649f8fa53211afebac6&amp;int=search-" title="Add to cart" rel="nofollow"><img src="http://i.biblio.com/i/en/addtocart.gif" alt="Add to cart" align="bottom" border="0"></a>&nbsp;
+<div style="font-size: 11px;">
+<a href="#" onclick="return openShipping(96272555);"><kw class="krdwrd-tag-1">[Shipping rates]</kw></a><br>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+	
+<table class="search-result" width="100%">
+<tbody><tr>
+<td valign="top">
+<b class="resnum"><kw class="krdwrd-tag-1">7)</kw></b>
+</td>
+<td valign="top" width="100%">
+<a href="http://www.biblio.com/books/170519117.html" class="srtitle"><kw class="krdwrd-tag-1">Erlings Word</kw></a><br>
+<div class="srauthor"><kw class="krdwrd-tag-1">Walker, Lars</kw></div>
+	<div class="showmore"><a href="http://www.biblio.com/isbn/0671878506.html"><kw class="krdwrd-tag-1">[ISBN: 0671878506]</kw></a></div>
+	<br>
+<div style="position: relative; width: 70px;">
+<table align="left"><tbody><tr><td>
+<a href="http://www.biblio.com/books/170519117.html"><img src="http://i.biblio.com/z/504/878/9780671878504.jpg" alt="Erlings Word" title="Erlings Word" class="photo" onmouseover="showSearchImage($('bg_img_170519117'))" onmouseout="hideSearchImage($('bg_img_170519117'))" align="left" border="0" width="50"></a>
+<br clear="all">
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.</kw></span>
+<div style="opacity: 0.999999; display: none;" class="big_book_box" id="bg_img_170519117">
+<img src="http://i.biblio.com/z/504/878/9780671878504.jpg">
+<br>
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.  May not represent actual copy or condition available.</kw></span>
+</div>
+</td></tr></tbody></table>
+</div>
+
+<div class="desc"><kw class="krdwrd-tag-1">Riverdale, NY: Baen. Soft Cover. 0671878506 The covers have a little </kw><span class="rr" onmouseover='showTip("tt_226", this);' onmouseout='hideTip("tt_226");'><kw class="krdwrd-tag-1">shelf wear</kw></span><kw class="krdwrd-tag-1"> and some slight creasing.  This novel is about Ailill the Irishman trying to pass himself off as a priest to keep himself alive but he must also convert a group of devout pagans. . Good. 1997. </kw><span class="rr" onmouseover='showTip("tt_209", this);' onmouseout='hideTip("tt_209");'><kw class="krdwrd-tag-1">Reprint</kw></span><kw class="krdwrd-tag-1">. ... (</kw><a href="http://www.biblio.com/books/170519117.html"><kw class="krdwrd-tag-1">more information</kw></a><kw class="krdwrd-tag-1">) </kw><br><br><i><kw class="krdwrd-tag-1">Offered by Cupboard Maker Books (Pennsylvania, United States)</kw></i> 
+<div id="fav_seller" class="tipblock" style="display: none;"><kw class="krdwrd-tag-1">
+Favorite bookseller : you've previously added this bookseller to your favorites list.
+</kw></div>
+<div id="tt_209" class="tipblock" style="display: none;"><b><kw class="krdwrd-tag-1">reprint</kw></b><kw class="krdwrd-tag-1"> : Any printing of a book which follows the original edition.  By definition, a reprint is not a first edition.</kw></div><br><div id="tt_226" class="tipblock" style="display: none;"><b><kw class="krdwrd-tag-1">shelf wear</kw></b><kw class="krdwrd-tag-1"> : Minor wear resulting from a book being place on, and taken from a bookshelf, especially along the bottom edge.</kw></div><br>
+</div>
+
+</td>
+<td valign="top">
+<div class="order-box">
+	<div class="price" style="line-height: 20px; text-align: left; margin-left: 5px;"><kw class="krdwrd-tag-1">
+$7.00
+
+</kw><span style="color: rgb(102, 102, 102); font-size: 90%;"><kw class="krdwrd-tag-1">
+  (€4.52)
+</kw></span>
+</div>
+<div style="text-align: left; margin-top: 8px; font-size: 90%;">
+<a href="/cart.php?add=1&amp;bid=170519117&amp;sid=8eeadb458502e6b7db6b2f9aee5f9ee1&amp;int=search-" title="Add to cart" rel="nofollow"><img src="http://i.biblio.com/i/en/addtocart.gif" alt="Add to cart" align="bottom" border="0"></a>&nbsp;
+<div style="font-size: 11px;">
+<a href="#" onclick="return openShipping(170519117);"><kw class="krdwrd-tag-1">[Shipping rates]</kw></a><br>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+	
+<table class="search-result" width="100%">
+<tbody><tr>
+<td valign="top">
+<b class="resnum"><kw class="krdwrd-tag-1">8)</kw></b>
+</td>
+<td valign="top" width="100%">
+<a href="http://www.biblio.com/books/173622448.html" class="srtitle"><kw class="krdwrd-tag-1">Erlings Word</kw></a><kw class="krdwrd-tag-1"> (Qty: 4)</kw><br>
+<div class="srauthor"><kw class="krdwrd-tag-1">Lars Walker</kw></div>
+	<div class="showmore"><a href="http://www.biblio.com/isbn/0671878506.html"><kw class="krdwrd-tag-1">[ISBN: 0671878506]</kw></a></div>
+	<br>
+<div style="position: relative; width: 70px;">
+<table align="left"><tbody><tr><td>
+<a href="http://www.biblio.com/books/173622448.html"><img src="http://i.biblio.com/z/504/878/9780671878504.jpg" alt="Erlings Word" title="Erlings Word" class="photo" onmouseover="showSearchImage($('bg_img_173622448'))" onmouseout="hideSearchImage($('bg_img_173622448'))" align="left" border="0" width="50"></a>
+<br clear="all">
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.</kw></span>
+<div style="opacity: 0.999999; display: none;" class="big_book_box" id="bg_img_173622448">
+<img src="http://i.biblio.com/z/504/878/9780671878504.jpg">
+<br>
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.  May not represent actual copy or condition available.</kw></span>
+</div>
+</td></tr></tbody></table>
+</div>
+
+<div class="desc"><kw class="krdwrd-tag-1">Baen.  </kw><span class="rr" onmouseover='showTip("tt_31", this);' onmouseout='hideTip("tt_31");'><kw class="krdwrd-tag-1">Mass Market Paperback</kw></span><kw class="krdwrd-tag-1">. Very Good.  Satisfaction Guaranteed! ... (</kw><a href="http://www.biblio.com/books/173622448.html"><kw class="krdwrd-tag-1">more information</kw></a><kw class="krdwrd-tag-1">) </kw><br><br><i><kw class="krdwrd-tag-1">Offered by more books (Florida, United States)</kw></i> 
+<div id="fav_seller" class="tipblock" style="display: none;"><kw class="krdwrd-tag-1">
+Favorite bookseller : you've previously added this bookseller to your favorites list.
+</kw></div>
+<div id="tt_31" class="tipblock" style="display: none;"><b><kw class="krdwrd-tag-1">Mass market paperback</kw></b><kw class="krdwrd-tag-1"> : Also known as the pocket paperback. A small format paperback usually measuring about 4" by 6". 
+
+</kw></div><br>
+</div>
+
+</td>
+<td valign="top">
+<div class="order-box">
+	<div class="price" style="line-height: 20px; text-align: left; margin-left: 5px;"><kw class="krdwrd-tag-1">
+$37.48
+
+</kw><span style="color: rgb(102, 102, 102); font-size: 90%;"><kw class="krdwrd-tag-1">
+  (€24.19)
+</kw></span>
+</div>
+<div style="text-align: left; margin-top: 8px; font-size: 90%;">
+<a href="/cart.php?add=1&amp;bid=173622448&amp;sid=02d53363235f2a4b8386e1801ac0ebba&amp;int=search-" title="Add to cart" rel="nofollow"><img src="http://i.biblio.com/i/en/addtocart.gif" alt="Add to cart" align="bottom" border="0"></a>&nbsp;
+<div style="font-size: 11px;">
+<a href="#" onclick="return openShipping(173622448);"><kw class="krdwrd-tag-1">[Shipping rates]</kw></a><br>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+	
+<table class="search-result" width="100%">
+<tbody><tr>
+<td valign="top">
+<b class="resnum"><kw class="krdwrd-tag-1">9)</kw></b>
+</td>
+<td valign="top" width="100%">
+<a href="http://www.biblio.com/books/173614519.html" class="srtitle"><kw class="krdwrd-tag-1">Erlings Word</kw></a><kw class="krdwrd-tag-1"> (Qty: 2)</kw><br>
+<div class="srauthor"><kw class="krdwrd-tag-1">Lars Walker</kw></div>
+	<div class="showmore"><a href="http://www.biblio.com/isbn/0671878506.html"><kw class="krdwrd-tag-1">[ISBN: 0671878506]</kw></a></div>
+	<br>
+<div style="position: relative; width: 70px;">
+<table align="left"><tbody><tr><td>
+<a href="http://www.biblio.com/books/173614519.html"><img src="http://i.biblio.com/z/504/878/9780671878504.jpg" alt="Erlings Word" title="Erlings Word" class="photo" onmouseover="showSearchImage($('bg_img_173614519'))" onmouseout="hideSearchImage($('bg_img_173614519'))" align="left" border="0" width="50"></a>
+<br clear="all">
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.</kw></span>
+<div style="opacity: 0.999999; display: none;" class="big_book_box" id="bg_img_173614519">
+<img src="http://i.biblio.com/z/504/878/9780671878504.jpg">
+<br>
+<span style="font-size: 9px; font-style: italic;"><kw class="krdwrd-tag-1">Stock photo.  May not represent actual copy or condition available.</kw></span>
+</div>
+</td></tr></tbody></table>
+</div>
+
+<div class="desc"><kw class="krdwrd-tag-1">Baen.  </kw><span class="rr" onmouseover='showTip("tt_31", this);' onmouseout='hideTip("tt_31");'><kw class="krdwrd-tag-1">Mass Market Paperback</kw></span><kw class="krdwrd-tag-1">. Like New.  Satisfaction Guaranteed! ... (</kw><a href="http://www.biblio.com/books/173614519.html"><kw class="krdwrd-tag-1">more information</kw></a><kw class="krdwrd-tag-1">) </kw><br><br><i><kw class="krdwrd-tag-1">Offered by more books (Florida, United States)</kw></i> 
+<div id="fav_seller" class="tipblock" style="display: none;"><kw class="krdwrd-tag-1">
+Favorite bookseller : you've previously added this bookseller to your favorites list.
+</kw></div>
+<div id="tt_31" class="tipblock" style="display: none;"><b><kw class="krdwrd-tag-1">Mass market paperback</kw></b><kw class="krdwrd-tag-1"> : Also known as the pocket paperback. A small format paperback usually measuring about 4" by 6". 
+
+</kw></div><br>
+</div>
+
+</td>
+<td valign="top">
+<div class="order-box">
+	<div class="price" style="line-height: 20px; text-align: left; margin-left: 5px;"><kw class="krdwrd-tag-1">
+$77.25
+
+</kw><span style="color: rgb(102, 102, 102); font-size: 90%;"><kw class="krdwrd-tag-1">
+  (€49.86)
+</kw></span>
+</div>
+<div style="text-align: left; margin-top: 8px; font-size: 90%;">
+<a href="/cart.php?add=1&amp;bid=173614519&amp;sid=328d815a545435a7f5e2b34f58bf6fb5&amp;int=search-" title="Add to cart" rel="nofollow"><img src="http://i.biblio.com/i/en/addtocart.gif" alt="Add to cart" align="bottom" border="0"></a>&nbsp;
+<div style="font-size: 11px;">
+<a href="#" onclick="return openShipping(173614519);"><kw class="krdwrd-tag-1">[Shipping rates]</kw></a><br>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<div id="search-nav">
+<div style="border-top: 1px solid rgb(153, 153, 153); border-bottom: 1px solid rgb(153, 153, 153); padding: 5px 0px; width: 100%; height: 2em;">
+<div style="height: 2em; width: 50%; float: left;"><kw class="krdwrd-tag-1">
+Results </kw><b style="font-size: 125%;"><kw class="krdwrd-tag-1">1</kw></b><kw class="krdwrd-tag-1"> - </kw><b style="font-size: 125%;"><kw class="krdwrd-tag-1">9</kw></b><kw class="krdwrd-tag-1"> of </kw><b style="font-size: 125%;"><kw class="krdwrd-tag-1">9</kw></b> 
+</div>
+<div style="height: 24px; width: 50%; float: right;">
+<form name="jumpsort" method="get" action=""><kw class="krdwrd-tag-1">
+Sort by:
+</kw><select name="sort" onchange="return jump(this);">
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=priceasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=" selected="selected">Lowest price</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=pricedesc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Highest price</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=authorasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Author A-Z</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=authordesc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Author Z-A</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=titleasc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Title A-Z</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=titledesc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Title Z-A</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=iddesc&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Most recently added</option>
+<option class="krdwrd-tag-1" value="http://www.biblio.com/search.php?stage=1&amp;author=walker&amp;title=erling%27s+word&amp;format=&amp;alt=&amp;photo=&amp;pageper=21&amp;free_shipping_us=&amp;first=&amp;signed=&amp;dj=&amp;omit_exl=&amp;omit_bce=&amp;strip_common=1&amp;order=relevance&amp;minprice=&amp;maxprice=&amp;dbrowse_author=&amp;dbrowse_title=">Best match</option>
+</select>
+</form>
+</div></div>
+<br clear="all"><kw class="krdwrd-tag-1">
+Page: 
+</kw><b><kw class="krdwrd-tag-1">1</kw></b>
+
+<br>
+<br>
+</div>
+<h3 class="headline"><kw class="krdwrd-tag-1">Want to know if we find this book?</kw></h3>
+<form action="/wants.php" method="post">
+<table style="background-color: rgb(255, 255, 255); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; padding-left: 30px;" align="left" width="90%">
+<tbody><tr><td colspan="2" class="smalltext2"><kw class="krdwrd-tag-1">
+Want lists are free e-mail notifications if a book you're looking for becomes available for sale. Existing members </kw><a href="https://www.biblio.com/login.php"><kw class="krdwrd-tag-1">login here</kw></a><kw class="krdwrd-tag-1"> to add this search to your want list.
+</kw></td></tr>
+<tr><td><kw class="krdwrd-tag-1">Your name:</kw></td><td><input name="name" size="40" type="text"></td></tr>
+<tr><td><kw class="krdwrd-tag-1">Your e-mail address (e.g., yourname@yourprovider.com):</kw></td><td><input size="40" name="email" type="text"></td></tr>
+<tr><td><kw class="krdwrd-tag-1">Choose a password:</kw></td><td><input size="30" name="pass1" type="password"></td></tr>
+<tr><td><kw class="krdwrd-tag-1">Re-type your password:</kw></td><td><input size="30" name="pass2" type="password"></td></tr>
+<tr><td><kw class="krdwrd-tag-1">Would you like to receive our monthly newsletter?</kw></td><td><input name="contact_me" type="checkbox"></td></tr>
+<tr><td colspan="2"><i class="smalltext2"><b><kw class="krdwrd-tag-1">Note:</kw></b><kw class="krdwrd-tag-1"> We will not disclose your personal information to any third-party companies or organizations</kw></i></td></tr>
+<tr><td class="header" colspan="2" align="right"><input value="Signup &amp; add to my want list" type="submit"></td></tr>
+
+</tbody></table>
+<input name="sid" value="3086133" type="hidden">
+</form>
+
+</div>
+</div>
+</div>
+
+
+<div id="side-image">
+
+</div> 
+
+
+
+<div style="display: none;" class="submenu" onmouseout="lockOff('searchmenu'); hideMenu('searchmenu');" onmouseover="lockOn('searchmenu');" id="searchmenu">
+<div style="float: left; width: 50%;">
+<a href="http://www.biblio.com/search.php"><kw class="krdwrd-tag-1">Advanced booksearch</kw></a><br>
+<a href="http://www.biblio.com/isbn/"><kw class="krdwrd-tag-1">ISBN Search</kw></a><br>
+<a href="http://www.biblio.com/multiple_booksearch.php"><kw class="krdwrd-tag-1">Multiple booksearch</kw></a><br>
+</div>
+<div style="float: left; width: 50%;">
+<a href="http://www.biblio.com/textbooks/"><kw class="krdwrd-tag-1">Search for Textbooks</kw></a><br>
+<a href="http://www.biblio.com/ltd/"><kw class="krdwrd-tag-1">Search for Rare Books</kw></a><br>
+
+<a href="http://www.biblio.com/book_sales/"><kw class="krdwrd-tag-1">Specials &amp; Discount Books</kw></a><br>
+<a href="http://www.biblio.com/bargain_books/"><kw class="krdwrd-tag-1">Bargain books under $2</kw></a><br>
+</div>
+</div>
+<div style="display: none;" class="submenu" onmouseout="lockOff('browsemenu'); hideMenu('browsemenu');" onmouseover="lockOn('browsemenu');" id="browsemenu">
+<div style="float: left; width: 50%;">
+<a href="http://www.biblio.com/ART_Books.html"><kw class="krdwrd-tag-1">Art Books</kw></a><br>
+ <a href="http://www.biblio.com/BIOGRAPHY_AUTOBIOGRAPHY_Books.html.html"><kw class="krdwrd-tag-1">Biography Books</kw></a><br>
+ <a href="http://www.biblio.com/search.php?subject=6"><kw class="krdwrd-tag-1">Books on Books</kw></a><br>
+
+ <a href="http://www.biblio.com/JUVENILE%20FICTION_Books.html"><kw class="krdwrd-tag-1">Children's Books</kw></a><br>
+ <a href="http://www.biblio.com/Cook_Books.html"><kw class="krdwrd-tag-1">Cook Books</kw></a><br>
+ <a href="http://www.biblio.com/catalogs/9/Gardening.html"><kw class="krdwrd-tag-1">Gardening Books</kw></a><br>
+<br>
+ <a href="http://www.biblio.com/authors.php"><kw class="krdwrd-tag-1">Browse authors...</kw></a><br>
+</div>
+<div style="float: left; width: 50%;">
+ <a href="http://www.biblio.com/Graphic_Novels.html"><kw class="krdwrd-tag-1">Graphic Novels</kw></a><br>
+
+ <a href="http://www.biblio.com/catalogs/2/History.html"><kw class="krdwrd-tag-1">History Books</kw></a><br>
+
+ <a href="http://www.biblio.com/catalogs/6/Religion.html"><kw class="krdwrd-tag-1">Religious Books</kw></a><br>
+ <a href="http://www.biblio.com/catalogs/53/Romance.html"><kw class="krdwrd-tag-1">Romance Books</kw></a><br>
+<br>
+ <a href="http://www.biblio.com/catalogs.php"><kw class="krdwrd-tag-1">More subjects &gt;&gt;</kw></a><br>
+</div>
+</div>
+<div style="display: none;" class="submenu" onmouseout="lockOff('booksellermenu'); hideMenu('booksellermenu');" onmouseover="lockOn('booksellermenu');" id="booksellermenu">
+
+<div style="float: left; width: 50%;"> 
+<a href="http://www.biblio.com/pages/usa_map.html"><kw class="krdwrd-tag-1">Bookstores in the U.S.</kw></a><br>
+<a href="http://www.biblio.com/pages/uk_map.html"><kw class="krdwrd-tag-1">Bookstores in the U.K.</kw></a><br>
+<a href="http://www.biblio.com/bookseller_search.php?country=5"><kw class="krdwrd-tag-1">Bookstores in Canada</kw></a><br>
+<a href="http://www.biblio.com/pages/australia_map.html"><kw class="krdwrd-tag-1">Bookstores in Australia</kw></a><br>
+<a href="http://www.biblio.com/pages/europe_map.html"><kw class="krdwrd-tag-1">Bookstores in Europe</kw></a><br>
+</div>
+<div style="float: left; width: 50%;"> 
+<a href="http://www.biblio.com/booksellers.php"><kw class="krdwrd-tag-1">Search bookstores</kw></a><br>
+<a href="http://www.biblio.com/booksellers_by_specialty.php"><kw class="krdwrd-tag-1">Specialist Bookstores</kw></a><br>
+
+</div>
+</div>
+<div style="display: none;" class="submenu" onmouseout="lockOff('raremenu'); hideMenu('raremenu');" onmouseover="lockOn('raremenu');" id="raremenu">
+<div style="float: left; width: 50%;">
+<a href="http://www.biblio.com/ltd/feature/24-0/Books_into_film.html" class="ltd"><kw class="krdwrd-tag-1">Books into film</kw></a><br>
+<a href="http://www.biblio.com/ltd/feature/11-0/Collectible_Childrens_Books.html" class="ltd"><kw class="krdwrd-tag-1">Children's Books</kw></a><br>
+<a href="http://www.biblio.com/ltd/feature/7-0/Fine_Bindings.html" class="ltd"><kw class="krdwrd-tag-1">Fine Bindings</kw></a><br>
+<a href="http://www.biblio.com/ltd/feature/22-0/Illustrated_Books.html" class="ltd"><kw class="krdwrd-tag-1">Illustrated Books</kw></a><br>
+<a href="http://www.biblio.com/ltd/feature/23-0/Maps_and_Atlases.html" class="ltd"><kw class="krdwrd-tag-1">Maps and Atlases</kw></a><br>
+<a href="http://www.biblio.com/ltd/feature/1-0/Modern_First_Editions.html" class="ltd"><kw class="krdwrd-tag-1">Modern First Editions</kw></a><br>
+
+<a href="http://www.biblio.com/ltd/feature/10-0/Rare_Art__Architecture_Books.html" class="ltd"><kw class="krdwrd-tag-1">Art &amp; Architecture</kw></a><br>
+
+</div>
+<div style="float: left; width: 50%;">
+
+<a href="http://www.biblio.com/ltd/feature/17-0/Rare_Collectible_Mystery_Books.html" class="ltd"><kw class="krdwrd-tag-1">Mystery Books</kw></a><br>
+<a href="http://www.biblio.com/ltd/feature/13-0/Rare_Literature_Books.html" class="ltd"><kw class="krdwrd-tag-1">Rare Literature Books</kw></a><br>
+<a href="http://www.biblio.com/ltd/feature/29-0/Rare_Manuscripts__Documents.html" class="ltd"><kw class="krdwrd-tag-1">Manuscripts &amp; Documents</kw></a><br>
+<a href="http://www.biblio.com/ltd/feature/16-0/Rare_Military_Books.html" class="ltd"><kw class="krdwrd-tag-1">Rare Military Books</kw></a><br>
+
+<a href="http://www.biblio.com/ltd/feature/3-0/Science_Fiction__Fantasy_Collectible_Books.html" class="ltd"><kw class="krdwrd-tag-1">Science Fiction &amp; Fantasy</kw></a><br>
+<a href="http://www.biblio.com/ltd/feature/2-0/Signed_Books.html" class="ltd"><kw class="krdwrd-tag-1">Signed Books</kw></a><br>
+<br>
+<a href="http://www.biblio.com/ltd/"><kw class="krdwrd-tag-1">More Rare Books &gt;&gt;</kw></a>
+
+
+
+
+</div>
+</div>
+<hr class="cleaner">
+<div id="footer">
+
+<br clear="all">
+<div class="bottom-content">
+<h1><kw class="krdwrd-tag-1">Help &amp; Customer Service</kw></h1>
+<ul>
+<li> <a href="http://www.biblio.com/help.php"><kw class="krdwrd-tag-1">Find Help &amp; Faq</kw></a></li>
+<li> <a href="http://www.biblio.com/about.php"><kw class="krdwrd-tag-1">About Biblio.com</kw></a></li>
+<li> <a href="http://www.biblio.com/press.php?cxt=about"><kw class="krdwrd-tag-1">Press &amp; Media Information</kw></a></li>
+<li> <a href="http://www.biblio.com/gift_certificate.php"><kw class="krdwrd-tag-1">Purchase Gift Certificates</kw></a></li>
+<li> <a href="http://www.bookhound.net"><kw class="krdwrd-tag-1">Free software for bookstores</kw></a></li>
+<li> <a href="http://www.biblio.com/support_request.php"><kw class="krdwrd-tag-1">Contact us</kw></a></li>
+</ul>
+</div>
+<div class="bottom-content">
+<h1><kw class="krdwrd-tag-1">News &amp; Happenings</kw></h1>
+<ul>
+<li><kw class="krdwrd-tag-1">June 3, 2008 : </kw><a href="http://www.biblio.com/pages/Biblio_Bibliopolis.html"><kw class="krdwrd-tag-1">Biblio.com and Bibliopolis Team Up to Deliver Free Software to Booksellers</kw></a></li>
+<li><kw class="krdwrd-tag-1">Mar 26, 2008 : </kw><a href="http://www.biblio.com/pages/Fifth_Anniv.html"><kw class="krdwrd-tag-1">Biblio.com celebrates its fifth year with a new look at old books</kw></a></li>
+<li><kw class="krdwrd-tag-1">Oct 8, 2007 : </kw><a href="http://www.biblio.com/pages/Used_Books_Go_Greener.html"><kw class="krdwrd-tag-1">Carbon Neutral Shipping at Biblio.com</kw></a></li>
+
+<li><kw class="krdwrd-tag-1">Sept 27, 2007 : </kw><a href="http://www.biblio.com/pages/Biblio_to_Assist_BiblioWorks.html"><kw class="krdwrd-tag-1">Biblio.com to Assist Non-Profit in Building Libraries</kw></a></li>
+</ul>
+</div>
+<div class="bottom-content">
+<h1><kw class="krdwrd-tag-1">Community &amp; Resources</kw></h1>
+<ul>
+<li><a href="http://www.biblio.com/unbound/"><kw class="krdwrd-tag-1">BiblioUnbound - The Monthly Ezine for Booklovers</kw></a></li>
+<li><a href="/forum/"><kw class="krdwrd-tag-1">Community forum</kw></a></li>
+<li><a href="http://for.theloveofbooks.com"><kw class="krdwrd-tag-1">for.theloveofbooks.com (Our blog)</kw></a></li>
+<li><a href="http://www.biblio.com/recent_reviews.php"><kw class="krdwrd-tag-1">Recently added book reviews</kw></a></li>
+</ul>
+</div>
+<hr class="cleaner">
+
+<div class="bottom-content">
+<img src="http://i.biblio.com/images/finalmark.gif" alt="Reviewed by Trust-e" class="acc_mark" align="left">
+</div>
+<div class="bottom-content">
+<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.biblio.com"><img src="//images.scanalert.com/meter/www.biblio.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;" class="acc_mark" border="0" height="54" width="94"></a>
+<!-- END SCANALERT CODE -->
+</div>
+<div class="bottom-content">
+<a href="http://www.biblio.com/ecosend"><img src="http://i.biblio.com/i/en/ecosend.gif" alt="Ecosend - Carbon Neutral Shipping" class="acc_mark" align="left" border="0"></a>
+</div>
+<hr class="cleaner">
+
+<div id="bottomnav">
+<a href="http://www.biblio.com/"><kw class="krdwrd-tag-1">Used, Rare and Out-of-Print Books</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/usedbooksearch.bib"><kw class="krdwrd-tag-1">Search for books</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/pages/browse_all.html"><kw class="krdwrd-tag-1">Books by subject</kw></a><kw class="krdwrd-tag-1"> |
+
+</kw><a href="http://www.biblio.com/isbns.html"><kw class="krdwrd-tag-1">Books by ISBN</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/ltd/"><kw class="krdwrd-tag-1">Rare books</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/book_sales/book_sales.php"><kw class="krdwrd-tag-1">Sale on used books</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/gift_certificate.php"><kw class="krdwrd-tag-1">Gifts for Booklovers</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/booksellers.html"><kw class="krdwrd-tag-1">Find bookstores</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/authors.php"><kw class="krdwrd-tag-1">Author biographies</kw></a><kw class="krdwrd-tag-1"> |
+
+</kw><a href="http://forum.biblio.com/"><kw class="krdwrd-tag-1">Community forum</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/sell_books.html"><kw class="krdwrd-tag-1">Apply to sell books on Biblio</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/affiliate_program/"><kw class="krdwrd-tag-1">Affiliate program</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/about.php"><kw class="krdwrd-tag-1">About us</kw></a><kw class="krdwrd-tag-1"> | 
+</kw><a href="http://www.biblioworks.org" target="blank"><kw class="krdwrd-tag-1">BiblioWorks</kw></a><kw class="krdwrd-tag-1"> | 
+</kw><a href="http://www.biblio.com/privacy.php"><kw class="krdwrd-tag-1">Privacy and security</kw></a><kw class="krdwrd-tag-1"> | 
+
+</kw><a href="http://www.biblio.com/help.php"><kw class="krdwrd-tag-1">Help &amp; Faq</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/terms.php"><kw class="krdwrd-tag-1">Terms of use</kw></a><kw class="krdwrd-tag-1"> | 
+</kw><a href="http://www.biblio.com/support_request.php"><kw class="krdwrd-tag-1">Contact us</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/pages/Jobs_at_Biblio.html"><kw class="krdwrd-tag-1">Jobs</kw></a><kw class="krdwrd-tag-1"> |
+</kw><a href="http://www.biblio.com/pages/link_to_biblio.html"><kw class="krdwrd-tag-1">Link to our used books</kw></a><kw class="krdwrd-tag-1"> | 
+</kw><a href="http://www.biblio.com/pages/site_map.html"><kw class="krdwrd-tag-1">Site Map</kw></a>
+<br clear="all">
+<img src="http://i.biblio.com/i/en/fiveyears.gif" style="margin-top: 10px;">
+</div>
+<div id="copyright"><kw class="krdwrd-tag-1">
+Copyright © 2000-2008 Biblio, Inc.  All Rights Reserved. </kw><br><kw class="krdwrd-tag-1">50 million </kw><a href="http://www.biblio.com/" style="color: rgb(0, 0, 0); text-decoration: none;"><kw class="krdwrd-tag-1">used books</kw></a><kw class="krdwrd-tag-1">, </kw><a href="http://www.biblio.com/textbooks/" style="color: rgb(0, 0, 0); text-decoration: none;"><kw class="krdwrd-tag-1">textbooks</kw></a><kw class="krdwrd-tag-1">, </kw><a href="http://www.biblio.com/ltd/" style="color: rgb(0, 0, 0); text-decoration: none;"><kw class="krdwrd-tag-1">rare books</kw></a><kw class="krdwrd-tag-1"> &amp; </kw><a href="http://www.biblio.com/" style="color: rgb(0, 0, 0); text-decoration: none;"><kw class="krdwrd-tag-1">out-of-print books</kw></a> &nbsp; 
+<br>
+</div>
+</div>
+<div style="font-style: italic;">
+
+
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-231343-1";
+urchinTracker('search/complex_search');
+</script>
+
+</body>

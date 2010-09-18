@@ -1,0 +1,447 @@
+<head><base href="http://www.djbooth.net/index/interviews/entry/marco-polo-interview/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Marco Polo Interview</title>
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.djbooth.net/index/style/style-css">
+<link rel="icon" type="image/gif" href="http://djbooth.cachefly.net/images/favicon.gif">
+<script language="JavaScript" type="text/javascript">
+var br_ord=Math.floor(Math.random()*10000000000);
+br_tile=1;
+</script><!--begin email window code-->
+
+<script type="text/javascript">
+<!--
+function pop2(mylink2, email)
+{
+if (! window.focus)return true;
+var href;
+if (typeof(mylink2) == 'string')
+   href=mylink2;
+else
+   href=mylink2.href;
+var w=window.open(href, email, 'width=500,height=512');
+w.focus();
+return false;
+}
+//-->
+</script><link media="all" href="http://s7.addthis.com/css/addthis_widget.css" type="text/css" rel="stylesheet"><style id="poll_style706920" type="text/css">#PDI_container706920 form{border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 img{border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 div{border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-box{width:150px;color:#fff;background:#fff url(http://s3.amazonaws.com/polldaddy/images/pdbmicro12-bottom-left.gif) no-repeat left bottom;font-family:Verdana,Arial,Helvetica,sans-serif;border:0px 0px 0px 0px;padding:0px 0px 1px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-box-outer{background:url(http://s3.amazonaws.com/polldaddy/images/pdbmicro12-bottom-right.gif) no-repeat right bottom;border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-box-inner{background:url(http://s3.amazonaws.com/polldaddy/images/pdbmicro12-top-left.gif) no-repeat left top;border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-box-top{background:url(http://s3.amazonaws.com/polldaddy/images/pdbmicro12-top-right.gif) no-repeat right top;padding:3px 3px 3px 3px;border:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-question{background:url(http://s3.amazonaws.com/polldaddy/images/pdqmicro12-bottom-left.gif) no-repeat left bottom;border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:16px 3px 0px 3px} #PDI_container706920 .pds-question-outer{background:url(http://s3.amazonaws.com/polldaddy/images/pdqmicro12-bottom-right.gif) no-repeat right bottom;padding:0px 0px 2px 0px;border:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-question-inner{background:url(http://s3.amazonaws.com/polldaddy/images/pdqmicro12-top-left.gif) no-repeat left top;border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-question-top{background:url(http://s3.amazonaws.com/polldaddy/images/pdqmicro12-top-right.gif) no-repeat right top;padding:5px 5px 5px 5px;font-size:9px;color:#000;text-align:center;border:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-answer{font-size:9px;line-height:10px;color:#555;padding:5px 5px 5px 5px;text-align:left;border:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-answer label{border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-radiobutton{border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-checkbox{border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-textfield{width:96%;font-size:9px;color:#777;background-color:#fff;border:1px;border-color:#999;padding:1px 1px 1px 1px;margin:2px 0px 0px 0px} #PDI_container706920 .pds-answer-feedback{background-color:#fff;padding:0px 0px 0px 0px;height:10px;margin:2px 0px 5px 0px;border:0px 0px 0px 0px} #PDI_container706920 .pds-answer-feedback-bar{background:url(http://s3.amazonaws.com/polldaddy/images/pdmicro1-bargif.gif) repeat-x;margin:2px;height:6px;border:0px 0px 0px 0px;padding:0px 0px 0px 0px} #PDI_container706920 .pds-vote{font-size:8px;color:#c3C4c7;line-height:15px;padding:5px 5px 6px 5px;border:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-votebutton-outer{border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-vote a{font-size:9px;color:#999;text-decoration:none;border-top:1px;border-bottom:1px;border-top-color:#fff;border-bottom-color:#fff;border-top-style:solid;border-bottom-style:solid;padding:1px 0px 1px 0px;margin:0px 0px 0px 0px} #PDI_container706920 input.pds-votebutton{width:38px;height:25px;background:url(http://s3.amazonaws.com/polldaddy/images/pdmicro1-votebutton.gif) no-repeat;outline:none;float:right;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border:0px 0px 0px 0px} #PDI_container706920 input.pds-votebutton:hover{border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 input.pds-votebutton-pack{float:right;font-size:10px} #PDI_container706920 .pds-totalvotes-outer{border:0px 0px 0px 0px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px} #PDI_container706920 .pds-totalvotes-inner{font-size:9px;color:#666;background-color:#FFF;padding:2px 2px 2px 3px;margin:0px 0px 5px 0px;text-transform:uppercase;letter-spacing:0px;border:0px 0px 0px 0px}</style><link media="all" href="http://s7.addthis.com/css/addthis_widget.css" type="text/css" rel="stylesheet"></head><body><div style="z-index: 1000000;"><div id="addthis_dropdown" onmouseover="addthis_clearclosewin()" onmouseout="addthis_onmouseout()" style="z-index: 1000000; position: absolute; display: none;"><table style="background-color: rgb(238, 238, 238); height: 20px;" cellpadding="2" cellspacing="0" width="100%"><tbody><tr><td class="krdwrd-tag-1" style="font-size: 12px; color: rgb(102, 102, 102);">Bookmark &amp; Share</td><td align="right" width="60"><a href="http://www.addthis.com" style="font-size: 9px; text-decoration: none; color: rgb(102, 102, 102);" target="_blank" class="snap_noshots krdwrd-tag-1">© Add This</a></td></tr></tbody></table><table id="addthis_services" style="font-family: Verdana,Arial; font-size: 11px;" cellpadding="0" width="100%"><tbody><tr><td width="50%"><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('favorites')"><img id="addthis_favorites" alt="" width="16" height="16">&nbsp; Favorites</a></td><td width="50%"><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('delicious')"><img id="addthis_delicious" alt="" width="16" height="16">&nbsp; Del.icio.us</a></td></tr><tr><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('digg');"><img id="addthis_digg" alt="" width="16" height="16">&nbsp; Digg</a></td><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('google')"><img id="addthis_google" alt="" width="16" height="16">&nbsp; Google</a></td></tr><tr><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('myspace');"><img id="addthis_myspace" alt="" width="16" height="16">&nbsp; MySpace</a></td><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('facebook');"><img id="addthis_facebook" alt="" width="16" height="16">&nbsp; Facebook</a></td></tr><tr><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('reddit');"><img id="addthis_reddit" alt="" width="16" height="16">&nbsp; Reddit</a></td><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('live');"><img id="addthis_live" alt="" width="16" height="16">&nbsp; Live</a></td></tr><tr><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('furl');"><img id="addthis_furl" alt="" width="16" height="16">&nbsp; Furl</a></td><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('myweb');"><img id="addthis_myweb" alt="" width="16" height="16">&nbsp; Yahoo MyWeb</a></td></tr><tr><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to('su');"><img id="addthis_su" alt="" width="16" height="16">&nbsp; StumbleUpon</a></td><td><a class="krdwrd-tag-1" href="/" onclick="return addthis_to();"><img id="addthis_more" alt="" width="16" height="16">&nbsp; More...</a></td></tr></tbody></table><table style="background-color: rgb(238, 238, 238); height: 6px; font-size: 8px; color: rgb(119, 119, 119);" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td colspan="2"></td></tr></tbody></table></div></div><div style="z-index: 1000000;"><div id="addthis_dropdown" onmouseover="addthis_clearclosewin()" onmouseout="addthis_onmouseout()" style="z-index: 1000000; position: absolute; display: none;"><table style="background-color: rgb(238, 238, 238); height: 20px;" cellpadding="2" cellspacing="0" width="100%"><tbody><tr><td style="font-size: 12px; color: rgb(102, 102, 102);"><kw class="krdwrd-tag-1">Bookmark &amp; Share</kw></td><td align="right" width="60"><a href="http://www.addthis.com" style="font-size: 9px; text-decoration: none; color: rgb(102, 102, 102);" target="_blank" class="snap_noshots"><kw class="krdwrd-tag-1">© Add This</kw></a></td></tr></tbody></table><table id="addthis_services" style="font-family: Verdana,Arial; font-size: 11px;" cellpadding="0" width="100%"><tbody><tr><td width="50%"><a href="/" onclick="return addthis_to('favorites')"><img id="addthis_favorites" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; Favorites</kw></a></td><td width="50%"><a href="/" onclick="return addthis_to('delicious')"><img id="addthis_delicious" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; Del.icio.us</kw></a></td></tr><tr><td><a href="/" onclick="return addthis_to('digg');"><img id="addthis_digg" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; Digg</kw></a></td><td><a href="/" onclick="return addthis_to('google')"><img id="addthis_google" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; Google</kw></a></td></tr><tr><td><a href="/" onclick="return addthis_to('myspace');"><img id="addthis_myspace" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; MySpace</kw></a></td><td><a href="/" onclick="return addthis_to('facebook');"><img id="addthis_facebook" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; Facebook</kw></a></td></tr><tr><td><a href="/" onclick="return addthis_to('reddit');"><img id="addthis_reddit" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; Reddit</kw></a></td><td><a href="/" onclick="return addthis_to('live');"><img id="addthis_live" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; Live</kw></a></td></tr><tr><td><a href="/" onclick="return addthis_to('furl');"><img id="addthis_furl" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; Furl</kw></a></td><td><a href="/" onclick="return addthis_to('myweb');"><img id="addthis_myweb" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; Yahoo MyWeb</kw></a></td></tr><tr><td><a href="/" onclick="return addthis_to('su');"><img id="addthis_su" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; StumbleUpon</kw></a></td><td><a href="/" onclick="return addthis_to();"><img id="addthis_more" alt="" width="16" height="16"><kw class="krdwrd-tag-1">&nbsp; More...</kw></a></td></tr></tbody></table><table style="background-color: rgb(238, 238, 238); height: 6px; font-size: 8px; color: rgb(119, 119, 119);" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td colspan="2"></td></tr></tbody></table></div></div>
+
+<center>
+<noscript><kw>
+<img src="http://pixel.quantserve.com/pixel/p-c2kcDWkxt5nCs.gif" style="display: none;" alt="Quantcast" width="1" height="1"></kw></noscript>
+<!-- End Quantcast tag -->
+
+<!--Revenue Science Page Tag – DJ Booth -->
+<table class="main">
+
+ <tbody><tr class="whitetext"><td class="topbar" valign="bottom">
+<div style="padding-top: 3px; padding-bottom: 3px; padding-left: 15px; float: left; vertical-align: middle;">
+       <form method="post" action="http://www.djbooth.net/index">
+<div class="hiddenFields">
+<input name="ACT" value="9" type="hidden">
+<input name="RET" value="http://www.djbooth.net/index/interviews/entry/marco-polo-interview//" type="hidden">
+<input name="site_id" value="1" type="hidden">
+</div>
+
+
+       <label><kw class="krdwrd-tag-1">Username:</kw></label> <input name="username" value="" maxlength="32" class="formbox" size="7" type="text">
+       <label><kw class="krdwrd-tag-1">Password:</kw></label> <input name="password" value="" maxlength="32" class="formbox" size="7" type="password">
+       <input name="submit" src="http://djbooth.cachefly.net/images/login.jpg" align="top" border="0" width="40" height="21" type="image">
+       &nbsp; <b><a class="whitetext" href="http://www.djbooth.net/index/member/register/"><kw class="krdwrd-tag-1">Become a Member!</kw></a></b>
+       </form>
+       </div>
+
+      <div style="padding-top: 3px; padding-bottom: 3px; padding-right: 15px; text-align: right; float: right;">
+      <a href="http://www.djbooth.net/index/tracks/rss"><img src="http://djbooth.cachefly.net/images/rssfeed.jpg" alt="RSS Feed" border="0" width="70" height="17"></a> &nbsp;  
+      <a class="whitetext" href="http://www.djbooth.net/index/general/about-us/"><kw class="krdwrd-tag-1">About Us</kw></a><kw class="krdwrd-tag-1"> | 
+      </kw><a class="whitetext" href="http://www.djbooth.net/index/general/contact/"><kw class="krdwrd-tag-1">Contact Us</kw></a><kw class="krdwrd-tag-1"> | 
+      </kw><a class="whitetext" href="http://www.djbooth.net/index/general/advertise/"><kw class="krdwrd-tag-1">Advertise</kw></a>
+      </div>
+
+
+</td></tr>
+
+<tr><td class="logo">
+<div style="float: left;">
+<a href="../../../../../../../"><img src="http://djbooth.cachefly.net/images/transparent.gif" alt="DJBooth.net" border="0" width="400" height="90"></a>
+</div>
+<div style="float: right; text-align: right; padding-top: 55px; padding-right: 10px;">
+<form method="post" action="http://www.djbooth.net/index">
+<input name="ACT" value="17" type="hidden">
+<input name="XID" value="" type="hidden">
+<input name="RP" value="general&amp;#47;search" type="hidden">
+<input name="NRP" value="" type="hidden">
+<input name="RES" value="20" type="hidden">
+<input name="status" value="" type="hidden">
+<input name="weblog" value="not trackschart|charts|questions" type="hidden">
+<input name="search_in" value="titles" type="hidden">
+<input name="where" value="all" type="hidden">
+<input name="site_id" value="1" type="hidden">
+<input name="keywords" id="keywords" value="Search DJBooth.net" size="24" maxlength="100" onclick="this.select();" style="background-color: rgb(191, 228, 255); color: rgb(0, 72, 125); margin-bottom: 5px;" type="text"> <input src="http://djbooth.cachefly.net/images/search.jpg" align="bottom" border="0" width="55" height="21" type="image"></form>
+</div>
+</td></tr>
+
+<tr><td class="leaderboard" valign="bottom">
+<center>
+<!-- begin ad tag -->
+<script language="JavaScript" type="text/javascript">
+document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/djbooth.blackrock/ros;sect=ros;subs=;sz=728x90;dcopt=ist;tile='+br_tile+';ord='+br_ord+'?"></scr'+'ipt>');
+br_tile=br_tile+1;
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/djbooth.blackrock/ros;sect=ros;subs=;sz=728x90;dcopt=ist;tile=1;ord=3810044467?"></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/djbooth.blackrock/ros;sect=ros;subs=;sz=728x90;dcopt=ist;tile=1;ord=363861362?"></script>
+<!-- End ad tag --></center>
+</td></tr>
+
+<tr><td class="nav" valign="top">
+<div style="position: relative; top: 2px;">
+<div style="position: absolute; left: 4px; text-align: center;"><a class="navtext" href="http://www.djbooth.net/index/tracks/"><kw class="krdwrd-tag-1">Hip Hop Songs</kw></a></div>
+<div style="position: absolute; left: 103px; text-align: center;"><a class="navtext" href="http://www.djbooth.net/index/music-charts/"><kw class="krdwrd-tag-1">Music Charts</kw></a></div>
+<div style="position: absolute; left: 202px; text-align: center;"><a class="navtext" href="http://www.djbooth.net/index/interviews/"><kw class="krdwrd-tag-1">Interviews</kw></a></div>
+<div style="position: absolute; left: 301px; text-align: center;"><a class="navtext" href="http://www.djbooth.net/index/albums/"><kw class="krdwrd-tag-1">Albums</kw></a></div>
+<div style="position: absolute; left: 400px; text-align: center;"><a class="navtext" href="http://www.djbooth.net/index/artists/"><kw class="krdwrd-tag-1">Artists</kw></a></div>
+<div style="position: absolute; left: 499px; text-align: center;"><a class="navtext" href="http://www.djbooth.net/index/features/"><kw class="krdwrd-tag-1">Features</kw></a></div>
+<div style="position: absolute; left: 598px; text-align: center;"><a class="navtext" href="http://www.djbooth.net/index/news/"><kw class="krdwrd-tag-1">News</kw></a></div>
+<div style="position: absolute; left: 697px; text-align: center;"><a class="navtext" href="http://www.djbooth.net/index/dj-equipment/"><kw class="krdwrd-tag-1">DJ Equipment</kw></a></div>
+</div>
+</td></tr>
+
+  <!--Begin Main Box-->
+  <tr><td class="main-box" valign="top">
+
+   <div id="header"><center><h1 class="small"><kw class="krdwrd-tag-3">Marco Polo Interview</kw></h1></center></div>
+   <div id="google-nav"><center><script type="text/javascript"><!--
+google_ad_client = "pub-9888284372059878";
+/* Nav Bar v2 */
+google_ad_slot = "8704569720";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center></div>
+
+   <!--Begin Content Table-->
+   <table class="content">
+    <tbody><tr>
+       
+       <td class="left-content">
+       
+      
+
+
+<div id="review-box">
+<center><img src="http://www.djbooth.net/images/artists/Marco_Polo_1.jpg" alt="Marco Polo" border="0" width="250" height="315"></center>
+<ul>
+<li><b><kw class="krdwrd-tag-1">Artist:</kw></b> <a href="http://www.djbooth.net/index/artists/info/marco-polo/"><kw class="krdwrd-tag-1">Marco Polo</kw></a></li>
+<li><b><kw class="krdwrd-tag-1">Label:</kw></b><kw class="krdwrd-tag-1"> Soulspazm/Rawkus Records</kw></li>
+<li><b><kw class="krdwrd-tag-1">Be on the lookout for:</kw></b><kw class="krdwrd-tag-1"> Port Authority</kw></li>
+<li><b><kw class="krdwrd-tag-1">Artist Website:</kw></b> <a href="http://www.marcopolobeats.com/"><kw class="krdwrd-tag-1">Marco Polo</kw></a></li>
+</ul>
+
+<center>
+<!-- AddThis Feed Button BEGIN -->
+<a href="http://www.addthis.com/feed.php?pub=dmacli&amp;h1=http%3A%2F%2Fwww.djbooth.net%2Findex%2Finterviews%2Frss&amp;t1=" title="Subscribe using any feed reader!"><img src="http://s9.addthis.com/button1-fd.gif" alt="AddThis Feed Button" border="0" width="125" height="16"></a>
+<!-- AddThis Feed Button END -->
+
+
+<!-- AddThis Bookmark Button BEGIN -->
+<script type="text/javascript">
+  addthis_url    = location.href;   
+  addthis_title  = document.title;  
+  addthis_pub    = 'dmacli';     
+</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script><a href="http://www.addthis.com/bookmark.php?v=12&amp;winname=addthis&amp;pub=dmacli&amp;s=&amp;url=https%3A%2F%2Fkrdwrd.org%2Fpages%2Fdat%2Fdumped%2F791&amp;title=Marco%20Polo%20Interview" onmouseover="return addthis_onmouseover(this, event, 'https%3A%2F%2Fkrdwrd.org%2Fpages%2Fdat%2Fdumped%2F791', 'Marco%20Polo%20Interview', 'dmacli')" onmouseout="addthis_onmouseout()" onclick="return addthis_to()" class="snap_noshots"><img src="http://s7.addthis.com/button1-bm.gif" style="border: medium none; padding: 0px;" alt="" border="0" width="125" height="16"></a><a href="http://www.addthis.com/bookmark.php?v=12&amp;winname=addthis&amp;pub=dmacli&amp;s=&amp;url=http%3A%2F%2Fwww.djbooth.net%2Findex%2Finterviews%2Fentry%2Fmarco-polo-interview%2F&amp;title=Marco%20Polo%20Interview" onmouseover="return addthis_onmouseover(this, event, 'http%3A%2F%2Fwww.djbooth.net%2Findex%2Finterviews%2Fentry%2Fmarco-polo-interview%2F', 'Marco%20Polo%20Interview', 'dmacli')" onmouseout="addthis_onmouseout()" onclick="return addthis_to()" class="snap_noshots"><img src="http://s7.addthis.com/button1-bm.gif" style="border: medium none; padding: 0px;" alt="" border="0" width="125" height="16"></a>
+<!-- AddThis Bookmark Button END -->
+<br>
+<!--Email to a Friend Begin-->
+<a href="http://www.djbooth.net/index/general/email/2029/" onclick="return pop2(this, 'email'); window.focus();" style="text-decoration: none;"><img src="../../../../../../images/site-images/email-icon.gif" border="0"><kw class="krdwrd-tag-1"> &nbsp; Email this page to a friend</kw></a>
+<!--Email to a Friend End-->
+
+</center>
+<br>
+
+<!-- begin ad tag -->
+<script language="JavaScript" type="text/javascript">
+document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/djbooth.blackrock/ros;sect=ros;subs=;sz=300x250;tile='+br_tile+';ord='+br_ord+'?"></scr'+'ipt>');
+br_tile=br_tile+1;
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/djbooth.blackrock/ros;sect=ros;subs=;sz=300x250;tile=2;ord=3810044467?"></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/djbooth.blackrock/ros;sect=ros;subs=;sz=300x250;tile=2;ord=363861362?"></script>
+<!-- End ad tag -->
+
+</div>
+
+<b><kw class="krdwrd-tag-2">Marco Polo Interview</kw></b>
+<br><br>
+<font size="1"><kw class="krdwrd-tag-1">Listen to More: </kw><a href="http://www.djbooth.net/index/interviews/C58/"><kw class="krdwrd-tag-1">Producer</kw></a></font>
+<br><br>
+<div id="review"><p><kw class="krdwrd-tag-3">Hip-hop was born on New York’s streets but lately the beats have been moving slowly south.&nbsp; One man is determined to bring back the authentic boom-bap Brooklyn sound, Marco Polo.&nbsp; Marco moved to NY in order to work in the legendary Cutting Room studio, and he’s used the skills he learned there to create his new album Port Authority.&nbsp; With features from hip-hop legends like Kool G. Rap and underground heat like Kardinal Offishall, Port Authority is a nod to hip-hop’s roots that still sounds fresh.&nbsp; In an interview with DJBooth’s </kw><b><kw class="krdwrd-tag-3">Nathan</kw></b><kw class="krdwrd-tag-3">, Marco declares war on shallow radio hits, explains the difference between producers and beat makers, and vows to lay off the ice cream in order to avoid the “old Italian man gut.”
+</kw></p></div>
+<br>
+
+
+ 
+<center>
+<b><kw class="krdwrd-tag-1">Listen to the  Interview</kw></b>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" type="application/x-shockwave-flash" data="http://www.djbooth.net/music/wimpy.swf" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,47,0" id="wimpy" width="220" height="45">
+<param name="movie" value="http://www.djbooth.net/music/wimpy.swf">
+<param name="flashvars" value="wimpyConfigs=http://www.djbooth.net/music/wimpyConfigs.xml&amp;playlist=http://www.djbooth.net/music/interviews/Marco Polo.mp3">
+<param name="loop" value="false">
+<param name="menu" value="false">
+<param name="quality" value="high">
+<param name="scale" value="noscale">
+<param name="salign" value="lt">
+<param name="bgcolor" value="#FFFFFF">
+<embed src="http://www.djbooth.net/music/wimpy.swf?wimpyConfigs=http://www.djbooth.net/music/wimpyConfigs.xml&amp;playlist=http://www.djbooth.net/music/interviews/Marco%20Polo.mp3" bgcolor="#FFFFFF" loop="false" menu="false" quality="high" scale="noscale" salign="lt" id="wimpy" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" width="220" height="45"></object>
+
+<br><br>
+
+</center>
+
+&nbsp; &nbsp; <a href="http://www.djbooth.net/music/interviews/Marco%20Polo.mp3" target="_blank"><img src="../../../../images/site-images/downloadarrow-small.gif" alt="Download" border="0"></a>&nbsp;<a href="http://www.djbooth.net/music/interviews/Marco%20Polo.mp3" target="_blank"><kw class="krdwrd-tag-1">Download Interview (MP3)</kw></a>
+<br>
+&nbsp; &nbsp; <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=216652415" target="_blank"><img src="../../../../images/site-images/itunes-small.gif" alt="iTunes" border="0"></a>&nbsp;<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=216652415" target="_blank"><kw class="krdwrd-tag-1">Subscribe to the iTunes Podcast</kw></a>
+
+
+<div style="clear: both;">
+<br><br>
+<center><b><kw class="krdwrd-tag-2">Marco Polo Interview Transcription:</kw></b></center>
+<p><b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; What up y’all, this is Nathan from DJBooth.net and with me today is Brooklyn based producer Marco Polo.&nbsp; Thanks for takin the time, how you doin?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco Polo:&nbsp; I’m doin good man, got some coffee in me so I’m ready to go.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; You’re album Port Authority is set to drop on May 15th, what are you doin’ to get ready for the release?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; We’re just trying to promote it as much as possible, we just dropped a video for one of the singles with Masta Ace called Nostalgia, you can check that out on my website www.marcopolobeats.com or myspace.com/marcopolobeats.&nbsp; I’ve just been doin’ a lot of press and trying to spread the word about the record.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; You’ve said in other interviews that this album is your “Soul Survivor,” what is it about that album that you’re trying to emulate?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; I’m definitely not trying to copy nothing, but it set out a rough blueprint for what I wanted to do… which is get some interesting collaborations, some posse cuts, just do a producer album.&nbsp; Not just have collaborations but have it flow from top to bottom.&nbsp; The thing I liked about Soul Survivor is from the intro, to the skits, to the beats that played after songs, it just tied together perfectly and inspired me when I was making Port Authority.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; You’ve mentioned the cut “Nostalgia” with Masta Ace.&nbsp; You’ve done a lot of work with him before, what is it about Masta Ace that made you want to collaborate again?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; Ace is a legend to me; I’m a fan before anything else.&nbsp; When I was working in the Cutting Room in New York, when I first moved down from Toronto, he had come in for a Beatnuts session and I gave him a beats CD.&nbsp; He picked up a joint for Long Hot Summer and ever since then we’ve been collaborating.&nbsp; We really click in the studio and have similar ideas.&nbsp; “Nostalgia” ended up being the first record towards Port Authority and that lead to the video and ever since then I’ve been working with Ace.&nbsp; I’ve got a joint on his new album with Punch and Words and Strict, it should be dropping this summer.&nbsp; Besides all that you should see a couple more collaboration between me and Ace in the future.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; I think a lot of people have an image of the producer as someone who makes a beat and then shops it around to anyone who will buy it.&nbsp; Could you talk a little bit about the connection between a producer and a MC, what you look for in a MC, and the process of working with someone?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; That’s the typical way of getting your beats out, just sending CDs to as many people as possible.&nbsp; That’s cool, that’s how a lot of major label stuff goes down with producers sending beats to A&amp;Rs and then they’ll take the beat to the studio.&nbsp; There’s never interaction with the producer and the MC in those situations and I don’t like that.&nbsp; I like to be involved with the creation of tracks and especially for my album.&nbsp; I was lucky enough to be in the studio for most of the songs and collab and build on ideas to make the song as hot as possible.&nbsp; I’ve had the opportunity to be in the studio with cats like Masta Ace, O.C. and Large Professor, so we could bounce ideas back and forth.&nbsp; So if I’m doin’ something with the beat the artist isn’t feeling, or vice-versa something they kicked I think could be better.&nbsp; That’s what makes the difference, when you’re creating songs and that’s what separates a producer from a beat maker, getting involved in the process from recording vocals to the mix to even mastering.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; Did you ever have a situation where an MC and you didn’t connect, or an MC dropped something you didn’t know about?&nbsp; How much influence do you have with what the MC puts down?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; I’ve been fortunate in the last year for my album to be really involved.&nbsp; Because it’s my album I’m not going to settle for anything less than perfect, or at least as close to perfect as we can possibly get.&nbsp; But there are situations where you’re not involved and it’s more of a business thing where you sold the beat and you’ll get some input but not as much as you like.&nbsp; There has been some situations where an MC was spitting rhymes I wasn’t really feeling or I thought could be better and I have spoken up about it and it’s made the difference.&nbsp; There are times when that does happen and it sucks because you have to live with it for the rest of your life, every time you hear it knowing it could have been better, so I try and avoid that at all costs.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; You’ve definitely got some major MCs on the album, you mentioned O.C., Large Professor, Kool G. Rap’s on there.&nbsp; Did you ever feel intimidated working with any of them?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; There’s a little bit of that just being a fan of their music, but I think these artists also have a respect for me and what I do.&nbsp; They were really open to my feedback and that makes the difference when making the track.&nbsp; I was lucky, working with someone like G Rap when he kicked his verse I had nothing bad to say, he killed it, then it was just up to me to do the arranging and make the mix sound good.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; Back to “Nostalgia” for a minute, in terms of hip-hop, what are you nostalgic for?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; I grew up in Toronto and on the East Coast so I’m used to hearing that East Coast boom-bap, that’s what I grew up listening to and that’s what inspires my production.&nbsp; I miss that element of hip-hop and hearing it on the radio and TV like it used to be with acts like Wu-Tang Clan or Tribe Called Quest or Gang Starr.&nbsp; That really feeds my creativity, that era; a lot of that type of hip-hop’s not being played these days so I definitely miss that aspect of it.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; What do think’s caused that boom-bap New York style to fall off in terms of radio play and mainstream access?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; It has a lot to do with the major labels and what they choose to promote and push.&nbsp; Somewhere in the last ten years it got lost in the shuffle and went a new direction.&nbsp; I do not hate on the stuff that’s out now, I just think we need more of a balance.&nbsp; It’s cool to have the south doing their version of hip-hop and New York doing party tracks or club tracks.&nbsp; I think the major labels definitely had something to do with that.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; One of the hottest tracks and one of the leading tracks on the album is “War” with Kardinal Offishall.&nbsp; Who are you declaring war on?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; He’s declaring war; we’re declaring war, on exactly what I was just speaking on.&nbsp; What happened to that genuine hip-hop that we grew up listening to?&nbsp; A lot of artists today, there’s no substance to their music, it’s just something that may be hot for a month and then you’ll never play again.&nbsp; It has no replay value, it’s not timeless, and I think that was part of the song when Kardinal wrote it.&nbsp; That’s what he had in mind and I support him on it.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; What are some of the timeless albums you heard that made you fall in love with hip-hop?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; I’m a big DJ Premier fan so a lot of the stuff he’s produced in the past for Gang Starr like Daily Operation, Hard to Earn, Moment of Truth.&nbsp; Pete Rock and CL Smooth’s albums, Tribe Called Quest’s albums, all the RZA Wu-Tang Clan albums like 36 Chambers, Liquid Swords, those are types of albums I have I mind when I’m making my stuff.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; In the wake of the Don Imus scandal, CNN has been running all these stories about how negative hip-hop is and what a destructive force hip-hop is.&nbsp; Can you talk about some of the positive things hip-hop’s doing and how it’s positively affected your life?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; I haven’t been paying attention to what’s on the radio and TV, I’ve shut the world out for the last few years while making my album.&nbsp; But if we’re talking about the stuff I used to love, you had groups like Native Tongues, which seems eons ago, they always had a positive twist on things and a positive spin on things that were happening life wise and how you could make them better.&nbsp; There was always a moral to the story as opposed to negativity.&nbsp; I think we need artists like that, and there’s a few left like Common and Kweli, but I feel like that type of music is less heard these days.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; Now you’re from Toronto originally.&nbsp; I’m not gonna lie, growing up in America we ignore Canada, so this is your chance to rep Canadian hip-hop, what’s the U.S. missing?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; Toronto’s a small city, we can only get out so far, but we’ve had artists that have been representing hip-hop dope, ever since Maestro Fresh Wes back in the day, I’m sure that name is brand new to a lot of people.&nbsp; You had Madlib shout out Maestro Fresh Wes a year back.&nbsp; We’ve had guys like Kardinal and Socrates who got signed to Redman’s label and has been doing production for a lot of people.&nbsp; We definitely have a strong scene, but Toronto has a lot of clones just like there are a lot of clones here.&nbsp; One of the issues I have with Toronto is there’s a lot of talent and creativity and we need to do our own thing at times.&nbsp; I feel like Kardinal’s an artist that’s really represented Canada to the fullest with his slang and his style.&nbsp; It’s a mix of hip-hop plus the West Indian and reggae influences that come from Toronto, so definitely check for Karidnal Offishall.&nbsp; He’s doin’ big things, he just signed with Akon’s label, and he’s a good ambassador for the Canadian hip-hop scene.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; Well maybe ten years from now Canada and the North will be like the Dirty South today, you guys will be on the map.</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; (laughs) I hope not.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; There’s been a little confusion from fans with the label situation.&nbsp; You’re signed to Soulspazm but Rawkus is doing the distribution.&nbsp; Could you talk about the label situation real quick?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; There has been a lot of confusion.&nbsp; Technically on paper I’m signed to Soulspazm Records, I’ve been with them since I put out my first album with Pumpkinhead called Orange Moon Over Brooklyn.&nbsp; When Soulspazm lost their distribution with a company called Studio they needed a new distribution so they signed a deal to go through Rawkus and Sony Red.&nbsp; Since then my album’s taken on a joint venture situation with Soulspazm and Rawkus.&nbsp; Rawkus has really started to rep the album hard and it’s been an amazing thing for me to be with Rawkus.&nbsp; It’s done great things for both of us in terms of them trying to come back and establish what they had.&nbsp; Definitely big shouts to Brian and Jared at Rawkus and Jim at Soulspazm for their support.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; If you could be part of their resurrection that would be dope.</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; If people see it that way that’s dope.&nbsp; I think my album represents what people have come to expect and what they loved about Rawkus in the past and me coming out on Rawkus is a great combination.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; It’s no secret you smoke a lot of cigarettes, Newports I think, and you talked about getting your caffeine fix on, what are some other vices or guilty pleasures you have?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; Smoking and drinking coffee.&nbsp; For the record I don’t want to advocate that or make it seem like something cool, it’s just part of my life.&nbsp; I don’t drink or do any drugs so it’s one of my last vices.&nbsp; I’m a big food person so I love going and eating a big meal, especially because I’m Italian and my parents were born in Italy so you can catch me at the Italian spots.&nbsp; Ice cream is a weakness, nothing too bad, just simple things.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; I know when I have to write for a long time I need a large bag of Reese’s Pieces to get me through, so I’m always interested in what other people do to keep ‘em going.</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; I feel you on that, but I need to chill and start doing some healthier things.&nbsp; In older age the gut is kicking in, the Italian old man gut is happening, so I gotta start being more conscious of that @*#$!.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; No longer the chiseled six-pack you’ve been rolling with?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; Exactly!
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; Believe me man I feel you.&nbsp; I really appreciate you taking the time with us today.&nbsp; I know you mentioned it earlier but could you hit people up with your MySpace address and where they can find out more about your music?</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; The MySpace is www.myspace.com/marcopolobeats and my personal website is www.marcopolobeats.com.&nbsp; If anyone wants to contact me for drops, interviews, beats, production you can e-mail me at info@marcopolobeats.com, and of course you can check me out at www.rawkus.com as well.
+</kw></p>
+<p>
+<b><kw class="krdwrd-tag-3">DJ Booth:&nbsp; Thanks again and I definitely got May 15th circled on my calendar.</kw></b>
+</p>
+<p><kw class="krdwrd-tag-3">
+Marco:&nbsp; Thank you, I appreciate it.&nbsp; Peace.
+</kw></p>
+<br>
+
+
+       <br>
+
+       <!--Show Comments-->
+        
+       <center><img src="/images/site-images/banner-comments.gif" alt="Comments"></center>
+
+       
+       <br>
+       <center><a class="small" href="#comment"><kw class="krdwrd-tag-1">Leave your Comment on Marco Polo Interview</kw></a></center>
+       <br>
+       
+
+       
+
+         
+             <p></p><center><kw class="krdwrd-tag-1">There are no user comments.  Please let us know what you think!</kw></center>
+            
+
+       <!--End Show Comments-->
+
+     <br>
+
+       <center><a name="comment"><img src="/images/site-images/banner-add-comment.gif" alt="Add a Comment"></a></center>
+       <br>
+       
+                <center><kw class="krdwrd-tag-1">
+        You must be logged in to post comments.  Please log in below.</kw><br>
+        <form method="post" action="http://www.djbooth.net/index">
+<div class="hiddenFields">
+<input name="ACT" value="9" type="hidden">
+<input name="RET" value="http://www.djbooth.net/index/interviews/entry/marco-polo-interview//" type="hidden">
+<input name="site_id" value="1" type="hidden">
+</div>
+
+
+        <label><kw class="krdwrd-tag-1">Username</kw></label> &nbsp; <input name="username" value="" maxlength="32" class="input" size="10" type="text">
+        &nbsp; &nbsp; &nbsp; 
+        <label><kw class="krdwrd-tag-1">Password</kw></label> &nbsp; <input name="password" value="" maxlength="32" class="input" size="10" type="password">
+        &nbsp; &nbsp; &nbsp;
+        <br><br>
+        <input class="checkbox" name="auto_login" value="1" type="checkbox"><kw class="krdwrd-tag-1"> Remember Me
+        &nbsp; &nbsp; &nbsp;
+        </kw><input name="submit" value="Submit" type="submit">
+        <br>
+        <p><a class="small" href="http://www.djbooth.net/index/member/forgot_password/"><kw class="krdwrd-tag-1">Forgot your password?</kw></a></p>
+        <div style="border: 1px solid rgb(51, 102, 153);"><br><a class="header" href="http://www.djbooth.net/index/member/register/"><kw class="krdwrd-tag-1">Not a Member?  Become a Member of DJBooth.net!</kw></a><br><br></div>
+        </form>
+        </center>
+       
+</div>
+
+
+      
+
+
+       </td>
+
+       <td class="right-content">
+      <center>
+<!-- begin ad tag -->
+<script language="JavaScript" type="text/javascript">
+document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/djbooth.blackrock/ros;sect=ros;subs=;sz=160x600;tile='+br_tile+';ord='+br_ord+'?"></scr'+'ipt>');
+br_tile=br_tile+1;
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/djbooth.blackrock/ros;sect=ros;subs=;sz=160x600;tile=3;ord=3810044467?"></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/djbooth.blackrock/ros;sect=ros;subs=;sz=160x600;tile=3;ord=363861362?"></script>
+<!-- End ad tag -->
+<br><br>
+<!--Poll-->
+<script type="text/javascript" language="javascript" src="http://s3.polldaddy.com/p/706920.js"></script><a name="pd_a_706920"></a><div class="PDS_Poll" id="PDI_container706920"><div style="margin-bottom: 0px; margin-top: 0px;" name="PDI_form706920" id="PDI_form706920"><div class="pds-box"><div class="pds-box-outer"><div class="pds-box-inner"><div class="pds-box-top"><div class="pds-question"><div class="pds-question-outer"><div class="pds-question-inner"><div class="pds-question-top krdwrd-tag-1">What do you think of the new site re-design?</div></div></div></div><div class="pds-answer"><span id="pds-answer706920"><input class="pds-radiobutton" id="PDI_answer3671319" value="3671319" name="PDI_answer706920" type="radio"><label class="krdwrd-tag-1" for="PDI_answer3671319">Its a HUGE improvement</label><br><input class="pds-radiobutton" id="PDI_answer3671320" value="3671320" name="PDI_answer706920" type="radio"><label class="krdwrd-tag-1" for="PDI_answer3671320">It's ok</label><br><input class="pds-radiobutton" id="PDI_answer3671321" value="3671321" name="PDI_answer706920" type="radio"><label class="krdwrd-tag-1" for="PDI_answer3671321">I liked the old one better</label><br><input class="pds-radiobutton" id="PDI_answer3671322" value="3671322" name="PDI_answer706920" type="radio"><label class="krdwrd-tag-1" for="PDI_answer3671322">I didn't even notice</label><br></span><input class="pds-radiobutton" value="other" id="PDI_answerOther706920" name="PDI_answer706920" type="radio"><label class="krdwrd-tag-1" for="PDI_answerOther706920">Other:</label><br><input class="pds-textfield" id="PDI_OtherText706920" name="PDI_OtherText706920" onclick="PDI_checkOther706920();" type="text"></div><div class="pds-vote"><div class="pds-votebutton-outer"><input class="pds-votebutton" style="border: medium none; cursor: pointer;" src="http://s3.polldaddy.com/images/spacer.gif" value=" " onclick="PD_vote706920(0);" type="button"><a class="krdwrd-tag-1" href="javascript:PD_vote706920(1);">&gt; View Results</a><br><a class="krdwrd-tag-1" href="http://www.polldaddy.com" target="_blank" style="display: inline; visibility: visible;">PollDaddy.com</a><br></div></div></div></div></div></div></div></div><a name="pd_a_706920"></a><div class="PDS_Poll" id="PDI_container706920"><div style="margin-bottom: 0px; margin-top: 0px;" name="PDI_form706920" id="PDI_form706920"><div class="pds-box"><div class="pds-box-outer"><div class="pds-box-inner"><div class="pds-box-top"><div class="pds-question"><div class="pds-question-outer"><div class="pds-question-inner"><div class="pds-question-top"><kw class="krdwrd-tag-1">What do you think of the new site re-design?</kw></div></div></div></div><div class="pds-answer"><span id="pds-answer706920"><input class="pds-radiobutton" id="PDI_answer3671319" value="3671319" name="PDI_answer706920" type="radio"><label for="PDI_answer3671319"><kw class="krdwrd-tag-1">Its a HUGE improvement</kw></label><br><input class="pds-radiobutton" id="PDI_answer3671320" value="3671320" name="PDI_answer706920" type="radio"><label for="PDI_answer3671320"><kw class="krdwrd-tag-1">It's ok</kw></label><br><input class="pds-radiobutton" id="PDI_answer3671321" value="3671321" name="PDI_answer706920" type="radio"><label for="PDI_answer3671321"><kw class="krdwrd-tag-1">I liked the old one better</kw></label><br><input class="pds-radiobutton" id="PDI_answer3671322" value="3671322" name="PDI_answer706920" type="radio"><label for="PDI_answer3671322"><kw class="krdwrd-tag-1">I didn't even notice</kw></label><br></span><input class="pds-radiobutton" value="other" id="PDI_answerOther706920" name="PDI_answer706920" type="radio"><label for="PDI_answerOther706920"><kw class="krdwrd-tag-1">Other:</kw></label><br><input class="pds-textfield" id="PDI_OtherText706920" name="PDI_OtherText706920" onclick="PDI_checkOther706920();" type="text"></div><div class="pds-vote"><div class="pds-votebutton-outer"><input class="pds-votebutton" style="border: medium none; cursor: pointer;" src="http://s3.polldaddy.com/images/spacer.gif" value=" " onclick="PD_vote706920(0);" type="button"><a href="javascript:PD_vote706920(1);"><kw class="krdwrd-tag-1">&gt; View Results</kw></a><br><a href="http://www.polldaddy.com" target="_blank" style="display: inline; visibility: visible;"><kw class="krdwrd-tag-1">PollDaddy.com</kw></a><br></div></div></div></div></div></div></div></div><noscript><kw> <a class="krdwrd-tag-1" href="http://answers.polldaddy.com/poll/706920/">What do you think of the new site re-design?</a>  <br> <span class="krdwrd-tag-1" style="font-size: 9px;"> (<a class="krdwrd-tag-1" href="http://www.polldaddy.com">  polls</a>)</span></kw></noscript>
+<!---End Poll---->
+</center>
+       </td>
+     </tr>
+    </tbody></table>
+   <!--End Content Table-->
+
+
+  </td></tr>
+  <!--End Main Box-->
+
+<tr><td class="footer">
+<center>
+<a class="footer" href="../../../../../../../"><kw class="krdwrd-tag-1">The DJ Booth</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/tracks"><kw class="krdwrd-tag-1">Hip Hop Songs</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/music-charts"><kw class="krdwrd-tag-1">Music Charts</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/albums"><kw class="krdwrd-tag-1">Album Reviews</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/interviews"><kw class="krdwrd-tag-1">Artist Interviews</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/artists"><kw class="krdwrd-tag-1">Artists</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/features"><kw class="krdwrd-tag-1">Features</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/news"><kw class="krdwrd-tag-1">News</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/dj-equipment"><kw class="krdwrd-tag-1">DJ Equipment Reviews</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/dj-tutorials"><kw class="krdwrd-tag-1">DJ News &amp; Tutorials</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/general/about-us"><kw class="krdwrd-tag-1">About Us</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/contact"><kw class="krdwrd-tag-1">Contact</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/general/advertise"><kw class="krdwrd-tag-1">Advertise</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/general/sitemap"><kw class="krdwrd-tag-1">Site Map</kw></a><kw class="krdwrd-tag-1"> | </kw><a class="footer" href="../../../../../../../index/general/about-us/#privacy"><kw class="krdwrd-tag-1">Privacy Policy</kw></a>
+<br><br><kw class="krdwrd-tag-1">
+© Copyrights 2008, DJBooth.net, All Rights Reserved.
+</kw><br>
+<a href="http://www.netveano.com" target="_blank"><img src="http://djbooth.cachefly.net/images/netveano.jpg" alt="Website Designed by: Netveano.com" border="0" width="121" height="40"></a><img src="http://djbooth.cachefly.net/images/navbar-2.gif" alt="Image Preload Pixel" width="1" height="1">
+</center>
+</td></tr>
+
+<!--Google Analytics-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-94058-1";
+urchinTracker();
+</script>
+<!--End Google Analytics-->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-c2kcDWkxt5nCs";quantserve();</script>
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=G07610&amp;bpid=S0230"></script><script type="text/javascript" src="https://ads.revsci.net/adserver/ako?activate&amp;csid=G07610&amp;ko=2009_1_31__1" charset="ISO-8859-1"></script>
+<script type="text/javascript" src="http://ads.revsci.net/adserver/ako?activate&amp;csid=G07610&amp;ko=2008_6_30__0" charset="ISO-8859-1"></script>
+
+
+
+
+</tbody></table>
+</center>
+</body>

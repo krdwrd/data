@@ -1,0 +1,2129 @@
+<head><base href="http://www.bluegartrls.com/forum/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+
+<meta http-equiv="content-language" content="en-gb">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="copyright" content="2000, 2002, 2005, 2007 phpBB Group">
+<meta name="keywords" content="">
+<meta name="description" content=""><title>Order of the Blue Gartr • View topic - Disney in japan and FFXI map (Misappropriation of map?)</title>
+
+
+<link rel="stylesheet" href="./styles/subsilver2/theme/stylesheet.css" type="text/css">
+
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(url, width, height, name)
+{
+	if (!name)
+	{
+		name = '_popup';
+	}
+
+	window.open(url.replace(/&amp;/g, '&'), name, 'height=' + height + ',resizable=yes,scrollbars=yes,width=' + width);
+	return false;
+}
+
+function jumpto()
+{
+	var page = prompt('Enter the page number you wish to go to.:', '1');
+	var perpage = '30';
+	var base_url = './viewtopic.php?f=1&amp;t=20794&amp;st=0&amp;sk=t&amp;sd=a&amp;sid=6ec8b702b6a3809295d46da2709cdbb4';
+
+	if (page !== null && !isNaN(page) && page > 0)
+	{
+		document.location.href = base_url.replace(/&amp;/g, '&') + '&start=' + ((page - 1) * perpage);
+	}
+}
+
+/**
+* Find a member
+*/
+function find_username(url)
+{
+	popup(url, 760, 570, '_usersearch');
+	return false;
+}
+
+/**
+* Mark/unmark checklist
+* id = ID of parent container, name = name prefix, state = state [true/false]
+*/
+function marklist(id, name, state)
+{
+	var parent = document.getElementById(id);
+	if (!parent)
+	{
+		eval('parent = document.' + id);
+	}
+
+	if (!parent)
+	{
+		return;
+	}
+
+	var rb = parent.getElementsByTagName('input');
+	
+	for (var r = 0; r < rb.length; r++)
+	{
+		if (rb[r].name.substr(0, name.length) == name)
+		{
+			rb[r].checked = state;
+		}
+	}
+}
+
+
+// ]]>
+</script></head><body class="ltr">
+
+<a name="top"></a>
+
+<div id="wrapheader">
+
+	<div id="logodesc">
+		<table cellspacing="0" width="100%">
+		<tbody><tr>
+			<td><a href="./index.php?sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/site_logo.gif" alt="" title="" height="94" width="170"></a></td>
+			<td align="center" width="100%"><h1><kw class="krdwrd-tag-1">Order of the Blue Gartr</kw></h1><span class="gen"><kw class="krdwrd-tag-1">End Game FFXI Discussion</kw></span></td>
+		</tr>
+		</tbody></table>
+	</div>
+
+	<div id="menubar">
+		<table cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="genmed">
+				<a href="./ucp.php?mode=login&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/theme/images/icon_mini_login.gif" alt="*" height="13" width="12"><kw class="krdwrd-tag-1"> Login</kw></a>&nbsp; &nbsp;<a href="./ucp.php?mode=register&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/theme/images/icon_mini_register.gif" alt="*" height="13" width="12"><kw class="krdwrd-tag-1"> Register</kw></a>
+								</td>
+			<td class="genmed" align="right">
+				<a href="./faq.php?sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/theme/images/icon_mini_faq.gif" alt="*" height="13" width="12"><kw class="krdwrd-tag-1"> FAQ</kw></a>
+				&nbsp; &nbsp;<a href="./search.php?sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/theme/images/icon_mini_search.gif" alt="*" height="13" width="12"><kw class="krdwrd-tag-1"> Search</kw></a>			</td>
+		</tr>
+		</tbody></table>
+	</div>
+
+	<div id="datebar">
+		<table cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="gensmall"></td>
+			<td class="gensmall" align="right"><kw class="krdwrd-tag-1">It is currently Wed Jun 25, 2008 8:39 am</kw><br></td>
+		</tr>
+		</tbody></table>
+	</div>
+
+</div>
+
+<div id="wrapcentre">
+
+		<p class="searchbar">
+		<span style="float: left;"><a href="./search.php?search_id=unanswered&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">View unanswered posts</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="./search.php?search_id=active_topics&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">View active topics</kw></a></span>
+			</p>
+	
+	<br style="clear: both;">
+
+	<table class="tablebg" style="margin-top: 5px;" cellpadding="0" cellspacing="1" width="100%">
+	<tbody><tr>
+		<td class="row1">
+			<p class="breadcrumbs"><a href="./index.php?sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Board index</kw></a><kw class="krdwrd-tag-1"> » </kw><a href="./viewforum.php?f=41&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Blue Gartr: General</kw></a><kw class="krdwrd-tag-1"> » </kw><a href="./viewforum.php?f=1&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">General Discussion</kw></a></p>
+			<p class="datetime"><kw class="krdwrd-tag-1">All times are UTC - 5 hours [ </kw><abbr title="Daylight Saving Time"><kw class="krdwrd-tag-1">DST</kw></abbr><kw class="krdwrd-tag-1"> ]</kw></p>
+		</td>
+	</tr>
+	</tbody></table>
+	<br>
+<div id="pageheader">
+	<h2><a class="titles" href="./viewtopic.php?f=1&amp;t=20794&amp;start=0&amp;st=0&amp;sk=t&amp;sd=a&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Disney in japan and FFXI map (Misappropriation of map?)</kw></a></h2>
+
+</div>
+
+<br clear="all"><br>
+
+<div id="pagecontent">
+
+	<table cellspacing="1" width="100%">
+	<tbody><tr>
+		<td align="left" valign="middle" nowrap="nowrap">
+		<a href="./posting.php?mode=post&amp;f=1&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/button_topic_new.gif" alt="Post new topic" title="Post new topic"></a>&nbsp;<a href="./posting.php?mode=reply&amp;f=1&amp;t=20794&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/button_topic_reply.gif" alt="Reply to topic" title="Reply to topic"></a>		</td>
+					<td class="nav" valign="middle" nowrap="nowrap"><kw class="krdwrd-tag-1">&nbsp;Page </kw><strong><kw class="krdwrd-tag-1">1</kw></strong><kw class="krdwrd-tag-1"> of </kw><strong><kw class="krdwrd-tag-1">2</kw></strong><br></td>
+			<td class="gensmall" nowrap="nowrap"><kw class="krdwrd-tag-1">&nbsp;[ 40 posts ]&nbsp;</kw></td>
+			<td class="gensmall" align="right" width="100%" nowrap="nowrap"><b><a href="#" onclick="jumpto(); return false;" title="Click to jump to page…"><kw class="krdwrd-tag-1">Go to page</kw></a> <strong><kw class="krdwrd-tag-1">1</kw></strong><span class="page-sep"><kw class="krdwrd-tag-1">, </kw></span><a href="./viewtopic.php?f=1&amp;t=20794&amp;st=0&amp;sk=t&amp;sd=a&amp;sid=6ec8b702b6a3809295d46da2709cdbb4&amp;start=30"><kw class="krdwrd-tag-1">2</kw></a> &nbsp;<a href="./viewtopic.php?f=1&amp;t=20794&amp;st=0&amp;sk=t&amp;sd=a&amp;sid=6ec8b702b6a3809295d46da2709cdbb4&amp;start=30"><kw class="krdwrd-tag-1">Next</kw></a></b></td>
+			</tr>
+	</tbody></table>
+
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr>
+		<td class="cat">
+			<table cellspacing="0" width="100%">
+			<tbody><tr>
+				<td class="nav" nowrap="nowrap">&nbsp;
+				<a href="./viewtopic.php?f=1&amp;t=20794&amp;start=0&amp;st=0&amp;sk=t&amp;sd=a&amp;sid=6ec8b702b6a3809295d46da2709cdbb4&amp;view=print" title="Print view"><kw class="krdwrd-tag-1">Print view</kw></a>				</td>
+				<td class="nav" align="right" nowrap="nowrap"><a href="./viewtopic.php?f=1&amp;t=20794&amp;view=previous&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Previous topic</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="./viewtopic.php?f=1&amp;t=20794&amp;view=next&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Next topic</kw></a>&nbsp;</td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+
+	<table class="tablebg" cellspacing="1" width="100%">
+			<tbody><tr>
+			<th><kw class="krdwrd-tag-1">Author</kw></th>
+			<th><kw class="krdwrd-tag-1">Message</kw></th>
+		</tr>
+	<tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p643729"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">nemo</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=643729&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p643729"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 10:06 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Melee SMN</kw></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 9:49 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 5						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Odin									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-1">(1) </kw><!-- m --><a class="postlink" href="http://karimohu.com/uploader/src/nejitsu1880.jpg"><kw class="krdwrd-tag-1">http://karimohu.com/uploader/src/nejitsu1880.jpg</kw></a><!-- m --><kw class="krdwrd-tag-1">  Disney original image </kw><br><kw class="krdwrd-tag-1">(2) </kw><!-- m --><a class="postlink" href="http://karimohu.com/uploader/src/nejitsu1881.jpg"><kw class="krdwrd-tag-1">http://karimohu.com/uploader/src/nejitsu1881.jpg</kw></a><!-- m --><kw class="krdwrd-tag-1">  FF11 map image </kw><br><kw class="krdwrd-tag-1">(3) </kw><!-- m --><a class="postlink" href="http://karimohu.com/uploader/src/nejitsu1882.jpg"><kw class="krdwrd-tag-1">http://karimohu.com/uploader/src/nejitsu1882.jpg</kw></a><!-- m --><kw class="krdwrd-tag-1">  turn (2) to right angle,below blank pluged and compass reversaled </kw><br><kw class="krdwrd-tag-1">(4) </kw><!-- m --><a class="postlink" href="http://karimohu.com/uploader/src/nejitsu1883.jpg"><kw class="krdwrd-tag-1">http://karimohu.com/uploader/src/nejitsu1883.jpg</kw></a><!-- m --><kw class="krdwrd-tag-1">  (3) which is clear 50% is on (1) </kw><br><br><br><!-- m --><a class="postlink" href="http://www.disneyhotels.jp/dah/japanese/event/pirates/index.html"><kw class="krdwrd-tag-1">http://www.disneyhotels.jp/dah/japanese ... index.html</kw></a><!-- m --></div>
+
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=17605&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p643736"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Ziphor</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=643736&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p643736"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 10:11 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Birdhair</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://i242.photobucket.com/albums/ff229/tkree/Potemayo10.gif" alt="User avatar" height="100" width="100"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Wed Aug 09, 2006 5:38 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 124				</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><img src="./images/smilies/icon_eek.gif" alt=":shock:" title="UT"></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><div class="quotetitle"><kw class="krdwrd-tag-1">Eticket wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">if SE put half the thought they put into these NMs into some of their policies and game mechanics, we'd all be in a much happier place.</kw></div></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=7106&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p643737"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">JoOeetheplatypuS</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=643737&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p643737"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 10:14 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">100.24% Smart</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://i65.photobucket.com/albums/h201/Maxxthepenguin/MaxKirby.jpg" alt="User avatar" height="123" width="126"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Fri May 05, 2006 11:43 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 4704</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Columbus, Ohio						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Bahamut									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-3">Well, there goes the possibility of KH3</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><kw class="krdwrd-tag-1">Insert silly guartz quote here.</kw><br><br><kw class="krdwrd-tag-1">Oh yeah, RIP shuffle.php etc</kw></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=5504&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644030"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">evilbau</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644030&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644030"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 4:01 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Forum Donator</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://www.soul-burn.com/soulburn_forums/images/avatars/207750606045624534950d8.gif" alt="User avatar" height="64" width="48"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Sat Nov 06, 2004 8:04 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 1133</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Los Angeles						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Titan									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-1">how did you figure this out, thats great</kw><br><br><kw class="krdwrd-tag-1">edit: and how did you come across this even?</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><span style="color: rgb(255, 0, 0);"><kw class="krdwrd-tag-1">Do you have extra mycokerewards points? </kw></span><br><kw class="krdwrd-tag-1">Help evilbau get a free Wii!  </kw><a href="http://www.evilbau.com/coke/coke.php" class="postlink"><kw class="krdwrd-tag-1">http://www.evilbau.com</kw></a><br><a href="http://www.bluegartrls.com/forum/viewtopic.php?f=1&amp;t=21160" class="postlink"><kw class="krdwrd-tag-1">The BG Thread</kw></a></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=464&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644059"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Exoduso</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644059&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644059"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 4:30 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">shut the fk up!</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://img.photobucket.com/albums/v148/Exoduso/buttersoo.gif" alt="User avatar" height="115" width="154"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Wed Dec 14, 2005 3:12 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 8242</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Cali						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Bismarck									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">Jooeetheplatypus wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">Well, there goes the possibility of KH3</kw></div><br><br><kw class="krdwrd-tag-1">lol yeah..</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><kw class="krdwrd-tag-1">PSN ID: Exoduso ~ 360 GT: Exoduso344</kw><br><div class="quotetitle"><kw class="krdwrd-tag-1">Xavier wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">I sincerely hope that everyone who believes the world is over in 2012 just commits mass suicide, I hate this shit.</kw></div></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=3354&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644102"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Heroic</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644102&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644102"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 5:12 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Dragoon</kw></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Wed Oct 18, 2006 10:01 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 55				</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-1">lol Um wow... </kw><br><div class="quotetitle"><kw class="krdwrd-tag-1">evilbau wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">how did you figure this out, thats great</kw><br><br><kw class="krdwrd-tag-1">edit: and how did you come across this even?</kw></div><br><kw class="krdwrd-tag-1">is right... how the hell? lol</kw></div>
+
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=9179&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644111"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">evilbau</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644111&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644111"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 5:18 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Forum Donator</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://www.soul-burn.com/soulburn_forums/images/avatars/207750606045624534950d8.gif" alt="User avatar" height="64" width="48"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Sat Nov 06, 2004 8:04 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 1133</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Los Angeles						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Titan									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">Exoduso wrote:</kw></div><div class="quotecontent"><div class="quotetitle"><kw class="krdwrd-tag-1">Jooeetheplatypus wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">Well, there goes the possibility of KH3</kw></div><br><br><kw class="krdwrd-tag-1">lol yeah..</kw></div><br><br><kw class="krdwrd-tag-1">could have been used with permission, you never know.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><span style="color: rgb(255, 0, 0);"><kw class="krdwrd-tag-1">Do you have extra mycokerewards points? </kw></span><br><kw class="krdwrd-tag-1">Help evilbau get a free Wii!  </kw><a href="http://www.evilbau.com/coke/coke.php" class="postlink"><kw class="krdwrd-tag-1">http://www.evilbau.com</kw></a><br><a href="http://www.bluegartrls.com/forum/viewtopic.php?f=1&amp;t=21160" class="postlink"><kw class="krdwrd-tag-1">The BG Thread</kw></a></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=464&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644125"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Khamsin</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644125&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644125"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 5:32 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">shut the fk up!</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://i59.photobucket.com/albums/g289/TelstarZero/pinkberk.jpg" alt="User avatar" height="149" width="120"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Oct 10, 2005 8:21 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 7016</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Seattle, WA						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Pandemonium											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> San d'Oria									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">Heroic wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">lol Um wow... </kw><br><div class="quotetitle"><kw class="krdwrd-tag-1">evilbau wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">how did you figure this out, thats great</kw><br><br><kw class="krdwrd-tag-1">edit: and how did you come across this even?</kw></div><br><kw class="krdwrd-tag-1">is right... how the hell? lol</kw></div><br><br><kw class="krdwrd-tag-3">I'm guessing it was figured out just by being familiar with FFXI.  Afterall, even just looking at the advertisement without seeing it next to a FFXI map, I'd know right away it was from FFXI.</kw><br><br><kw class="krdwrd-tag-3">The numbers and letters down the sides are also a big clue.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/minicaptain.jpg" alt="Image"><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/tavtitle.jpg" alt="Image"><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/img_0019.jpg" alt="Image"><br><kw class="krdwrd-tag-1">WAR|SMN|RDM|PUP</kw><br><kw class="krdwrd-tag-1">Kupo HNMLS - Pandemonium</kw></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=2420&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644128"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">kazen</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644128&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644128"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 5:34 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">I dont think this is going so well guys</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://bluegartrls.com/NikkeiBGAvatars/Kazen.png" alt="User avatar" height="170" width="160"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon May 23, 2005 5:31 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 1772</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Hagerstown, MD						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Bahamut											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> Windurst									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-1">Email it to SE lol</kw></div>
+
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=1382&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644135"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Maguspk</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644135&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644135"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 5:40 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Rkenshin</kw></td>
+				</tr>
+							<tr>
+					<td><img src="./images/ranks/haidate.gif" alt="Rkenshin" title="Rkenshin"></td>
+				</tr>
+							<tr>
+					<td><img src="http://img.photobucket.com/albums/v329/Maguspk32/MaguspkFINAL.gif" alt="User avatar" height="225" width="181"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Fri May 27, 2005 1:45 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 3994</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Lakshmi				</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-1">Epic.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://img.photobucket.com/albums/v329/Maguspk32/CurrentSignature.jpg" alt="Image"><br><span style="font-weight: bold;"><span style="color: red;"><kw class="krdwrd-tag-1">Brawl</kw></span></span><kw class="krdwrd-tag-1"> : </kw><span style="color: orange;"><kw class="krdwrd-tag-1">0216 - 0451 - 0926</kw></span></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=1399&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644141"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">evilbau</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644141&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644141"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 5:46 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Forum Donator</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://www.soul-burn.com/soulburn_forums/images/avatars/207750606045624534950d8.gif" alt="User avatar" height="64" width="48"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Sat Nov 06, 2004 8:04 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 1133</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Los Angeles						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Titan									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">Khamsin wrote:</kw></div><div class="quotecontent"><div class="quotetitle"><kw class="krdwrd-tag-1">Heroic wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">lol Um wow... </kw><br><div class="quotetitle"><kw class="krdwrd-tag-1">evilbau wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">how did you figure this out, thats great</kw><br><br><kw class="krdwrd-tag-1">edit: and how did you come across this even?</kw></div><br><kw class="krdwrd-tag-1">is right... how the hell? lol</kw></div><br><br><kw class="krdwrd-tag-3">I'm guessing it was figured out just by being familiar with FFXI.  Afterall, even just looking at the advertisement without seeing it next to a FFXI map, I'd know right away it was from FFXI.</kw><br><br><kw class="krdwrd-tag-3">The numbers and letters down the sides are also a big clue.</kw></div><br><br><kw class="krdwrd-tag-3">Yeah, but what I was getting at was I don't visit the jp disney site very often, and even if i did, i certainly wouldn't have paid attention to the map in the background.  Once someone points it out, I immediately identify it w/FFXI.  Just seems really random</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><span style="color: rgb(255, 0, 0);"><kw class="krdwrd-tag-1">Do you have extra mycokerewards points? </kw></span><br><kw class="krdwrd-tag-1">Help evilbau get a free Wii!  </kw><a href="http://www.evilbau.com/coke/coke.php" class="postlink"><kw class="krdwrd-tag-1">http://www.evilbau.com</kw></a><br><a href="http://www.bluegartrls.com/forum/viewtopic.php?f=1&amp;t=21160" class="postlink"><kw class="krdwrd-tag-1">The BG Thread</kw></a></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=464&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644144"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Yangsing</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644144&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644144"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 5:51 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Sea Torques</kw></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Thu Dec 29, 2005 6:46 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 633				</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-3">Someone is going to get sued.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="./images/smilies/icon_arrow.gif" alt=":arrow:" title="Arrow"><span style="font-size: 150%; line-height: normal;"><kw class="krdwrd-tag-1">™</kw></span></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=3488&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644150"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">GraveRobberX</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644150&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644150"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 6:00 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">A.Body</kw></td>
+				</tr>
+							<tr>
+					<td><img src="./images/avatars/gallery/FFXI%20NPCs/Odin,%20Dark%20Rider.jpg" alt="User avatar" height="150" width="150"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Jan 09, 2006 9:07 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 912</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Where the Cow goes Moo!						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Fenrir									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-3">Im still confused to what is going on?</kw><br><br><kw class="krdwrd-tag-1">Is Disney (Japan) ripping off FFXI (SE)?</kw><br><kw class="krdwrd-tag-1">FFXI (SE) ripping off Disney (Japan)?</kw><br><br><kw class="krdwrd-tag-1">That wrap with the hook, looks f'n hilarious tho</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://i263.photobucket.com/albums/ii125/GraveRobberX/xmen77_apocalypse.gif" alt="Image"></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=3578&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644162"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Khamsin</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644162&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644162"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 6:09 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">shut the fk up!</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://i59.photobucket.com/albums/g289/TelstarZero/pinkberk.jpg" alt="User avatar" height="149" width="120"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Oct 10, 2005 8:21 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 7016</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Seattle, WA						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Pandemonium											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> San d'Oria									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">GraveRobberX wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">Im still confused to what is going on?</kw><br><br><kw class="krdwrd-tag-1">Is Disney (Japan) ripping off FFXI (SE)?</kw><br><kw class="krdwrd-tag-1">FFXI (SE) ripping off Disney (Japan)?</kw><br><br><kw class="krdwrd-tag-1">That wrap with the hook, looks f'n hilarious tho</kw></div><br><br><kw class="krdwrd-tag-3">Disney used an image from FFXI (a map) as a background for an advertisement of theirs without proper credit.  Given that they stand to make money off it, SE could sue if they wanted.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/minicaptain.jpg" alt="Image"><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/tavtitle.jpg" alt="Image"><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/img_0019.jpg" alt="Image"><br><kw class="krdwrd-tag-1">WAR|SMN|RDM|PUP</kw><br><kw class="krdwrd-tag-1">Kupo HNMLS - Pandemonium</kw></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=2420&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644170"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">GraveRobberX</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644170&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644170"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 6:12 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">A.Body</kw></td>
+				</tr>
+							<tr>
+					<td><img src="./images/avatars/gallery/FFXI%20NPCs/Odin,%20Dark%20Rider.jpg" alt="User avatar" height="150" width="150"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Jan 09, 2006 9:07 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 912</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Where the Cow goes Moo!						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Fenrir									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">Khamsin wrote:</kw></div><div class="quotecontent"><div class="quotetitle"><kw class="krdwrd-tag-1">GraveRobberX wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">Im still confused to what is going on?</kw><br><br><kw class="krdwrd-tag-1">Is Disney (Japan) ripping off FFXI (SE)?</kw><br><kw class="krdwrd-tag-1">FFXI (SE) ripping off Disney (Japan)?</kw><br><br><kw class="krdwrd-tag-1">That wrap with the hook, looks f'n hilarious tho</kw></div><br><br><kw class="krdwrd-tag-3">Disney used an image from FFXI (a map) as a background for an advertisement of theirs without proper credit.  Given that they stand to make money off it, SE could sue if they wanted.</kw></div><br><br><kw class="krdwrd-tag-1">Oh I see, thanks Khamsin</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://i263.photobucket.com/albums/ii125/GraveRobberX/xmen77_apocalypse.gif" alt="Image"></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=3578&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644181"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Ohemgee</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644181&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644181"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 6:23 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Old Merits</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://i7.tinypic.com/6b36yqc.jpg" alt="User avatar" height="80" width="80"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Apr 25, 2005 6:24 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 1609						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Sylph											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> San d'Oria									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">Khamsin wrote:</kw></div><div class="quotecontent"><div class="quotetitle"><kw class="krdwrd-tag-1">GraveRobberX wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">Im still confused to what is going on?</kw><br><br><kw class="krdwrd-tag-1">Is Disney (Japan) ripping off FFXI (SE)?</kw><br><kw class="krdwrd-tag-1">FFXI (SE) ripping off Disney (Japan)?</kw><br><br><kw class="krdwrd-tag-1">That wrap with the hook, looks f'n hilarious tho</kw></div><br><br><kw class="krdwrd-tag-3">Disney used an image from FFXI (a map) as a background for an advertisement of theirs without proper credit.  Given that they stand to make money off it, SE could sue if they wanted.</kw></div><br><br><kw class="krdwrd-tag-3">And put the earnings into development!</kw><br><br><br><br><br><br><kw class="krdwrd-tag-1">.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://sendmedeadflowers.com/uploaded_images/interpol-grp8-0904-767414.jpg" alt="Image"></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=1224&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644332"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Ddz</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644332&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644332"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 7:54 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Rocl</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://img245.imageshack.us/img245/593/kirbyny2.jpg" alt="User avatar" height="137" width="137"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Sat Sep 30, 2006 1:52 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 710</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Seattle, WA						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Fairy									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-1">haha wow gogo copyright infringement</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://mail2.someecards.com/filestorage/con_34.jpg" alt="Image"></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=7865&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644339"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Khamsin</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644339&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644339"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 7:58 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">shut the fk up!</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://i59.photobucket.com/albums/g289/TelstarZero/pinkberk.jpg" alt="User avatar" height="149" width="120"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Oct 10, 2005 8:21 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 7016</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Seattle, WA						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Pandemonium											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> San d'Oria									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">Ohemgee wrote:</kw></div><div class="quotecontent"><div class="quotetitle"><kw class="krdwrd-tag-1">Khamsin wrote:</kw></div><div class="quotecontent"><div class="quotetitle"><kw class="krdwrd-tag-1">GraveRobberX wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">Im still confused to what is going on?</kw><br><br><kw class="krdwrd-tag-1">Is Disney (Japan) ripping off FFXI (SE)?</kw><br><kw class="krdwrd-tag-1">FFXI (SE) ripping off Disney (Japan)?</kw><br><br><kw class="krdwrd-tag-1">That wrap with the hook, looks f'n hilarious tho</kw></div><br><br><kw class="krdwrd-tag-1">Disney used an image from FFXI (a map) as a background for an advertisement of theirs without proper credit.  Given that they stand to make money off it, SE could sue if they wanted.</kw></div><br><br><kw class="krdwrd-tag-1">And put the earnings into </kw><span style="font-weight: bold;"><kw class="krdwrd-tag-1">Sage Sundi's Ferrari</kw></span><kw class="krdwrd-tag-1">!</kw><br><br><br><br><br><br><kw class="krdwrd-tag-1">.</kw></div></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/minicaptain.jpg" alt="Image"><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/tavtitle.jpg" alt="Image"><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/img_0019.jpg" alt="Image"><br><kw class="krdwrd-tag-1">WAR|SMN|RDM|PUP</kw><br><kw class="krdwrd-tag-1">Kupo HNMLS - Pandemonium</kw></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=2420&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644343"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Devek</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644343&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644343"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 7:59 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Joyeuse poster</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://img509.imageshack.us/img509/2875/goforwardgj2.gif" alt="User avatar" height="117" width="190"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Tue Jun 27, 2006 7:46 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 2046</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Oklahoma City				</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-1">Did they find any sashes on the map?</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://img526.imageshack.us/img526/1875/waryr8.png" alt="Image">
+<br><img src="http://www.exoduslinkshell.com/die.png" alt="Image">
+<br><kw class="krdwrd-tag-1">Woot! 60 day extension! There is some chance HR 2060 will pass. Check </kw><a href="http://www.savenetradio.org/" class="postlink"><kw class="krdwrd-tag-1">http://www.savenetradio.org/</kw></a><kw class="krdwrd-tag-1"> for details on what you can do.</kw></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=6354&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644451"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Zigma</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644451&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644451"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 9:59 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">shut the fk up!</kw></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Jul 19, 2004 10:51 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 5460</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> NYC						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Bahamut											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> San d'Oria									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-3">no one is going to get sued because there is a large collection of images/sound clips/movie clips/media etc that companies and people have access to and it's been like that for years. THats why you hear the same scream, for example, the scream used in Starcraft can be heard in many movies as well as dog barkings and so on.</kw><br><br><kw class="krdwrd-tag-3">I'm not so surprised.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><span style="font-size: 75%; line-height: normal;"><kw class="krdwrd-tag-1">zigmaffxi.com</kw><br><div class="quotetitle"><kw class="krdwrd-tag-1">Ryany wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">You mean people from HNM linkshells bot stuff like kings? </kw><br><kw class="krdwrd-tag-1">Get outta here! I thought they just ate their wheeties in the morning!</kw></div><br><div class="quotetitle"><kw class="krdwrd-tag-1">Krandor wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">I love how none of the Fafnir pictures on this page have darters in them.</kw></div></span></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=65&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644507"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">nemo</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644507&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644507"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 11:06 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Melee SMN</kw></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 9:49 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 5						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Odin									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-3">These are verification and evidence picutures.</kw><br><br><!-- m --><a class="postlink" href="http://vista.jeez.jp/img/vi8546148240.jpg"><kw class="krdwrd-tag-1">http://vista.jeez.jp/img/vi8546148240.jpg</kw></a><!-- m -->  <br><!-- m --><a class="postlink" href="http://vista.jeez.jp/img/vi8546197800.jpg"><kw class="krdwrd-tag-1">http://vista.jeez.jp/img/vi8546197800.jpg</kw></a><!-- m --><kw class="krdwrd-tag-1">  No map image</kw><br><!-- m --><a class="postlink" href="http://vista.crap.jp/img/vi8546181219.gif"><kw class="krdwrd-tag-1">http://vista.crap.jp/img/vi8546181219.gif</kw></a><!-- m --><kw class="krdwrd-tag-1">  after editting evidence.</kw><br><!-- m --><a class="postlink" href="http://www.kajisoku-f-2.com/dd/img2-02/img443_d08.jpg"><kw class="krdwrd-tag-1">http://www.kajisoku-f-2.com/dd/img2-02/img443_d08.jpg</kw></a><!-- m --><kw class="krdwrd-tag-1"> after editting evidence.</kw></div>
+
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=17605&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644521"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">nemo</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644521&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644521"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 11:27 pm&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Melee SMN</kw></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Thu Jul 26, 2007 9:49 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 5						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Odin									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">evilbau wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">how did you figure this out, thats great</kw><br><br><kw class="krdwrd-tag-1">edit: and how did you come across this even?</kw></div><br><br><kw class="krdwrd-tag-3">this topic becomes a big topic by huge FFXI forum and other forum in Japan. </kw><br><kw class="krdwrd-tag-3">One of japanese disney fan come across this issue. He is FFXI player.</kw><br><br><!-- m --><a class="postlink" href="http://blog.livedoor.jp/dqnplus/archives/1009207.html"><kw class="krdwrd-tag-1">http://blog.livedoor.jp/dqnplus/archives/1009207.html</kw></a><!-- m --><kw class="krdwrd-tag-1"> one of Japanese page(not FFXI's site)</kw></div>
+
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=17605&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644631"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Khamsin</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644631&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644631"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Fri Jul 27, 2007 1:21 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">shut the fk up!</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://i59.photobucket.com/albums/g289/TelstarZero/pinkberk.jpg" alt="User avatar" height="149" width="120"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Oct 10, 2005 8:21 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 7016</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Seattle, WA						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Pandemonium											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> San d'Oria									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">Zigma wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">no one is going to get sued because there is a large collection of images/sound clips/movie clips/media etc that companies and people have access to and it's been like that for years. THats why you hear the same scream, for example, the scream used in Starcraft can be heard in many movies as well as dog barkings and so on.</kw><br><br><kw class="krdwrd-tag-1">I'm not so surprised.</kw></div><br><br><kw class="krdwrd-tag-3">The difference between the Wilhelm Scream and SE's map for FFXI is that the scream is pretty much public domain, but the map from FFXI is copyrighted by SE, and I'm pretty sure they still hold that copyright.</kw><br><br><kw class="krdwrd-tag-3">There are images/sounds/etc. that anybody can use, but SE's map that their artists made for FFXI probably isn't one of them.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/minicaptain.jpg" alt="Image"><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/tavtitle.jpg" alt="Image"><br><img src="http://i59.photobucket.com/albums/g289/TelstarZero/img_0019.jpg" alt="Image"><br><kw class="krdwrd-tag-1">WAR|SMN|RDM|PUP</kw><br><kw class="krdwrd-tag-1">Kupo HNMLS - Pandemonium</kw></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=2420&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644654"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Chumbelina</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644654&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644654"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Fri Jul 27, 2007 1:40 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Uma Thurman Stunt Double</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://img403.imageshack.us/img403/5960/dsc00115rb8.jpg" alt="User avatar" height="260" width="195"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Aug 01, 2005 1:54 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 1173</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Grinning at this post with a smug sense of satisfaction.						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Fairy											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> Windurst									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-3">It's definitely the same image. The shading and the wrinkles/wear on the map are identical. I can't wait to see if anything happens.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><kw class="krdwrd-tag-3">"So let me tell you what I think about gods. I think a real god is not going to be so scared or angry that he tries to keep other people down. A real god doesn't care about control. A real god already has control over everything that needs controlling. Real gods would want to teach you to be just like them.</kw><br><kw class="krdwrd-tag-1">-Andrew Wiggin "Ender the Xenocide"</kw></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=1863&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644873"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Sho</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644873&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644873"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Fri Jul 27, 2007 6:40 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Old Merits</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://ffxi.killvoid.com/datas/users/18540-avatar.gif" alt="User avatar" height="100" width="100"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Jul 03, 2006 2:02 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 1681</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> H-Town (Houston, TX)						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Carbuncle											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> Windurst									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-3">Disney could have honestly gotten rid of the numbers and letters on the edges... damn idiots.  I don't think Disney (whixh as much money as they have as a company) would go that low to steal a map design from SE to make a pirates chart-- they probably got permission to use the design and edit it.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><kw class="krdwrd-tag-1">To be in power you didnt need guns or money or numbers.
+</kw><br><kw class="krdwrd-tag-1">You just needed the will to do what the other guy wouldnt - Verbal Kint
+</kw><br>
+<br><img src="http://img442.imageshack.us/img442/3987/weedsq1.png" alt="Image">
+<br><kw class="krdwrd-tag-1">Weed is serious business; you heard it here, folks.</kw></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=6439&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644880"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Kurp</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644880&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644880"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Fri Jul 27, 2007 6:49 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Millenary Post Whore</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://premium1.uploadit.org/samskeyti//368329.jpg" alt="User avatar" height="128" width="160"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Tue Nov 08, 2005 11:38 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 1140</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> Minnesota						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Bismarck									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-1">Which will hold the publics attention... SE vs. Disney or the United States of America vs. Michael Vick?</kw><br><br><kw class="krdwrd-tag-3">Only time will tell!</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><kw class="krdwrd-tag-1">So I started this damn country band</kw><br><kw class="krdwrd-tag-1">cause punk rock was too hard to sing</kw></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=2869&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644882"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Vigilia</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644882&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644882"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Fri Jul 27, 2007 6:53 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">WoTG Release</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://img.photobucket.com/albums/v367/taijavigilia/Vig_avatarrdmtiny.gif" alt="User avatar" height="95" width="100"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Aug 08, 2005 11:32 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 263</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> UK (sometimes middle of nowhere in Finland)						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Asura									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-3">Or it could had just been made by some random graphic designer who thought he/she would get off easy by "borrowing" someone else's map from some random mmorpg that he thought nobody plays.  I would imagine if anything happens it'll be that they remove those advertisements from their restaurants, issue an apology to S-E and maybe sack the designer that made the image (or if it was an external contract just never work with them again).  It's hardly big enough for major drama or lawsuits.  As wrong as it is, artworks are ripped off on daily basis all over the world.   </kw><img src="./images/smilies/icon_neutral.gif" alt=":|" title="Neutral"> <br><kw class="krdwrd-tag-3">Those wraps with hook look pretty tasty though.  </kw><img src="./images/smilies/icon_biggrin.gif" alt=":D" title="Very Happy"></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><span style="color: rgb(191, 0, 0);"><kw class="krdwrd-tag-1">75RDM</kw></span><kw class="krdwrd-tag-1">/</kw><span style="color: rgb(128, 64, 0);"><kw class="krdwrd-tag-1">75BRD</kw></span><kw class="krdwrd-tag-1">/</kw><span style="color: rgb(128, 0, 255);"><kw class="krdwrd-tag-1">75DRG</kw></span><kw class="krdwrd-tag-1">/</kw><span style="color: rgb(0, 128, 0);"><kw class="krdwrd-tag-1">75SMN</kw></span><kw class="krdwrd-tag-1">/</kw><span style="color: rgb(0, 64, 255);"><kw class="krdwrd-tag-1">75PLD</kw></span><kw class="krdwrd-tag-1">/69LOL/</kw><span style="color: rgb(128, 128, 0);"><kw class="krdwrd-tag-1">75SCH</kw></span><kw class="krdwrd-tag-1"> ~Asura |</kw><a href="http://www.mycurrentlife.de/ls/" class="postlink"><kw class="krdwrd-tag-1">ChromaLS</kw></a><kw class="krdwrd-tag-1">| </kw><a href="http://smg.photobucket.com/albums/v367/taijavigilia/drawings/" class="postlink"><kw class="krdwrd-tag-1">Drawings</kw></a><br><img src="http://img.photobucket.com/albums/v367/taijavigilia/lootwhore/salvage_sig.jpg" alt="Image"></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=1919&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644895"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Groovebox</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644895&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644895"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Fri Jul 27, 2007 7:15 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">Take this</kw></td>
+				</tr>
+							<tr>
+					<td><img src="./images/ranks/granite.jpg" alt="Take this" title="Take this"></td>
+				</tr>
+							<tr>
+					<td><img src="http://i51.photobucket.com/albums/f390/logicbox9/Slick-Backed-Logo-R.gif" alt="User avatar" height="115" width="115"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Thu Jun 15, 2006 3:21 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 557				</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-3">SE is not even going to care... if it were an SE character, then yeah. Considering SE and Disney have made millions off of KH, it's more beneficial for both companies to remain partners and friends.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://i51.photobucket.com/albums/f390/logicbox9/pbell2.gif" alt="Image"></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=6101&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row1">
+			<td align="center" valign="middle">
+				<a name="p644923"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Zigma</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644923&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644923"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Fri Jul 27, 2007 7:47 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row1">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">shut the fk up!</kw></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Mon Jul 19, 2004 10:51 am</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 5460</kw><br><b><kw class="krdwrd-tag-1">Location:</kw></b><kw class="krdwrd-tag-1"> NYC						</kw><br><b><kw class="krdwrd-tag-1">Server:</kw></b><kw class="krdwrd-tag-1"> Bahamut											</kw><br><b><kw class="krdwrd-tag-1">Nation:</kw></b><kw class="krdwrd-tag-1"> San d'Oria									</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><div class="quotetitle"><kw class="krdwrd-tag-1">Khamsin wrote:</kw></div><div class="quotecontent"><div class="quotetitle"><kw class="krdwrd-tag-1">Zigma wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">no one is going to get sued because there is a large collection of images/sound clips/movie clips/media etc that companies and people have access to and it\s been like that for years. THats why you hear the same scream, for example, the scream used in Starcraft can be heard in many movies as well as dog barkings and so on.</kw><br><br><kw class="krdwrd-tag-1">I\'m not so surprised.</kw></div><br><br><kw class="krdwrd-tag-1">The difference between the Wilhelm Scream and SE's map for FFXI is that the scream is pretty much public domain, but the map from FFXI is copyrighted by SE, and I'm pretty sure they still hold that copyright.</kw><br><br><kw class="krdwrd-tag-1">There are images/sounds/etc. that anybody can use, but SE's map that their artists made for FFXI probably isn't one of them.</kw></div><br><br><br><kw class="krdwrd-tag-3">SE and Disney however have a very good working relationship however so I think they could have gotten permission to use such image.</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><span style="font-size: 75%; line-height: normal;"><kw class="krdwrd-tag-1">zigmaffxi.com</kw><br><div class="quotetitle"><kw class="krdwrd-tag-1">Ryany wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">You mean people from HNM linkshells bot stuff like kings? </kw><br><kw class="krdwrd-tag-1">Get outta here! I thought they just ate their wheeties in the morning!</kw></div><br><div class="quotetitle"><kw class="krdwrd-tag-1">Krandor wrote:</kw></div><div class="quotecontent"><kw class="krdwrd-tag-1">I love how none of the Fafnir pictures on this page have darters in them.</kw></div></span></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row1">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=65&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr class="row2">
+			<td align="center" valign="middle">
+				<a name="p644931"></a>
+				<b class="postauthor"><kw class="krdwrd-tag-1">Priran</kw></b>
+			</td>
+			<td height="25" width="100%">
+				<table cellspacing="0" width="100%">
+				<tbody><tr>
+									<td class="gensmall" width="100%"><div style="float: left;">&nbsp;<b><kw class="krdwrd-tag-1">Post subject:</kw></b><kw class="krdwrd-tag-1"> Re: Disney in japan and FFXI map (Misappropriation of map?)</kw></div><div style="float: right;"><a href="./viewtopic.php?p=644931&amp;sid=6ec8b702b6a3809295d46da2709cdbb4#p644931"><img src="./styles/subsilver2/imageset/icon_post_target.gif" alt="Post" title="Post" height="9" width="12"></a><b><kw class="krdwrd-tag-1">Posted:</kw></b><kw class="krdwrd-tag-1"> Fri Jul 27, 2007 7:57 am&nbsp;</kw></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr class="row2">
+			<td class="profile" valign="top">
+				<table align="center" cellspacing="4" width="150">
+							<tbody><tr>
+					<td><img src="./styles/subsilver2/imageset/en/icon_user_offline.gif" alt="Offline" title="Offline"></td>
+				</tr>
+							<tr>
+					<td class="postdetails"><kw class="krdwrd-tag-1">in ur vagina, sanding ur doodz</kw></td>
+				</tr>
+							<tr>
+					<td><img src="http://img525.imageshack.us/img525/9058/orangeroofiesmu5.jpg" alt="User avatar" height="180" width="180"></td>
+				</tr>
+							</tbody></table>
+
+				<span class="postdetails">
+					<br><b><kw class="krdwrd-tag-1">Joined:</kw></b><kw class="krdwrd-tag-1"> Sat Feb 25, 2006 11:13 pm</kw><br><b><kw class="krdwrd-tag-1">Posts:</kw></b><kw class="krdwrd-tag-1"> 4074				</kw></span>
+
+			</td>
+			<td valign="top">
+				<table cellspacing="5" width="100%">
+				<tbody><tr>
+					<td>
+					
+						<div class="postbody"><kw class="krdwrd-tag-1">BACKSLASH</kw></div>
+
+											<span class="postbody"><br><kw class="krdwrd-tag-1">_________________</kw><br><img src="http://img516.imageshack.us/img516/2573/29512991jh5.gif" alt="Image"><br><img src="http://img131.imageshack.us/img131/2279/dereus6.jpg" alt="Image"></span>
+					<br clear="all"><br>
+						<table cellspacing="0" width="100%">
+						<tbody><tr valign="middle">
+							<td class="gensmall" align="right">
+														</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class="row2">
+			<td class="profile"><strong><a href="#wrapheader"><kw class="krdwrd-tag-1">Top</kw></a></strong></td>
+			<td><div class="gensmall" style="float: left;">&nbsp;<a href="./memberlist.php?mode=viewprofile&amp;u=4243&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/icon_user_profile.gif" alt="Profile" title="Profile"></a> &nbsp;</div> <div class="gensmall" style="float: right;">&nbsp;</div></td>
+			</tr>
+
+	<tr>
+		<td class="spacer" colspan="2" height="1"><img src="images/spacer.gif" alt="" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr align="center">
+		<td class="cat"><form name="viewtopic" method="post" action="./viewtopic.php?f=1&amp;t=20794&amp;start=0&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><span class="gensmall"><kw class="krdwrd-tag-1">Display posts from previous:</kw></span> <select name="st" id="st"><option class="krdwrd-tag-1" value="0" selected="selected">All posts</option><option class="krdwrd-tag-1" value="1">1 day</option><option class="krdwrd-tag-1" value="7">7 days</option><option class="krdwrd-tag-1" value="14">2 weeks</option><option class="krdwrd-tag-1" value="30">1 month</option><option class="krdwrd-tag-1" value="90">3 months</option><option class="krdwrd-tag-1" value="180">6 months</option><option class="krdwrd-tag-1" value="365">1 year</option></select>&nbsp;<span class="gensmall"><kw class="krdwrd-tag-1">Sort by</kw></span> <select name="sk" id="sk"><option class="krdwrd-tag-1" value="a">Author</option><option class="krdwrd-tag-1" value="t" selected="selected">Post time</option><option class="krdwrd-tag-1" value="s">Subject</option></select> <select name="sd" id="sd"><option class="krdwrd-tag-1" value="a" selected="selected">Ascending</option><option class="krdwrd-tag-1" value="d">Descending</option></select>&nbsp;<input class="btnlite" value="Go" name="sort" type="submit"></form></td>
+	</tr>
+	</tbody></table>
+
+	<table cellspacing="1" width="100%">
+	<tbody><tr>
+		<td align="left" valign="middle" nowrap="nowrap">
+		<a href="./posting.php?mode=post&amp;f=1&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/button_topic_new.gif" alt="Post new topic" title="Post new topic"></a>&nbsp;<a href="./posting.php?mode=reply&amp;f=1&amp;t=20794&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><img src="./styles/subsilver2/imageset/en/button_topic_reply.gif" alt="Reply to topic" title="Reply to topic"></a>		</td>
+					<td class="nav" valign="middle" nowrap="nowrap"><kw class="krdwrd-tag-1">&nbsp;Page </kw><strong><kw class="krdwrd-tag-1">1</kw></strong><kw class="krdwrd-tag-1"> of </kw><strong><kw class="krdwrd-tag-1">2</kw></strong><br></td>
+			<td class="gensmall" nowrap="nowrap"><kw class="krdwrd-tag-1">&nbsp;[ 40 posts ]&nbsp;</kw></td>
+			<td class="gensmall" align="right" width="100%" nowrap="nowrap"><b><a href="#" onclick="jumpto(); return false;" title="Click to jump to page…"><kw class="krdwrd-tag-1">Go to page</kw></a> <strong><kw class="krdwrd-tag-1">1</kw></strong><span class="page-sep"><kw class="krdwrd-tag-1">, </kw></span><a href="./viewtopic.php?f=1&amp;t=20794&amp;st=0&amp;sk=t&amp;sd=a&amp;sid=6ec8b702b6a3809295d46da2709cdbb4&amp;start=30"><kw class="krdwrd-tag-1">2</kw></a> &nbsp;<a href="./viewtopic.php?f=1&amp;t=20794&amp;st=0&amp;sk=t&amp;sd=a&amp;sid=6ec8b702b6a3809295d46da2709cdbb4&amp;start=30"><kw class="krdwrd-tag-1">Next</kw></a></b></td>
+			</tr>
+	</tbody></table>
+
+</div>
+
+<div id="pagefooter"></div>
+
+<br clear="all">
+
+<table class="tablebg" style="margin-top: 5px;" cellpadding="0" cellspacing="1" width="100%">
+	<tbody><tr>
+		<td class="row1">
+			<p class="breadcrumbs"><a href="./index.php?sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Board index</kw></a><kw class="krdwrd-tag-1"> » </kw><a href="./viewforum.php?f=41&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Blue Gartr: General</kw></a><kw class="krdwrd-tag-1"> » </kw><a href="./viewforum.php?f=1&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">General Discussion</kw></a></p>
+			<p class="datetime"><kw class="krdwrd-tag-1">All times are UTC - 5 hours [ </kw><abbr title="Daylight Saving Time"><kw class="krdwrd-tag-1">DST</kw></abbr><kw class="krdwrd-tag-1"> ]</kw></p>
+		</td>
+	</tr>
+	</tbody></table>	<br clear="all">
+
+	<table class="tablebg" cellspacing="1" width="100%">
+	<tbody><tr>
+		<td class="cat"><h4><kw class="krdwrd-tag-1">Who is online</kw></h4></td>
+	</tr>
+	<tr>
+		<td class="row1"><p class="gensmall"><kw class="krdwrd-tag-1">Users browsing this forum: </kw><a href="./memberlist.php?mode=viewprofile&amp;u=9242&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Annihilator</kw></a><kw class="krdwrd-tag-1">, </kw><a href="./memberlist.php?mode=viewprofile&amp;u=9112&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Bethany</kw></a><kw class="krdwrd-tag-1">, </kw><a href="./memberlist.php?mode=viewprofile&amp;u=16062&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Cydewinder</kw></a><kw class="krdwrd-tag-1">, </kw><a href="./memberlist.php?mode=viewprofile&amp;u=24899&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">fc_</kw></a><kw class="krdwrd-tag-1">, </kw><a href="./memberlist.php?mode=viewprofile&amp;u=1238&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Naver</kw></a><kw class="krdwrd-tag-1">, </kw><a href="./memberlist.php?mode=viewprofile&amp;u=4559&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Norelco</kw></a><kw class="krdwrd-tag-1">, </kw><a href="./memberlist.php?mode=viewprofile&amp;u=2516&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Odon</kw></a><kw class="krdwrd-tag-1">, </kw><a href="./memberlist.php?mode=viewprofile&amp;u=10696&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Quixon</kw></a><kw class="krdwrd-tag-1">, </kw><a href="./memberlist.php?mode=viewprofile&amp;u=26176&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">takeDat</kw></a><kw class="krdwrd-tag-1">, </kw><a href="./memberlist.php?mode=viewprofile&amp;u=22830&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><kw class="krdwrd-tag-1">Tomk</kw></a><kw class="krdwrd-tag-1">, </kw><span style="color: rgb(158, 141, 167);" class="username-coloured"><kw class="krdwrd-tag-1">Yahoo [Bot]</kw></span><kw class="krdwrd-tag-1"> and 11 guests</kw></p></td>
+	</tr>
+	</tbody></table>
+
+<br clear="all">
+
+<table cellspacing="1" width="100%">
+<tbody><tr>
+	<td align="left" valign="top" width="40%" nowrap="nowrap"></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall"><kw class="krdwrd-tag-1">You </kw><strong><kw class="krdwrd-tag-1">cannot</kw></strong><kw class="krdwrd-tag-1"> post new topics in this forum</kw><br><kw class="krdwrd-tag-1">You </kw><strong><kw class="krdwrd-tag-1">cannot</kw></strong><kw class="krdwrd-tag-1"> reply to topics in this forum</kw><br><kw class="krdwrd-tag-1">You </kw><strong><kw class="krdwrd-tag-1">cannot</kw></strong><kw class="krdwrd-tag-1"> edit your posts in this forum</kw><br><kw class="krdwrd-tag-1">You </kw><strong><kw class="krdwrd-tag-1">cannot</kw></strong><kw class="krdwrd-tag-1"> delete your posts in this forum</kw><br><kw class="krdwrd-tag-1">You </kw><strong><kw class="krdwrd-tag-1">cannot</kw></strong><kw class="krdwrd-tag-1"> post attachments in this forum</kw><br></span></td>
+</tr>
+</tbody></table>
+
+<br clear="all">
+
+<table cellspacing="0" width="100%">
+<tbody><tr>
+	<td><form method="post" name="search" action="./search.php?t=20794&amp;sid=6ec8b702b6a3809295d46da2709cdbb4"><span class="gensmall"><kw class="krdwrd-tag-1">Search for:</kw></span> <input class="post" name="keywords" size="20" type="text"> <input class="btnlite" value="Go" type="submit"></form></td>
+	<td align="right"></td>
+</tr>
+</tbody></table>
+
+<img src="./cron.php?cron_type=queue&amp;sid=6ec8b702b6a3809295d46da2709cdbb4" alt="cron" height="1" width="1"></div>
+
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB3. If you (honestly) cannot retain
+	the full copyright we ask you at least leave in place the "Powered by phpBB" line, with
+	"phpBB" linked to www.phpbb.com. If you refuse to include even this then support on our
+	forums may be affected.
+
+	The phpBB Group : 2006
+//-->
+
+<div id="wrapfooter">
+		<span class="copyright"><kw class="krdwrd-tag-1">Powered by </kw><a href="http://www.phpbb.com/"><kw class="krdwrd-tag-1">phpBB</kw></a><kw class="krdwrd-tag-1"> © 2000, 2002, 2005, 2007 phpBB Group
+	</kw></span>
+</div>
+
+</body>

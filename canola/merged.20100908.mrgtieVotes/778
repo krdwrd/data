@@ -1,0 +1,875 @@
+<head><base href="http://www.cleveland.com/visit/index.ssf?/recreation/more/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Visitor Essentials: Find out where to go and what to do while in Cleveland - cleveland.com</title>
+
+
+<link rel="stylesheet" href="/css/global.css" type="text/css">
+<link rel="stylesheet" href="/css/visit.css" type="text/css">
+<script language="javascript" src="/dhtml/includes/Pop.js"></script><!-- Visual Sciences Extra Tracking -->
+
+<script language="javascript" src="http://www.cleveland.com/dhtml/stats/track/vsfunctions.js"></script>
+<script language="javascript" src="http://www.cleveland.com/dhtml/stats/track/vssetup.js"></script>
+<script language="javascript" src="http://geoip.cleveland.com/media/js/geoip.js"></script>
+<style type="text/css">
+.menucursor {cursor: hand;}
+.si {text-decoration: none; color: #000000; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;}
+.mi {text-decoration: none; color: #FFFFFF; font-weight: bold; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px;}
+.miclass {text-decoration: none; color: #FC0303; font-weight: bold; font-family: arial, helvetica, sans-serif; font-size: small;}
+.cp {color: #0033CC; font-weight: bold; font-family: verdana, arial, helvetica, sans-serif; font-size: 12px;}
+.ct {color: #000000; font-family: verdana, arial, helvetica, sans-serif; font-size: 12px;}
+</style></head><body bgcolor="#ffffff">
+<!--- OAS SETUP start -->
+<script language="JavaScript">
+//configuration
+OAS_url = 'http://ads.cleveland.com/RealMedia/ads/';
+OAS_sitepage = 'www.cleveland.com/visit/index.ssf';
+OAS_listpos = "SponsorLeft,BannerTop,SponsorRight,Sponsor1,Tile1,Tile2,SkyScraper,TxtLink1,TxtLink2,TxtLink3,Popup";
+
+OAS_query = '/recreation/more/metroparks.html';
+OAS_target = '_top'; //end of configuration
+</script>
+
+<script language="JavaScript">
+<!-- -->
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+  document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+  document.write('<IMG SR' + 'C="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+}
+//-->
+</script>
+<script language="JavaScript1.1">
+<!-- -->
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+  OAS_version = 10;
+if (OAS_version >= 11)
+  document.write('<SCRIPT LANGUAGE=JavaScript1.1 SR' + 'C="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://ads.cleveland.com/RealMedia/ads/adstream_mjx.ads/www.cleveland.com/visit/index.ssf/1953024064@SponsorLeft,BannerTop,SponsorRight,Sponsor1,Tile1,Tile2,SkyScraper,TxtLink1,TxtLink2,TxtLink3,Popup?/recreation/more/metroparks.html"></script><script language="JavaScript1.1" src="http://ads.cleveland.com/RealMedia/ads/adstream_mjx.ads/www.cleveland.com/visit/index.ssf/1938126513@SponsorLeft,BannerTop,SponsorRight,Sponsor1,Tile1,Tile2,SkyScraper,TxtLink1,TxtLink2,TxtLink3,Popup?/recreation/more/metroparks.html"></script>
+<script language="JavaScript">
+<!-- -->
+document.write('');
+function OAS_AD(pos) {
+  if (OAS_version >= 11)
+    OAS_RICH(pos);
+  else
+    OAS_NORMAL(pos);
+}
+//-->
+</script>
+<!--- OAS SETUP end -->
+<table border="0" cellpadding="0" cellspacing="0" width="763">
+<tbody><tr valign="top">
+<td rowspan="2" width="145"><a href="/"><img src="/images/toprail/logo.gif" border="0" width="145" height="90"></a></td>
+<td rowspan="2" width="12"><img src="/images/spacer.gif" width="2" height="1" hspace="5"></td>
+<td colspan="3" width="606"><table bgcolor="#9eaaab" border="0" cellpadding="0" cellspacing="0" width="606">
+<tbody><tr><td colspan="3" width="606"><img src="/images/spacer.gif" width="1" height="1"></td></tr>
+<tr><td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
+<td align="right" bgcolor="#e9fdfd" width="604"><a href="/affiliate_media/with.map"><img src="/images/toprail/with.gif" ismap="ismap" border="0" width="186" height="25"></a><a href="/newspapers/"><img src="/images/toprail/newspaper.gif" border="0" width="197" height="25"></a></td>
+<td width="1"><img src="/images/spacer.gif" width="1" height="1"></td></tr>
+<tr><td colspan="3" width="606"><img src="/images/spacer.gif" width="1" height="1"></td></tr></tbody></table><img src="/images/spacer.gif" vspace="2" width="1" height="1"></td></tr>
+<tr class="banner_rail">
+<td width="130">
+<!--- OAS AD 'SponsorLeft' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('SponsorLeft');
+//-->
+</script>
+<!--- OAS AD 'SponsorLeft' end -->
+
+</td>
+	<td width="8"><img src="/images/spacer.gif" vspace="29" width="2" height="2" hspace="3"></td>
+	<td width="468">
+<!--- OAS AD 'BannerTop' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('BannerTop');
+//-->
+</script>
+<!--- OAS AD 'BannerTop' end -->
+
+</td></tr>
+</tbody></table><img src="/images/spacer.gif" vspace="2" width="1" height="1"><br>
+
+
+<table style="background-color: rgb(0, 27, 106); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; font-family: Arial,sans-serif; margin-bottom: 26px;" border="0" cellpadding="0" cellspacing="0" width="763">
+<tbody><tr valign="middle">
+<td style="padding: 6px 9px;" width="604">
+<form action="http://search.cleveland.com/sp" method="get"><input name="aff" value="100" type="hidden">
+<a href="http://search.cleveland.com/"><img src="http://www.cleveland.com/images/branding/newsearch_275x22.gif" align="absmiddle" border="0" width="275" height="22"></a> &nbsp;
+<input name="keywords" style="width: 190px;" type="text">
+<input value="search" src="http://www.cleveland.com/images/branding/go.gif" align="absmiddle" width="52" height="22" type="image"> &nbsp;
+</form>
+</td>
+<td style="padding: 6px 9px; color: rgb(247, 177, 122);" align="right" width="159">
+<a href="/rss/"><img src="http://www.cleveland.com/images/branding/rss.gif" align="absmiddle" border="0" width="63" height="22"></a><kw class="krdwrd-tag-1"> |
+</kw><a href="/siteindex/"><img src="http://www.cleveland.com/images/branding/siteindex.gif" align="absmiddle" border="0" width="56" height="22"></a>
+</td>
+</tr>
+</tbody></table>
+
+
+<table class="contbl_b" border="0" cellpadding="0" cellspacing="0" width="763">
+<tbody><tr valign="top">
+
+<td class="cw" style="background-color: rgb(255, 247, 184);" width="428">
+
+	<div style="padding: 16px; background-color: rgb(254, 220, 85);"></div>
+
+	
+	<div style="background-color: rgb(255, 247, 184); margin-bottom: 7px;">
+	<img src="/images/visit/masthead.gif" width="428" height="34">
+	 <div style="margin: 3px 8px 10px;">
+	 	
+  <font size="+2"><b><kw class="krdwrd-tag-2">Cleveland Metroparks</kw></b></font><p>
+  <i><b><kw class="krdwrd-tag-1">Click for specific activity information</kw></b></i><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/biking.html"><kw class="krdwrd-tag-1">Biking</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/hiking.html"><kw class="krdwrd-tag-1">Hiking</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/ccski.html"><kw class="krdwrd-tag-1">Cross-Country Skiing</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/fishing.html"><kw class="krdwrd-tag-1">Fishing</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/icefishing.html"><kw class="krdwrd-tag-1">Ice Fishing</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/iceskate.html"><kw class="krdwrd-tag-1">Ice Skating</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/sled.html"><kw class="krdwrd-tag-1">Sledding and Tobogganing</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/golf/"><kw class="krdwrd-tag-1">Golf</kw></a><br>
+<br clear="all">
+</p><p>
+
+<!-- body text -->              
+<a name="info"><b><font size="+2"><kw class="krdwrd-tag-2">General Park Information</kw></font></b></a></p><p>
+ 
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#bedford"><kw class="krdwrd-tag-1">Bedford Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#bigcreek"><kw class="krdwrd-tag-1">Big Creek Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#bradley"><kw class="krdwrd-tag-1">Bradley Woods Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#brecksville"><kw class="krdwrd-tag-1">Brecksville Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#brookside"><kw class="krdwrd-tag-1">Brookside Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#cleveland"><kw class="krdwrd-tag-1">Cleveland Metroparks Zoo and Rainforest</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#euclid"><kw class="krdwrd-tag-1">Euclid Creek Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#garfield"><kw class="krdwrd-tag-1">Garfield Park</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#hinckley"><kw class="krdwrd-tag-1">Hinckley Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#huntington"><kw class="krdwrd-tag-1">Huntington Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#mill"><kw class="krdwrd-tag-1">Mill Stream Run</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#nchagrin"><kw class="krdwrd-tag-1">North Chagrin Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#ohio"><kw class="krdwrd-tag-1">Ohio &amp; Erie Canal Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#rocky"><kw class="krdwrd-tag-1">Rocky River Reservation</kw></a><br>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="/visit/index.ssf?/recreation/more/metroparks.html#schagrin"><kw class="krdwrd-tag-1">South Chagrin Reservation</kw></a>
+<br>
+</p><p>
+<br><a name="bedford"></a>
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Bedford Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+Entrances at Button Rd., Gorge Parkway, and Overlook Lane off Egbert and Dunham.</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br>
+</p><p><kw class="krdwrd-tag-3">
+Hours: Daily 6 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free</kw><br><br><kw class="krdwrd-tag-3">
+Features: All-purpose trails, Tinkers Creek Gorge Scenic Overlook and Bridal Falls, Shawnee Hills Golf Course, 6 picnic areas</kw><br><br><kw class="krdwrd-tag-3">
+Others: Food nearby, parking, public transportation </kw><br>
+<br><kw class="krdwrd-tag-3">
+Bedford Reservation is home to a local National Natural Landmark, Tinkers Creek Gorge. The gorge, a 140-foot steep-walled formation, offers the hiker quite a sight in the spring as it overflows with ferns, mosses, lichens, liverworts and wildflowers. Bedford's all-purpose trails give bikers and hikers varying degrees of difficulty. In 1993, a 20-mile trail of crushed limestone was added to lead hikers along old canal routes. Bedford Reservation is also home to Stumpy Basin, an ecological wetland. </kw></p><p>
+<br><a name="bigcreek"></a>
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Big Creek Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+Big Creek Pkwy. (Between Brookpark Road and Valley Pkwy, parallel to Pearl Road)</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br>
+</p><p><kw class="krdwrd-tag-3">
+Hours: Daily 6 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free</kw><br><br><kw class="krdwrd-tag-1">
+Features: All-purpose trails (including cross-country ski trails), three picnic areas with grills and shelters, ball fields, Lake Isaac Waterfowl Sanctuary, 3 ponds and Lake Abram, sledding at Memphis Picnic Area and Snow Road Picnic Area, and fishing at Beyer's Pond. </kw><br><br><kw class="krdwrd-tag-3">
+Others: Parking, food nearby, public transportation, Strollers</kw><br>                        <br><kw class="krdwrd-tag-3">
+Big Creek is home to one of Northeast Ohio's natural basins, Lake Isaac, a three-acre lake formed by glacial movements. Located between Fowles Road and Main St. in Middleburg Heights, Lake Isaac which attracts migrating birds and ducks, is a must-see for bird lovers. While it serves as a waterfowl refuge, Big Creek also attracts a variety of other animals. Deer, fox and opossum are also frequent visitors to the park. </kw></p><p>
+<br><a name="bradley"></a>
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Bradley Woods Reservation</kw></b></font><br><kw class="krdwrd-tag-1">Bradley Road (S. of Center Ridge Road)</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw></p><p><kw class="krdwrd-tag-3">
+Hours: Daily 6 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free</kw><br><br><kw class="krdwrd-tag-3">
+Features: Short hiking trails, wildlife areas, fishing, ice fishing, picnic area, small playground</kw><br><br><kw class="krdwrd-tag-3">
+Others: Food nearby, parking, public transportation</kw><br>
+<br><kw class="krdwrd-tag-3">
+Known as Cleveland Metroparks only swamp forest, Bradley Woods Reservation provides visitors with views of wetland foliage and spring wildflowers. This park thrives because it is on 350-million-year-old sandstone that causes soil to hold the moisture that creates the swamp-forest environment. Unfortunately, the moisture also attracts bugs and mosquitoes. A trip through Bradley Woods might be best during the fall, when there are fewer bugs and beautiful red maples, sour gums, yellow birches, and pine oaks. </kw></p><p>
+
+<a name="brecksville"></a>
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Brecksville Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+Chippewa Creek Drive &amp; Valley Parkway</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br><br><kw class="krdwrd-tag-3">
+Hours: Daily 6 a.m.-11 p.m.; Nature Center 9:30 a.m.-5 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free, nominal fee for special programs</kw><br><br><kw class="krdwrd-tag-1">
+Features: Baseball fields, sledding, eight picnic areas, Sleepy Hollow Golf course, Squire Ridge Historical Museum, Brecksville Stables and Nature Center</kw><br><br><kw class="krdwrd-tag-3">
+Others: Parking, picnic areas</kw><br>
+<br><kw class="krdwrd-tag-3">
+Brecksville Reservation stands adjacent to the Cuyahoga Valley National Recreation Area. The reservation, cut by seven separate valleys, features beautiful trails. To the northern end, Chippewa Creek cuts through a huge gorge, formed 12,000 years ago. Large rocks from northern Canada also remain behind in the gorge and park. Deer Lick Cave, a rock overhang composed of erosion-resistant Berea sandstone, is not to be missed. The fall foliage is beautiful in all of Brecksville, but especially from the Chippewa Creek Gorge Scenic Overlook.</kw></p><p>
+</p><p>
+
+<b><font color="#006c00" size="+1"><kw class="krdwrd-tag-2">Brecksville Stables</kw></font><br></b><kw class="krdwrd-tag-1">
+11921 Parkview Drive, Brecksville Reservation</kw><br><kw class="krdwrd-tag-1">
+(440) 526-6767</kw><br><br><kw class="krdwrd-tag-3">
+Features: Horseback riding lessons, Pony Rides and Pony Camp</kw><br>
+<br>
+<b><font color="#006c00" size="+1"><kw class="krdwrd-tag-2">Brecksville Nature Center</kw></font></b> <br><kw class="krdwrd-tag-1">
+Brecksville Reservation Rt. 82 entrance</kw><br><kw class="krdwrd-tag-1">
+(440) 526-1012</kw><br><br><kw class="krdwrd-tag-3">
+Hours: 9:30 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free, nominal fee for special programs
+</kw></p><p>
+
+
+<a name="brookside"></a>
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Brookside Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+Ridge Road and W. 25th St. north of Memphis Avenue</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br><br><kw class="krdwrd-tag-3">
+Hours:  Daily 6 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free</kw><br><br><kw class="krdwrd-tag-3">
+                        Features:  Baseball, soccer and football fields, picnicing, all-purpose trail, adjacent to Zoo</kw><br><br><kw class="krdwrd-tag-3">
+                      Others: Food nearby, parking</kw><br>
+                        <br><kw class="krdwrd-tag-3">
+Brookside Reservation was one of Cleveland's oldest neighborhood parks and a former center  for much of the city's sports and recreation competitions. Historic baseball diamonds from the turn of the century still host play today.</kw><br><br><br>
+
+            
+<br>
+
+<a name="cleveland"></a>
+
+
+
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Cleveland Metroparks Zoo and Rainforest</kw></b></font><br><kw class="krdwrd-tag-1">
+
+3900 Wildlife Way</kw><br><kw class="krdwrd-tag-1">
+(216) 661-6500</kw><br>
+</p><p><kw class="krdwrd-tag-1">
+
+
+Hours:  Cleveland Metroparks Zoo &amp; The RainForest open 10 a.m. - 5 p.m.
+daily with extended summer weekend hours. Closed Christmas Day and New
+Year's Day. 
+</kw></p><p><kw class="krdwrd-tag-3">
+
+
+Admission: $6 for adults ages 12 and older, $4 for children ages
+2-11, and under age 2 is free.  Members are always free.  There is no charge
+for parking.
+
+ </kw></p><p><kw class="krdwrd-tag-3">
+As the seventh oldest zoo in the United States, Cleveland Metroparks Zoo has
+a history as rich as any Cleveland-area institution. One of the largest
+urban zoos in the country, located only 5 minutes from downtown, is home to
+the largest primate collection in North America. 3300 animals roam the Zoo's
+168 rolling, wooded acres. Experience the wildlife of The RainForest, the
+mystery of Wolf Wilderness, and the excitement of Australian Adventure.
+Visit Cleveland Metroparks Zoo and find a great deal to do!</kw><br><br>
+
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="http://clemetzoo.com/"><kw class="krdwrd-tag-1">Visit the Cleveland Metroparks Zoo website</kw></a>
+
+
+                
+<br><br><br><br>
+
+
+
+<a name="euclid"></a>
+
+
+
+                        <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Euclid Creek Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+
+Euclid Creek Parkway off Highland Rd. and Monticello Blvd..</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br>
+</p><p><kw class="krdwrd-tag-3">
+
+
+                       Hours:  Daily 6 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                        Price: Free</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                        Features:  Trails, five picnic areas, ball fields, and a quarry</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                      Others: Food nearby, parking</kw><br>
+
+
+
+                        <br><kw class="krdwrd-tag-3">
+
+
+
+                        Euclid Creek is home to the only remaining bluestone in the area. Visitors can see exposed bluestone along the all-purpose trails, or 400-million-year-old shale to the left of Euclid Creek. Near the end of the main trail, at Bluestone Road, houses made completely of bluestone overlook the creek. Across from these houses is the Quarry Picnic Area, which runs through the Euclid Creek. The interesting ripples marked in the bluestone were formed millions of years ago when inland sea covered Ohio.</kw><br><br><br>
+     <br>
+<a name="garfield"></a>
+                       <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Garfield Park Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+Garfield Park Drive off Broadway Ave. and Turney Rd.</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br><br><kw class="krdwrd-tag-3">
+Hours:  Daily 6 a.m.-11 p.m.; Nature Center 9:30 a.m.-5 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+ Price: Free</kw><br><br><kw class="krdwrd-tag-3">
+Features:  Smaller park, public garden, 4 picnic areas, wildlife preserve, and nature center</kw><br><br><kw class="krdwrd-tag-3">
+Others: Parking and picnic areas</kw><br>
+                     <br><kw class="krdwrd-tag-3">
+                  Garfield Park Reservation is a great place to take younger children in Cleveland Metroparks, because it is one of the smaller parks. Be sure to visit the Iron Spring Wildlife Preserve. Located in the southwest portion of the park, the wildlife preserve is full of waterfowl, birds, trees and wildlife. The wildlife preserve is named after a once gushing Iron Spring, which has slowed now to a trickle. Early visitors to this area believed that the dark-rusty water from the spring had healing effects. Today, the water is not drinkable, but it does color the nearby rocks and soil.</kw></p><p>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="http://www.clemetparks.com/pdf/GarfieldPark.pdf"><kw class="krdwrd-tag-1">View Garfield Park Reservation map</kw></a>
+</p><p>
+
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Garfield Park Nature Center</kw></b></font><br><kw class="krdwrd-tag-1">
+11350 Broadway Ave.</kw><br><kw class="krdwrd-tag-1">
+(216) 341-3152</kw><br><br><kw class="krdwrd-tag-3">
+Hours:  Daily 6 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free</kw><br><br><kw class="krdwrd-tag-3">
+
+Garfield Park Reservation is home to the Garfield Nature Center, which houses many live animals: turtles, fish, frogs, and snakes. Programs are led by naturalists and include short hikes and stories about animals and nature crafts.</kw><br><br>
+</p><p>           
+<br>
+<a name="hinckley"></a>
+
+                        <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Hinckley Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+Bellus Road in Hinckley Township</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br>
+</p><p><kw class="krdwrd-tag-3">
+                       Hours:  Daily 6 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+                        Price: Free, minimal fee for Ledge Pool</kw><br><br><kw class="krdwrd-tag-3">
+                        Features:  Hinckley Lake, Hinckley Boathouse, Whipp's Ledges, Worden Heritage Homestead, Ledge Pool &amp; Recreation Area, all-purpose trail, eight picnic areas with grills and shelters, Buzzard Roost. </kw><br><br><kw class="krdwrd-tag-3">
+                      Others: Food nearby, parking</kw><br>
+                        <br><kw class="krdwrd-tag-3">
+Hinckley Reservation is the site of the annual "Return of the Buzzards." The reservation offers fishing, swimming, rock climbing (permit required), and miles of all-purpose and bridle trails.  Located in Medina County, the reservation is Cleveland Mertoparks most secluded and varied in terrain.</kw><br><br><br>
+
+            
+<br>
+
+
+<a name="huntington"></a>
+
+
+
+                        <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Huntington Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+
+
+Porter Creek Drive off Lake Road</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br><br><kw class="krdwrd-tag-3">
+                        Hours: Daily 6 a.m.-11 p.m </kw><br><kw class="krdwrd-tag-3">
+
+
+
+                         Free</kw><br><br><kw class="krdwrd-tag-1">
+
+
+
+                        Features:  Hiking trails, baseball fields, sledding, Lake Erie Nature &amp; Science Center, Huntington Beach, 3 picnic areas</kw><br><br><kw class="krdwrd-tag-1">
+
+
+
+                        Others: Picnic tables, grills, playground, bathhouse</kw><br>
+
+
+
+                        <br><kw class="krdwrd-tag-3">
+
+
+
+                        At this reservation, named after Cleveland philanthropist and industrialist John Huntington, visitors can see a vineyard and botanical park which pre-date the current park. Along the trails, visitors can also see the Huntington Water Tower, which once pumped water into Huntington's grape fields. Huntington Reservation also has Huntington Beach, which provides fishing and swimming in the summer. The Lake Erie Nature and Science Center exhibits a wildlife rehabilitation program and the Schuele Planetarium.</kw><br><kw class="krdwrd-tag-3">
+                        Trails that wind through ravines, woods and along the sandy beach make this a reservation with some of the most varied terrain in Cleveland Metroparks. </kw><br><br><br>
+</p><p>
+
+
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Huntington Beach</kw></b></font><br><kw class="krdwrd-tag-1">
+Huntington Reservation</kw><br><br><kw class="krdwrd-tag-3">
+
+Hours: 11 a.m.-9 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free</kw><br><br><kw class="krdwrd-tag-3">
+Features: Swimming area open Memorial Day through late August, lifeguards, changing rooms.
+
+
+
+                        </kw><br>
+
+
+
+
+
+
+                
+<br>
+</p><p>
+
+
+<a name="mill"></a>
+
+
+
+                        <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Mill Stream Run Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+
+Valley Parkway off Bagley Rd.</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br><br><kw class="krdwrd-tag-3">
+
+                        Hours:  </kw><b><kw class="krdwrd-tag-3">Park:</kw></b><kw class="krdwrd-tag-3"> Daily 6 a.m.-11 p.m.; </kw><b><kw class="krdwrd-tag-3">Chalet:</kw></b><kw class="krdwrd-tag-3"> November through February, Thursday 6-10 p.m., Friday 6-10:30 p.m., Saturday 10 a.m.-10:30 p.m. and Sunday noon-10 p.m.; </kw><b><kw class="krdwrd-tag-3">Lake:</kw></b><kw class="krdwrd-tag-3"> 9 a.m.-9 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                         Price: Free, fees for hayrides and tobogganing </kw><br><br><kw class="krdwrd-tag-1">
+
+
+
+                        Features:  Trails for hikers and cross country skiers, picnic areas, grills, playground, sand volleyball court, Chalet with fireplace, boating, fishing and swimming. Paddle boats can be rented at Wallace Lake Concessions (off Valley Parkway, south of Bagley Road, (440) 826-1682) from Memorial Day to Labor Day. In winter, there is skating on both lakes. Wallace Lake is lit at night. </kw><br>
+<br><kw class="krdwrd-tag-3">
+
+
+                        Others: Food stand, parking</kw><br>
+
+
+   <br><kw class="krdwrd-tag-3">
+
+
+
+                        Mill Stream Run is named because several fast streams flowed down to power the sawmills of the early settlers. Today, the streams have lost their power and their original function, but not their beauty. Located off of Rt. 82 and Valley Parkway, Mill Stream Run covers a variety of terrain to accommodate hikers and cross country skiers. Hayrides and a hoedown celebration are offered in October. Inside the Chalet, two large stone fireplaces heat up a lounge with a big-screen TV. Baldwin and Wallace lakes offer boating, fishing and swimming. Besides nine picnic areas, Mill Stream boasts a pair of 1,000-foot toboggan chutes open from November through February with or without snow.</kw><br><br><br>
+</p><p>
+
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Wallace Lake</kw></b></font><br><kw class="krdwrd-tag-1">
+Mill Stream Run Reservation </kw><br><kw class="krdwrd-tag-1">
+(440) 826-1682</kw><br><br><kw class="krdwrd-tag-3">
+Swimming Hours: 11 a.m.-7 p.m. 
+</kw></p><p>
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Chalet</kw></b></font><br><kw class="krdwrd-tag-1">
+Mill Stream Run Reservation </kw><br><kw class="krdwrd-tag-1">
+(440) 572-9990</kw><br><br><kw class="krdwrd-tag-3">
+Tobogganing Hours: December through February, Thursday 6-10 p.m., Friday 6-10:30 p.m., Saturday 12 p.m.-10:30 p.m. and Sunday noon-8 p.m.</kw></p><p>
+
+
+
+
+                
+
+
+
+
+<a name="nchagrin"></a>
+
+
+
+                        <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">North Chagrin Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+
+Buttermilk Falls Pkwy south of Chardon Road, W. of SOM Center Road</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br><br><kw class="krdwrd-tag-3">
+
+                        Hours:  Daily 6 a.m.-11 p.m.; Nature Center Sun - Thur 9:30 a.m.-5 p.m., Fri &amp; Sat 9:30 a.m.-8 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                       Price: Free</kw><br>
+<br><kw class="krdwrd-tag-1">
+
+
+                       Features:  All-purpose trails, fishing, ice fishing at Oxbow Lake, basketball court, ice skating (winter only, lit at night at Strawberry Pond and Oxbow Lagoon), 5 picnic areas, Manakiki Golf Course and North Chagrin Nature Center</kw><br><br><kw class="krdwrd-tag-3">
+                        Others: Strollers available, picnic areas, parking available</kw><br><br><kw class="krdwrd-tag-3">
+                        North Chagrin Reservation is located east of Rt. 91 in both Lake and Cuyahoga Counties. Featuring a waterfall and hilly terrain, a nature center, several ponds and a wildlife preserve, the reservation has something for everyone. North Chagrin Reservation offers a variety of trails, some paved, some hilly, and others moderately flat and unpaved. North Chagrin Nature Center is a modern nature center staffed by naturalists, who offer information about the park, nature programs and educational exhibits. Many of the ponds and marshes are great spots to bird-watch. The Sunset Wildlife Preserve provides homes for deer, pheasants, rabbits and many other animals.
+</kw></p><p>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="http://www.clemetparks.com/pdf/NChagrinMap.pdf"><kw class="krdwrd-tag-1">View North Chagrin Reservation map</kw></a>
+</p><p>
+
+
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">North Chagrin Nature Center</kw></b></font><br><kw class="krdwrd-tag-1">
+Sunset Lane entrance, North Chagrin Reservation</kw><br><kw class="krdwrd-tag-1">
+(440) 473-3370</kw><br><br><kw class="krdwrd-tag-3">
+Hours: 9:30 a.m.-5 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free</kw></p><p>
+
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">EarthWords Nature Shop</kw></b></font><br><kw class="krdwrd-tag-1">
+North Chagrin Reservation, Mayfield Village</kw><br><kw class="krdwrd-tag-1">
+(440) 449-0511</kw><br><br><kw class="krdwrd-tag-3">
+Hours: Wednesday - Saturday 10 a.m. to 4:45 p.m. and Sunday noon - 4:45 p.m. During the summer, daily 10 a.m. to 4:45 p.m.</kw></p><p>
+
+
+                 
+
+
+
+</p><p>           
+
+<br><br><br>
+             <br>
+<a name="ohio"></a>
+                       <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Ohio &amp; Erie Canal Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+Harvard Avenue to Rockside Road (entrance off East 94th Street)</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br><br><kw class="krdwrd-tag-3">
+Price: Free</kw><br><br><kw class="krdwrd-tag-1">
+Canal Way Center</kw><br><kw class="krdwrd-tag-1">E. 49th Street</kw><br><br><kw class="krdwrd-tag-1">(216) 206-1000</kw><br><br><kw class="krdwrd-tag-3">
+Hours: 9 a.m. to 5 p.m.</kw><br><br><kw class="krdwrd-tag-1">
+
+EarthWords Nature Shop</kw><br><kw class="krdwrd-tag-1">E. 49th Street</kw><br><br><kw class="krdwrd-tag-1">(216) 206-1003</kw><br><br><kw class="krdwrd-tag-3">
+Hours: Wednesday - Saturday 10 a.m. to 4:45 p.m. and Sunday noon - 4:45 p.m. During the summer, daily 10 a.m. to 4:45 p.m.</kw><br>
+                                               <br><kw class="krdwrd-tag-3">
+The reservation follows a portion of its namesake, the historic 309-mile Ohio &amp; Erie Canal.  The reservation offers scenic beauty, wildlife refuges, CanalWay Center, hiking trails, a 6.2-mile all-purpose trail, picnic areas and more.
+</kw></p><p>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="http://www.clemetparks.com/pdf/OECanalmap.pdf"><kw class="krdwrd-tag-1">Ohio &amp; Erie Canal Reservation map</kw></a>
+</p><p>  
+
+<br><br><br>
+          <br>
+<a name="rocky"></a>
+
+
+
+                        <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Rocky River Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+
+Valley Parkway from Detroit or Barrett Rd.</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw></p><p><kw class="krdwrd-tag-3">
+ Hours:  Daily 6 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                         Price: Free</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                        Features:  All purpose trails, ball fields, fishing, sledding hills, ice fishing, 3 golf courses, golf, Rocky River Stables, 10 picnic areas, wading pool. Emerald Necklace Marina provides a boat launch and trailer parking, and also sells bait and tackle. Well marked trails of the Rocky River Reservation are perfect for younger hikers. One short walk leads up a grand staircase for a great view of the Rocky River, another winds along the river. The Solar System walk is a 3/4 mile walk which combines scientific information on the planets with nature.</kw><br>
+<br><kw class="krdwrd-tag-3">
+
+
+                       Others: Food nearby, parking available</kw><br>
+
+
+
+                        <br><kw class="krdwrd-tag-3">
+
+
+
+                        One of the biggest reservations, Rocky River Reservation is a long narrow park, following the flow of the Rocky River. Visitors can expect to see many old cottonwoods, willows, and sycamores dotting the valley. Along the paved all-purpose trail, visitors can see massive shale cliffs that were cut by glaciers. Almost halfway into the hike, the trail leads to the Stinchcomb Memorial, which is dedicated to the founder of Cleveland Metroparks. The Emerald Necklace Marina provides a boat launch and sells bait, tackle and fishing supplies. Rocky River Nature Center offers a variety of outdoor, nature and historical programs.
+
+</kw></p><p>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="http://www.clemetparks.com/pdf/rrnorthmap.pdf"><kw class="krdwrd-tag-1">Rocky River Reservation Northern section map</kw></a>
+</p><p>  
+</p><p>
+<font color="#ff0000"><kw class="krdwrd-tag-1">»</kw></font> <a href="http://www.clemetparks.com/pdf/rrsouthmap.pdf"><kw class="krdwrd-tag-1">Rocky River Reservation Southern section map</kw></a>
+</p><p>  
+
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Emerald Necklace Marina</kw></b></font><br><kw class="krdwrd-tag-1"> 1500 Scenic Park, Rocky River Reservation</kw><br><kw class="krdwrd-tag-1">
+(216) 226-3030</kw><br><br><kw class="krdwrd-tag-3">
+
+Marina provides year-round boat storage and docking facilities. Cost varies depending on boat size.</kw><br><br>
+
+
+			<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Rocky River Nature Center</kw></b></font><br><kw class="krdwrd-tag-1">
+24000 Valley Parkway
+(440)734-6660.</kw><br><br><kw class="krdwrd-tag-3">
+Hours: 9:30 a.m. to 5:00 p.m.
+
+</kw></p><p>
+                        <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Rocky River Stables</kw></b></font><br><kw class="krdwrd-tag-1">
+19901 Puritas Road, Rocky River Reservation</kw><br><kw class="krdwrd-tag-1">
+(216) 267-2525</kw><br><br><kw class="krdwrd-tag-3">
+Features English riding classes, therapeutic pony rides and pony camp.</kw><br><br>
+
+                   
+
+
+
+                
+<br>
+
+
+
+<a name="schagrin"></a>
+
+
+
+                        <font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">South Chagrin Reservation</kw></b></font><br><kw class="krdwrd-tag-1">
+
+Sulphur Springs Drive off Miles Road and Hawthorn Pkwy off Richmond Rd.</kw><br><kw class="krdwrd-tag-1">
+(216) 635-3200</kw><br><br><kw class="krdwrd-tag-3">
+                    Hours:  Daily 6 a.m.-11 p.m.</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                         Price: Free, fee for special programs</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                        Features:  All-purpose trails, 6 picnic areas, Squaw Rock (a stone that was carved in the 19th century)</kw><br><br><kw class="krdwrd-tag-3">
+
+
+
+                        Others: Strollers, picnic area, parking available</kw><br>
+
+
+
+                        <br><kw class="krdwrd-tag-3">
+
+
+
+                     
+
+                        Visitors to this park can expect to see many tall oak, beech, 
+le and hickory trees as well as spring wildflowers. Designated a State River in 1979, the Chagrin River provides scenery and beautifully wooded riversides. The most interesting feature of South Chagrin Reservation is Squaw Rock, which was carved in 1885 by a Chagrin Falls blacksmith. One side of the rock depicts a Native American woman surrounded by various animals, while the other side is filled with modern depictions of the Capitol building in Washington D.C., and a log cabin. One explanation for the rock's meaning is that it is a depiction of America's history, from the time of Native Americans to modern America. North of Squaw Rock is a pathway leading down natural steps to the Chagrin River Waterfall, where visitors may stop and have lunch. South Chagrin Reservation is used by the Cleveland Polo Club for horse shows, and there is even a polo field on the northeast side of the park.  There are music concerts each Sunday in the month of July.  You can enjoy a variety of music from Appalacian to Blue Grass from 6-8 p.m. on the lawn at Look About Lodge.</kw><br><br>
+</p><p>
+
+<font color="#006c00" size="+1"><b><kw class="krdwrd-tag-2">Look About Lodge</kw></b></font><br><kw class="krdwrd-tag-1">
+Miles Rd., South Chagrin Reservation</kw><br><kw class="krdwrd-tag-1">
+(440) 247-7075</kw><br><br>
+
+
+
+
+                        
+
+
+   
+
+
+
+                
+
+
+
+
+	 </p></div>
+	</div>
+	</td>
+<td class="cw" width="10"><img src="/images/spacer.gif" width="1" height="1"></td>
+<td class="cw" width="120">
+<div style="padding: 16px;"></div>
+<div class="insd"></div>
+<div class="sr">
+<!--- OAS AD 'SponsorRight' begin -->
+<div class="SponsorRight">
+<script language="JavaScript">
+<!--
+OAS_AD('SponsorRight');
+//-->
+</script>
+</div>
+<!--- OAS AD 'SponsorRight' end -->
+
+</div>
+	
+<div class="inside">
+<div><kw class="krdwrd-tag-1">INSIDE</kw></div>
+<a href="/visit/"><b><kw class="krdwrd-tag-1">Visitor Essentials</kw></b></a><br><kw class="krdwrd-tag-1">
+» </kw><a href="/events"><kw class="krdwrd-tag-1">Arts &amp; Events</kw></a><br><kw class="krdwrd-tag-1">
+» </kw><a href="/music"><kw class="krdwrd-tag-1">Concerts</kw></a><br><kw class="krdwrd-tag-1">
+» </kw><a href="/dining"><kw class="krdwrd-tag-1">Dining &amp; Bars</kw></a><br><kw class="krdwrd-tag-1">
+» </kw><a href="/goingout"><kw class="krdwrd-tag-1">Going Out Guides</kw></a><br><kw class="krdwrd-tag-1">
+» </kw><a href="/visit/index.ssf?/travel/more/rooms/index.html"><kw class="krdwrd-tag-1">Hotel Search</kw></a><br><kw class="krdwrd-tag-1">
+» </kw><a href="/maps"><kw class="krdwrd-tag-1">Maps &amp; Directions</kw></a><br><kw class="krdwrd-tag-1">
+» </kw><a href="/sports"><kw class="krdwrd-tag-1">Sports</kw></a>
+</div>
+
+
+	
+
+ <div class="box" style="border: 0px none; background-color: rgb(255, 255, 255);">
+	<b><kw class="krdwrd-tag-1">Related Sections</kw></b><br>
+	<a href="/visit"><img src="http://www.cleveland.com/images/visit/visitor_essentials.gif" border="0" vspace="13" width="103" height="46"></a><br><kw class="krdwrd-tag-1">
+	This symbol appears on visitor-friendly pages. You can always click it to get back here. 
+ </kw></div>
+
+
+
+ 	<div style="margin: 10px 0px;">
+<b class="teal"><kw class="krdwrd-tag-1">Site Tools</kw></b>
+<table class="st" border="0" cellpadding="0" cellspacing="0" width="120">
+<tbody><tr>
+<td class="L" width="120"><a href="/sendthispage/sendthispage.ssf" onclick="POP('/sendthispage/sendthispage.ssf','adv_window',490,580,'resizable'); return false;"><img src="http://www.cleveland.com/images/sitetools/email.gif" class="i" align="absmiddle" border="0" width="17" height="15"><kw class="krdwrd-tag-1">E-mail This</kw></a></td>
+</tr>
+<tr>
+<td class="L" width="120">
+<a href="/printer/printer.ssf?/recreation/more/metroparks.html" onclick="POP('/printer/printer.ssf?/recreation/more/metroparks.html','print_window',640,400,'scrollbars,status,menubar,location,resizable'); return false;">
+<img src="http://www.cleveland.com/images/sitetools/print.gif" class="i" align="absmiddle" border="0" width="17" height="15"><kw class="krdwrd-tag-1">Print This</kw></a></td>
+</tr>
+<tr>
+<td class="L" width="120"><a href="/search/"><img src="http://www.cleveland.com/images/sitetools/search.gif" class="i" align="absmiddle" border="0" width="17" height="15"><kw class="krdwrd-tag-1">Search Site</kw></a></td>
+</tr>
+<tr>
+<td width="120"><a href="http://update.cleveland.com/adv_cleveland/newsletters/cleve/subscribe.htm"><img src="http://www.cleveland.com/images/sitetools/newsletters.gif" class="i" align="absmiddle" border="0" width="17" height="15"><kw class="krdwrd-tag-1">Newsletters</kw></a></td>
+</tr>
+</tbody></table>
+</div>
+<b class="teal"><kw class="krdwrd-tag-1">Speak Up!</kw></b>
+<div class="navbox">
+<div class="chad">
+<p class="c"><kw class="krdwrd-tag-1"> • </kw><a href="/forums/travel"><kw class="krdwrd-tag-1">Share travel tips and advice</kw></a></p>
+</div>
+</div>
+</td>
+<td class="cw" width="10"><img src="/images/spacer.gif" width="1" height="1"></td>
+<td align="center" bgcolor="#eaeaea" width="195"><img src="/images/spacer.gif" vspace="88" width="195" height="2"><br><table border="0" cellpadding="3" cellspacing="2" width="190">
+<tbody><tr><td bgcolor="#e3fef0" width="190"><kw class="krdwrd-tag-1">» </kw><a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.cleveland.com/////ProxyLink/CLEVELANDLIVE/CLICK_CL10/FindShoppingServices_click.html/" target="_top"><font color="#000000" face="arial,sans-serif" size="1"><kw class="krdwrd-tag-1">Find shopping, services and savings</kw></font></a>
+</td></tr>
+</tbody></table><img src="/images/spacer.gif" vspace="2" width="1" height="1"><br>
+<!--- OAS AD 'Sponsor1' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('Sponsor1');
+//-->
+</script>
+<!--- OAS AD 'Sponsor1' end -->
+<img src="/images/spacer.gif" vspace="5" width="190" height="1"><br>
+		
+		
+<!--- OAS AD 'Tile1' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('Tile1');
+//-->
+</script>
+<!--- OAS AD 'Tile1' end -->
+<img src="/images/spacer.gif" vspace="5" width="190" height="1"><br>
+
+<!--- OAS AD 'Tile2' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('Tile2');
+//-->
+</script>
+<!--- OAS AD 'Tile2' end -->
+<img src="/images/spacer.gif" vspace="5" width="190" height="1"><br>
+
+<!--- OAS AD 'SkyScraper' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('SkyScraper');
+//-->
+</script>
+<!--- OAS AD 'SkyScraper' end -->
+<img src="/images/spacer.gif" vspace="5" width="190" height="1"><br>
+
+	<table border="0" cellpadding="3" cellspacing="0" width="190">
+	<tbody><tr><td align="center" bgcolor="#b4c0cd" width="190"><font color="#ffffff" face="arial,sans-serif" size="2"><b><kw class="krdwrd-tag-1">FROM OUR ADVERTISERS</kw></b></font></td></tr>
+	<tr bgcolor="#ffffff"><td width="190"><img src="/images/spacer.gif" align="left" vspace="20" width="1" height="1"><font face="arial,sans-serif" size="1">
+	
+<!--- OAS AD 'TxtLink1' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('TxtLink1');
+//-->
+</script>
+<!--- OAS AD 'TxtLink1' end -->
+
+<br>
+
+<!--- OAS AD 'TxtLink2' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('TxtLink2');
+//-->
+</script>
+<!--- OAS AD 'TxtLink2' end -->
+
+<br>
+
+<!--- OAS AD 'TxtLink3' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('TxtLink3');
+//-->
+</script>
+<!--- OAS AD 'TxtLink3' end -->
+
+
+	</font></td></tr>
+ 	</tbody></table><img src="/images/spacer.gif" vspace="2" width="1" height="1"><br>
+	<table border="0" cellpadding="3" cellspacing="2" width="190">
+	<tbody><tr><td align="center" bgcolor="#e3fef0" width="190"><font face="arial,sans-serif" size="2"><b><kw class="krdwrd-tag-1">• </kw><a href="/mediakit"><font color="#000000"><kw class="krdwrd-tag-1">Advertise With Us</kw></font></a></b></font><br></td></tr>
+ 	</tbody></table><img src="/images/spacer.gif" vspace="2" width="1" height="1"><br>
+	<table border="0" cellpadding="3" cellspacing="0" width="190">
+	<tbody><tr><td align="center" bgcolor="#b4c0cd" width="190"><font color="#ffffff" face="arial,sans-serif" size="2"><b><kw class="krdwrd-tag-1">OUR AFFILIATES</kw></b></font></td></tr>
+	<tr bgcolor="#ffffff"><td align="center" width="190"><a href="/affiliates/"><img src="/images/homepage/affiliates_110x25.gif" border="0" vspace="3" width="110" height="25"></a></td></tr>
+</tbody></table><img src="/images/spacer.gif" vspace="2" width="1" height="1"></td>
+</tr>
+<tr>
+<td colspan="5" align="center" width="763"><img src="/images/spacer.gif" vspace="7" width="1" height="1"><br><font face="arial,sans-serif" size="1">
+<table bgcolor="#9c9c9c" border="0" cellpadding="0" cellspacing="0" width="416">
+<tbody><tr>
+<td colspan="3" width="416"><img src="http://www.cleveland.com/images/spacer.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td width="1"><img src="http://www.cleveland.com/images/spacer.gif" width="1" height="1"></td>
+<td align="center" bgcolor="#ffffce" width="414"><img src="http://www.cleveland.com/images/spacer.gif" vspace="2" width="1" height="1"><br><font face="arial,sans-serif" size="2"><b><a href="/classifieds/" target="_top"><kw class="krdwrd-tag-1">The Best Local Classifieds</kw></a><kw class="krdwrd-tag-1">:</kw></b> <a href="/jobs/" target="_top"><kw class="krdwrd-tag-1">Jobs</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/autos/" target="_top"><kw class="krdwrd-tag-1">Autos</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/realestate" target="_top"><kw class="krdwrd-tag-1">Real Estate</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/placead/" target="_top"><kw class="krdwrd-tag-1">Place An Ad</kw></a></font><br><img src="http://www.cleveland.com/images/spacer.gif" vspace="2" width="1" height="1"></td>
+<td width="1"><img src="http://www.cleveland.com/images/spacer.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td colspan="3" width="416"><img src="http://www.cleveland.com/images/spacer.gif" width="1" height="1"></td>
+</tr>
+</tbody></table><img src="http://www.cleveland.com/images/spacer.gif" vspace="3" width="1" height="1"><br><table border="0" cellpadding="0" cellspacing="5" width="510">
+<tbody><tr valign="top">
+<td width="143"><a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.cleveland.com/////ProxyLink/CLEVELANDLIVE/CLICK_CL08/PDNewspaperLogo_click.html/" target="_top"><img src="http://www.cleveland.com/images/footer/MissADay143_33.jpg" border="0" width="143" height="33"></a></td>
+<td width="367"><font face="arial,sans-serif" size="2"><kw class="krdwrd-tag-1">Receive 2 weeks FREE delivery of The Plain Dealer for complete Cleveland Cavaliers and Indians coverage!</kw><br><a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.cleveland.com/////ProxyLink/CLEVELANDLIVE/CLICK_CL08/SubscribeNow_click.html/" target="_top"><kw class="krdwrd-tag-1">Sign up now!</kw></a></font></td>
+</tr>
+<tr valign="top">
+<td width="143"><a href="http://www.cleveland.com/sun/subscribe/" target="_top"><img src="http://www.cleveland.com/images/footer/sun_logo.gif" border="0" width="143" height="33"></a></td>
+<td width="367"><font face="arial,sans-serif" size="2"><kw class="krdwrd-tag-1">Get either 2 or 6 weeks FREE when you subscribe to home delivery of Sun News!</kw><br><a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.cleveland.com/////Click/CLEVELANDLIVE/CLSun01_CL_Other_Click/click.html/" target="_top"><kw class="krdwrd-tag-1">Sign up now!</kw></a></font></td>
+</tr>
+</tbody></table>
+</font><hr size="1" width="530" noshade="noshade"><font face="arial,sans-serif" size="1"><img src="http://www.cleveland.com/images/spacer.gif" vspace="3" width="1" height="1"><br><font face="arial,sans-serif" size="1"><a href="/aboutus/" target="_top"><kw class="krdwrd-tag-1">About Us</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/contactus/" target="_top"><kw class="krdwrd-tag-1">Help/Feedback</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/mediakit/" target="_top"><kw class="krdwrd-tag-1">Advertise With Us</kw></a><br><img src="http://www.cleveland.com/images/spacer.gif" vspace="1" width="1" height="1"><br>
+<a href="/rss/"><img src="http://www.cleveland.com/images/footer/rss.gif" style="margin-top: 8px; margin-bottom: 7px;" border="0" width="89" height="16"></a>
+<br><kw class="krdwrd-tag-1">Use of this site constitutes acceptance of our </kw><a href="/useragreement/" target="_top"><kw class="krdwrd-tag-1">User Agreement</kw></a><kw class="krdwrd-tag-1"> and </kw><a href="/privacypolicy/" target="_top"><kw class="krdwrd-tag-1">Privacy Policy</kw></a> <br><kw class="krdwrd-tag-1">©2008 Cleveland Live, Inc. All Rights Reserved.</kw></font></font><p><table border="0" cellpadding="0" cellspacing="0" width="201">
+<tbody><tr>
+<td width="100"><a href="http://www.advance.net/" target="_top"><img src="http://www.cleveland.com/images/footer/advancelogo.gif" border="0" width="88" height="31"></a></td>
+<td bgcolor="#000000" width="1"><img src="http://www.cleveland.com/images/spacer.gif" width="1" height="1"></td>
+<td align="right" width="100"><a href="/" target="_top"><img src="http://www.cleveland.com/images/footer/affiliatelogo.gif" border="0" width="88" height="31"></a></td>
+</tr>
+</tbody></table>
+</p></td></tr>
+<tr>
+<td width="428">&nbsp;</td>
+<td width="10">&nbsp;</td>
+<td width="120">&nbsp;</td>
+<td width="10">&nbsp;</td>
+<td width="195">&nbsp;</td>
+</tr>
+</tbody></table>
+<map name="HNAVMAP"><area shape="rect" coords="0,0,51,21" href="/"><area shape="rect" coords="53,0,102,21" href="/news/"><area shape="rect" coords="103,0,152,21" href="/community/"><area shape="rect" coords="153,0,211,21" href="/sports/"><area shape="rect" coords="212,0,284,21" href="/business/"><area shape="rect" coords="285,0,349,21" href="/forums/"><area shape="rect" coords="350,0,458,21" href="/living/"><area shape="rect" coords="459,0,568,21" href="/entertainment/"><area shape="rect" coords="569,0,762,21" href="/classifieds/">
+         </map>
+<map name="CNAVMAP"><area shape="rect" coords="0,0,51,45" href="/jobs/" title="Jobs"><area shape="rect" coords="51,0,99,45" href="http://autos.cleveland.com/" title="Shop for autos"><area shape="rect" coords="99,0,195,45" href="http://realestate.cleveland.com/" title="Real Estate"><area shape="rect" coords="0,45,102,76" href="/classifieds/" title="All Classifieds"><area shape="rect" coords="102,45,194,76" href="/placead/" title="Place an Ad"><area shape="rect" coords="0,76,194,124" href="/shopcleveland/" title="Shopping"><area shape="rect" coords="0,124,194,144" href="http://businessfinder.cleveland.com/BL/Categories.aspx?advid=800107&amp;usecookie=1" title="Max Values">
+
+
+
+
+
+
+
+</map>
+<div id="NAVSPAN" style="position: absolute; top: 128px; left: 6px; height: 23px; width: 763px; background-color: rgb(255, 255, 255);">
+<layer width="763" height="23" bgcolor="#FFFFFF"><img src="http://www.cleveland.com/dhtml/hnavbar_class/images/hz_nav_image_whiteline.gif" usemap="#HNAVMAP" border="0" width="763" height="23"></layer></div>
+<div id="CLASSNAVSPAN" style="position: absolute; top: 151px; left: 574px; height: 150px; width: 195px; background-color: rgb(255, 255, 255);" class="menucursor">
+<layer width="195" height="150" bgcolor="#FFFFFF" class="menucursor"><img src="http://www.cleveland.com/dhtml/hnavbar_class/images/shopping5.gif" ismap="ismap" usemap="#CNAVMAP" border="0" width="195" height="150"></layer></div>
+<script langauge="javascript" src="http://www.cleveland.com/dhtml/hnavbar_class/scripts/hPosition.js"></script>
+
+<script langauge="javascript" src="http://www.cleveland.com/dhtml/hnavbar_class/scripts/hGlobal.js"></script>
+<script langauge="javascript" src="http://www.cleveland.com/dhtml/hnavbar_class/scripts/hObject.js"></script>
+<script language="javascript" src="http://www.cleveland.com/dhtml/hnavbar_class/scripts/hData.js"></script>
+<script langauge="javascript" src="http://www.cleveland.com/dhtml/hnavbar_class/scripts/hDHTML.js"></script>
+<script langauge="javascript">
+<!--//
+document.write(hNAVBAR.mk_menu());
+hNAVBAR = 0;
+clear_menus();
+//-->
+</script>
+<!--- OAS AD 'Popup' begin -->
+<script language="JavaScript">
+<!--
+OAS_AD('Popup');
+//-->
+</script>
+<!--- OAS AD 'Popup' end -->
+
+
+
+
+
+<!-- Visual Sciences Extra Tracking -->
+<script language="javascript">
+if (_pdata){ sendpdata(); }
+</script><script language="javascript" src="http://www.cleveland.com/dhtml/stats/track/vscap.js?Log=1&amp;tstamp=1233405922138&amp;page=https%3A//krdwrd.org/pages/dat/dumped/778&amp;vsbw=1024&amp;vsbh=1&amp;vssw=1024&amp;vssh=768&amp;ptitle=Visitor%20Essentials%3A%20Find%20out%20where%20to%20go%20and%20what%20to%20do%20while%20in%20Cleveland%20-%20cleveland.com&amp;vslc=85&amp;imgc=51&amp;adsc=0&amp;ads="></script><script language="javascript" src="http://www.cleveland.com/dhtml/stats/track/vscap.js?Log=1&amp;tstamp=1214826951595&amp;page=http%3A//www.cleveland.com/visit/index.ssf%3F/recreation/more/metroparks.html&amp;vsbw=1024&amp;vsbh=1&amp;vssw=1024&amp;vssh=768&amp;ptitle=Visitor%20Essentials%3A%20Find%20out%20where%20to%20go%20and%20what%20to%20do%20while%20in%20Cleveland%20-%20cleveland.com&amp;vslc=85&amp;imgc=51&amp;adsc=0&amp;ads="></script>
+<script language="javascript" type="text/javascript"> 
+  if ( (document.cookie).indexOf('v1st')>=0 && (document.cookie).indexOf('GTC=')<0 ) {
+    if ( (document.referrer).indexOf(document.domain)<0 ) { 
+    document.write('<img src="http://www.cleveland.com/cgi-bin/stats/verify.cgi?Log=1&v1st=' + VSgetCookie('v1st') + '" border="0" width="1" height="1">'); 
+    }
+  } 
+</script><img src="http://www.cleveland.com/cgi-bin/stats/verify.cgi?Log=1&amp;v1st=36B43F78FF5F91AA" border="0" width="1" height="1"> <noscript><kw> <img src="http://www.cleveland.com/cgi-bin/stats/verify.cgi?Log=1&javascript=false" border="0" width="1" height="1"> </kw></noscript> <script language="JavaScript">var tcdacmd="dt";</script>
+<script src="http://an.tacoda.net/an/12323/slf.js" language="JavaScript"></script><script src="http://anrtx.tacoda.net/rtx/r.js?cmd=ACV&amp;si=12323&amp;xs=3&amp;v=3.12&amp;cb=53774" language="JavaScript"></script>
+<!--- GEOIP -->
+<script>
+GeoIP_Cookie();
+</script>
+<!--- GEOIP END -->
+</body>

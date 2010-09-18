@@ -1,0 +1,201 @@
+<head><base href="http://thegossamerthread.bardicweb.com/?q=node/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Scroll Spotlight - Yardoz - World of the Unexpected | The Gossamer Thread</title>
+
+
+      
+    
+<base href="http://thegossamerthread.bardicweb.com/">
+<style type="text/css" media="all">@import "misc/drupal.css";</style>
+  <style type="text/css">
+    .trip-search-form input.form-submit {
+       margin-bottom: 1em;
+    }
+    .trip-search-more-link {
+      font-weight: bold;
+      font-style: italic;
+    }
+    .trip-search-excerpt {
+      font-weight: bold;
+    }
+  </style><script type="text/javascript" language="Javascript" src="modules/trip_search/popupcalendar/calendar.js"></script>
+
+    <style type="text/css" media="all">@import "themes/ColorSensitive/style.css";</style><!-- KJD: css fixes for IE --><!--[if IE]>
+        <link rel="stylesheet" type="text/css" href="kjd/ieHacks.css" />
+    <![endif]-->
+    
+    
+  <script type="text/javascript"> </script></head><body>
+
+<div id="header">
+      <div id="logo" style="position: absolute; left: 10px; top: 10px; z-index: 1;"><a href="?q=&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><img src="/themes/bardicweb/logo.gif" border="0"></a></div>
+  
+    <div id="menu">
+	<h1 class="site-name"><a href="./?PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title="Home"><kw class="krdwrd-tag-1">The Gossamer Thread</kw></a></h1>
+      <div id="secondary"></div>
+      <div id="primary"><center><hr>
+<a href="http://www.bardicweb.com"><kw class="krdwrd-tag-1">Bardic Web</kw></a><kw class="krdwrd-tag-1"> » </kw><a href="http://www.cafepress.com/bardicweb" title="Bardic Web's Online Store"><kw class="krdwrd-tag-1">Store</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="?q=trip_search&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-1">Search</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.bardicweb.com/?q=forum/275" title="How to files..."><kw class="krdwrd-tag-1">Help</kw></a> </center></div>
+    </div>
+</div>
+
+<table id="content" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td id="sidebar-left">
+      
+  <div class="block block-user" id="block-user-0">
+    <h2 class="title"><kw class="krdwrd-tag-1">User login</kw></h2>
+    <div class="content"><form action="?q=user/login&amp;destination=node%2F341" method="post"><input name="PHPSESSID" value="20f52866054afd9cf58c1f5e3d7d635e" type="hidden">
+<div class="user-login-block">
+<div class="form-item">
+ <label for="edit-name"><kw class="krdwrd-tag-1">Username:</kw></label><br>
+ <input maxlength="64" class="form-text" name="edit[name]" id="edit-name" size="15" value="" type="text">
+</div>
+<div class="form-item">
+ <label for="edit-pass"><kw class="krdwrd-tag-1">Password:</kw></label><br>
+ <input class="form-password" maxlength="64" name="edit[pass]" id="edit-pass" size="15" value="" type="password">
+</div>
+<input class="form-submit" name="op" value="Log in" type="submit">
+</div>
+
+</form>
+<div class="item-list"><ul><li><a href="?q=user/password&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title="Request new password via e-mail."><kw class="krdwrd-tag-1">Request new password</kw></a></li></ul></div></div>
+ </div>
+
+  <div class="block block-menu" id="block-menu-57">
+    <h2 class="title"><kw class="krdwrd-tag-1">The Gossamer Thread</kw></h2>
+    <div class="content"><div class="menu">
+<ul>
+<li class="leaf"><a href="?q=CurrentEdition&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Current Edition</kw></a></li>
+<li class="leaf"><a href="?q=Archives&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Archives</kw></a></li>
+
+</ul>
+</div></div>
+ </div>
+
+  <div class="block block-menu" id="block-menu-60">
+    <h2 class="title"><kw class="krdwrd-tag-1">The Quill Pen</kw></h2>
+    <div class="content"><div class="menu">
+<ul>
+<li class="leaf"><a href="?q=Quill&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Language and Writing Resources</kw></a></li>
+<li class="leaf"><a href="?q=HTML&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Graphics and  HTML Hints and Tips</kw></a></li>
+
+</ul>
+</div></div>
+ </div>
+
+  <div class="block block-menu" id="block-menu-62">
+    <h2 class="title"><kw class="krdwrd-tag-1">Role-Playing Resources</kw></h2>
+    <div class="content"><div class="menu">
+<ul>
+<li class="leaf"><a href="?q=RPResources&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Role-Playing Resources</kw></a></li>
+
+</ul>
+</div></div>
+ </div>
+
+  <div class="block block-menu" id="block-menu-65">
+    <h2 class="title"><kw class="krdwrd-tag-1">Thread Editors</kw></h2>
+    <div class="content"><div class="menu">
+<ul>
+<li class="leaf"><a href="?q=user/19&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Silverthorn Badb Catha</kw></a></li>
+<li class="leaf"><a href="?q=user/20&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Y'Roden D'Riel</kw></a></li>
+
+</ul>
+</div></div>
+ </div>
+
+  <div class="block block-menu" id="block-menu-68">
+    <h2 class="title"><kw class="krdwrd-tag-1">Thread Columnists</kw></h2>
+    <div class="content"><div class="menu">
+<ul>
+<li class="leaf"><a href="?q=user/32&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Callan Blackthorn</kw></a></li>
+<li class="leaf"><a href="?q=user/500&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Foalan Cian Ailill Niall</kw></a></li>
+<li class="leaf"><a href="?q=user/33&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Galain Alcarin</kw></a></li>
+<li class="leaf"><a href="?q=user/18&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Ghetsuhm Riker</kw></a></li>
+<li class="leaf"><a href="?q=user/1211&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Grymalkyn</kw></a></li>
+<li class="leaf"><a href="?q=user/839&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Raf Verde</kw></a></li>
+<li class="leaf"><a href="?q=user/1396&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Scoops</kw></a></li>
+<li class="leaf"><a href="?q=user/21&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Shadow Silverleaf</kw></a></li>
+<li class="leaf"><a href="?q=user/802&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Trix</kw></a></li>
+<li class="leaf"><a href="?q=user/17&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Willow Silverwing</kw></a></li>
+
+</ul>
+</div></div>
+ </div>
+
+  <div class="block block-user" id="block-user-1">
+    <h2 class="title"><kw class="krdwrd-tag-1">Navigation</kw></h2>
+    <div class="content"><div class="menu">
+<ul>
+<li class="leaf"><a href="?q=profile&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Member Listing</kw></a></li>
+<li class="leaf"><a href="?q=tracker&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-1">recent posts</kw></a></li>
+<li class="leaf"><a href="?q=admin/usersearch&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-1">user search</kw></a></li>
+
+</ul>
+</div></div>
+ </div>
+
+  <div class="block block-user" id="block-user-3">
+    <h2 class="title"><kw class="krdwrd-tag-1">Who's online</kw></h2>
+    <div class="content"><kw class="krdwrd-tag-1">There are currently 0 users and 8 guests online.</kw></div>
+ </div>
+
+    </td>
+    <td valign="top">
+       
+      <div id="main">
+        <div class="breadcrumb"><a href="?q=&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-1">Home</kw></a><kw class="krdwrd-tag-1"> » </kw><a href="?q=Archives&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title=""><kw class="krdwrd-tag-1">Archives</kw></a><kw class="krdwrd-tag-1"> » </kw><a href="?q=node/294&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-1">The Gossamer Thread 2008</kw></a><kw class="krdwrd-tag-1"> » </kw><a href="?q=node/337&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-1">May 2008</kw></a></div>
+        <h1 class="title"><kw class="krdwrd-tag-2">Scroll Spotlight - Yardoz - World of the Unexpected</kw></h1>
+         
+         
+
+<!-- begin content -->
+
+  <div class="node">
+    <div class="picture"><a href="?q=user/1211&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title="View user profile."><img src="http://thegossamerthread.bardicweb.com/assets/avatars/picture-1211.jpg" alt="grymalkyn's picture" title="grymalkyn's picture"></a></div>
+     
+    <span class="submitted"><kw class="krdwrd-tag-1">Submitted by </kw><a href="?q=user/1211&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title="View user profile."><kw class="krdwrd-tag-1">grymalkyn</kw></a><kw class="krdwrd-tag-1"> on Tue, 2008-05-20 18:34.</kw></span>
+     
+    <div class="content"><p><b><kw class="krdwrd-tag-2">YARDOZ</kw></b></p>
+<p><kw class="krdwrd-tag-3">Yardoz … a strange planet and often difficult to get to, especially if you </kw><i><kw class="krdwrd-tag-3">want</kw></i><kw class="krdwrd-tag-3"> to go there. It lives at a nexus of points where many lines of consciousness come together. And sometimes it’s there, and sometimes it’s not.</kw></p>
+<p><b><i><kw class="krdwrd-tag-2"> FOLK</kw></i></b><br><kw class="krdwrd-tag-3">
+There are several races indigenous to the planet – the </kw><a href="http://mythoslibrary.bardicweb.com/?q=node/361/"><kw class="krdwrd-tag-3">Whèr</kw></a><kw class="krdwrd-tag-3">, a shapeshifting race that takes the form of animals and trees, often those with whom the person has a special relationship, that of familiar spirit. The Whèr live mainly on </kw><a href="http://mythoslibrary.bardicweb.com/?q=node/600/"><kw class="krdwrd-tag-3">Prydein</kw></a><kw class="krdwrd-tag-3">, a northern continent full of strange and magical places, woods, mountains, lakes, islands and rivers. </kw></p>
+<p><kw class="krdwrd-tag-3">The </kw><a href="//mythoslibrary.bardicweb.com/?q=node/625/&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-3"> Fferyllt </kw></a><kw class="krdwrd-tag-3"> also live on Prydein. They are a race of magicians who are very mysterious but work to care for ecologies and races other than themselves. They run a school up in the western mountains, hard to get to but quite amazing once you’re there, that trains </kw><a href="http://mythoslibrary.bardicweb.com/?q=node/372/"><kw class="krdwrd-tag-3"> awenydd </kw></a><kw class="krdwrd-tag-3"> and assassins. There is often a need for stealth work across the planets and galaxies in order to stop oppression and exploitation – two things the Fferyllt are sworn to oppose.</kw></p>
+<p><kw class="krdwrd-tag-3">And then there are the Faer. They are a strange folk, fairykind perhaps, and then again perhaps not. They are ancient and it is said that they are the folk of the planet itself, extensions of itself that it sends out into the world to relate to the other creatures that live there.</kw></p>
+<p><kw class="krdwrd-tag-3">A lot of travel goes by water on the rivers and around the coasts of the four continents. The ferries on Yardoz are run by the Water Folk, a branch of the Faer. The water folk will take you anywhere on Yardoz via the rivers and canals. They will not take you across land.</kw></p>
+<p><kw class="krdwrd-tag-3">They are a tall, thin and gangly people, brown skinned, long faces, usually dressed in browns, greens and blues which match the various colours of water in light and shade. The will often have one brightly coloured garment, maybe a sash or scarf which glows against the duller but still shimmering fabric. All their clothes look as if they are wet, with the glistening sheen of water. Their cousins at the various sea-ports are similar and sail the ships of Yardoz. The ships, like the bridges, are strange almost spectral barques with huge sails of gossamer-like substance but very strong. </kw></p>
+<p><kw class="krdwrd-tag-3">The Water Folk are neither friendly nor unfriendly to strangers. Their guild has a statutory set of charges for their various services – ferrying, sailing up or down river, bridge guarding, fishing, transporting people and goods. These charges are agreed and confirmed each year, they rarely change as there’s no “inflation” on Yardoz and they are commensurate with earning a living.</kw></p>
+<p><kw class="krdwrd-tag-3">There are also gnomes on Yardoz. Nobody – least of all themselves by what they will tell you – really knows whether they are indigenous or if they came originally from somewhere else. They do all sorts of things and are very interested in other people so you often find them running taverns and restaurants,  and also shops. They brought, or invented, coffee to Yardoz and are still its greatest exponents. Everyone swears by gnomish coffee houses and they are great places for business to be done as well as recreation. One such, which has a big (if sometimes dubious) reputation is the Toad &amp; Flask off Pudding Lane in Caer Bran.</kw></p>
+<p><b><i><kw class="krdwrd-tag-2">CAER BRAN</kw></i></b></p>
+<p><kw class="krdwrd-tag-3">The capital city of Prydein is </kw><a href="//mythoslibrary.bardicweb.com/?q=node/621/&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-3"> Caer Bran </kw></a><kw class="krdwrd-tag-3"> – city of the Raven. It is an old city, far older than most people like to think about, built on the estuary of the major river of Prydein. Its headquarters are in the ancient Transit House, the place where the management, sale and redistribution of all incoming and outgoing goods is done. </kw></p>
+<p><kw class="krdwrd-tag-3">The city is a network, like a spider’s web, of streets which centre on and lead to the main Quay Tafwys – the word comes from an older word for darkness. Many radii lead inwards to the Quay, connected crosswise by streets which run in rough circles outwards like ripples from the central point where a stone was thrown into water. There is also a space-port – not everyone who comes to Yardoz is good at magic and some use more conventional means.</kw></p>
+<p><b><i><kw class="krdwrd-tag-2">THE TOAD AND FLASK</kw></i></b><br><kw class="krdwrd-tag-3">
+The most famous of tavern is the </kw><a href="//mythoslibrary.bardicweb.com/?q=node/620/&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-3"> Toad and Flask </kw></a><kw class="krdwrd-tag-3">. It’s in a basement, down an alleyway, off Pudding Lane and not far from the docks. It can be quite hard to find and seems to move around so that when a patron returns they still have to hunt for it as the way they remember going no longer works. However, if your intention is strong you will get there, even if it seems to be on the other side of the alley this time, or round another bend or you get to it before you thought you would.</kw></p>
+<p><kw class="krdwrd-tag-3">The </kw><b><kw class="krdwrd-tag-3">T&amp;F</kw></b><kw class="krdwrd-tag-3"> is run by a werewolf, a dragon and gnome. Both the werewolf and the dragon often shift into human-looking form so, at first, customers don’t realise quite who they’re dealing with. The three are all quite friendly but they don’t stand any nonsense and customers who cause trouble and offence to others risk becoming part of that evening’s menu. </kw></p>
+<p><kw class="krdwrd-tag-3">The </kw><b><kw class="krdwrd-tag-3">T&amp;F</kw></b><kw class="krdwrd-tag-3"> is much frequented by the water folk and other sailors, all of whom have good, scurrilous and strange tales to offer. The tales are mostly true despite sounding quite impossible to some off-planet visitors. But then, Yardoz is a strange place all round and shifts itself to suit its own moods and those of its natives which can be a bit disconcerting until you get the hang of it. The </kw><b><kw class="krdwrd-tag-3">T&amp;F</kw></b><kw class="krdwrd-tag-3"> is quite the epitome of this *g*.</kw></p>
+<p><kw class="krdwrd-tag-3">It’s an excellent place for roleplay, for starting adventures … or looking for some *g*. </kw></p>
+<p><b><i><kw class="krdwrd-tag-2">SHIT CREEK PADDLE STORES</kw></i></b></p>
+<p><kw class="krdwrd-tag-3">Then there are the Krocodilians, over on the continent of Dyfed. They live in the deep south, a hot and humid area full of cedar forests and bayous and all kinds of water creature – some friendly, some just hungry! The place to go here is the </kw><a href="http://mythoslibrary.bardicweb.com/?q=node/623/"><kw class="krdwrd-tag-3"> Shit Creek Paddle Stores </kw></a><kw class="krdwrd-tag-3">.</kw></p>
+<p><kw class="krdwrd-tag-3">The Store is run by Gomek, a large and ancient (though nobody would know it!) Krocodilian. He is an excellent cook and host, runs tours of the bayous, courses in tantra and is an expert at the tango – both dancing and playing the bandoneon. All sorts of people come here and there are many interesting things to do and see in the area. If you want strange adventures this is a good place to start out. Not even Gomek knows all there is to find in the bayous. It’s another excellent place for roleplay.</kw></p>
+<p><b><i><kw class="krdwrd-tag-2">OTHER PLACES</kw></i></b></p>
+<p><kw class="krdwrd-tag-3">There are three more continents on Yardoz but they are still being documented. Travellers go and return … sometimes. And sometimes they even return with maps and descriptions, pictures and tales. This way they places are gradually being discovered. Yardoz keeps many of its secrets to itself for it is a sentient planet, it knows who it is and what all the little, ephemeral life that scuttles about on its surface (and sometimes below it) is up to … and it offers them challenges. Yardoz likes to see creatures, beings, grow and it knows very well that the best way to do this is to try to do the impossible, so it offers all the Life that lives there and visits the opportunity to think out of the box.</kw></p>
+<p><kw class="krdwrd-tag-3">Of course, Yardoz is planet sized, and with billions of years experience at it’s beck and call. Consequently some of the adventures people find themselves in when they go there can be a bit mind-blowing *g*. </kw></p>
+<p><kw class="krdwrd-tag-3">But give it a go, take a friend, or go alone and see if you find one … or an enemy even. Yardoz is a planet of the unexpected, from tables and chairs and baths that talk to you and decide whether or not they will work for you, to wise beasts who are also magicians. There are even some wise humans there now and again … LOL.</kw></p>
+<p><kw class="krdwrd-tag-3">For an idea of how it can be on Yardoz have a look at the story </kw><a href="//www.bardicweb.com/?q=node/3324/&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-3"> Hunting the White Stag </kw></a><kw class="krdwrd-tag-3"> which is going on at the </kw><a href="//mythoslibrary.bardicweb.com/?q=node/601/&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e"><kw class="krdwrd-tag-3"> Shapeshifters’ Arms </kw></a><kw class="krdwrd-tag-3">. It’s very likely the Arms will be open again for general custom after the hunt is over.</kw></p>
+<div class="book"><div class="nav"> <div class="links"><div class="prev"><a href="?q=node/343&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title="View the previous page."><kw class="krdwrd-tag-1">previous</kw></a></div><div class="next"><a href="?q=node/345&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title="View the next page."><kw class="krdwrd-tag-1">next</kw></a></div><div class="up"><a href="?q=node/337&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title="View this page's parent section."><kw class="krdwrd-tag-1">up</kw></a></div></div> <div class="titles"><div class="prev"><kw class="krdwrd-tag-1">Featured Short Story - The Haunted Pumpkin Patch</kw></div><div class="next"><kw class="krdwrd-tag-1">The Society Page</kw></div></div></div></div></div>
+    <div class="links"><kw class="krdwrd-tag-1">» </kw><a href="?q=book/print/341&amp;PHPSESSID=20f52866054afd9cf58c1f5e3d7d635e" title="Show a printer-friendly version of this book page and its sub-pages."><kw class="krdwrd-tag-1">printer-friendly version</kw></a><kw class="krdwrd-tag-1"> | 30 reads</kw></div>
+  </div>
+
+<!-- end content -->
+
+      </div><!-- main -->
+    </td>
+     
+  </tr>
+</tbody></table>
+
+<div id="footer">
+  <p align="center"><kw class="krdwrd-tag-1">A Bardic Web Community</kw><br><a href="http://www.bardicweb.com/?q=TOS"><kw class="krdwrd-tag-1">Terms of Service</kw></a><kw class="krdwrd-tag-1">/</kw><a href="http://www.bardicweb.com/?q=PrivacyPolicy"><kw class="krdwrd-tag-1">Privacy Policy</kw></a><kw class="krdwrd-tag-1">/</kw><a href="http://www.bardicweb.com/?q=COC"><kw class="krdwrd-tag-1">Code of Conduct</kw></a></p>
+<p align="center"><kw class="krdwrd-tag-1">© 2004 - 2008 The Bardic Web
+</kw><a href="http://www.dreamhost.com/green.cgi">
+<img alt="Green Web Hosting! This site hosted by DreamHost." src="https://secure.newdream.net/green1.gif" border="0" width="100" height="32"></a> 
+</p></div>
+</body>

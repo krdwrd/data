@@ -1,0 +1,350 @@
+<head><base href="http://www.longliveafrica.com/modules/news/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- Assign Theme name --><!-- Title and meta -->
+
+
+
+
+
+	
+
+	
+
+
+	
+
+    <meta http-equiv="content-language" content="en"><title>News - LONG LIVE AFRICA</title>
+
+    
+
+	
+
+	<meta name="robots" content="index,follow">
+
+	<meta name="keywords" content="Long live africa,africa,
+Long live Africa,
+in south africa, 
+west africa,
+africa's, 
+cape town south africa, 
+maps of africa, 
+africa maps, 
+south africa map,
+nowhere in africa, 
+ancient africa, 
+africa com, 
+jobs south africa, 
+africa aids, 
+africa history, 
+countries in africa, 
+south africa news, 
+hotel south africa, 
+africa safari, 
+horn of africa, 
+weather south africa, 
+sun city south africa, 
+toto africa, 
+pictures of africa, 
+universities in south africa, 
+pretoria south africa, 
+africa twin, 
+all africa, 
+africa lyrics, 
+history of south africa, 
+cheap flights to south africa, 
+times south africa, 
+focus on africa, 
+northern africa, 
+south africa flag, 
+bank of africa,
+africa apartheid, 
+africa 2002, 
+maps africa, 
+maps of south africa, 
+africa 2003, 
+travel africa, 
+africa facts, 
+famine in africa, 
+africa newspapers, 
+schools in south africa, 
+africa music ,
+animals of africa, 
+sout africa, 
+africa newspaper, 
+history of africa, 
+apartheid south africa, 
+africa culture, 
+aids south africa, 
+africa information, 
+africa food, 
+news south africa, 
+south africa newspapers,
+college south africa, 
+africa tours, 
+africa jobs, 
+south africa aids, 
+south africa flights, 
+south africa newspaper, 
+africa climate, 
+africa country, 
+western cape south africa, 
+sms south africa, 
+marine world africa, 
+east london south africa, 
+pictures of south africa, 
+africa university, 
+africa trade, 
+africa time,
+africa today, 
+hunger in africa, 
+people in africa,">
+
+	<meta name="description" content="Long Live Africa : we can’t wait to hear your stories!  Over coming months we’ll publish the best accounts of Africa">
+
+	<meta name="rating" content="general">
+
+	<meta name="author" content="LongLiveAfrica">
+
+	<meta name="copyright" content="Copyright © 2005">
+
+	<meta name="generator" content="XOOPS"><!-- Rss -->
+
+
+
+	
+
+	<link rel="alternate" type="application/rss+xml" title="" href="http://www.longliveafrica.com/backend.php"><!-- Favicon -->
+
+
+
+	
+
+	<link rel="shortcut icon" type="image/ico" href="http://www.longliveafrica.com/favicon.ico"><!-- Sheet Css -->
+
+	
+
+    
+
+	<link rel="stylesheet" type="text/css" media="all" title="Style sheet" href="http://www.longliveafrica.com/xoops.css">
+
+	<link rel="stylesheet" type="text/css" media="all" title="Style sheet" href="http://www.longliveafrica.com/themes/default/style.css"><!-- customized header contents -->
+
+
+
+    
+
+	
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<script type="text/javascript" src="http://www.longliveafrica.com/include/xoops.js">
+</script></head><body>
+
+
+
+<!-- Start Header -->
+
+<table cellspacing="0">
+
+<tbody><tr id="header">
+
+	<td id="headerlogo"><a href="http://www.longliveafrica.com/"><img src="http://www.longliveafrica.com/themes/default/logo.gif" alt="LONG LIVE AFRICA" width="120" height="102"></a></td>
+
+    <td id="headerbanner"></td>
+
+    </tr>
+
+    <tr>
+
+      <td id="headerbar" colspan="2">&nbsp;</td>
+
+    </tr>
+
+  </tbody></table>
+
+<!-- End header -->
+
+
+
+  <table cellspacing="0">
+
+    <tbody><tr>
+
+	<!-- Start left blocks loop -->
+
+	
+		<td id="leftcolumn">
+
+		
+			<div class="blockTitle"><kw class="krdwrd-tag-1">Login</kw></div>
+<div class="blockContent"><form style="margin-top: 0px;" action="http://www.longliveafrica.com/user.php" method="post"><kw class="krdwrd-tag-1">Username: </kw><br><input name="uname" size="12" value="" type="text"><br><kw class="krdwrd-tag-1">Password: </kw><br><input name="pass" size="12" type="password"><!-- <br /><input type="checkbox" name="rememberme" value="On" class ="formButton" /> //--><br><input name="xoops_redirect" value="/modules/news/article.php?storyid=2" type="hidden"><input name="op" value="login" type="hidden"><input value="User Login" type="submit"><br>
+</form>
+<a href="http://www.longliveafrica.com/user.php#lost"><kw class="krdwrd-tag-1">Lost Password?</kw></a>
+<br><br>
+<a href="http://www.longliveafrica.com/register.php"><kw class="krdwrd-tag-1">Register now!</kw></a></div>
+		
+			<div class="blockTitle"><kw class="krdwrd-tag-1">Main Menu</kw></div>
+<div class="blockContent"><table cellspacing="0">
+  <tbody><tr>
+    <td id="mainmenu">
+      <a class="menuTop" href="http://www.longliveafrica.com/"><kw class="krdwrd-tag-1">Home</kw></a>
+      <!-- start module menu loop -->
+            <a class="menuMain" href="http://www.longliveafrica.com/modules/news/"><kw class="krdwrd-tag-1">News</kw></a>
+                  <a class="menuSub" href="http://www.longliveafrica.com/modules/news/submit.php"><kw class="krdwrd-tag-1">Submit News</kw></a>
+                  <a class="menuSub" href="http://www.longliveafrica.com/modules/news/archive.php"><kw class="krdwrd-tag-1">Archive</kw></a>
+                    <!-- end module menu loop -->
+    </td>
+  </tr>
+</tbody></table></div>
+		
+		</td>
+
+	
+	<!-- End left blocks loop -->
+
+
+
+	<td id="centercolumn">
+
+		<!-- Display center blocks if any -->
+
+		
+		<!-- End center top blocks loop -->
+
+
+
+		<!-- Start content module page -->
+
+		<div id="content"><div style="margin: 10px; text-align: left;"></div>
+<div style="padding: 3px; margin-right: 3px;">
+<div class="item">
+  <div class="itemHead"><span class="itemTitle"><a href="http://www.longliveafrica.com/modules/news/index.php?storytopic=1"><kw class="krdwrd-tag-2">Business</kw></a><kw class="krdwrd-tag-2">&nbsp;:&nbsp;SPIN VS SUBSTANCE IN MARKETING AFRICA</kw></span></div>
+  <div class="itemInfo">
+    <span class="itemPoster"><kw class="krdwrd-tag-1">Posted by </kw><a href="http://www.longliveafrica.com/userinfo.php?uid=1"><kw class="krdwrd-tag-1">admin</kw></a></span> <span class="itemPostDate"><kw class="krdwrd-tag-1">on 2005/6/8 7:15:10</kw></span><kw class="krdwrd-tag-1"> (</kw><span class="itemStats"><kw class="krdwrd-tag-1">2095 reads</kw></span><kw class="krdwrd-tag-1">)
+  </kw></div>
+  <div class="itemBody">
+    
+    <p class="itemText"><strong><kw class="krdwrd-tag-3">Africa seems to make headlines only when there are pictures of starving children, war, or people with HIV-AIDS.</kw><br><br><kw class="krdwrd-tag-3">The U.K. based </kw><strong><kw class="krdwrd-tag-3">Development Studies Association</kw></strong><kw class="krdwrd-tag-3"> took time out last month to ask why, and what impacts these negative images are having on Africa’s investment climate.</kw></strong><br><br><br></p><p><kw class="krdwrd-tag-3">Convenor of the Association’s Media Development Group, Ms Frances Hill, said the meeting “generated heated debate among the wide range of delegates who participated.”</kw></p><br><p><kw class="krdwrd-tag-3">“The whole point of the meeting - the first for our Media Development Group – was to see if a co-ordinated marketing plan for Africa could help promote positive images and hence investment into African economies.”</kw></p><br><p><kw class="krdwrd-tag-3">&nbsp;“We heard from a number of people who’ve been working in the international development field for a long, long time,” said Ms Hill.&nbsp; “Many see marketing as a quick fix option, as spin – they don’t want to sully their good work with that sort of thing.”</kw></p><br><p><kw class="krdwrd-tag-3">“On the other hand, we had several delegates from Africa, the director of the African Diaspora Association among them, who saw the continent’s negative image as a real problem.”</kw></p><br><p><kw class="krdwrd-tag-3">“I view marketing not as a single solution,” said Ms Hill, “but as part of the toolbox that development professionals can use to improve the prospects of people in disadvantaged areas.”</kw></p><br><p><kw class="krdwrd-tag-3">“There is a view, represented at the meeting, that non government organisations working to obtain funds for their work have a vested interested in ‘selling poverty’ - so there’s a sort of ‘unholy alliance’ with the media in peddling negative images of places like Africa.”</kw></p><br><p><kw class="krdwrd-tag-3">“However, when devising marketing campaigns, we need to be extremely careful that politicians in particular don’t grasp at the concept as a cheap way out.”</kw></p><br><p><kw class="krdwrd-tag-3">Ms Hill said the Media Development Group identified a particular gap in the print media - as opposed to radio and television, which are starting to air positive programs.&nbsp; Carol Pinot’s recent documentary Africa Open For Business, for instance was funded by the World Bank to improve the investment climate and therefore prosperity across Africa.</kw></p><br><p><kw class="krdwrd-tag-3">“The print media is much more negative.&nbsp; In fact there’s very little being reported at all in the newspapers and magazines about Africa, as opposed to say Asia where at least there’s some coverage,” said Ms Hill.</kw></p><br><p><kw class="krdwrd-tag-3">“As an example, the Ghanaian stock exchange regularly tops the list of the world’s highest performing stock markets, and Uganda and Kenya aren’t far behind.&nbsp; I’d have thought this is a great story for the financial press but it is hardly reported at all.”</kw></p><br><p><kw class="krdwrd-tag-3">According to Ms Hill, a recent report by the Commission for Africa found most westerners viewed Africa as one big country.</kw></p><br><p><kw class="krdwrd-tag-3">“This ignores the diversity of circumstances in the 53 independent nations that make up the vast continent.”</kw></p><br><p><kw class="krdwrd-tag-3">The commission also found barriers to development were exaggerated by pessimistic reports. In this way negative perceptions of Africa have acted as a disincentive to investment and have in effect become reality.</kw></p><br><p><kw class="krdwrd-tag-3">These conclusions are confirmed by a December 2000 study by a group called the TransAfrican Forum, which found that over a three week period the New York Times and Washington Post reported 89 times on Africa.&nbsp; Even in these quality newspapers, the reports focused exclusively on AIDS, development and conflict.&nbsp; Not one of the 89 reports covered regional economic or political co-operation, or private sector activity.</kw></p><br><p><kw class="krdwrd-tag-3">“And yet people are starting to do positive things,” said Ms Hill.&nbsp; “For instance, a couple of years ago an MBA graduate from Cameroon set up a website called Liquid Africa to help people invest in Africa online.”</kw></p><br><p><kw class="krdwrd-tag-3">“Along these lines, our meeting agreed to explore the feasibility of setting up a micro investment facility for Africa, where people with 200 to 1000 pounds could invest in African ventures.&nbsp; This amount of money is in line with what people would donate to a charity in Africa.”</kw></p><br><p><kw class="krdwrd-tag-3">Other ideas proposed by the group were a directory where journalists can obtain good positive stories, and a proposal to get students of journalism and international development working together at universities.</kw></p><br><p><kw class="krdwrd-tag-3">“Unfortunately there’s a tension where generous people who’ve been giving to Africa for so long see that investing in Africa - and deriving a profit as a result - is somewhat mercenary.&nbsp; Many of these people have no problem investing in UK businesses and helping them grow.”</kw></p><br><p><kw class="krdwrd-tag-3">Ms Hill believes, “we need to break this perception down.&nbsp; It existed in Asia 20 to 30 years ago as well.&nbsp; But look what foreign investment has done for Asian economies since then.&nbsp; I think there’s African tigers (or lions!) out there waiting to pounce – we just need to let them.”</kw></p><br><p><kw class="krdwrd-tag-3">According to Ms Hill, “our meeting only went for 2 hours - but at least it was a start in taking stock of what has been done, and more importantly what can be done.”</kw><br></p>
+  </div>
+  <div class="itemFoot">
+    <span class="itemAdminLink"></span> <span class="itemPermaLink"></span>
+  </div>
+</div></div>
+
+<div style="margin: 10px; text-align: left;"></div>
+
+<div style="padding: 5px; text-align: right; margin-right: 3px;">
+<a href="print.php?storyid=2"><img src="images/print.gif" alt="Printer Friendly Page" border="0"></a> <a target="_top" href="mailto:?subject=Interesting%20Article%20at%20LONG%20LIVE%20AFRICA&amp;body=Here%20is%20an%20interesting%20article%20I%20have%20found%20at%20LONG%20LIVE%20AFRICA:%20%20http://www.longliveafrica.com/modules/news/article.php?storyid=2"><img src="images/friend.gif" alt="Send this Story to a Friend" border="0"></a>
+</div>
+
+<div style="margin: 3px; padding: 3px; text-align: center;">
+
+<form method="get" action="article.php">
+<table class="outer" cellspacing="1" width="95%">
+  <tbody><tr>
+    <td class="even" align="center"><select name="com_mode"><option class="krdwrd-tag-1" value="flat">Flat</option><option class="krdwrd-tag-1" value="thread">Threaded</option><option class="krdwrd-tag-1" value="nest" selected="selected">Nested</option></select> <select name="com_order"><option class="krdwrd-tag-1" value="0">Oldest First</option><option class="krdwrd-tag-1" value="1" selected="selected">Newest First</option></select><input name="storyid" value="2" type="hidden"> <input value="Refresh" class="formButton" type="submit">
+    </td>
+  </tr>
+</tbody></table>
+</form><kw class="krdwrd-tag-1">
+The comments are owned by the poster. We aren't responsible for their content.
+</kw></div>
+
+<div style="margin: 3px; padding: 3px;">
+<!-- start comments loop -->
+<!-- end comments loop -->
+</div>
+</div>
+         <script type="text/javascript"><!--
+google_ad_client = "pub-8438083023500500";
+google_alternate_ad_url = "http://www.longliveafrica.com/webconferencing.html";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "image";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "F0F0F0";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+		<!-- End content module -->
+
+
+
+		<!-- Start center bottom blocks loop -->
+
+		
+		<!-- End center bottom blocks loop -->
+
+
+
+	</td>
+
+
+
+	
+		<td id="rightcolumn">
+
+		<!-- Start right blocks loop -->
+
+		
+			<div class="blockTitle"><kw class="krdwrd-tag-1">TOP HEADLINES</kw></div>
+<div class="blockContent"><ul>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=1"><kw class="krdwrd-tag-1">TRAVEL BUILDS BRIDGES WITH TANZANIA</kw></a><kw class="krdwrd-tag-1"> (4948)</kw></li>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=2"><kw class="krdwrd-tag-1">SPIN VS SUBSTANCE IN MARKETING AFRICA</kw></a><kw class="krdwrd-tag-1"> (2095)</kw></li>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=3"><kw class="krdwrd-tag-1">ONLY BAD NEWS FROM AFRICA</kw></a><kw class="krdwrd-tag-1"> (1946)</kw></li>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=4"><kw class="krdwrd-tag-1">IF YOU CAN'T BEAT ‘EM …</kw></a><kw class="krdwrd-tag-1"> (1800)</kw></li>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=19"><kw class="krdwrd-tag-1">MISS AFRICA TO BE CROWNED IN WASHINGTON...</kw></a><kw class="krdwrd-tag-1"> (1748)</kw></li>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=11"><kw class="krdwrd-tag-1">ANCIENT ANTHROPOIDS EMERGE FROM EGYPTIA...</kw></a><kw class="krdwrd-tag-1"> (1530)</kw></li>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=5"><kw class="krdwrd-tag-1">CLEAN WATER IS CHILD'S PLAY</kw></a><kw class="krdwrd-tag-1"> (1433)</kw></li>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=8"><kw class="krdwrd-tag-1">THREE AFRICANS MAKE WORLD CABINET</kw></a><kw class="krdwrd-tag-1"> (1347)</kw></li>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=6"><kw class="krdwrd-tag-1">AFRICANS IN RUNNING FOR WORLD CHILDREN ...</kw></a><kw class="krdwrd-tag-1"> (1344)</kw></li>
+      <li><a href="http://www.longliveafrica.com/modules/news/article.php?storyid=7"><kw class="krdwrd-tag-1">GLOVER COMMEMORATES AFRICA'S  DIASPORA</kw></a><kw class="krdwrd-tag-1"> (1335)</kw></li>
+  </ul></div>
+		
+		<!-- End right blocks loop -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-8438083023500500";
+google_alternate_ad_url = "http://www.longliveafrica.com/dating.html";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+		</td>
+
+	
+</tr>
+
+</tbody></table>
+
+
+
+<!-- Start footer -->
+
+<table cellspacing="0">
+
+<tbody><tr id="footerbar">
+
+	<td><kw class="krdwrd-tag-1">Powered by eIQ Pty Ltd © 2002-2005 </kw><a href="http://www.www.eiq.net.au/" target="_blank"><kw class="krdwrd-tag-1">eIQ.net</kw></a></td>
+
+</tr>
+
+</tbody></table>
+
+<!-- End footer -->
+
+
+
+<!--{xo-logger-output}-->
+
+</body>

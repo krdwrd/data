@@ -1,0 +1,207 @@
+<head><base href="http://www.wonka.com/wonkaschool/willysclassroom/learn/great_explorers/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>WONKA -- WONKA School -- Let's Learn About Great Explorers</title><!-- #### BEGIN open another browser window #### -->
+
+
+
+<script language="JavaScript">
+<!-- In hiding!
+function openWin(URL){
+    var myTools="toolbar=0,location=0,directories=0,status=0,menubar=1,scrollbars=yes,resizable=yes";
+    aWindow=window.open(URL,"thewindow",myTools);
+}
+//-->
+</script><!-- #### END open another browser window #### -->
+
+
+<script language="JavaScript">
+
+<!-- In hiding!
+ browserName = navigator.appName;
+           browserVer = parseInt(navigator.appVersion);
+               if ((browserName == "Netscape" && browserVer >= 3) || (browserName == "Microsoft Internet Explorer" && browserVer >= 4)) version = "n3";
+               else version = "n2";
+
+               if (version == "n3") {
+               nav1over = new Image; nav1over.src = "../../global/9200no_1over.gif";
+               nav2over = new Image; nav2over.src = "../../global/9200no_2over.gif";
+               nav3over = new Image; nav3over.src = "../../global/9200no_3over.gif";
+               nav4over = new Image; nav4over.src = "../../global/9200no_4over.gif";
+               nav5over = new Image; nav5over.src = "../../global/9200no_5over.gif";
+
+               nav1off = new Image; nav1off.src = "../../global/9200no_1off.gif";
+               nav2off = new Image; nav2off.src = "../../global/9200no_2off.gif";
+               nav3off = new Image; nav3off.src = "../../global/9200no_3off.gif";
+               nav4off = new Image; nav4off.src = "../../global/9200no_4off.gif";
+               nav5off = new Image; nav5off.src = "../../global/9200no_5off.gif";
+
+               nextover = new Image; nextover.src = "../../global/9200_nextroll.gif";
+               nextoff = new Image; nextoff.src="../../global/9200_next.gif";
+
+               laboutover = new Image; laboutover.src = "../../global/9200smenu_labout_over.gif";
+               hiworksover = new Image; hiworksover.src = "../../global/9200smenu_hiworks_over.gif";
+               tquizover = new Image; tquizover.src = "../../global/9200smenu_tquiz_over.gif";
+               pomover = new Image; pomover.src = "../../global/9200smenu_pom_over.gif";
+
+               laboutoff = new Image; laboutoff.src = "../../global/9200smenu_labout_off.gif";
+               hiworksoff = new Image; hiworksoff.src = "../../global/9200smenu_hiworks_off.gif";
+               tquizoff = new Image; tquizoff.src = "../../global/9200smenu_tquiz_off.gif";
+               pomoff = new Image; pomoff.src = "../../global/9200smenu_pom_off.gif";
+        }
+
+function img_over(imgName) {
+        if (version == "n3") {
+        imgOver = eval(imgName + "over.src");
+        document [imgName].src = imgOver;
+        }
+}
+
+function img_off(imgName) {
+        if (version == "n3") {
+        imgOff = eval(imgName + "off.src");
+        document [imgName].src = imgOff;
+        }
+}
+
+
+//-->
+
+</script></head><body background="../../../global/9000backtile2.gif" bgcolor="#ffffff" text="#ffffff" vlink="#ffccff" link="#ccffff">
+
+<!-- #### BEGIN MAIN TABLE, HOLDS CLASSROOM ICONS AND TABLE FOR MAIN CONTENT #### -->
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody><tr><td rowspan="2" valign="top" width="100">
+<a href="/WonkaSchool/"><img src="../../../global/9000wonka_school.gif" alt="Wonka School" border="0" width="100" height="66"></a><br>
+<a href="/WonkaSchool/WillysClassroom/"><img src="../../global/9200wclassroom_board.gif" alt="Willy's Classroom" border="0" width="100" height="51"></a><br>
+
+<!-- #### side navigation ####-->
+<img src="/global/spcr.gif" align="left" border="0" width="2" height="120">
+<img src="../../../global/9000top_smenu.gif" alt="" border="0" width="91" height="17"><a href="lla1.html"><img name="labout" src="../../../global/9200smenu_labout_on.gif" alt="Let's Learn About" border="0" width="91" height="28"></a><a href="../../howitworks.html" onmouseover="img_over('hiworks')" onmouseout="img_off('hiworks')"><img name="hiworks" src="../../../global/9200smenu_hiworks_off.gif" alt="How It Works" border="0" width="91" height="19"></a><a href="../../tnl_trivia.html" onmouseover="img_over('tquiz')" onmouseout="img_off('tquiz')"><img name="tquiz" src="../../../global/9200smenu_tquiz_off.gif" alt="Trivia Quiz" border="0" width="91" height="17"></a><a href="../../tnl_planet.html" onmouseover="img_over('pom')" onmouseout="img_off('pom')"><img name="pom" src="../../../global/9200smenu_pom_off.gif" alt="Planet-O-Matic" border="0" width="91" height="19"></a><img src="../../../global/9000bot_smenu.gif" alt="" border="0" width="91" height="13"><br><br>
+<a href="../learn_arch.html"><img src="../../images/9310drawer.gif" alt="" border="0" width="100" height="68"></a>
+<!-- START Support Materials subnavigation -->
+<center>
+<img src="/WonkaSchool/global/spcr.gif" border="0" width="100" height="20">
+<a href="javascript:openWin('/WonkaSchool/SupportMaterials/ClassroomActivity/ca_greatexplorers.html')"><img src="/WonkaSchool/global/9000classact.gif" alt="Classroom Activities" border="0" vspace="0" width="91" height="62" hspace="0"></a>
+<a href="javascript:openWin('/WonkaSchool/SupportMaterials/ReadingQuiz/rq_greatexplorers.html')"><img src="/WonkaSchool/global/9000readquiz.gif" alt="Reading Quiz" border="0" vspace="0" width="91" height="62" hspace="0"></a>
+</center>
+<!-- END Support Materials subnavigation -->
+</td>
+
+<td><img src="../../../global/9000top_navbar.gif" usemap="#topnavbar" border="0" width="500" height="37"></td></tr>
+
+<tr><td valign="top" width="500">
+<!-- #### BEGIN MAIN CONTENT TABLE, CONTAINS 5 ROWS, 4 COLS #### -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="500">
+<tbody><tr><td rowspan="5" width="20"><img src="/global/spcr.gif" border="0" width="20"></td>
+<td valign="top">
+    <!-- #### START animation table ####-->
+    <table align="right" border="0" cellpadding="0" cellspacing="0" width="248">
+    <tbody><tr>
+        <td width="8"><img src="/global/spcr.gif" border="0" width="8"></td>
+        <td width="240"><img src="/global/spcr.gif" border="0" height="20"><br>
+            <map name="9230explorer_2"></map><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" id="9230explorer_2" width="240" height="154">
+            <param name="movie" value="flash/9230explorer_2.swf"><param name="quality" value="high"><param name="bgcolor" value="#FFFFFF"><script language="JavaScript">
+                <!--
+                var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+                if ( plugin && parseInt(plugin.description.substring(plugin.description.indexOf(".")-1)) >= 4 ) {
+                    // Check for Flash version 4 or greater in Netscape
+                    document.write('<EMBED src="flash/9230explorer_2.swf" quality="high" bgcolor="#FFFFFF" ');
+                    document.write(' swLiveConnect=FALSE WIDTH="240" HEIGHT="154"');
+                    document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+                } else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)){
+                    // Netscape 2 will display the IMG tag below so don't write an extra one
+                    document.write('<IMG SRC="images/9230explorer_2anim.gif" WIDTH="240" HEIGHT="154" BORDER="0">');
+                }
+                //-->
+                </script><img src="images/9230explorer_2anim.gif" border="0" width="240" height="154"><img src="images/9230explorer_2anim.gif" border="0" width="240" height="154">
+            <noembed class="krdwrd-tag-1">&amp;lt;kw&amp;gt;&amp;amp;lt;IMG SRC="images/9230explorer_2anim.gif" WIDTH="240" HEIGHT="154" usemap="#9230explorer_2" BORDER="0"&amp;amp;gt;&amp;lt;/kw&amp;gt;</noembed>
+            <noscript><kw><img src="images/9230explorer_2anim.gif" usemap="#9230explorer_2" border="0" width="240" height="154"></kw></noscript>
+            </object>
+        </td>
+    </tr>
+	</tbody></table>
+    <!-- #### END animation table ####-->
+<center><img src="images/9230explorer_title.gif" alt="Great Explorers" border="0" vspace="0" width="132" height="51" hspace="0"><br>
+<img src="../../global/9200no_ltend.gif" border="0" width="8" height="33"><a href="lla1.html" onmouseover="img_over('nav1')" onmouseout="img_off('nav1')"><img name="nav1" src="../../global/9200no_1off.gif" alt="1" border="0" width="22" height="33"></a><img name="nav2" src="../../global/9200no_2on.gif" alt="2" border="0" width="22" height="33"><a href="lla3.html" onmouseover="img_over('nav3')" onmouseout="img_off('nav3')"><img name="nav3" src="../../global/9200no_3off.gif" alt="3" border="0" width="22" height="33"></a><a href="lla4.html" onmouseover="img_over('nav4')" onmouseout="img_off('nav4')"><img name="nav4" src="../../global/9200no_4off.gif" alt="4" border="0" width="22" height="33"></a><a href="lla5.html" onmouseover="img_over('nav5')" onmouseout="img_off('nav5')"><img name="nav5" src="../../global/9200no_5off.gif" alt="5" border="0" width="22" height="33"></a><img src="../../global/9200no_rtend.gif" border="0" width="9" height="33"></center>
+
+<img src="images/9230explorer_sub2.gif" alt="2. Christopher Columbus: 1451-1506" border="0" vspace="0" width="230" height="41" hspace="0"><br><br><script>
+<!--
+
+if  (navigator.appName == "Netscape" && parseInt(navigator.appVersion) == 2) {
+document.writeln("<BASEFONT SIZE='4'>")
+} else {
+if (navigator.appVersion.lastIndexOf('Mac') != -1)  {
+        document.writeln("<BASEFONT SIZE='+1'>")
+        };
+    }
+//-->
+</script><font face="Arial, Helvetica, sans serif" size="-1">
+
+</font><p><font face="Arial, Helvetica, sans serif" size="-1"><kw class="krdwrd-tag-3">Another great explorer you've definitely heard of is Christopher Columbus.   But what you might not know about him is that he died thinking he had sailed to Asia when really, he arrived in the Caribbean Islands.  Columbus wanted to find a short cut to Asia so he could bring back shiploads of fabulous spices, silks and gold.  Since Marco Polo had journeyed to Asia by land, many sailors had tried to get to Asia by sea, hoping to fill their ships with goods and bring them back to Europe. Spices like pepper, cinnamon, nutmeg, ginger, and cloves were treasures to Europeans because they made food taste better (remember: they didn't have refrigerators yet, so food went bad quickly).
+</kw></font></p><p><font face="Arial, Helvetica, sans serif" size="-1"><kw class="krdwrd-tag-3">Up till the late 1400's, sailors steered their ships through the difficult and long journey east. Many of the routes were dangerous, as countries tried to own the trade routes and would fire on any ships that came through.  Columbus figured he could find an easier route by sailing west.  Columbus knew the earth was round, so sailing west seemed like a good idea.  But what he didn't know was that the earth was much bigger than he thought and that there was a lot of land between Europe and Asia.  Maps back then didn't even show North, South or Central America, because the Europeans didn't know these land masses existed!  (It turns out the Vikings had actually been to the Americas many years before, but the Europeans didn't know about their travels.)
+</kw></font></p><p><font face="Arial, Helvetica, sans serif" size="-1"><b><kw class="krdwrd-tag-2">PORTUGAL SAYS "NO, BUT SPAIN SAYS "SI"</kw></b><kw class="krdwrd-tag-3">.  Columbus approached King John of Portugal, told him his plan, and asked for money to pay for the trip.  King John wasn't interested in Columbus' idea.  But Columbus didn't give up just because the king said no.  He moved to Spain and told King Ferdinand and Queen Isabella about his idea.  The King and Queen of Spain said yes.  Columbus left Spain with three ships, named the Nina, the Pinta and the Santa Maria, on August 4, 1492.  Onboard were about 90 crewmen with equipment for repairing the ships and plenty of supplies, like fresh water and salted meat, cheese, wine and biscuits.  The ships were pretty small by today's standards - no longer than a tennis court.  The ships traveled about 150 miles per day and had good weather during the journey.  Columbus used his seafaring instincts and a trusty compass to guide them.  After two months on the sea, they spotted land on October 12th.   They landed on the island, thinking it was Asia, and named it San Salvador.  It actually was an island in the Bahamas, south of Florida.  Unable to find the riches he was searching for, Columbus continued sailing until he hit Cuba and then Hispaniola, which today is the island shared by Haiti and the Dominican Republic.  Everywhere Columbus stopped, he met native peoples.  He called them "Indians", since he thought he was in the Indies.  By March 15, 1493, Columbus arrived back in Palos, Spain and received a hero's welcome.
+</kw></font></p><p><font face="Arial, Helvetica, sans serif" size="-1"><b><kw class="krdwrd-tag-2">LET'S DO IT AGAIN</kw></b><kw class="krdwrd-tag-3">!  King Ferdinand and Queen Isabella agreed to pay for another exploration.  In September of 1493, Columbus set out again, but this time with SEVENTEEN ships and a crew of 1,200 men and boys that included soldiers, colonists, priests, gentlemen of the court and horses.  This would be the first time horses would set foot in the Americas, which was called the New World by the Europeans.  The second voyage only took a month and a half before land was sighted. This time it was the islands of Dominica, Guadeloupe and Jamaica, which Columbus was convinced were islands off of Japan.  Again, there were no riches to be found, so they sailed back to Hispaniola and conquered the island in the name of the Spanish crown.  Columbus left his two brothers in charge of Hispaniola and sailed back to Spain in 1496.  Two years later, in 1498, Ferdinand and Isabella funded another third trip.  This time it was with six ships, three of which went straight to Hispaniola and had women colonists aboard.  Columbus then sailed the other three ships on a southern route.  During this time, he found the islands of Trinidad, Tobago, Grenada and Margarita.  He thought he had found another island, but it turned out to be the mainland of the South American continent.
+</kw></font></p><p><font face="Arial, Helvetica, sans serif" size="-1"><b><kw class="krdwrd-tag-2">GOLD AT LAST</kw></b><kw class="krdwrd-tag-3">!  The King and Queen funded his final journey in 1500, granting Columbus four ships, a crew of 150, and one very special guest, Columbus' thirteen year old son, Diego.  Columbus sailed west again, still searching for the Indies, and landed in Central America, on the coast of Panama.  Lo and behold, Columbus finally found what he wanted - gold.  Columbus returned to Spain in 1504 with his riches, only to find that Queen Isabella was ill.  She died later that year.  Two years later, in 1506, Columbus died, still believing he had sailed to Asia.
+
+
+</kw></font>
+
+<a href="lla3.html" onmouseover="img_over('next')" onmouseout="img_off('next')"><img name="next" src="../../global/9200_next.gif" align="right" border="0" width="73" height="24"></a>
+</p></td></tr>
+</tbody></table>
+
+<!-- #### END IR CONTENT TABLE, CONTAINS 5 ROWS, 4 COLS #### -->
+</td></tr>
+</tbody></table>
+
+<!-- #### END MAIN TABLE, HOLDS WONKAVATOR AND TABLE FOR IR CONTENT #### -->
+<br><br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody><tr><td width="25"><img src="/spacers/spcr001x001.gif" border="0" width="25" height="1"></td>
+<td width="575"><script>
+<!--
+
+if  (navigator.appName == "Netscape" && parseInt(navigator.appVersion) == 2) {
+document.writeln("<BASEFONT SIZE='4'>")
+} else {
+if (navigator.appVersion.lastIndexOf('Mac') != -1)  {
+        document.writeln("<BASEFONT SIZE='+1'>")
+        };
+    }
+//-->
+</script><font face="Arial, Helvetica, sans serif" size="-2"></font><center>
+<font face="Arial, Helvetica, sans serif" size="-2"><a href="lla1.html"><font face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">Let's Learn About</kw></font></a>
+<font color="#ff9900" face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">|</kw></font>
+<a href="../../howitworks.html"><font face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">How It Works</kw></font></a>
+<font color="#ff9900" face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">|</kw></font>
+<a href="../../tnl_trivia.html"><font face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">Trivia Quiz</kw></font></a>
+<font color="#ff9900" face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">|</kw></font>
+<a href="../../tnl_planet.html"><kw class="krdwrd-tag-1">Planet-O-Matic</kw></a>
+<br><br>
+
+<a href="/WonkaSchool/WillysClassroom/"><font face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">Willy's Classroom</kw></font></a>
+<font color="#ff9900" face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">|</kw></font>
+<a href="/WonkaSchool/Library/"><font face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">The Library</kw></font></a>
+<font color="#ff9900" face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">|</kw></font>
+<a href="/WonkaSchool/TeachersOffice/"><font face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">Teacher's Office</kw></font></a>
+<font color="#ff9900" face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">|</kw></font>
+<a href="/WonkaSchool/WonkaMobile/"><font face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">WONKAmobile Tour</kw></font></a><br><br>
+
+<a href="/Home/wonka_home.html"><font face="Arial,Helvetica,Sans Serif" size="-2"><kw class="krdwrd-tag-1">WONKA Factory</kw></font></a>
+<br>
+<br>
+
+<font color="#000000" size="-2"><kw class="krdwrd-tag-1">©Nestlé</kw><br></font></font></center>
+</td></tr>
+</tbody></table>
+
+<map name="topnavbar"><area shape="RECT" coords="16,0,114,23" href="/WonkaSchool/WillysClassroom/" alt="Willy's Classroom"><area shape="RECT" coords="124,0,207,32" href="/WonkaSchool/Library/" alt="Library"><area shape="RECT" coords="215,0,276,27" href="/WonkaSchool/TeachersOffice/" alt="Teacher's Office"><area shape="RECT" coords="284,0,396,31" href="/WonkaSchool/WonkaMobile/" alt="WONKAmobile"><area shape="RECT" coords="403,0,473,29" href="/Home/wonka_home.html" alt="WONKA Factory">
+        
+        
+        
+        
+        
+</map>
+
+
+</body>

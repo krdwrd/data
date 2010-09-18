@@ -1,0 +1,967 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://www.ndow.org/hunt/areas/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>NDOW - Wildlife Management Areas</title>
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/inc/body.css">
+<link rel="STYLESHEET" type="text/css" href="/inc/ajmenu.css">
+<script language="JavaScript1.2" src="/inc/ajlib.js"></script>
+<script language="JavaScript1.2" src="/inc/ajmenu.js"></script>
+
+<style>
+A:hover {background:cccc99; color=990033; text-decoration:none}
+.style1 {
+	font-size: 10pt;
+	font-family: Arial, Helvetica, sans-serif;
+}
+</style></head><body style="margin: 0pt;" onload="loadMenu()" onresize="loadMenu()" alink="#336666" bgcolor="#ffffff" link="#3333cc" marginheight="0" marginwidth="0" text="#000000" vlink="#336666"><font color="#000000" face="Arial, Helvetica, Verdana" size="3">
+
+
+<b><kw class="krdwrd-tag-1">Error processing SSI file</kw></b><br>
+<br clear="all">
+<table border="0" cellpadding="2" cellspacing="2" width="100%">
+  <tbody><tr> 
+    <td align="left" bgcolor="#cccc99" valign="top" width="150"> 
+      <table align="left" cellpadding="0" cellspacing="0">
+	    <tbody><tr>
+		   
+          <td width="10"><br>
+		    </td> 
+			
+          <td align="left" valign="top" width="132"> <br> <br> 
+             <p><br>
+</p><div class="link"> 
+<p><b><a href="/hunt/"><kw class="krdwrd-tag-1">HUNTING HOME</kw></a></b></p>
+<blockquote>
+              <p><a href="/hunt/apps/index.shtm"><kw class="krdwrd-tag-1">Applications</kw></a></p>
+              <p><a href="/hunt/apps/elig/index.shtm"><kw class="krdwrd-tag-1">Big Game Eligibility</kw></a></p>
+			  <p><a href="/hunt/resources/odds/index.shtm"><kw class="krdwrd-tag-1">Big Game Information Sheets, Draw Odds and Harvest Statistics</kw></a></p>
+			  <p><a href="/about/bureaus/game.shtm"><kw class="krdwrd-tag-1">Game Bureau</kw></a></p>
+              <p><a href="/hunt/apps/harvest/index.shtm"><kw class="krdwrd-tag-1">Harvest Return Cards</kw></a></p>
+              <p><a href="/hunt/check/"><kw class="krdwrd-tag-1">Hunter Checklist</kw></a></p>
+			   <p><a href="/hunt/resources/ethics/index.shtm"><kw class="krdwrd-tag-1">Hunter Ethics &amp; Responsibility</kw></a></p>
+			  <p><a href="/hunt/areas/"><kw class="krdwrd-tag-1">Hunting Areas and Unit Map</kw></a></p>
+              <p><a href="http://www.huntnevada.com" target="_blank"><kw class="krdwrd-tag-1">Huntnevada.com</kw></a></p> 
+              <p><a href="/learn/classes/hunt/index.shtm"><kw class="krdwrd-tag-1">Hunter 
+                Education</kw></a></p>
+              <p><a href="/hunt/resources/links/index.shtm"><kw class="krdwrd-tag-1">Hunting 
+                Links</kw></a></p>
+              <p><a href="/hunt/license/"><kw class="krdwrd-tag-1">License 
+                / Tag Information</kw></a></p>
+				<p> <a href="/law/licensed/index.shtm"><kw class="krdwrd-tag-1">Licensed Hunting &amp; Fishing Guides</kw></a>
+              </p><p><a href="http://www.stoppoaching.org/"><kw class="krdwrd-tag-1">Operation 
+                Game Thief</kw></a></p>
+				 <p><a href="/hunt/resources/population/index.shtm"><kw class="krdwrd-tag-1">Population Reports - NV Game</kw></a></p>
+				 
+              <p><a href="/hunt/seasons/"><kw class="krdwrd-tag-1">Seasons &amp; Regulations</kw></a></p>
+			   <p><a href="/hunt/sunrise/"><kw class="krdwrd-tag-1">Sunrise / Sunset Tables</kw></a></p>
+              <p><a href="/hunt/draw/"><kw class="krdwrd-tag-1">Tag 
+                Draw Results</kw></a></p>
+				<p><a href="/wild/conservation/"><kw class="krdwrd-tag-1"> Wildlife Management Plans</kw></a></p>
+				<p><a href="/wild/health/index.shtm"><kw class="krdwrd-tag-1">Wildlife Health and Disease</kw></a></p>
+              <p align="right"><a href="http://www.ndow.org"><kw class="krdwrd-tag-1">NDOW 
+                HOME</kw></a></p>
+				</blockquote></div> 
+	
+              </td>
+		</tr>
+	  </tbody></table>
+      
+       
+      </td>
+	  <td bgcolor="#ffffff" width="5"></td>
+    <td align="left" valign="top"> 
+      <div class="gray"><kw class="krdwrd-tag-1">Hunting</kw></div>
+      <div class="blue"><kw class="krdwrd-tag-1">Areas - Wildlife Management Areas</kw></div>
+     <div class="link"><a href="/hunt/areas/units.shtm"><kw class="krdwrd-tag-1">Unit Boundary Descriptions</kw></a><kw class="krdwrd-tag-1"> 
+        | </kw><a href="unitmap.shtm"><kw class="krdwrd-tag-1">Unit Boundary Map</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/hunt/areas/wma.shtm"><kw class="krdwrd-tag-1">Wildlife
+        Management Areas</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/hunt/stats/fire.shtm"> </a><a href="/hunt/areas/map.shtm"><kw class="krdwrd-tag-1">Map 
+        Resources</kw></a> </div>
+      <hr>
+      <table align="right" border="0" cellpadding="2" cellspacing="2" width="200">
+        <tbody><tr> 
+          <td align="left" height="349" valign="top"> 
+            <p><img src="../../images/egret_snowy.jpg" alt="Credit:  U.S. Fish &amp; Wildlife Service" align="left"> 
+              <br clear="all">
+              <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">The 
+              Snowy Egret can be found on many of Nevada's WMAs.</kw></font></p>
+            <blockquote>
+              <p class="style1"><a href="/about/news/archives/072203_shot.shtm"><kw class="krdwrd-tag-1">Hunters 
+                Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></a></p>
+              <p class="style1"><a href="wetland_report.pdf"><kw class="krdwrd-tag-1">October 6, 2004 Nevada Wetland Report </kw></a></p>
+            </blockquote></td>
+        </tr>
+      </tbody></table>
+      <br><kw class="krdwrd-tag-3">
+      Nevada's state-owned Wildlife Management Areas (WMAs) are home to many resident 
+      and migratory birds and mammals. Found throughout the state, the public 
+      can generally drive to a WMA in less than two hours from the major population 
+      centers and find great access to wildlife viewing. </kw><br>
+      <font color="#000000" face="Arial, Helvetica, sans-serif" size="3"><br><kw class="krdwrd-tag-3">
+      The State of Nevada through the Department of Wildlife owns or has long-term 
+      leases on more than 117,000 acres of land incorporated into WMAs across 
+      the state. The primary management emphasis on WMAs is the protection of 
+      wetlands and waterfowl including the use of the areas as public hunting 
+      grounds. Hunting opportunities for sportsmen on WMAs include migratory game 
+      bird, upland game bird, furbearer, and big game hunting. </kw></font><p></p> 
+      <p><font color="#000000" face="Arial, Helvetica, sans-serif" size="3"><kw class="krdwrd-tag-3">Below 
+        the map is a table of restrictions associated with each of the wildlife 
+        management areas. Please review this table and the accompanying list of 
+        hunt and use restrictions on wildlife management areas before hunting 
+        in these areas.</kw></font><font color="#000000" size="3">&nbsp;</font></p>
+      <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><strong><kw class="krdwrd-tag-1">Quick 
+        Links to WMA descriptions/regulations on this page: </kw></strong><br>
+        </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="#alkali"><kw class="krdwrd-tag-1">Alkali 
+        Lake</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="#bruneau"><kw class="krdwrd-tag-1">Bruneau River</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="#fernley"><kw class="krdwrd-tag-1">Fernley</kw></a><kw class="krdwrd-tag-1"> 
+        | </kw><a href="#fort"><kw class="krdwrd-tag-1">Fort Churchill Cooperative</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="#humboldt"><kw class="krdwrd-tag-1">Humboldt</kw></a><kw class="krdwrd-tag-1"> 
+        | </kw><a href="#franklin"><kw class="krdwrd-tag-1">Franklin Lake</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="#key"><kw class="krdwrd-tag-1">Key Pittman</kw></a><kw class="krdwrd-tag-1"> 
+        | </kw><a href="#mason"><kw class="krdwrd-tag-1">Mason Valley</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="#overton"><kw class="krdwrd-tag-1">Overton</kw></a><kw class="krdwrd-tag-1"> | 
+        </kw><a href="#scripps"><kw class="krdwrd-tag-1">Scripps</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="#steptoe"><kw class="krdwrd-tag-1">Steptoe Valley</kw></a><kw class="krdwrd-tag-1"> 
+        | </kw><a href="#wayne"><kw class="krdwrd-tag-1">Wayne E. Kirch </kw></a></font> </p>
+      <p><img src="../../images/wma_map.jpg" alt="WMA maps" border="0"> </p>
+      <a name="#table"></a>
+      <table align="left" border="1" cellpadding="2" cellspacing="2" width="90%">
+        <tbody><tr align="left" valign="top"> 
+          <td colspan="5" bgcolor="#006666" height="33"><font color="#ffffff" size="5"><a name="alkali"></a><kw class="krdwrd-tag-1">Alkali 
+            Lake WMA</kw><br>
+            <font size="3"><kw class="krdwrd-tag-1">Lyon County</kw></font></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Not 
+            permitted. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Not 
+            permitted. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="26"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting</kw></strong></font></td>
+          <td colspan="4"><p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use or possession 
+              of shells for a shotgun containing shot that is toxic or larger 
+              than standard-sized T is prohibited. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font></p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td colspan="5" bgcolor="#006666" height="43"><font color="#ffffff" size="5"><a name="bruneau"></a><kw class="krdwrd-tag-1">Bruneau 
+            River WMA</kw><br>
+            <font size="3"><kw class="krdwrd-tag-1">Elko County</kw></font> </font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Permitted.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Permitted, 
+            however, camping is not permitted in any building or other structure 
+            located within the WMA</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif"> 
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></a></font> 
+              </font></p>
+            </font><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use 
+            of shotguns capable of holding more than three shells is prohibited 
+            unless it is plugged with a one piece filler, incapable of removal 
+            without disassembling the gun so its total capacity does not exceed 
+            three shells. </kw></font><font face="Arial, Helvetica, sans-serif">
+            <p>&nbsp;</p>
+            </font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td colspan="5" bgcolor="#006666" height="40"><font color="#ffffff" size="5"><a name="fernley"></a><kw class="krdwrd-tag-1">Fernley 
+            WMA</kw><br>
+            <font face="Arial, Helvetica, sans-serif" size="3"><kw class="krdwrd-tag-1">Lyon County</kw></font> 
+            </font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Permitted. 
+            </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Permitted. 
+            </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif"> 
+            <p><font face="Arial, Helvetica, sans-serif"><font size="2"></font><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use or possession 
+              of shells for a shotgun containing shot that is toxic or larger 
+              than standard-sized T is prohibited. </kw></font></p>
+            </font> <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The 
+              use of shotguns capable of holding more than three shells is prohibited 
+              unless it is plugged with a one piece filler, incapable of removal 
+              without disassembling the gun so its total capacity does not exceed 
+              three shells. </kw></font></p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td colspan="5" bgcolor="#006666" height="51"><font color="#ffffff" size="5"><a name="fort"></a><kw class="krdwrd-tag-1">Fort 
+            Churchill Cooperative WMA</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="64"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif"> 
+            <p><font face="Arial, Helvetica, sans-serif"><font size="2"><kw class="krdwrd-tag-3">From October 
+              1, through the Friday preceding the second Saturday of February, 
+              the area shall be closed to trespass.</kw></font></font></p>
+            </font>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font></p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td colspan="5" bgcolor="#006666" height="33"><font color="#ffffff" size="5"><a name="franklin"></a><kw class="krdwrd-tag-1">Franklin 
+            Lake WMA</kw><br>
+            <font size="3"><kw class="krdwrd-tag-1">Elko County</kw></font></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><kw class="krdwrd-tag-1">Not permitted.</kw></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><kw class="krdwrd-tag-1">Not permitted. </kw></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="31"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting</kw></strong></font></td>
+          <td colspan="4"><p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font></p></td>
+        </tr>
+        <tr align="left" bgcolor="#006666" valign="top"> 
+          <td colspan="5"><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="5"><a name="humboldt"></a><kw class="krdwrd-tag-1">Humboldt 
+            WMA </kw></font><font color="#ffffff" face="Arial, Helvetica, sans-serif"><br><kw class="krdwrd-tag-1">
+            Pershing &amp; Churchill Counties</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="22"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4"><ul>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Humboldt 
+                Sink</kw></font></li>
+            </ul></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4"><font size="2"><kw class="krdwrd-tag-3">Airboats are prohibited on the Humboldt 
+            Sink until 1 hour after the legal shooting time on the opening day 
+            of the waterfowl season. Airboats are prohibited on the Toulon portion 
+            of the area during the waterfowl season. All vessels are prohibited 
+            on the ponds 5 days before the opening day of the waterfowl season.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Permitted 
+            in those sites designated for camping.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Permitted 
+            at sites designated for camping.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting</kw></strong></font></td>
+          <td colspan="4"><p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font></p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td colspan="5" bgcolor="#006666"><font size="2"><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="5"><a name="key"></a><kw class="krdwrd-tag-1">Key 
+            Pittman WMA </kw></font><font color="#ffffff"><br><kw class="krdwrd-tag-1">
+            Lincoln County</kw></font></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4"><ul>
+              <li><font size="2"><kw class="krdwrd-tag-1">Nesbitt Lake</kw></font></li>
+            </ul></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Trespass 
+            prohibited from Feb. 15 through Aug. 15 in the portion of Nesbitt 
+            Lake north of the old fence line.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Vessels 
+            must be operated at a speed that leaves a flat wake, but in no case 
+            may exceed 5 nautical miles per hour. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Not 
+            permitted.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Not 
+            permitted.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting 
+            / Trapping</kw></strong></font></td>
+          <td colspan="4"><p><font face="Arial, Helvetica, sans-serif"><font size="2"><a href="../seasons/wma.pdf"><kw class="krdwrd-tag-1">Overton/Key 
+              Pittman Reservation System</kw></a> <font size="1"><kw class="krdwrd-tag-1">PDF</kw></font></font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">1. During the 
+              waterfowl season, hunting is permitted on the opening weekend of 
+              the duck season, odd-numbered days throughout the season, opening 
+              day of the goose season, and the closing two days of the waterfowl 
+              season. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">2. The maximum 
+              hunter capacity during the opening day of duck season and the opening 
+              day of goose season will be 55 at any time. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">3. All hunters 
+              will check-in and out at the main entrance and will park in designated 
+              parking areas only. No vehicles are allowed on the area during the 
+              hunting season.</kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">4. The area 
+              is closed to fishing during the waterfowl season.</kw><br>
+              </font><font face="Arial, Helvetica, sans-serif"> </font> </p>
+            <p><font size="2"><kw class="krdwrd-tag-3">Trapping is allowed with valid permit. Permits will 
+              be issued through a drawing process and may contain designation 
+              of specific trapping areas, dates or other restrictions to ensure 
+              compatibility with other public activities</kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The discharging 
+              of a rifle or pistol is prohibited during waterfowl season.</kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use or possession 
+              of shells for a shotgun containing shot that is toxic or larger 
+              than standard-sized T is prohibited. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font></p></td>
+        </tr>
+        <tr align="left" bgcolor="#006666" valign="top"> 
+          <td colspan="5"><font color="#ffffff" size="5"><a name="mason"></a><kw class="krdwrd-tag-1">Mason 
+            Valley WMA</kw></font><font color="#ffffff"><br><kw class="krdwrd-tag-1">
+            Lyon County</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="272"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">General 
+            Description</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><a href="../../about/pubs/pdf/wma/wma_mason.pdf"><img src="../../images/masonvalley.jpg" alt="Mason Valley" align="left" border="0" height="122" hspace="10" vspace="10" width="75"></a><kw class="krdwrd-tag-3">The 
+            Mason Valley Wildlife Management Area (MVWMA) is located in Mason 
+            Valley in Lyon County, about 75 miles southeast of Reno via Interstate 
+            80 and U. S. Alternate 95. The WMA area now totals 13,735 acres. </kw></font> 
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">From desert 
+              shrub lands to wet meadows, the habitats of MVWMA support an abundance 
+              of fish and wildlife that contribute significantly to the biological 
+              diversity of western Nevada. The Walker River floodplain meanders 
+              through MVWMA, providing food, cover and water for a vast array 
+              of wildlife. Numerous wet meadows and ponds dot the landscape, attracting 
+              ducks, geese, swan, songbirds and wading birds. The deep-water habitat 
+              of the newly constructed North Pond reservoir is home to fish, osprey 
+              and pelicans. Alkali desert scrub, an upland plant community, covers 
+              an extensive area on MVWMA and gives shelter to many mammals including 
+              raccoon and mule deer. </kw><br>
+              </font> </p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="88"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4"><ul>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Hinkson Slough 
+                </kw></font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">North Pond 
+                </kw></font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Bass Pond 
+                </kw></font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Crappie Pond 
+                </kw></font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Walker River</kw></font></li>
+            </ul></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Trespass 
+            prohibited from Feb. 15 through Aug. 15 in the eastern portion of 
+            the main developed pond area, as posted. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">All 
+            vessels are prohibited from Feb. 15 through Aug. 15 each year, except 
+            on Hinkson Slough, Beaver Slough, Bass, Crappie, and North Ponds and 
+            the Walker River. Vessels must be operated at a speed that leaves 
+            a flat wake, but in no case may exceed 5 nautical miles per hour. 
+            </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Permitted 
+            in those sites designated for camping.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Permitted 
+            at sites designated by the Department.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="612"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting</kw></strong></font></td>
+          <td colspan="4"><blockquote> 
+              <p><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">1. 
+                During the waterfowl season, hunting is permitted only on Saturdays, 
+                Sundays, Wednesdays and the following legal State holidays: Nevada 
+                Day, Veterans Day, Thanksgiving, Family Day (day after Thanksgiving), 
+                Christmas, New Years Day, and Martin Luther King Day. Hunters 
+                with a valid turkey tag for the Mason Valley Wildlife Management 
+                Area may hunt each day of the established turkey season. Before 
+                or after the waterfowl season, hunting is allowed every day for 
+                wildlife species upon which there is an established open season. 
+                </kw></font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">2. AREAS CLOSED 
+                TO ALL HUNTING ADJACENT TO THE FT. CHURCHILL WATERFOWL SANCTUARY: 
+                Those portions of SE corner of Section 36, T.15N., R.25E; W ½ 
+                of Section 31, T.15N, R.26E, and N ½ of Section 1, T.14N, 
+                R.25E., M.D. &amp; M. are closed to hunting as posted.</kw></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">3. The following 
+                area within the Mason Valley Wildlife Management Area is designated 
+                as a CONTROLLED GOOSE HUNTING ZONE and will be closed to all persons 
+                five (5) days prior to the last Saturday in November through the 
+                end of the waterfowl hunting season, except for those persons 
+                having a valid Mason Valley controlled goose hunting permit, described 
+                in #4 following. Prior to the described closure dates, all legal 
+                hunting is allowed within the CONTROLLED GOOSE HUNTING ZONE. Those 
+                portions of the Mason Valley Wildlife Management area within Sections 
+                1, 2 and 12, T.14N, R.25E; Section 35, T.15N, R.25E; Sections 
+                6 and 7, T.14N, R.26E, and Section 31, T.15N, R.26E, M.D.B. &amp; 
+                M. as posted. The assigned blinds for the controlled goose hunt 
+                are located in farm fields MV-10, 11, and B-11, 12, 13, 14 and 
+                15. </kw></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">4. Hunt permit 
+                applications for the CONTROLLED GOOSE HUNTING ZONE within the 
+                Mason Valley Wildlife Management Area are available through the 
+                Headquarters Office in Reno and the Western Region Office in Fallon. 
+                Unless their privilege is limited or revoked pursuant to law, 
+                any resident or nonresident is eligible to apply once for a hunt 
+                permit. A person whose name appears on more than one application 
+                will be rejected from the drawing. Permit applications will be 
+                accepted for groups no larger than four individuals, and all members 
+                of a group must hunt from the same assigned location. Applications 
+                for the Special Mason Valley Wildlife Management Area Goose Hunt 
+                shall be received at the Headquarters Office in Reno (through 
+                a postal service only) no later than the second Wednesday in October. 
+                A public drawing will be held at the Headquarters Office in Reno 
+                at 10:00 a.m. on the last Wednesday in October. Successful applicants 
+                will receive a permit by return mail.</kw></font></p>
+            </blockquote>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3"> Deer may be 
+              hunted only with a shotgun no larger than 10 gauge and no smaller 
+              than 20 guage using rifled slugs; shotgun rounds with sabots that 
+              contain rifled slugs of convential design, or a long bow and arrow. 
+              Deer may not be hunted during the season set for the general hunt 
+              for deer expect on: 1) Saturdays, Sundays and Wednesdays 2) Nevada 
+              Day as observed 3) November 11, Veteran's Day 4) Thanksgiving Day 
+              5) Family Day (day after Thanksgiving). Deer may be hunted with 
+              longbow and arrow during the season set for the archery hunt for 
+              deer. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use or possession 
+              of shells for a shotgun containing shot that is toxic or larger 
+              than standard-sized T is prohibited. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font></p></td>
+        </tr>
+        <tr align="left" bgcolor="#006666" valign="top"> 
+          <td colspan="5"><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="5"><a name="overton"></a><kw class="krdwrd-tag-1">Overton 
+            WMA</kw></font><font face="Arial, Helvetica, sans-serif"> <br>
+            <font color="#ffffff"><kw class="krdwrd-tag-1">Clark County</kw></font></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="341"><font face="Arial, Helvetica, sans-serif" size="2"><strong><br><kw class="krdwrd-tag-1">
+            General Description</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><a href="../../about/pubs/pdf/wma/wma_overton.pdf"><img src="../../images/wma_overton.jpg" alt="Overton WMA PDF" align="left" border="1" height="122" hspace="10" vspace="10" width="75"></a><kw class="krdwrd-tag-3">OWMA 
+            lies in the lower extremes of the Moapa and Virgin river valleys where 
+            they flow into the north end of the Overton Arm of Lake Mead. This 
+            is about 65 miles northeast of Las Vegas using Interstate 15 and State 
+            Route 169. </kw></font> 
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Located in the 
+              Mojave Desert, OWMA supports an abundance of fish and wildlife that 
+              contributes significantly to the biological diversity of southern 
+              Nevada. Desert riparian habitat, associated with the floodplain 
+              of the Muddy and Virgin rivers, is extremely important to wildlife 
+              populations. The dense shrubbery of desert wash habitat provides 
+              food and shelter for small mammals and many species of birds. Numerous 
+              wet meadows and ponds dot the landscape, providing food, cover, 
+              and water for birds, mammals, reptiles, and amphibians. The deep 
+              water of Lake Mead provides habitat for fish, cormorants, and diving 
+              ducks, while shallow littoral zones provide feeding areas for puddle 
+              ducks and shorebirds.</kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="../../about/pubs/pdf/wma/wma_overton.pdf"><kw class="krdwrd-tag-1">Download 
+              the Overton WMA brochure PDF.</kw></a></font></p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" width="23%"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4" width="77%"><ul>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Lake Mead</kw></font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Honeybee 
+                Pond</kw></font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Center Pond</kw></font></li>
+            </ul></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Trespass 
+            prohibited from March 1 through Aug. 1 on Honeybee Pond and Center 
+            Pond. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Vessels 
+            are prohibited on all ponds. Vessels are allowed on the portion of 
+            the area inundated by Lake Mead, except that on Overton Hunt Days, 
+            vessels may be used only by persons authorized to hunt waterfowl. 
+            </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Permitted 
+            in those sites designated for camping</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Permitted 
+            in those sites designated for camping. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting 
+            / Trapping</kw></strong></font></td>
+          <td colspan="4"><blockquote> 
+              <p><font face="Arial, Helvetica, sans-serif"><font size="2"><a href="../seasons/wma.pdf"><kw class="krdwrd-tag-1">Overton/Key 
+                Pittman Reservation System</kw></a> <font size="1"><kw class="krdwrd-tag-1">PDF</kw></font></font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif"><font size="2"><kw class="krdwrd-tag-3">1. During 
+                the waterfowl season, hunting is permitted on the Moapa Valley 
+                portion of the area only on the opening day of the duck season, 
+                alternate days thereafter throughout the season, opening day of 
+                the goose season, and the closing two days of the duck and goose 
+                seasons. Before or after the waterfowl season, hunting is allowed 
+                every day for wildlife species upon which there is an established 
+                open season.</kw><br>
+                <br><kw class="krdwrd-tag-3">
+                2. During the opening day and the first weekend of the dove season 
+                the maximum capacity for the Moapa Valley portion of the area 
+                is 60 hunters by reservation only.</kw></font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">3. During 
+                the waterfowl season on the Moapa Valley portion of the area, 
+                hunters must hunt from assigned hunt locations (blinds) constructed 
+                by the Department of Wildlife. A maximum of up to four hunters 
+                are permitted at each hunt location. Assigned hunt locations are 
+                marked by numbered stakes. Hunters shall hunt only within their 
+                assigned hunt location and moving to vacant locations is prohibited. 
+                The only exception involves reasonable accommodation of the disabled.</kw></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">4. The hunting 
+                of upland game species is prohibited during the waterfowl season.</kw></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">5. On Overton 
+                Hunt days, only persons authorized to hunt waterfowl may use vessels 
+                on the portion of the area inundated by Lake Mead.</kw></font></p>
+            </blockquote>
+            <p><font size="2"><kw class="krdwrd-tag-3">Trapping is allowed with valid permit. Permits will 
+              be issued through a drawing process and may contain designation 
+              of specific trapping areas, dates or other restrictions to ensure 
+              compatibility with other public activities.</kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+              </font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The discharging 
+              of a rifle or pistol is prohibited during waterfowl season.</kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use or possession 
+              of shells for a shotgun containing shot that is toxic or larger 
+              than standard-sized T is prohibited. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font></p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td colspan="5" bgcolor="#006666" height="40"><font color="#ffffff" size="5"><a name="scripps"></a><kw class="krdwrd-tag-1">Scripps 
+            WMA</kw><br>
+            <font face="Arial, Helvetica, sans-serif" size="3"><kw class="krdwrd-tag-1">Washoe County</kw></font> 
+            </font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Trespass 
+            prohibited from Feb. 15 through Aug. 15 in that protion of the area 
+            that lies south of Little Washoe Lake</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Not 
+            permitted. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Not 
+            permitted. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting 
+            </kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif"> 
+            <p><font face="Arial, Helvetica, sans-serif"><font size="2"><kw class="krdwrd-tag-3">During 
+              the waterfowl season, hunting is permitted only on Saturdays, Sundays, 
+              Wednesdays, and the following legal State holidays: Nevada Day, 
+              Veterans Day, Thanksgiving, Family Day (day after Thanksgiving), 
+              Christmas, New Years Day and Martin Luther King Day.</kw></font></font></p>
+            </font> <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw><br>
+              <br>
+              </font></a><kw class="krdwrd-tag-3">The discharging of a rifle or pistol is prohibited during 
+              waterfowl season.</kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use or possession 
+              of shells for a shotgun containing shot that is toxic or larger 
+              than standard-sized T is prohibited. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font></p></td>
+        </tr>
+        <tr align="left" bgcolor="#006666" valign="top"> 
+          <td colspan="5"><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="5"><a name="steptoe"></a><kw class="krdwrd-tag-1">Steptoe 
+            Valley WMA</kw></font><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="3"><br><kw class="krdwrd-tag-1">
+            White Pine County</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="401"><br> <font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">General 
+            Description</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><a href="../../about/pubs/pdf/wma/wma_steptoe.pdf"><img src="../../images/wma_steptoe.gif" alt="Steptoe Wildlife Management Area Brochure" align="left" border="1" height="122" hspace="5" vspace="5" width="75"><kw class="krdwrd-tag-3">The 
+            Steptoe Valley Wildlife Management Area </kw></a><kw class="krdwrd-tag-3">(SVWMA) is located immediately 
+            south of Ely, along U.S. Highway 93/50 in White Pine County. Comins 
+            Lake is located about six miles south of Ely near the ranch headquarters. 
+            </kw></font><font face="Arial, Helvetica, sans-serif"> <br clear="all">
+            </font>            <p align="left"></p>
+            <p align="left"><font face="Arial, Helvetica, sans-serif" size="2"><img src="../../images/steptoe_sign.jpg" align="left" border="1" height="162" width="250"></font></p>
+            <p align="left"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The property consists of 6,426 acres including Comins 
+                Lake and appropriated water rights of Cave Creek, Steptoe Creek, 
+                and Willow Creek. The Bureau of Land Management (BLM) Tamberlaine 
+            Grazing Allotme</kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">nt, totaling 27,306 public acres is associated with 
+                the ranch. </kw></font></p> <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">From 
+              wet meadows and riparian corridors to sagebrush and pinyon-juniper 
+              uplands, the habitats of SVWMA support an abundance of fish and 
+              wildlife that contribute significantly to the biological diversity 
+              of eastern Nevada. Sagebrush is important habitat for mule deer, 
+              pronghorn, sage grouse and a multitude of nongame species. Pinyon-juniper 
+              is found on the uplands surrounding the Steptoe Creek drainage. 
+              Both pinyon nuts and juniper berries are important food sources 
+              for many species of wildlife. The riparian habitats of SVWMA including 
+              cottonwood, willow, and aspen have exceptionally high value for 
+              many species of wildlife. Ponds and wet meadows dot the landscape 
+              of SVWMA, providing food, cover, and water for numerous species 
+              of waterfowl, wading birds, and mammals. The deep-water of Comins 
+              Lake provides habitat for fish and diving ducks. </kw><br>
+          </font> </p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="38"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4"><ul>
+              <li><font size="2"><kw class="krdwrd-tag-1">Comins Lake</kw></font></li>
+            </ul></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4">&nbsp;</td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4"><font size="2"><kw class="krdwrd-tag-3"> Water skiiing only allowed between 11 
+            a.m. and sunset. Flat wake restrictions in effect for boats during 
+            other hours. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Not 
+            permitted</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Not 
+            permitted</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="24"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif"> 
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1">Hunters 
+              Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font></p>
+            </font>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use or possession 
+              of shells for a shotgun containing shot that is toxic or larger 
+              than standard-sized T is prohibited. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font><font face="Arial, Helvetica, sans-serif"> </font></p>
+            <font face="Arial, Helvetica, sans-serif"><p>&nbsp;</p>
+            </font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td colspan="5" bgcolor="#006666" height="44"> <p><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="5"><a name="wayne"></a><kw class="krdwrd-tag-1">Wayne 
+              E. Kirch WMA </kw></font><br>
+              <font color="#ffffff"><kw class="krdwrd-tag-1">Nye County</kw></font></p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc" height="348"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">General 
+            Description</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><a href="../../about/pubs/pdf/wma/wma_kirch.pdf"><img src="../../images/kirch.jpg" alt="Wayne E. Kirch WMA" align="left" border="0" height="125" hspace="10" vspace="10" width="75"></a><kw class="krdwrd-tag-3">The 
+            Wayne E. Kirch WMA is located in the White River Valley in northeastern 
+            Nye County. State Route 318 is the major access route to the area. 
+            Today, KWMA is composed of a total of 14,815 acres, including five 
+            major reservoirs. </kw></font> <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">From 
+              sagebrush to wet meadows and grasslands, the various habitats of 
+              KWMA support an abundance of fish and wildlife that contribute significantly 
+              to the biological diversity of central Nevada. Wetlands are among 
+              the most productive wildlife habitats in Nevada. They provide food, 
+              cover, and water for numerous species of birds, mammals, reptiles, 
+              and amphibians. Tule, Adams-McGill, Cold Springs, Dacey and Haymeadow 
+              reservoirs, developed by NDOW, provide deep water habitat for fish 
+              and diving ducks. The edges of the reservoirs provide feeding areas 
+              for puddle ducks and shorebirds. The White River bisects the area 
+              and provides wetlands and deep water habitats. Uplands on KWMA include 
+              sagebrush, alkali desert scrub, annual grassland and desert wash. 
+              Sagebrush provides important habitat for mule deer, pronghorn, sage 
+              grouse and nongame species. The desert wash habitat is found in 
+              narrow corridors around intermittent streams carrying runoff from 
+              the Egan Range into the White River Valley. </kw></font><br>
+            </p></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Bodies 
+            of Water</kw></strong></font></td>
+          <td colspan="4"><ul>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1"> Dacey Reservoir 
+                </kw></font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Tule Reservoir</kw></font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Cold Springs 
+                and Haymeadow Reservoirs</kw></font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Adams McGill 
+                Reservoir </kw></font></li>
+            </ul></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Trespass</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Trespass 
+            prohibited from Feb. 15 through Aug. 15 in the upper portion of Adams-McGill, 
+            Cold Springs, and Haymeadow reservoirs, and all of Dacey and Tule 
+            reservoirs</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Vessels</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">Vessels 
+            must be operated at a speed that leaves a flat wake, but in no case 
+            may exceed 5 nautical miles per hour. </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Use 
+            of Campfires</kw></strong></font></td>
+          <td colspan="4"><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-1">Permitted 
+            within the Hot Creek Campground.</kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Camping</kw></strong></font></td>
+          <td colspan="4"><font size="2"><kw class="krdwrd-tag-1">Permitted within the Hot Creek Campground. 
+            </kw></font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td bgcolor="#99cccc"><font face="Arial, Helvetica, sans-serif" size="2"><strong><kw class="krdwrd-tag-1">Hunting 
+            / Trapping</kw></strong></font></td>
+          <td colspan="4"><p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The 
+              discharging of a rifle or pistol is prohibited during waterfowl 
+              season. </kw></font></p>
+            <p><font size="2"><kw class="krdwrd-tag-3">Trapping is allowed with valid permit. Permits will 
+              be issued through a drawing process and may contain designation 
+              of specific trapping areas, dates or other restrictions to ensure 
+              compatibility with other public activities</kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use or possession 
+              of shells for a shotgun containing shot that is toxic or larger 
+              than standard-sized T is prohibited. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><kw class="krdwrd-tag-3">The use of shotguns 
+              capable of holding more than three shells is prohibited unless it 
+              is plugged with a one piece filler, incapable of removal without 
+              disassembling the gun so its total capacity does not exceed three 
+              shells. </kw></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/about/news/archives/072203_shot.shtm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><kw class="krdwrd-tag-1"> 
+              Hunters Must Now Use Nontoxic Shot on Wildlife Management Areas</kw></font></a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+              </font></p></td>
+        </tr>
+      </tbody></table>
+      <blockquote>
+        <p><br>
+        </p>
+        <p align="left">&nbsp; </p>
+      </blockquote>
+      <p align="left"><font face="Arial, Helvetica, sans-serif" size="3"><a href="#top"><img src="/images/uparrow.gif" alt="Back to Top" align="right" border="0" height="14" width="15"></a></font> 
+    </p></td>
+ </tr>
+</tbody></table>
+ <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr bgcolor="#666600"> 
+          <td colspan="3" height="1"> 
+		  </td>
+        </tr>
+        
+	 <tr>
+	   
+    <td align="left"> <p>   <a href="http://www.ndow.org"><kw class="krdwrd-tag-1">HOME</kw></a><kw class="krdwrd-tag-1">  |  </kw><a href="/fish"><kw class="krdwrd-tag-1">Fish</kw></a><kw class="krdwrd-tag-1">| </kw><a href="/boat"><kw class="krdwrd-tag-1">Boat</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/hunt/index.shtm"><kw class="krdwrd-tag-1">Hunt</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/wild/index.shtm"><kw class="krdwrd-tag-1">Wildlife &amp; Habitat</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/learn"><kw class="krdwrd-tag-1">Learn &amp; Participate</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/law"><kw class="krdwrd-tag-1">Licenses &amp; Laws</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/about/index.shtm"><kw class="krdwrd-tag-1">Our Agency</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="/about/contacts/"><kw class="krdwrd-tag-1">Contact 
+        Us</kw></a><font color="#000033"><br><kw class="krdwrd-tag-1">
+        Copyright 
+        © 2008 Nevada Department of Wildlife </kw></font></p></td>
+  </tr>
+  <tr> 
+    <td align="left" bgcolor="#000033" height="28" width="100%"> 
+      <p><a href="http://www.ndow.org"><img src="/images/1005/ndowbottom.gif" alt="Nevada Department of Wildlife" align="left" border="0" height="32"></a></p>
+    </td>
+  </tr>
+</tbody></table>
+</font></body></html>

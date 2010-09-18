@@ -1,0 +1,1380 @@
+<head><base href="http://jfs.janes.com/public/jfs/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Jane's Fighting Ships - Feedback</title>
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+ 
+<meta name="Description" content="Jane's Fighting Ships - the world-reknowned authority on the world's navies.">
+<meta name="KeyWords" content="Jane's Fighting Ships, fighting, ships, Jane's, Janes, defence, defense, military, ships, vessels, naval, navies, weapons, weapon systems, Jane's defense">
+<link rel="stylesheet" type="text/css" href="http://www2.janes.com/public/includes/css/microsites.css">
+<script language="JavaScript" type="text/javascript" src="http://www.janes.com/includes/js/global.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+var url = "";
+var name = "HelpWindow";
+var props = "scrollbars=yes,toolbar=yes,directories=no,menubar=no,status=no,resizable=yes,width=600,height=400";
+function openHelp(url) {
+   window.open(url,name,props);
+}
+
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "','toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=400,height=250');");
+}
+//-->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://www2.janes.com/public/ssi/date-picker.js"></script><noscript>
+<style type="text/css">
+<!--
+html #subNav #s-loggedin span{ background: url(http://www2.janes.com/docs/access/loggedin.jpg?121105) no-repeat center !important; display: block !important; width: 115px; margin-top: 0; }
+#subNav #s-login, #subNav #s-logout { display: block; }
+#subNav #s-login a { border-right: 1px solid #AAA; }
+#janesLogo { margin: 0; }
+-->
+</style>
+</noscript></head><body id="jfs" leftmargin="0" topmargin="5" alink="#0000ff" bgcolor="#ffffff" vlink="#003399" link="#003399" marginheight="5" marginwidth="0">
+<!-- Start of Header -->
+  <div id="header">
+    <div id="janesLogo">
+     <a href="http://www.janes.com"><img src="/public/images/janeslogoihs.gif" alt="Jane's Information Group" width="218" height="38"></a>
+    </div>
+    <!-- Banner Advert -->
+   <div class="subbannerad"><kw class="krdwrd-tag-1">^M
+
+
+</kw><script language="JavaScript" type="text/javascript">
+ord=Math.random()*10000000000000000;
+document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/jfs.janes.com/SubscriptionSite;sz=468x60;ord=' + ord + '?" type="text/javascript"><\/script>'); </script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/jfs.janes.com/SubscriptionSite;sz=468x60;ord=8206502630755653?" type="text/javascript"></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/jfs.janes.com/SubscriptionSite;sz=468x60;ord=1022018000506621.5?" type="text/javascript"></script>
+<noscript><kw>
+<a href="http://ad.uk.doubleclick.net/jump/jfs.janes.com/SubscriptionSite;sz=468x60;ord=062508121105?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/jfs.janes.com/SubscriptionSite;sz=468x60;ord=062508121105?" alt="" align="middle" border="0" width="468" height="60"></a>
+</kw></noscript>
+   </div>
+  <!-- Banner Advert End -->
+  <div>
+      <ul id="subNav">
+      <li id="s-sitemap"><a href="http://www.janes.com/sitemap/" title="Sitemap"><kw class="krdwrd-tag-1">Sitemap</kw></a></li>
+      <li id="s-accessibility"><a href="http://www.janes.com/accessibility/" title="Accessibility"><kw class="krdwrd-tag-1">Accessibility</kw></a></li>
+      <li id="s-contact"><a href="http://www.janes.com/contact/" title="Contact Us"><kw class="krdwrd-tag-1">Contact Us</kw></a></li>
+      <li id="s-help"><a href="http://www.janes.com/help/" title="Help"><kw class="krdwrd-tag-1">Help</kw></a></li>
+      <li id="s-loggedinred"><noscript><kw><span> </span></kw></noscript><kw class="krdwrd-tag-1">You're not logged in</kw></li>
+      <li style="display: block;" id="s-login"><a href="http://www2.janes.com/docs/access/success.html" title="Log In"><kw class="krdwrd-tag-1">Log In</kw></a></li>
+      <li id="s-logout"><a href="http://www2.janes.com/public/cgi-bin/logout.cgi" title="Log Out"><kw class="krdwrd-tag-1">Log Out</kw></a></li>
+    </ul>
+  </div>
+  <p id="skip"><a href="#content"><kw class="krdwrd-tag-1">Skip Navigation</kw></a></p>
+  <ul id="topNav">
+    <li id="t-corporate"><a href="http://www.janes.com/" title="Free access home page"><kw class="krdwrd-tag-1">public area</kw></a></li>
+    <li id="t-clienthome"><a href="http://www2.janes.com/emeta/SimpleRedirector?show=http://www2.janes.com/emeta/ViewProducts" title="Subscriber-only home page"><kw class="krdwrd-tag-1">client area</kw></a></li>
+    <li id="t-tools"><a href="http://search.janes.com/" title="Search and browse subscription services"><kw class="krdwrd-tag-1">research tools</kw></a></li>
+    <li id="t-clientservices"><a href="http://www2.janes.com/docs/clientservices/" title="Technical support and general queries"><kw class="krdwrd-tag-1">client services</kw></a></li>
+    <li id="t-products"><a href="http://catalog.janes.com/" title="Catalogue of Jane's intelligence solutions"><kw class="krdwrd-tag-1">products</kw></a></li>
+    <li id="t-careers"><a href="http://www.janes.com/careers/" title="Jobs in defence, the police and at Jane's"><kw class="krdwrd-tag-1">careers</kw></a></li>
+<form id="janes-form2" name="dbar-form" action="/public/cgi-bin/redirect2.cgi" method="post">
+	<li id="t-dropdown">
+
+          <select id="jumpmenu" class="subs_dropdown" name="link" onchange="location=this.options[this.selectedIndex].value"><option class="krdwrd-tag-1" value="http://www.janes.com" selected="selected">Intelligence Centres and Microsites</option><optgroup label="Intelligence Centres"></optgroup><option class="krdwrd-tag-1" value="http://jcbrn.janes.com">CBRN Assessments</option> 
+            <option class="krdwrd-tag-1" value="http://jdet.janes.com">Defence Equipment and Technology</option><option class="krdwrd-tag-1" value="http://jdim.janes.com">Defence Industry and Markets</option><option class="krdwrd-tag-1" value="http://jmsa.janes.com">Military and Security Assessments</option><option class="krdwrd-tag-1" value="http://jtic.janes.com">Terrorism and Insurgency Centre</option><option class="krdwrd-tag-1" value="http://jdfmap.janes.com">Defence Forecasts - Military Aircraft Programmes</option><option class="krdwrd-tag-1" value="http://jdfmvp.janes.com">Defence Forecasts - Military Vessel Programmes</option><option class="krdwrd-tag-1" value="http://jdfcvp.janes.com">Defence Forecasts - Combat Vehicle Programmes</option><optgroup label="Defence"></optgroup><option class="krdwrd-tag-1" value="http://jae.janes.com">Aero-Engines</option><option class="krdwrd-tag-1" value="http://jacm.janes.com">Aircraft Component Manufacturers</option><option class="krdwrd-tag-1" value="http://jau.janes.com">Aircraft Upgrades</option><option class="krdwrd-tag-1" value="http://jalw.janes.com">Air-Launched Weapons</option><option class="krdwrd-tag-1" value="http://jawa.janes.com">All the World's Aircraft</option><option class="krdwrd-tag-1" value="http://jah.janes.com">Ammunition Handbook</option><option class="krdwrd-tag-1" value="http://jasf.janes.com">Amphibious &amp; Special Forces</option><option class="krdwrd-tag-1" value="http://jaa.janes.com">Armour &amp; Artillery</option><option class="krdwrd-tag-1" value="http://jaau.janes.com">Armour &amp; Artillery Upgrades</option><option class="krdwrd-tag-1" value="http://jav.janes.com">Avionics</option><option class="krdwrd-tag-1" value="http://jc4i.janes.com">C4I Systems</option><option class="krdwrd-tag-1" value="http://jdet.janes.com">Defence Equipment &amp; Technology Intel Centre</option><option class="krdwrd-tag-1" value="http://jdfcvp.janes.com">Defence Forecasts - Combat Vehicle Programmes</option><option class="krdwrd-tag-1" value="http://jdfmap.janes.com">Defence Forecasts - Military Aircraft Programmes</option><option class="krdwrd-tag-1" value="http://jdfmvp.janes.com">Defence Forecasts - Military Vessel Programmes</option><option class="krdwrd-tag-1" value="http://jdim.janes.com">Defence Industry &amp; Markets Intelligence Centre</option><option class="krdwrd-tag-1" value="http://jdin.janes.com">Defence Industry</option><option class="krdwrd-tag-1" value="http://jdw.janes.com">Defence Weekly</option><option class="krdwrd-tag-1" value="http://jema.janes.com">Electronic Mission Aircraft</option><option class="krdwrd-tag-1" value="http://jeos.janes.com">Electro-Optic Systems</option><option class="krdwrd-tag-1" value="http://jeod.janes.com">Explosive Ordnance Disposal</option><option class="krdwrd-tag-1" value="http://jfs.janes.com">Fighting Ships</option><option class="krdwrd-tag-1" value="http://jhms.janes.com">Helicopter Markets &amp; Systems</option><option class="krdwrd-tag-1" value="http://jiw.janes.com">Infantry Weapons</option><option class="krdwrd-tag-1" value="http://abc.janes.com">International ABC Aerospace Directory</option><option class="krdwrd-tag-1" value="http://idd.janes.com">International Defence Directory</option><option class="krdwrd-tag-1" value="http://idr.janes.com">International Defence Review </option><option class="krdwrd-tag-1" value="http://jlad.janes.com">Land Based Air Defence</option><option class="krdwrd-tag-1" value="http://jmp.janes.com">Marine Propulsion</option><option class="krdwrd-tag-1" value="http://jmc.janes.com">Military Communications</option><option class="krdwrd-tag-1" value="http://jmvl.janes.com">Military Vehicles &amp; Logistics</option><option class="krdwrd-tag-1" value="http://jmmc.janes.com">Mines &amp; Mine Clearance</option><option class="krdwrd-tag-1" value="http://jmr.janes.com">Missiles &amp; Rockets</option><option class="krdwrd-tag-1" value="http://jnc.janes.com">Naval Construction &amp; Retrofit</option><option class="krdwrd-tag-1" value="http://jnws.janes.com">Naval Weapon Systems</option><option class="krdwrd-tag-1" value="http://jni.janes.com">Navy International</option><option class="krdwrd-tag-1" value="http://jnbc.janes.com">NBC Defence</option><option class="krdwrd-tag-1" value="http://jrew.janes.com">Radar &amp; Electronic Warfare Systems</option><option class="krdwrd-tag-1" value="http://jsts.janes.com">Simulation &amp; Training Systems</option><option class="krdwrd-tag-1" value="http://jsd.janes.com">Space Systems and Industry</option><option class="krdwrd-tag-1" value="http://jsws.janes.com">Strategic Weapons Systems</option><option class="krdwrd-tag-1" value="http://juwt.janes.com">Underwater Security Systems &amp; Technology</option><option class="krdwrd-tag-1" value="http://juws.janes.com">Underwater Warfare Systems</option><option class="krdwrd-tag-1" value="http://juav.janes.com">Unmanned Aerial Vehicles</option><option class="krdwrd-tag-1" value="http://jwaf.janes.com">World Air Forces</option><option class="krdwrd-tag-1" value="http://jwar.janes.com">World Armies</option><option class="krdwrd-tag-1" value="http://jwdi.janes.com">World Defence Industry</option><option class="krdwrd-tag-1" value="http://jwna.janes.com">World Navies</option><optgroup label="Transport"></optgroup><option class="krdwrd-tag-1" value="http://jae.janes.com">Aero-Engines</option><option class="krdwrd-tag-1" value="http://jatc.janes.com">Air Traffic Control</option><option class="krdwrd-tag-1" value="http://jacm.janes.com">Aircraft Component Manufacturers</option><option class="krdwrd-tag-1" value="http://jar.janes.com">Airport Review</option><option class="krdwrd-tag-1" value="http://jaes.janes.com">Airports Equipment &amp; Services</option><option class="krdwrd-tag-1" value="http://jaha.janes.com">Airports &amp; Handling Agents</option><option class="krdwrd-tag-1" value="http://jhmt.janes.com">High-Speed Marine Transportation</option><option class="krdwrd-tag-1" value="http://abc.janes.com">International ABC Aerospace Directory</option><option class="krdwrd-tag-1" value="http://jmp.janes.com">Marine Propulsion</option><option class="krdwrd-tag-1" value="http://jms.janes.com">Merchant Ships</option><option class="krdwrd-tag-1" value="http://jsd.janes.com">Space Systems and Industry</option><option class="krdwrd-tag-1" value="http://jtf.janes.com">Transport Finance</option><option class="krdwrd-tag-1" value="http://juts.janes.com">Urban Transport Systems</option><option class="krdwrd-tag-1" value="http://jwa.janes.com">World Airlines</option><option class="krdwrd-tag-1" value="http://jwr.janes.com">World Railways</option><optgroup label="Aerospace"></optgroup><option class="krdwrd-tag-1" value="http://jae.janes.com">Aero-Engines</option><option class="krdwrd-tag-1" value="http://jatc.janes.com">Air Traffic Control</option><option class="krdwrd-tag-1" value="http://jacm.janes.com">Aircraft Component Manufacturers</option><option class="krdwrd-tag-1" value="http://jau.janes.com">Aircraft Upgrades</option><option class="krdwrd-tag-1" value="http://jar.janes.com">Airport Review</option><option class="krdwrd-tag-1" value="http://jaes.janes.com">Airports Equipment &amp; Services</option><option class="krdwrd-tag-1" value="http://jawa.janes.com">All the World's Aircraft</option><option class="krdwrd-tag-1" value="http://jema.janes.com">Electronic Mission Aircraft</option><option class="krdwrd-tag-1" value="http://jhms.janes.com">Helicopter Markets &amp; Systems</option><option class="krdwrd-tag-1" value="http://abc.janes.com">International ABC Aerospace Directory</option><option class="krdwrd-tag-1" value="http://jsd.janes.com">Space Systems and Industry</option><option class="krdwrd-tag-1" value="http://juav.janes.com">Unmanned Aerial Vehicles</option><option class="krdwrd-tag-1" value="http://jwaf.janes.com">World Air Forces</option><option class="krdwrd-tag-1" value="http://jwa.janes.com">World Airlines</option><optgroup label="Security"></optgroup><option class="krdwrd-tag-1" value="http://intelweb.janes.com/docs/intelweb/iwr_browse_date.shtml">Country Risk Daily Report</option><option class="krdwrd-tag-1" value="http://frp.janes.com">Foreign Report</option><option class="krdwrd-tag-1" value="http://jid.janes.com">Intelligence Digest</option><option class="krdwrd-tag-1" value="http://jir.janes.com">Intelligence Review</option><option class="krdwrd-tag-1" value="http://intelweb.janes.com">IntelWeb</option><option class="krdwrd-tag-1" value="http://jiaa.janes.com">Islamic Affairs Analyst</option><option class="krdwrd-tag-1" value="http://jmsa.janes.com">Military &amp; Security Assessments Intel Centre</option><option class="krdwrd-tag-1" value="http://jpse.janes.com">Police &amp; Homeland Security Equipment</option><option class="krdwrd-tag-1" value="http://pr.janes.com">Police Review</option><option class="krdwrd-tag-1" value="http://sentinel.janes.com">Sentinel Country Risk Assessments</option><option class="krdwrd-tag-1" value="http://jtsm.janes.com">Terrorism &amp; Security Monitor</option><option class="krdwrd-tag-1" value="http://jtic.janes.com">Terrorism &amp; Insurgency Centre</option><option class="krdwrd-tag-1" value="http://intelweb.janes.com/docs/intelweb/twr_browse_date.shtml">Terrorism Watch Report</option><option class="krdwrd-tag-1" value="http://juwr.janes.com">Unconventional Weapons</option><option class="krdwrd-tag-1" value="http://jwit.janes.com">World Insurgency &amp; Terrorism</option><optgroup label="Business"></optgroup><option class="krdwrd-tag-1" value="http://jdfcvp.janes.com">Defence Forecasts - Combat Vehicle Programmes</option><option class="krdwrd-tag-1" value="http://jdfmap.janes.com">Defence Forecasts - Military Aircraft Programmes</option><option class="krdwrd-tag-1" value="http://jdfmvp.janes.com">Defence Forecasts - Military Vessel Programmes</option><option class="krdwrd-tag-1" value="http://jdin.janes.com">Defence Industry</option><option class="krdwrd-tag-1" value="http://abc.janes.com">International ABC Aerospace Directory</option><option class="krdwrd-tag-1" value="http://idd.janes.com">International Defence Directory</option><option class="krdwrd-tag-1" value="http://jsd.janes.com">Space Systems and Industry</option><option class="krdwrd-tag-1" value="http://jtf.janes.com">Transport Finance</option><option class="krdwrd-tag-1" value="http://jwa.janes.com">World Airlines</option><option class="krdwrd-tag-1" value="http://jwdi.janes.com">World Defence Industry</option><option class="krdwrd-tag-1" value="http://jwna.janes.com">World Navies</option></select><noscript><kw><input value="Go" src="/public/img/go.gif" style="width: auto; float: left;" type="image"></kw></noscript>
+		</li>
+	</form>
+</ul>
+
+   </div>
+   <div id="banner">
+        <h1><kw class="krdwrd-tag-1"> fighting ships</kw></h1>
+   </div>
+ 
+<!-- End of Header -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+ <tbody><tr>
+      <td colspan="3" bgcolor="#e7ebf3" valign="top" width="145">
+      <!-- NDINH 20070410 created leftNavMenu.JSP for microsite re-design -->
+
+<dl id="sidenav">
+    <dt><a href="http://jfs.janes.com/public/jfs/index.shtml"><kw class="krdwrd-tag-1">JFS Home</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/public/jfs/more_info.shtml" class="hi"><kw class="krdwrd-tag-1">More Information</kw></a></dt>
+    <dt><a href="http://catalog.janes.com/catalog/public/index.cfm?fuseaction=home.ProductInfoDetailed&amp;product_id=109" class="hi"><kw class="krdwrd-tag-1">Subscribe</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/docs/jfs/search.jsp" class="hi"><kw class="krdwrd-tag-1">Search</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/docs/jfs/image_search.jsp" class="hi"><kw class="krdwrd-tag-1">Image Search</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/public/jfs/view_advertisers_ad_issue.shtml" class="hi"><kw class="krdwrd-tag-1">View Advertisers</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/docs/jfs/browse_country.html"><kw class="krdwrd-tag-1">Browse Country</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/docs/jfs/browse_section.html"><kw class="krdwrd-tag-1">Browse Section</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/docs/jfs/latest_updates.html"><kw class="krdwrd-tag-1">Latest Updates</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/public/jfs/editorial_team.shtml"><kw class="krdwrd-tag-1">Editorial Team</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/docs/jfs/news_analysis_list.jsp?" class="hi"><kw class="krdwrd-tag-1">Jane's News &amp; Analysis</kw></a></dt>
+    <dt><a href="http://jfs.janes.com/docs/jfs/ne_dailynews.jsp?" class="hi"><kw class="krdwrd-tag-1">Other News Sources</kw></a></dt>
+</dl>
+
+      </td>
+      <td width="15"><img src="/public/images/pix.gif" alt="" width="15" height="1"></td>
+      <td bgcolor="#999999" width="1"><img src="/public/images/pix.gif" alt="" width="1" height="1"></td>
+      <td width="15"><img src="/public/images/pix.gif" alt="" width="15" height="1"></td>
+      <td valign="top" width="100%">
+      <div id="datasetwidth"> 
+       <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr><td valign="top" height="2"></td></tr><tr>
+        </tr><tr><td background="/public/images/top_back.gif" valign="center" width="866" height="100%">
+        <b><font class="content_title"><kw class="krdwrd-tag-2">&nbsp;&nbsp;Feedback</kw></font></b></td>
+        </tr>
+            <tr><td background="/public/images/top_back.gif" valign="top" width="866" height="2"></td></tr>
+        <!-- MAIN CONTENT -->
+        <tr><td colspan="2"><br>
+
+<input name="style" value="/public/micro/feedback" type="hidden">
+<!--form method="POST" action="/public/cgi-bin/process.cgi">
+<input type="hidden" name="log-action" value="register"-->
+
+<!--input type="hidden" name="mail_to" value="jolfeedback@janes.com">
+<input type="hidden" name="cc_to" value="janes.webmaster@janes.co.uk">
+<input type="hidden" name="thank_you" value="/public/jfs/thanks_feedback.html">
+<input type="hidden" name="mailtemplate" value="/public/jfs/mail_feedback.tmpl">
+<input type="hidden" name="warntemplate" value="/public/jfs/warn_feedback.tmpl">
+<input type="hidden" name="subject" value="Feedback"-->
+
+
+<input name="warntemplate" value="/public/jfs/warn_feedback.tmpl" type="hidden">
+<input name="thank_you" value="/public/jfs/thanks_feedback.html" type="hidden">
+<input name="subject" value="Feedback from Jane's Fighting Ships" type="hidden">
+<input name="ProductName" value="Jane's Fighting Ships" type="hidden">
+
+
+<p><input name="browser" value="Netscape" size="100" type="hidden"></p><p><input name="version" value="5.0 (X11; en-US)" size="100" type="hidden"></p><p><input name="opsys" value="Linux i686" size="100" type="hidden"></p><p><input name="referrer" value="" size="100" type="hidden">
+</p><p><input name="browser" value="Netscape" size="100" type="hidden"></p><p><input name="version" value="5.0 (X11; en-US)" size="100" type="hidden"></p><p><input name="opsys" value="Linux i686" size="100" type="hidden"></p><p><input name="referrer" value="" size="100" type="hidden">
+</p><table border="0" cellpadding="3" cellspacing="0" width="95%">
+<tbody><tr>
+<td colspan="2">
+<p><kw class="krdwrd-tag-3">Please take a few minutes
+to give us your feedback. Jane's is committed to constantly improving its
+services and your comments are appreciated as an important part of this process.
+</kw></p><p><kw class="krdwrd-tag-3">
+If you have any questions, comments, or suggestions for improvements
+on Jane's website, or if you require further information on any other Jane's
+service, please provide details below.
+</kw></p><p><kw class="krdwrd-tag-3">
+If you are having difficulty accessing or using any part of Jane's
+website and require immediate technical assistance, please contact your
+nearest Jane's </kw><a href="http://www.janes.com/contact/"><kw class="krdwrd-tag-3">helpdesk.</kw></a></p><p>
+
+
+</p></td>
+</tr>
+<form method="post" action="/public/cgi-bin/form.cgi"></form>
+<tr bgcolor="#f5f5f5">
+<td align="right"><kw class="krdwrd-tag-1">
+Name:</kw></td>
+<td>
+<input name="name__req" size="20" title="Input Your Name" type="text">
+</td></tr>
+<tr><td align="right"><kw class="krdwrd-tag-1">
+Email Address:
+</kw></td>
+<td>
+<input name="email_address__req" size="20" title="Input Your Email Address" type="text">
+</td></tr>
+
+<tr bgcolor="#f5f5f5">
+<td align="right"><kw class="krdwrd-tag-1">
+Country: </kw></td>
+<td>
+<select name="country" title="Country">
+<option class="krdwrd-tag-1" value="Select Country">==Select from list below== </option>
+<option class="krdwrd-tag-1" value="Afghanistan">Afghanistan
+</option><option class="krdwrd-tag-1" value="Albania">Albania
+</option><option class="krdwrd-tag-1" value="Algeria">Algeria
+</option><option class="krdwrd-tag-1" value="American Samoa">American Samoa
+</option><option class="krdwrd-tag-1" value="Andorra">Andorra
+</option><option class="krdwrd-tag-1" value="Angola">Angola
+</option><option class="krdwrd-tag-1" value="Anguilla">Anguilla
+</option><option class="krdwrd-tag-1" value="Antarctica">Antarctica
+</option><option class="krdwrd-tag-1" value="Antigua">Antigua
+</option><option class="krdwrd-tag-1" value="Argentina">Argentina
+</option><option class="krdwrd-tag-1" value="Armenia">Armenia
+</option><option class="krdwrd-tag-1" value="Aruba">Aruba
+</option><option class="krdwrd-tag-1" value="Ascension">Ascension
+</option><option class="krdwrd-tag-1" value="Ashmore and Cartier Islands">Ashmore and Cartier Islands
+</option><option class="krdwrd-tag-1" value="Australia">Australia
+</option><option class="krdwrd-tag-1" value="Austria">Austria
+</option><option class="krdwrd-tag-1" value="Azerbaijan">Azerbaijan
+</option><option class="krdwrd-tag-1" value="Bahamas">Bahamas
+</option><option class="krdwrd-tag-1" value="Bahrain">Bahrain
+</option><option class="krdwrd-tag-1" value="Bangladesh">Bangladesh
+</option><option class="krdwrd-tag-1" value="Barbados">Barbados
+</option><option class="krdwrd-tag-1" value="Belarus">Belarus
+</option><option class="krdwrd-tag-1" value="Belgium">Belgium
+</option><option class="krdwrd-tag-1" value="Belize">Belize
+</option><option class="krdwrd-tag-1" value="Benin">Benin
+</option><option class="krdwrd-tag-1" value="Bermuda">Bermuda
+</option><option class="krdwrd-tag-1" value="Bhutan">Bhutan
+</option><option class="krdwrd-tag-1" value="Bolivia">Bolivia
+</option><option class="krdwrd-tag-1" value="Bosnia and Herzagovina">Bosnia and Herzegovina
+</option><option class="krdwrd-tag-1" value="Botswana">Botswana
+</option><option class="krdwrd-tag-1" value="Bouvet Island">Bouvet Island
+</option><option class="krdwrd-tag-1" value="Brazil">Brazil
+</option><option class="krdwrd-tag-1" value="Brunei">Brunei
+</option><option class="krdwrd-tag-1" value="Bulgaria">Bulgaria
+</option><option class="krdwrd-tag-1" value="Burkina Faso">Burkina Faso
+</option><option class="krdwrd-tag-1" value="Burundi">Burundi
+</option><option class="krdwrd-tag-1" value="Cambodia">Cambodia
+</option><option class="krdwrd-tag-1" value="Cameroon">Cameroon
+</option><option class="krdwrd-tag-1" value="Canada">Canada
+</option><option class="krdwrd-tag-1" value="Cape Verde">Cape Verde
+</option><option class="krdwrd-tag-1" value="Cayman Islands">Cayman Islands
+</option><option class="krdwrd-tag-1" value="Ceuta">Ceuta
+</option><option class="krdwrd-tag-1" value="Chad">Chad
+</option><option class="krdwrd-tag-1" value="Channel Islands">Channel Islands
+</option><option class="krdwrd-tag-1" value="Chile">Chile
+</option><option class="krdwrd-tag-1" value="China">China
+</option><option class="krdwrd-tag-1" value="Colombia">Colombia
+</option><option class="krdwrd-tag-1" value="Comoros">Comoros
+</option><option class="krdwrd-tag-1" value="Congo">Congo
+</option><option class="krdwrd-tag-1" value="Costa Rica">Costa Rica
+</option><option class="krdwrd-tag-1" value="Croatia">Croatia
+</option><option class="krdwrd-tag-1" value="Cuba">Cuba
+</option><option class="krdwrd-tag-1" value="Curacao">Curacao
+</option><option class="krdwrd-tag-1" value="Cyprus">Cyprus
+</option><option class="krdwrd-tag-1" value="Czech">Czech Republic
+</option><option class="krdwrd-tag-1" value="Denmark">Denmark
+</option><option class="krdwrd-tag-1" value="Dominican Republic">Dominican Republic
+</option><option class="krdwrd-tag-1" value="Ecuador">Ecuador
+</option><option class="krdwrd-tag-1" value="Egypt">Egypt
+</option><option class="krdwrd-tag-1" value="Eire">Eire
+</option><option class="krdwrd-tag-1" value="El Salvador">El Salvador
+</option><option class="krdwrd-tag-1" value="Estonia">Estonia
+</option><option class="krdwrd-tag-1" value="Ethiopia">Ethiopia
+</option><option class="krdwrd-tag-1" value="Falklands">Falkland Islands
+</option><option class="krdwrd-tag-1" value="Faeroe">Faeroe Islands
+</option><option class="krdwrd-tag-1" value="Fiji">Fiji
+</option><option class="krdwrd-tag-1" value="Finland">Finland
+</option><option class="krdwrd-tag-1" value="France">France
+</option><option class="krdwrd-tag-1" value="Gambia">Gambia
+</option><option class="krdwrd-tag-1" value="Georgia">Georgia
+</option><option class="krdwrd-tag-1" value="Germany">Germany
+</option><option class="krdwrd-tag-1" value="Ghana">Ghana
+</option><option class="krdwrd-tag-1" value="Gibraltar">Gibraltar
+</option><option class="krdwrd-tag-1" value="Greece">Greece
+</option><option class="krdwrd-tag-1" value="Greenland">Greenland
+</option><option class="krdwrd-tag-1" value="Grenada">Grenada
+</option><option class="krdwrd-tag-1" value="Guadeloupe">Guadeloupe
+</option><option class="krdwrd-tag-1" value="Guam">Guam
+</option><option class="krdwrd-tag-1" value="Guatemela">Guatemala
+</option><option class="krdwrd-tag-1" value="Guernsey">Guernsey
+</option><option class="krdwrd-tag-1" value="Guinea">Guinea
+</option><option class="krdwrd-tag-1" value="Guyana">Guyana
+</option><option class="krdwrd-tag-1" value="Haiti">Haiti
+</option><option class="krdwrd-tag-1" value="Honduras">Honduras
+</option><option class="krdwrd-tag-1" value="Hong Kong">Hong Kong
+</option><option class="krdwrd-tag-1" value="Hungary">Hungary
+</option><option class="krdwrd-tag-1" value="Iceland">Iceland
+</option><option class="krdwrd-tag-1" value="India">India
+</option><option class="krdwrd-tag-1" value="Indonesia">Indonesia
+</option><option class="krdwrd-tag-1" value="Iran">Iran
+</option><option class="krdwrd-tag-1" value="Ireland">Ireland
+</option><option class="krdwrd-tag-1" value="Israel">Israel
+</option><option class="krdwrd-tag-1" value="Italy">Italy
+</option><option class="krdwrd-tag-1" value="Jamaica">Jamaica
+</option><option class="krdwrd-tag-1" value="Japan">Japan
+</option><option class="krdwrd-tag-1" value="Jordan">Jordan
+</option><option class="krdwrd-tag-1" value="Kazakstan">Kazakstan
+</option><option class="krdwrd-tag-1" value="Kenya">Kenya
+</option><option class="krdwrd-tag-1" value="People's Republic of Korea">People's Republic of Korea
+</option><option class="krdwrd-tag-1" value="Republic of Korea">Republic of Korea
+</option><option class="krdwrd-tag-1" value="Kuwait">Kuwait
+</option><option class="krdwrd-tag-1" value="Kyrgystan">Kyrgystan
+</option><option class="krdwrd-tag-1" value="Laos">Laos
+</option><option class="krdwrd-tag-1" value="Latvia">Latvia
+</option><option class="krdwrd-tag-1" value="Lebanon">Lebanon
+</option><option class="krdwrd-tag-1" value="Liberia">Liberia
+</option><option class="krdwrd-tag-1" value="Libya">Libya
+</option><option class="krdwrd-tag-1" value="Liechtenstein">Liechtenstein
+</option><option class="krdwrd-tag-1" value="Lithuania">Lithuania
+</option><option class="krdwrd-tag-1" value="Luxembourg">Luxembourg
+</option><option class="krdwrd-tag-1" value="Madagascar">Madagascar
+</option><option class="krdwrd-tag-1" value="Malawi">Malawi
+</option><option class="krdwrd-tag-1" value="Malaysia">Malaysia
+</option><option class="krdwrd-tag-1" value="Malta">Malta
+</option><option class="krdwrd-tag-1" value="Mauritius">Mauritius
+</option><option class="krdwrd-tag-1" value="Mexico">Mexico
+</option><option class="krdwrd-tag-1" value="Moldona">Moldova
+</option><option class="krdwrd-tag-1" value="Monaco">Monaco
+</option><option class="krdwrd-tag-1" value="Morocco">Morocco
+</option><option class="krdwrd-tag-1" value="Mozambique">Mozambique
+</option><option class="krdwrd-tag-1" value="Nepal">Nepal
+</option><option class="krdwrd-tag-1" value="Netherlands">Netherlands
+</option><option class="krdwrd-tag-1" value="New Zealand">New Zealand
+</option><option class="krdwrd-tag-1" value="Nicaragua">Nicaragua
+</option><option class="krdwrd-tag-1" value="Nigeria">Nigeria
+</option><option class="krdwrd-tag-1" value="Norway">Norway
+</option><option class="krdwrd-tag-1" value="Oman">Oman
+</option><option class="krdwrd-tag-1" value="Pakistan">Pakistan
+</option><option class="krdwrd-tag-1" value="Panama">Panama
+</option><option class="krdwrd-tag-1" value="Paraguay">Paraguay
+</option><option class="krdwrd-tag-1" value="Peru">Peru
+</option><option class="krdwrd-tag-1" value="Phillipines">Philippines
+</option><option class="krdwrd-tag-1" value="Poland">Poland
+</option><option class="krdwrd-tag-1" value="Portugal">Portugal
+</option><option class="krdwrd-tag-1" value="Puerto Rico">Puerto Rico
+</option><option class="krdwrd-tag-1" value="Quatar">Qatar
+</option><option class="krdwrd-tag-1" value="Romania">Romania
+</option><option class="krdwrd-tag-1" value="Russian Federation">Russian Federation
+</option><option class="krdwrd-tag-1" value="Rwanda">Rwanda
+</option><option class="krdwrd-tag-1" value="Saudi Arabia">Saudi Arabia
+</option><option class="krdwrd-tag-1" value="Singapore">Singapore
+</option><option class="krdwrd-tag-1" value="Slovakia">Slovakia
+</option><option class="krdwrd-tag-1" value="Slovenia">Slovenia
+</option><option class="krdwrd-tag-1" value="Solomons">Somalia
+</option><option class="krdwrd-tag-1" value="South Africa">South Africa
+</option><option class="krdwrd-tag-1" value="Spain">Spain
+</option><option class="krdwrd-tag-1" value="Sri Lanka">Sri Lanka
+</option><option class="krdwrd-tag-1" value="Sudan">Sudan
+</option><option class="krdwrd-tag-1" value="Sweden">Sweden
+</option><option class="krdwrd-tag-1" value="Switzerland">Switzerland
+</option><option class="krdwrd-tag-1" value="Taiwan">Taiwan
+</option><option class="krdwrd-tag-1" value="Tanzania">Tanzania
+</option><option class="krdwrd-tag-1" value="Thailand">Thailand
+</option><option class="krdwrd-tag-1" value="Trinidad and Tobago">Trinidad and Tobago
+</option><option class="krdwrd-tag-1" value="Tunisia">Tunisia
+</option><option class="krdwrd-tag-1" value="Turkey">Turkey
+</option><option class="krdwrd-tag-1" value="Uganda">Uganda
+</option><option class="krdwrd-tag-1" value="Ukraine">Ukraine
+</option><option class="krdwrd-tag-1" value="United Arab Emirates">United Arab Emirates
+</option><option class="krdwrd-tag-1" value="United Kingdom">United Kingdom
+</option><option class="krdwrd-tag-1" value="United States">United States of America
+</option><option class="krdwrd-tag-1" value="Uraguay">Uruguay
+</option><option class="krdwrd-tag-1" value="Venezuela">Venezuela
+</option><option class="krdwrd-tag-1" value="Vietnam">Vietnam
+</option><option class="krdwrd-tag-1" value="Yemen">Yemen
+</option><option class="krdwrd-tag-1" value="Yugoslavia">Yugoslavia
+</option><option class="krdwrd-tag-1" value="Zaire">Zaire
+</option><option class="krdwrd-tag-1" value="Zambia">Zambia
+</option><option class="krdwrd-tag-1" value="Zimbabwe">Zimbabwe
+</option></select>
+</td></tr>
+<tr>
+<td align="right"><kw class="krdwrd-tag-1">
+Select a subject for your feedback. </kw></td>
+<td>
+<select name="topic" title="Select a Subject">
+<option class="krdwrd-tag-1" value="about site">==Feedback about the site - select from list below==</option>
+<option class="krdwrd-tag-1" value="general">General Feedback</option>
+<option class="krdwrd-tag-1" value="search">Searching the site</option>
+<option class="krdwrd-tag-1" value="browse">Browsing errors</option>
+<option class="krdwrd-tag-1" value="online_research">Using Online Research</option>
+<option class="krdwrd-tag-1" value="content">Data / Content</option>
+<option class="krdwrd-tag-1" value="ordering">Ordering on the site</option>
+<option class="krdwrd-tag-1" value="registration">Registration</option>
+<option class="krdwrd-tag-1" value="access">Problems with getting access</option>
+<option class="krdwrd-tag-1" value="news_briefs">Jane's News Briefs</option>
+<option class="krdwrd-tag-1" value="about site">==Feedback about Jane's services - select from list below==</option>
+<option class="krdwrd-tag-1" value="editors">To the editors</option>
+<option class="krdwrd-tag-1" value="sale">Sales</option>
+<option class="krdwrd-tag-1" value="customer_services">Customer Services</option>
+<option class="krdwrd-tag-1" value="advertising">Advertising</option>
+
+</select>
+</td></tr>
+<tr bgcolor="#f5f5f5"><td align="right" valign="top"><kw class="krdwrd-tag-1">
+Feedback
+</kw></td>
+<td>
+<textarea name="feedback" rows="5" cols="35" wrap="VIRTUAL" title="Enter Your Feedback here"></textarea>
+</td></tr>
+<tr>
+<td align="right"><kw class="krdwrd-tag-1">
+Would you like an email response?</kw></td>
+<td>
+<input name="reply" value="yes_reply" title="Yes, I would like an Email response" type="radio"><kw class="krdwrd-tag-1">Yes
+</kw><input name="reply" value="no_reply" checked="checked" title="No, I do not need an Email response" type="radio"><kw class="krdwrd-tag-1">No
+</kw></td></tr>
+<tr><td align="right">
+<br>
+</td>
+<td>
+<input name="Submit" value="Submit" title="Submit Feedback" type="submit">
+</td><td>
+</td></tr>
+<tr>
+<td colspan="2">
+<p><kw class="krdwrd-tag-3">This information
+is held confidentially and will only be used by Jane's to provide
+you with additional news and information. These details will not
+be rented, sold or distributed to any outside party. </kw><br>
+</p></td>
+</tr>
+<script language="JavaScript" type="text/javascript">aaa=navigator.appName;
+document.write("<P><input type=hidden name=browser value='"+aaa.toString()+"' size=100>");
+bbb=navigator.appVersion;
+document.write("<P><input type=hidden name=version value='"+bbb.toString()+"' size=100>");
+ccc=navigator.platform;
+document.write("<P><input type=hidden name=opsys value='"+ccc.toString()+"' size=100>");
+ddd=document.referrer;
+document.write("<P><input type=hidden name=referrer value='"+ddd.toString()+"' size=100>");
+</script></tbody></table>
+</td>
+        </tr>
+       </tbody></table> <br> 
+       </div>
+    </td>
+    <td width="15"><img src="/public/images/pix.gif" alt="" width="15" height="1"></td>
+    <td bgcolor="#999999" valign="top" width="1"><img src="/public/images/pix.gif" alt="" width="1" height="1"></td>
+    <td width="15"><img src="/public/images/pix.gif" alt="" width="15" height="1"></td>
+    <td valign="top" width="130">
+      <div class="sponsor" align="center"><kw class="krdwrd-tag-1">
+      Jane's Fighting Ships sponsor
+      </kw></div>
+      <div align="center">
+            <!-- AD2  -->
+
+<script language="JavaScript" type="text/javascript">
+ord=Math.random()*10000000000000000;
+document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/jfs.janes.com/SubscriptionSite;tile=2;sz=120x240;ord=' + ord + '?" type="text/javascript"><\/script>'); </script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/jfs.janes.com/SubscriptionSite;tile=2;sz=120x240;ord=4925715701567274?" type="text/javascript"></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/jfs.janes.com/SubscriptionSite;tile=2;sz=120x240;ord=9796167404483754?" type="text/javascript"></script>
+<noscript><kw>
+<a href="http://ad.uk.doubleclick.net/jump/jfs.janes.com/SubscriptionSite;sz=468x60;tile=2;ord=062508121105?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/jfs.janes.com/SubscriptionSite;sz=120x240;tile=2;ord=062508121105?" alt="" border="0" width="120" height="240"></a>
+</kw></noscript>
+                <br>
+            </div><br>
+            <br>
+            <!-- RELATED PRODUCTS -->
+  
+
+<!-- create a procedure to convert pub_acro in product_id -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- Query -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table class="med_arial" border="0" cellpadding="1" cellspacing="0" width="100%">
+<tbody><tr>
+    <td class="related_caption" bgcolor="#999999"><kw class="krdwrd-tag-1">Related Products</kw></td>
+</tr>
+
+<tr class="med_arial">
+    <td><a href="http://jau.janes.com" class="related"><kw class="krdwrd-tag-1">Aircraft Upgrades</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jawa.janes.com" class="related"><kw class="krdwrd-tag-1">All the World's Aircraft</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jasf.janes.com" class="related"><kw class="krdwrd-tag-1">Amphibious and Special Forces</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jdw.janes.com" class="related"><kw class="krdwrd-tag-1">Defence Weekly</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jhmt.janes.com" class="related"><kw class="krdwrd-tag-1">High-Speed Marine Transportation</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://idd.janes.com" class="related"><kw class="krdwrd-tag-1">International Defence Directory</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://idr.janes.com" class="related"><kw class="krdwrd-tag-1">International Defence Review</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jmp.janes.com" class="related"><kw class="krdwrd-tag-1">Marine Propulsion</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jms.janes.com" class="related"><kw class="krdwrd-tag-1">Merchant Ships</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jnc.janes.com" class="related"><kw class="krdwrd-tag-1">Naval Construction and Retrofit Markets</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jnws.janes.com" class="related"><kw class="krdwrd-tag-1">Naval Weapon Systems</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jni.janes.com" class="related"><kw class="krdwrd-tag-1">Navy International</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://sentinel.janes.com" class="related"><kw class="krdwrd-tag-1">Sentinel Library</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jsts.janes.com" class="related"><kw class="krdwrd-tag-1">Simulation and Training Systems</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jsws.janes.com" class="related"><kw class="krdwrd-tag-1">Strategic Weapon Systems</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://juws.janes.com" class="related"><kw class="krdwrd-tag-1">Underwater Warfare Systems</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jwaf.janes.com" class="related"><kw class="krdwrd-tag-1">World Air Forces</kw></a></td>
+</tr>
+<tr class="med_arial">
+    <td><a href="http://jwar.janes.com" class="related"><kw class="krdwrd-tag-1">World Armies</kw></a></td>
+</tr>
+
+</tbody></table>
+<br>
+
+
+
+      <br>
+
+    </td>
+  </tr>
+  <tr>
+    <!-- FOOTER always the same -->
+    <td colspan="20" valign="top">
+        <hr size="1" width="98%" noshade="noshade">
+    <div id="footer">
+<p><a href="http://www.janes.com/" title="public area"><kw class="krdwrd-tag-1">public area</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www2.janes.com/emeta/SimpleRedirector?show=http://www2.janes.com/emeta/ViewProducts" title="client area"><kw class="krdwrd-tag-1">client area</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://search.janes.com" title="research tools"><kw class="krdwrd-tag-1">research tools</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www2.janes.com/docs/clientservices/" title="client services"><kw class="krdwrd-tag-1">client services</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://catalog.janes.com" title="products"><kw class="krdwrd-tag-1">products</kw></a></p>
+<p><a href="http://www.janes.com/sitemap/"><kw class="krdwrd-tag-1">sitemap</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.janes.com/contact/"><kw class="krdwrd-tag-1">contact us</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.janes.com/help/"><kw class="krdwrd-tag-1">help</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.janes.com/accessibility/"><kw class="krdwrd-tag-1">accessibility</kw></a></p>
+<p><kw class="krdwrd-tag-1">© 2008 Jane's Information Group. </kw><a href="http://www.janes.com/about/copyright.html"><kw class="krdwrd-tag-1">All rights reserved</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.janes.com/about/terms.html"><kw class="krdwrd-tag-1">Terms of use</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.janes.com/about/privacy.html"><kw class="krdwrd-tag-1">Jane's Privacy Policy</kw></a></p>
+</div>
+    </td>
+  </tr>
+</tbody></table>
+ <layer src="http://ad.doubleclick.net/adl/jfs.janes.com/SubscriptionSite/;sz=468x60;tile=1?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility='show';">    </layer><layer src="http://ad.doubleclick.net/adl/jfs.janes.com/SubscriptionSite/;sz=120x240;tile=2?" width="120" height="240" visibility="hidden" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=240;clip.width=120; visibility='show';">    </layer>
+<!-- Component Based Architecture v1.8100 -->
+</body>

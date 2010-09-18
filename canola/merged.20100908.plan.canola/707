@@ -1,0 +1,196 @@
+<head><base href="http://journal.media-culture.org.au/0403/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+
+<link href="/css/journal-screen.css" media="screen" rel="stylesheet" type="text/css"><link href="/css/journal-print.css" media="print" rel="stylesheet" type="text/css">
+<link rel="Shortcut Icon" href="/favicon.ico"><title>M/C Journal</title></head><body>
+<div id="pageHeader">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+<div id="universalHeader">
+  <select name="publicationNav" onchange="MM_jumpMenu('parent',this,0)">
+      <option class="krdwrd-tag-1" value="#">Other Publications...</option>
+      <option class="krdwrd-tag-1" value="http://journal.media-culture.org.au/">M/C Journal</option>
+      <option class="krdwrd-tag-1" value="http://reviews.media-culture.org.au">M/C Reviews</option>
+      <option class="krdwrd-tag-1" value="http://dialogue.media-culture.org.au">M/C Dialogue</option>
+      <option class="krdwrd-tag-1" value="http://wiki.media-culture.org.au/">M/Cyclopedia</option>
+  </select>
+  <a href="http://www.media-culture.org.au/"><img src="/images/universalHeader.gif" alt="M/C - Media and Culture Home" border="0" width="180" height="30"></a>
+</div>
+<a href="/index.php"><img src="/images/journal/journal_header4.gif" alt="M/C Journal Home" border="0" width="851" height="75"></a>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1803844-2";
+urchinTracker();
+</script></div>
+<div id="pageContainer">
+  <script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_changeProp(objName,x,theProp,theValue) { //v6.0
+  var obj = MM_findObj(objName);
+  if (obj && (theProp.indexOf("style.")==-1 || obj.style)){
+    if (theValue == true || theValue == false)
+      eval("obj."+theProp+"="+theValue);
+    else eval("obj."+theProp+"='"+theValue+"'");
+  }
+}
+//-->
+</script>
+<div id="LHSContainer">
+  <div class="lhs" id="mainNav">
+    <h1><kw class="krdwrd-tag-1">M/C Journal </kw></h1>
+    <ul>
+      <li><a href="http://www.media-culture.org.au/"><kw class="krdwrd-tag-1">M/C Home </kw></a></li>
+      <li><a href="/index.php"><kw class="krdwrd-tag-1">Current Issue</kw></a></li>
+      <li><a href="/journal/upcoming.php"><kw class="krdwrd-tag-1">Upcoming Issues</kw></a></li>
+      <li><a href="/journal/past_vol_11.php"><kw class="krdwrd-tag-1">Archives</kw></a></li>
+      <li><a href="/journal/submission.php"><kw class="krdwrd-tag-1">Submission</kw></a></li>
+      <li><a href="/journal/about.php"><kw class="krdwrd-tag-1">About M/C Journal</kw></a> </li>
+      <li><a href="/journal/respond.php"><kw class="krdwrd-tag-1">Respond</kw></a></li>
+      <li><a href="/journal/contributors_name_A.php"><kw class="krdwrd-tag-1">Contributors</kw></a></li>
+    </ul>
+  </div>
+  <div class="lhs" id="alsoIssue">
+    <h1><kw class="krdwrd-tag-1">Current Issue </kw></h1>
+    
+          <ul>
+                  <li class="editorial"><kw class="krdwrd-tag-1">EDITORIAL: 
+</kw><a href="/0805/01-editorial.php"><kw class="krdwrd-tag-1">
+                      Equal</kw></a><kw class="krdwrd-tag-1"> - D. Bruno Starrs and Sean Maher</kw></li>
+                  <li class="feature"><kw class="krdwrd-tag-1">FEATURE: 
+</kw><a href="/0805/02-aly-green.php"><kw class="krdwrd-tag-1">
+                      Less than Equal</kw></a><kw class="krdwrd-tag-1"> - Anne Aly and Lelia Green</kw></li>
+                  <li class="articleList">
+<a href="/0805/03-mayrhofer.php"><kw class="krdwrd-tag-1">
+                      Mad about the Boy</kw></a><kw class="krdwrd-tag-1"> - Debra Mayrhofer</kw></li>
+                  <li class="articleList">
+<a href="/0805/04-toutant.php"><kw class="krdwrd-tag-1">
+                      Can Stage Directors Make Opera and Popular Culture ‘Equal’?</kw></a><kw class="krdwrd-tag-1"> - Ligia Toutant</kw></li>
+                  <li class="articleList">
+<a href="/0805/05-collins-gearing.php"><kw class="krdwrd-tag-1">
+                      Not All Sorrys Are Created Equal, Some Are More Equal than ‘Others’</kw></a><kw class="krdwrd-tag-1"> - Brooke Collins-Gearing</kw></li>
+                  <li class="articleList">
+<a href="/0805/06-paull.php"><kw class="krdwrd-tag-1">
+                      Beyond Equal</kw></a><kw class="krdwrd-tag-1"> - John Paull</kw></li>
+          </ul>
+
+    </div>
+	<div class="lhs" id="mailingListSubscribe">
+	<h1><kw class="krdwrd-tag-1">Subscribe to Updates</kw></h1>
+<!--	<form action="/journal/easyletter.php" method="post">
+      <p>
+  <input name="email" type="text" value="Your E-Mail Address" onfocus="this.value=''"  size="20" />
+&#160;      </p>
+      <p>        <input type="radio" name="action" value="sign" checked="checked" />
+        Subscribe
+        <input type="radio" name="action" value="delete" />
+      Unsubscribe&#160;</p>
+      <p>
+        <input name="submit" type="submit" value=" Send! " />
+      </p>
+	</form>
+-->
+<p><kw class="krdwrd-tag-1">To subscribe to </kw><i><kw class="krdwrd-tag-1">M/C Journal</kw></i><kw class="krdwrd-tag-1"> updates, please email us at mc (at) media-culture.org.au.</kw></p>
+	</div>
+</div>
+  <div class="rhs">
+    
+
+      
+      <div id="articleHeader">
+          <h1><kw class="krdwrd-tag-2">Video Game Internal Turfs and Turfs of Play</kw></h1>
+          <ul class="authorMore">
+        <li class="author"><kw class="krdwrd-tag-1">Laurie Taylor</kw></li>
+        <li><a href="/journal/respond.php"><kw class="krdwrd-tag-1">Respond To This Article</kw></a></li></ul>
+    </div>
+      <ul class="articlePubDetails">
+        <li><kw class="krdwrd-tag-1">Volume 7</kw></li>
+        <li><kw class="krdwrd-tag-1">Issue 2 </kw></li>
+        <li><kw class="krdwrd-tag-1">March 2004</kw></li>
+    </ul>
+    <div id="articleContent">
+      <div id="maintext">
+        <div class="essay">
+          <p><span class="bit"><kw class="krdwrd-tag-1">1</kw></span><kw class="krdwrd-tag-3">Video games are predicated on representations of space, and those spaces are depicted and delimited by specialised visual markings that specify how the game can be played in those areas. For games to present a sense of space, they must display some sense of spatiality beyond that of merely virtualizing a simple game, in the way that puzzle and card games like Tetris and computerized Solitaire do. For games to present space, the games must contain immersive play environments. Many games present immersive environments for play and these spaces can come in many forms: from cityscapes to general play environments in games of various genres and game play styles like Grand Theft Auto 3 (GTA3), Warcraft III, and Super Mario Brothers. Given the many video game genres, this article focuses on games that present some type of virtualized environments. Although video games that present play spaces or environments can be divided into walls, ceilings, and floor or ‘turf’ sections, turf sections prove the most pivotal of the in-game elements to game play. The game turf sections are any part of the game space that the player can use as a basis for spatial exploration. In games like Resident Evil where movement is restricted to walking and running across the floor, only the floors are turf areas. In games like Spiderman—where the player can climb the walls and ceilings with equal ease—the walls, ceilings, and floors all merge into a heterogeneous turf. These game turfs often employ codes such as green for safe and red for danger and create a basic gaming rhetoric for spatial representation and a method for reading video game spaces. In this way, video game turfs serve to mark boundaries and borders for methods of exploration and play. The internal game spaces and delimitations and the external delimitations of the play spaces constitute game turfs.</kw></p>
+          <p><span class="bit"><kw class="krdwrd-tag-1">2</kw></span><kw class="krdwrd-tag-3">This article also argues that debates over violence in video games misunderstand these turf boundaries and maintains that the violence in video games can be perceived not as random desensitising violence, but as violence within a specific space—that of game play. Media theorists like Dave Grossman and Gloria DeGaetano (Stop Teaching Our Kids to Kill ) and educators like Jeanne B. Funk (“Violent Video Games: Who's at Risk?”) both argue that violent video games can lead to an increase in violent behaviour or desensitization towards violence. These debates over violence in video games ignore the rhetoric of gaming created through markings like turf, and they ignore the physical turf on which video games are most often played.</kw></p>
+          <p><span class="bit"><kw class="krdwrd-tag-1">3</kw></span><kw class="krdwrd-tag-3">The arguments against violence in video games assume a simple causal relationship between people playing video games and actual violence. These arguments neglect the rhetoric of gaming, which establishes borders and spaces of acceptable action as well as setting the moral turf for actions. Similarly, players rely on the game turfs to indicate game play methods and spatial usage. When the turfs are incorrectly represented, video game players suffer frustration during game play; games also purposely complicate these turfs at times to increase game play difficulty, or to intentionally frustrate players. The internal game space of a video game cannot be examined outside of the space of play because the space of play dictates how the game is played and how the game space is to be read. This interrelationship of game to play space can be seen through the concept of cheating. Johan Huizinga notes that</kw></p>
+          <blockquote>
+            <p><kw class="krdwrd-tag-3">The player who trespasses against the rules or ignores them is a ‘spoil-sport.’ The spoil-sport is not the same as the false player, the cheat; for the latter pretends to be playing the game... It is curious to note how much more lenient society is to the cheat than to the spoil-sport. This is because the spoil-sport shatters the play-world itself. (11)</kw></p>
+          </blockquote>
+          <p><span class="bit"><kw class="krdwrd-tag-3">4</kw></span><kw class="krdwrd-tag-3">The significance of the play-world to the video game space still holds as true as with other games. While the games have internal rules for game play, the games are played within spaces of play which encompass more than just the rules within the game.</kw></p>
+          <p><span class="bit"><kw class="krdwrd-tag-1">5</kw></span><kw class="krdwrd-tag-3">The complex relationship of video game internal space as it exists within a field of play requires that any valid discussion of video games and violence must acknowledge the acts and functions within the game and within the play space. For constructing the internal game space, Mark Wolf notes in his article “Abstraction and the Video Game” that video game imagery can be discussed in terms of both appearance and function: “Since the substance of video games is both simultaneously imagery and events, their elements can be abstracted in both appearance and behavior” (49). Wolf’s comment illustrates the multiple levels of significance that accompany seemingly simple video game representations. The simplest level of video game representation is clearly illustrated with games like the Legend of Zelda series, which depicts roads and towns as safe (or safer), and wilderness areas, like forests, swamps, and mountains, as unsafe. The level of ‘safe’ for any area determines how many fights, also called random encounters, occur. The Final Fantasy game series also uses the same distinction with road areas as more secure than wild areas. In addition to security, the area types--desert, forest, swamp--indicate the type of monsters to be encountered. In similar ways, simulation and colonization games like SIMCITY and Warcraft III depict controlled and well developed areas in particular ways while depicting undeveloped areas with markings to indicate the resources or game space type for those areas.</kw></p>
+          <p><span class="bit"><kw class="krdwrd-tag-1">6</kw></span><kw class="krdwrd-tag-3">The game music also sets the score for the game space, with games like Resident Evil using one score only for the save rooms, a rare safe space in Resident Evil, where the player can save the game and store the items. These game space delimitations help players in reading the game spaces and how the game spaces will operate. These turf types also indicate the acceptable levels of play—that is, how to play appropriately in the game—which both children and adults learn in other types of organised play like sports, board games, card games, and other organised play activities – that is, how to play appropriately in the game. These turf types all indicate internal game space creation.</kw></p>
+          <p><span class="bit"><kw class="krdwrd-tag-1">7</kw></span><kw class="krdwrd-tag-3">Internal game space rules are also established through the game narrative. These space divisions are not always marked by the same visual language that marks the basic turfs of other games. Instead, these spaces are defined by the visual language as combined with the game narrative. In fact, the game that has sparked the most recent violence and video game controversy, Grand Theft Auto 3, has some of the most exacting narratively defined turfs. GTA3 presents an amoral world of gangsters, crooked cops, prostitutes, and others of similar character. GTA3 further delimits its game space by setting certain areas as turfs for the different criminal elements, including Chinatown for the Chinese gangs, Yakuza areas for the Japanese mafia, and a Mob area for the Italian mafia. Within these turfs, the violence–in-video-games controversy notes violence in terms of blood spilt, but it fails to recognise how the fighting is contextualised within the scope of the game narrative, a turf in itself. Fighting certainly constitutes violence, but in video games it primarily remains violence as self-defense and as violence against non-human creatures. The division between human and non-human may seem grossly arbitrary, but children’s cartoon regulations allow for violence against non-humans while violence against humans remains regulated. Violent turfs, then, also relate to the narrativised nature of the characters against whom the violence is directed.</kw></p>
+          <p><span class="bit"><kw class="krdwrd-tag-1">8</kw></span><kw class="krdwrd-tag-3">Game narratives also divide games into narrativised turfs with spaces of acceptable action. Within a game like Legend of Zelda or Diablo the player can interact with the villagers, but the player cannot hurt or kill the villagers. The village or town space is a safe place for the player and for the villagers, as are many areas outside of the towns and villages where villagers reside. This safe space also prevents the player from hurting the villagers when they demand inflated prices for goods that would help the player to save the town. This sort of enforced morality based on the game turf is neglected in the debate over violence in video games as with articles like Craig A. Anderson and Karen E. Gill’s, which seek to examine the game as divorced from the play space and from the game narrative even though it shows how video game violence is most often situated within a moral landscape (“Video Games and Aggressive Thoughts”). Distinctions within game spaces are evident in all games that present environments of play because games require borders of play to function.</kw></p>
+          <p><span class="bit"><kw class="krdwrd-tag-1">9</kw></span><kw class="krdwrd-tag-3">In addition to the visual and narrative turfs within them, video games are played within a physical play space. The game space is the space of the immersive game environment—the story space of Diablo II, for instance. The play space is the space in which the game is played – often a living room or bedroom in a home. The debate over violence in video games neglects the multiple landscapes over which they argue. Furthermore, although this debate focuses on the possibility of children playing video games and then becoming violent, it ignores the fact that the play space of video games is a physical and mental space of unreality and make-believe where players are most often heroes fighting against evil monsters. Arguments over violence in video games collapse these levels of game space and the play space within which the games are played. Although the internal game space may be filled with mobsters, blood, and killing, the play space is most often defined by patience, quiet attention, and sharing with other players as the games are played communally with siblings and friends. In confusing the game space by viewing it as solely defined by the narrative of the actual game, the debate over violence in video games also fails to recognise that the use of media varies with different play styles, which also influences the overall play space. While video games do often have violent narratives, video game spaces and play are composites of the actual game and the spaces in which the games are played, which are heavily controlled by how the players play. Video game spaces cannot be reduced to merely the game narratives or game spaces because video game play requires the interaction of play. Considering play requires considering both the internal game spaces and the exterior environment of where and how the players play. Thus, an awareness and examination of game turfs provides a different perspective on the debate over violence and video games that embraces the multiple spaces and multiple uses of space in video games.</kw></p>
+          <div class="metadata">
+            <h2><kw class="krdwrd-tag-mrgtie">Works Cited</kw></h2>
+            <ul>
+              <li><kw class="krdwrd-tag-1">Anderson, Craig A. and Karen E. Dill. “Video Games and Aggressive Thoughts, Feelings, and Behavior in the Laboratory and in Life.” Journal of Personality and Social Psychology. 78:4 (April 2000): 772-790.</kw></li>
+              <li><kw class="krdwrd-tag-1">Blizzard Entertainment. Warcraft III: Reign of Chaos. (PC). Irvine, CA: Blizzard Entertainment, 2002.</kw></li>
+              <li><kw class="krdwrd-tag-1">Funk, Jeanne B. “Violent Video Games: Who's at Risk?” Kid Stuff : Marketing Sex and Violence to America's Children. Eds. Diane Ravitch and Joseph P. Viteritti. Baltimore: Johns Hopkins University Press, 2003. 168-192.</kw></li>
+              <li><kw class="krdwrd-tag-1">Grossman, Dave and Gloria&nbsp;DeGaetano. Stop Teaching Our Kids to Kill: A Call to Action against TV, Movie and Video Game Violence. New York: Crown, 1999.</kw></li>
+              <li><kw class="krdwrd-tag-1">Huizinga, Johan. Homo Ludens: A Study of the Play Element in Culture. Boston: Beacon Press, 1955.</kw></li>
+              <li><kw class="krdwrd-tag-1">Maxis (EA). SIMCITY 3000 Unlimited. (PC). Redwood City, CA: Maxis (EA), 2000.</kw></li>
+              <li><kw class="krdwrd-tag-1">Nintendo. Super Mario Brothers. (Nintendo Entertainment System). Redmond, WA: Nintendo, 1985.</kw></li>
+              <li><kw class="krdwrd-tag-1">Rockstar North. Grand Theft Auto 3 (GTA3). (Playstation2, PC) New York: Rockstar Games, 2001.</kw></li>
+              <li><kw class="krdwrd-tag-1">Sucker Punch. Sly Cooper and the Thievius Raccoonus. (Playstation2). San Mateo, CA: SCEA, 2002.</kw></li>
+              <li><kw class="krdwrd-tag-1">Wolf, Mark. “Abstraction and the Video Game.” Eds. Mark Wolf and Bernard Perron. The Video Game Theory Reader. New York: Routledge, 2003. 47-65.</kw></li>
+            </ul>
+          </div>
+          <div class="metadata">
+            <h2><kw class="krdwrd-tag-1">Citation reference for this article</kw></h2>
+            <h3><kw class="krdwrd-tag-1">MLA Style</kw></h3>
+            <ul>
+              <li><kw class="krdwrd-tag-1">Taylor, Laurie. "Video Game Internal Turfs and Turfs of Play" </kw><cite><kw class="krdwrd-tag-1">M/C: A Journal of Media and Culture</kw></cite><br><kw class="krdwrd-tag-1">
+&lt;http://www.media-culture.org.au/0403/09-video.php&gt;.</kw></li>
+            </ul>
+            <h3><kw class="krdwrd-tag-1">APA Style</kw></h3>
+            <ul>
+              <li><kw class="krdwrd-tag-1">Taylor, L. (2004, Mar17). Video Game Internal Turfs and Turfs of Play. </kw><cite><kw class="krdwrd-tag-1">M/C: A Journal of Media and Culture, 7,</kw></cite><br><kw class="krdwrd-tag-1">
+&lt;http://www.media-culture.org.au/0403/09-video.php&gt;</kw></li>
+            </ul>
+          </div>
+          <div class="metadata"></div>
+        </div>
+      </div>
+      </div>
+    
+  </div>
+</div><div id="copyrightInfo">
+	  <ul>
+          <li><a href="http://www.media-culture.org.au/"><img src="/images/footer/mcFooterimg1.gif" alt="M/C - Media and Culture" align="middle" border="0" width="129" height="29"></a> </li>
+          <li><table style="border: 0px none; margin: 0px; display: inline; vertical-align: middle;"><tbody><tr><td style="font-size: xx-small;"><kw class="krdwrd-tag-1">supported by</kw></td></tr><tr><td><a href="http://www.creativeindustries.qut.edu.au/"><img src="/images/footer/ci_qut_logo.gif" alt="QUT - Creative Industries" align="middle" border="0" width="122" height="30"></a></td></tr></tbody></table></li>
+         </ul>
+	   <ul>
+          <li><kw class="krdwrd-tag-1"> Copyright © M/C 1998-2006 </kw></li>
+          <li><kw class="krdwrd-tag-1"> ISSN 1441-2616 </kw></li>
+  </ul>
+		  <ul>
+		    <li><a href="http://www.media-culture.org.au/aboutus.php"><kw class="krdwrd-tag-1">About M/C</kw></a></li>
+		    <li><a href="http://www.media-culture.org.au/contactUs.php"><kw class="krdwrd-tag-1">Contact M/C</kw></a></li>
+		    <li><a href="http://www.media-culture.org.au/site_map.php"><kw class="krdwrd-tag-1">Site Map </kw></a></li>
+  </ul>
+		  <ul>
+		  <li><a href="http://validator.w3.org/check/referer"><kw class="krdwrd-tag-1">XHTML</kw></a></li>
+          <li><a href="http://jigsaw.w3.org/css-validator/check/referer"><kw class="krdwrd-tag-1">CSS</kw></a></li>
+          <li><a href="http://www.media-culture.org.au/accessibility.php"><kw class="krdwrd-tag-1">Accessibility</kw></a></li>
+          
+      </ul>
+  </div></body>

@@ -1,0 +1,421 @@
+<head><base href="http://www.ecolo.org/documents/documents_in_english/ramsar-natural-radioactivity/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!--This file created 9/02/06 10:51 by Claris Home Page version 3.0 30 Day Trial--><title>Natural Radiation: High Background Radiation Areas (HBRAs) of Ramsar, Iran</title>
+
+
+   
+   <meta name="GENERATOR" content="Claris Home Page 3.0 30 Day Trial">
+   <x-claris-window top="120" bottom="531" left="514" right="1044"></x-claris-window>
+   <x-claris-tagview mode="minimal"></x-claris-tagview>
+<meta name="Author" content="Javad Mortazavi"><!-- saved from url=(0053)http://www.angelfire.com/mo/radioadaptive/ramsar.html --><meta name="keywords" content="Ramsar, Iran, radon, 222, 226, radon 222, Javad Mortavazi, Mortavasi, Mortazavi, Mortasavi, natural, background, radioactivity, high, level, detection, radiation, springs, hotsprings"></head><body background="FFFF00" bgcolor="#ffff99" vlink="#3cfb34" link="#ffffff">
+<center><font color="#660000" face="Times New Roman,Times" size="+2"><kw class="krdwrd-tag-2">High
+Background Radiation Areas of Ramsar, Iran</kw></font><br>
+&nbsp;
+
+<p><font color="#000066" face="Times New Roman,Times" size="+1"><kw class="krdwrd-tag-1">S. M.
+Javad Mortazavi (EFN)</kw></font></p>
+
+<p><font color="#000066" face="Times New Roman,Times" size="+1"><img src="PortraitJavad.JPG" align="bottom" width="153" height="200"></font></p>
+
+<p>&nbsp;</p>
+
+<p><font color="#660000" face="Times New Roman,Times"><kw class="krdwrd-tag-1">Biology
+Division, Kyoto University of Education, Kyoto 612-8522, Japan</kw><br><kw class="krdwrd-tag-1">
+Member of the </kw></font><a href="http://www.ecolo.org" target="_blank" style="text-decoration: none;"><font color="#660000" face="Times New Roman,Times"><kw class="krdwrd-tag-1">Scientific
+Committee of EFN</kw></font></a><font color="#660000" face="Times New Roman,Times">
+</font><a href="qsdrf"><font color="#660000" face="Times New Roman,Times"><kw class="krdwrd-tag-1">(</kw></font></a><a href="http://www.ecolo.org" target="_blank"><font color="#660000" face="Times New Roman,Times"><kw class="krdwrd-tag-1">www.ecolo.org</kw></font></a><a href="qsdrf"><font color="#660000" face="Times New Roman,Times"><kw class="krdwrd-tag-1">)</kw></font></a></p></center>
+
+<p><br>
+</p>
+
+<center>&nbsp;<table border="0" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote><font color="#000066" face="Times New Roman,Times" size="+2"><kw class="krdwrd-tag-3">H</kw></font><font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-3">umans,
+            animals and plants have been exposed to natural radiation
+            since the creation of life. Interestingly, life evolved
+            in a radiation field that was much more intense than
+            today. The annual effective radiation dose from natural
+            and man-made sources for the world's population is about
+            3 mSv, which includes exposure to alpha radiation from
+            radon and its progeny nuclides. Nearly 80% of this dose
+            (2.4 mSv) comes from natural background radiation,
+            although levels of natural radiation can vary greatly.
+            Ramsar, a northern coastal city in Iran, has areas with
+            some of the highest levels of natural radiation measured
+            to date. The effective dose equivalents in very high
+            background radiation areas (VHBRAs) of Ramsar in
+            particular in Talesh Mahalleh, are a few times higher
+            than the ICRP-recommended radiation dose limits for
+            radiation workers.</kw></font>
+            
+            <p></p></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+
+<p>&nbsp;</p></center>
+
+<blockquote><blockquote><center><table bgcolor="#ffffff" border="1" cols="1" width="65%">
+         <tbody><tr>
+            <td>
+               <center><img src="hbra.jpg" x-claris-useimagewidth="" x-claris-useimageheight="" align="bottom" width="528" height="254"><table border="0" cols="1" width="80%">
+                  <tbody><tr>
+                     <td>
+                        <center>&nbsp;
+                        
+                        <p><font color="#660000"><kw class="krdwrd-tag-2">Figure 1. High
+                        Background Radiation Areas Around the
+                        World.</kw><br><kw class="krdwrd-tag-2">
+                        Numbers given are in mSv/year.</kw></font></p>
+                        
+                        <p><font color="#660000"><kw class="krdwrd-tag-1">Figure adapted from
+                        Health Research Foundation, Kyoto, Japan,
+                        with permission.</kw></font></p>
+                        
+                        <p>&nbsp;</p></center>
+                        
+                        <p><font color="#000066"><kw class="krdwrd-tag-3">According to UNSCEAR
+                        2000 report, Ramsar, in northern Iran, has
+                        some inhabited areas with the highest known
+                        natural radiation levels in the
+                        world.</kw></font></p>
+                        
+                        <p><a href="http://www.ecolo.org/documents/documents_in_english/guarapari-en.htm" target="_blank" style="text-decoration: none;"><font color="#000066"><kw class="krdwrd-tag-3">In
+                        Guarapari,
+                        Brazil</kw></font></a><font color="#000066"><kw class="krdwrd-tag-3">, a
+                        city of 80 000 inhabitants built on the
+                        seaside, </kw></font><a href="http://www.ecolo.org" target="_blank" style="text-decoration: none;"><font color="#000066"><u><kw class="krdwrd-tag-3">peak</kw></u><kw class="krdwrd-tag-3">
+                        measurements made by EFN on the thorium-rich
+                        beach</kw></font></a><font color="#000066"><kw class="krdwrd-tag-3"> were
+                        as high as 40 microSv/hour (about 200 times
+                        higher than the average natural background
+                        radiation in other areas of the
+                        world).</kw></font></p>
+                        
+                        <p><font color="#000066"><kw class="krdwrd-tag-3">But the highest
+                        known year-average human exposure levels
+                        measured in an inhabited location up to date
+                        is in Ramsar, Iran.</kw></font></p>
+                        
+                        <p><font color="#000066">&nbsp;</font></p>
+                     </td>
+                  </tr>
+               </tbody></table>
+               </center>
+            </td>
+         </tr>
+      </tbody></table>
+      </center></blockquote></blockquote>
+
+<p><br>
+&nbsp;</p>
+
+<center><table border="0" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote><font color="#000066" face="Times New Roman,Times" size="+2"><kw class="krdwrd-tag-3">I</kw></font><font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-3">nhabitants
+            who live in some houses in this area receive annual doses
+            as high as 132 mSv from external terrestrial sources. The
+            radioactivity of the high background radiation areas
+            (HBRAs) of Ramsar is due to Ra-226 and its decay
+            products, which have been brought to the surface by the
+            waters of hot springs. There are more than 9 hot springs
+            with different concentrations of radium in Ramsar that
+            are used as spas by both tourists and
+            residents.&nbsp;</kw><br>
+            </font><br>
+            
+            <p>&nbsp;</p>
+            
+            <center><img src="photo1.jpg" align="bottom" width="160" height="237">
+            <table border="0" cols="1" width="70%">
+               <tbody><tr>
+                  <td>
+                     <center><font color="#660000"><kw class="krdwrd-tag-1">Figure 2. Hot
+                     water containing different concentrations of
+                     Radium flows through streams.</kw></font></center>
+                  </td>
+               </tr>
+            </tbody></table>
+            </center></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+<br>
+&nbsp; <table border="0" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote><font color="#000066" face="Times New Roman,Times" size="+2"><kw class="krdwrd-tag-3">A</kw></font><font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-3">ccording
+            to the results of the surveys performed to date the
+            radioactivity seems primarily to be due to the radium
+            dissolved in mineral water and secondarily to travertine
+            deposits having elevated levels of thorium combined with
+            lesser concentrations of uranium (Sohrabi 1990). Due to
+            extraordinary levels of natural radiation in these areas,
+            in some cases 55-200 times higher than normal background
+            areas, some experts have suggested that dwellings having
+            such high levels of natural radiation need urgent
+            remedial actions (Sohrabi 1997). In spite of this, many
+            inhabitants still live in their unaltered paternal
+            dwellings.</kw></font><br>
+            <font color="#000066" face="Times New Roman,Times"><br>
+            </font>
+            
+            <p>&nbsp;</p>
+            
+            <center><img src="photo5.jpg" align="bottom" width="160" height="237">
+            <table border="0" cols="1" width="70%">
+               <tbody><tr>
+                  <td>
+                     <center><font color="#660000"><kw class="krdwrd-tag-1">Figure 3. A
+                     calibrated survey meter shows the contact dose
+                     rate.</kw></font></center>
+                  </td>
+               </tr>
+            </tbody></table>
+            </center></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+ &nbsp; <table border="0" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote>&nbsp;<br>
+            <font color="#000066" face="Times New Roman,Times" size="+2"><kw class="krdwrd-tag-3">T</kw></font><font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-3">he
+            preliminary results of cytogenetical, immunological and
+            hematological studies on the residents of high background
+            radiation areas of Ramsar have been previously reported
+            (Mortazavi et al. 2001, Ghiassi-Nejad et al. 2002 and
+            Mortazavi et al. in press), suggesting that exposure to
+            high levels of natural background radiation can induce
+            radioadaptive response in human cells. Lymphocytes of
+            Ramsar residents when subjected to 1.5 Gy of gamma rays
+            showed fewer induced chromosome aberrations compared to
+            residents in a nearby control area whose lymphocytes were
+            subjected to the same radiation dose. Despite the fact
+            that in </kw><i><kw class="krdwrd-tag-3">in vitro </kw></i><kw class="krdwrd-tag-3"> experiments lymphocytes of some
+            individuals show a synergistic effect after pretreatment
+            with a low dose(Mortazavi et al. 2000), none of the
+            residents of high background radiation areas showed such
+            a response.</kw></font></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+<br>
+&nbsp; <table border="0" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote><font color="#000066" face="Times New Roman,Times" size="+2"><kw class="krdwrd-tag-3">B</kw></font><font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-3">ased
+            on results obtained in studies on high background
+            radiation areas of Ramsar, high levels of natural
+            radiation may have some bio-positive effects such as
+            enhancing radiation-resistance. More research is needed
+            to assess if these bio-positive effects have any
+            implication in radiation protection (Mortazavi et al.
+            2001). The risk from exposure to low-dose radiation has
+            been highly politicized for a variety of reasons. This
+            has led to a frequently exaggerated perception of the
+            potential health effects, and to lasting public
+            controversies.&nbsp;</kw></font><br>
+            <font color="#000066" face="Times New Roman,Times"><br>
+            </font>
+            
+            <p>&nbsp;</p>
+            
+            <center><img src="ramsar_2.jpg" align="bottom" width="237" height="190">
+            <table border="0" cols="1" width="70%">
+               <tbody><tr>
+                  <td>
+                     <center><font color="#660000"><kw class="krdwrd-tag-1">Figure 4. A group
+                     of scientists are visiting HBRAs of
+                     Ramsar.</kw></font></center>
+                  </td>
+               </tr>
+            </tbody></table>
+            </center></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+<br>
+&nbsp; <table border="0" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote><font color="#000066" face="Times New Roman,Times" size="+2"><kw class="krdwrd-tag-3">C</kw></font><font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-3">urrent
+            radiation protection recommendations are based on the
+            predictions of an assumption on linear, no-threshold
+            dose-effect relationship&nbsp; (LNT). Beneficial effects
+            and lack of detriment after irradiation with low levels
+            of ionizing radiation, including a prolonged exposure to
+            high levels of natural radiation of the inhabitants of
+            HBRAs, are inconsistent with LNT (Mortazavi et al.
+            1999).</kw></font><br>
+            <font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-3">&nbsp;Our
+            preliminary results suggest that prolonged exposure to
+            very high levels of natural radiation could lead to the
+            induction of radiation resistance among exposed
+            individuals, which has interesting implications for many
+            aspects of radiation protection policy.</kw></font><br>
+            <font color="#000066" face="Times New Roman,Times"><br>
+            </font>
+            
+            <p>&nbsp;</p>
+            
+            <center><img src="photo2.jpg" align="bottom" width="226" height="229">
+            <table border="0" cols="1" width="70%">
+               <tbody><tr>
+                  <td>
+                     <center><font color="#660000"><kw class="krdwrd-tag-1">Figure 5. Experts
+                     are measuring dose rates in different points of
+                     an inhabited area.</kw></font></center>
+                  </td>
+               </tr>
+            </tbody></table>
+            </center></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+<br>
+&nbsp;<table border="0" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote><font face="Times New Roman,Times">&nbsp;
+            </font><font color="#000066" face="Times New Roman,Times">
+            </font><font color="#000066" face="Times New Roman,Times" size="+2"><kw class="krdwrd-tag-3">T</kw></font><font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-3">he
+            phenomenon of radioresistance in living organisms has
+            long been a matter of interest for scientists.
+            Experiments on Drosophila nebulosa collected in the woods
+            of a high background radiation area in Brazil indicated
+            the addition of some genes caused the radioresistance
+            found in these flies compared to flies collected from
+            adjacent control woods. In humans it is also possible
+            that genetic alterations have occurred over the span of
+            many generations to induce the radioresistance noted in
+            our study. More research is needed to clarify the
+            mechanisms that make individuals
+            radioresistant.&nbsp;</kw></font><br>
+            <font color="#000066" face="Times New Roman,Times"><br>
+            </font>
+            
+            <p>&nbsp;</p>
+            
+            <center><img src="image001.jpg" align="bottom" width="250" height="189">
+            <table border="0" cols="1" width="70%">
+               <tbody><tr>
+                  <td>
+                     <center><font color="#660000"><kw class="krdwrd-tag-1">Figure 6. Two
+                     survey meters show the dose rates of 142 and 143
+                     micro Gy/h on the wall of the bedroom of one
+                     dwelling.</kw></font></center>
+                  </td>
+               </tr>
+            </tbody></table>
+            </center></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+<br>
+&nbsp;<table border="0" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote><font color="#000066" face="Times New Roman,Times" size="+2"><kw class="krdwrd-tag-3">T</kw></font><font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-3">here
+            are many other areas with high levels of background
+            radiation around the world, and epidemiological studies
+            have indicated that natural radiation in these areas is
+            not harmful for the inhabitants. Results obtained in our
+            study are consistent with the hypothesis that a threshold
+            possibly separates the health effects of natural
+            radiation from the harm of large doses. This threshold
+            seems to be much higher than the greatest level of
+            natural radiation.&nbsp;</kw></font></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+
+<p><table border="1" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote>&nbsp;<br>
+            <font color="#000066" size="+1"><kw class="krdwrd-tag-1">References</kw></font>
+            
+            <p><font color="#000066"><kw class="krdwrd-tag-1">1. Ghiassi-nejad, M; Mortazavi,
+            SMJ; Cameron, JR; Niroomand-rad, A; Karam, PA; Very High
+            Background Radiation Areas of Ramsar, Iran: Preliminary
+            Biological Studies. Health Physics, 82(1): 87-93,
+            2002.</kw></font></p>
+            
+            <p><font color="#000066"><kw class="krdwrd-tag-1">2. Mortazavi, S. M. J., Ikuhima
+            T, Mozdarani H and Sharafi AA. Radiation Hormesis and
+            Adaptive Responses Induced by Low Doses of Ionizing
+            Radiation. Journal of Kerman University of Medical
+            Sciences, Vol. 6, No. 1, 50-60, 1999.</kw></font></p>
+            
+            <p><font color="#000066"><kw class="krdwrd-tag-1">3. Mortazavi, S. M. J., Ikuhima,
+            T., Mozdarani, H., Sharafi, A. A. and Y. Ishi. Is
+            low-level pre-irradiation of human lymphocytes an
+            absolutely beneficial phenomenon. A report on the
+            extra-ordinary synergism. Kowsar Medical Journal, Vol 5,
+            No 4, 235-240, 2000.</kw></font></p>
+            
+            <p><font color="#000066"><kw class="krdwrd-tag-1">4. Mortazavi S. M. J., Ghiassi
+            Nejad M, and Beitollahi M.Very High Background Radiation
+            Areas (VHBRAs) of Ramsar: Do We Need any Regulations to
+            Protect the Inhabitants? Proceedings of the 34th midyear
+            meeting, Radiation Safety and ALARA Considerations for
+            the 21st Century, California, USA, 177-182,
+            2001.</kw></font></p>
+            
+            <p><font color="#000066"><kw class="krdwrd-tag-1">5. Mortazavi S. M. Javad,
+            Ghiassi-nejad M., Niroomand-rad Azam, Andrew Karam P.,
+            and Cameron John R. How should governments address high
+            levels of natural radiation and radon?&nbsp; Lessons from
+            the Chernobyl nuclear accident and Ramsar, Iran. Risk:
+            Health, Safety and Environment, in press.</kw></font></p>
+            
+            <p><font color="#000066"><kw class="krdwrd-tag-1">6. Sohrabi M. Recent
+            radiological studies of high background radiation areas
+            of Ramsar. Proceeding of International Conference on High
+            Levels of Natural Radiation (ICHLNR), Ramsar, Iran, 3-7,
+            1990.</kw></font></p>
+            
+            <p><font color="#000066"><kw class="krdwrd-tag-1">7. Sohrabi M. World high level
+            natural radiation and/or radon prone areas with special
+            regards to dwellings. In: Proceeding of the 4th
+            International Conference on High Levels of Natural
+            Radiation (ICHLNR), Beijing, China, 1996 (Wei L, Suahara
+            T and Tao Z Ed), pp. 3-7, 1997.</kw></font></p></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+</p>
+
+<p><img src="PortraitJavad+BC.jpg" align="bottom" width="300" height="229"></p>
+
+<p><font color="#000066"><kw class="krdwrd-tag-3">Bruno Comby and Javad Mortazavi in Kyoto on
+April 19th, 2002,</kw><br><kw class="krdwrd-tag-3">
+discussing about high natural background radiation in Guarapari and
+Ramsar,</kw><br><kw class="krdwrd-tag-3">
+and sharing their scientific work and knowledge on the effect of low
+doses of radiation.</kw></font></p>
+
+<p><font color="#000088"><table border="0" cols="1" width="70%">
+   <tbody><tr>
+      <td>
+         <blockquote><font color="#660000" face="Times New Roman,Times" size="+1"><kw class="krdwrd-tag-1">Important
+            Note:</kw></font><font color="#660000" face="Times New Roman,Times"><br>
+            </font><font color="#000066" face="Times New Roman,Times"><kw class="krdwrd-tag-1">The
+            contents of this publication may be reproduced or
+            reprinted identically without permission of the author,
+            as long as the source is clearly acknowledged.</kw></font></blockquote>
+      </td>
+   </tr>
+</tbody></table>
+ </font></p>
+
+<p><font color="#000000" face="Times New Roman,Times" size="-1"><kw class="krdwrd-tag-1">With
+courtesy to S. M. Javad
+Mortazavi</kw></font><font color="#000000" size="-1"><kw class="krdwrd-tag-1">,
+</kw></font><font color="#000000" face="Times New Roman,Times" size="-1"><kw class="krdwrd-tag-1">Biology
+Division, Kyoto University of Education, Kyoto,
+Japan</kw></font></p></center>
+
+
+</body>

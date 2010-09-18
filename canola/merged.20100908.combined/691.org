@@ -1,0 +1,1682 @@
+<head><base href="http://boards.cityofheroes.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- START OF header.tmpl TEMPLATE --><title>City of Heroes Official Forums</title>
+
+
+
+
+<script language="javascript" type="text/javascript" src="/jsfiles/cookieLibrary.js"></script>
+<script language="javascript" type="text/javascript" src="/jsfiles/url_check.js"></script><link rel="alternate" type="application/rss+xml" title="City of Heroes: News Feed" href="http://www.cityofheroes.com/news/index.xml"><link rel="icon" href="http://www.cityofheroes.com/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="http://www.cityofheroes.com/favicon.ico" type="image/x-icon"><link rel="alternate" type="application/rss+xml" title="City of Heroes: News Feed" href="http://www.cityofheroes.com/news/index.xml"><link rel="icon" href="http://www.cityofheroes.com/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="http://www.cityofheroes.com/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="/css/coh_styles.css"><meta name="robots" content="index, follow">
+
+
+<link rel="stylesheet" href="http://boards.cityofheroes.com/stylesheets/coh_classic.css" type="text/css">
+<link rel="shortcut icon" href="/images/favicon.ico"></head><body>
+<!-- END OF header.tmpl TEMPLATE --><div id="centeringDiv">
+	<script language="javascript" type="text/javascript" src="/jsfiles/tophat.js"></script><div id="topHat"><div class="krdwrd-tag-1"><a href="http://www.plaync.com" target="_blank"><img id="playncTophatLogo" src="/images/plaync_tophat_logo.jpg" alt="PlayNC" align="absmiddle" border="0"></a><a class="krdwrd-tag-1" href="http://support.plaync.com" target="_blank">Help</a> | <a class="krdwrd-tag-1" href="https://secure.plaync.com/cgi-bin/plaync_login.pl" target="_blank">Account</a> | <a class="krdwrd-tag-1" href="http://www.ncsoft.com/" target="_blank">NCsoft.com</a></div></div><div id="topHat"><div><a href="http://www.plaync.com" target="_blank"><img id="playncTophatLogo" src="/images/plaync_tophat_logo.jpg" alt="PlayNC" align="absmiddle" border="0"></a><a href="http://support.plaync.com" target="_blank"><kw class="krdwrd-tag-1">Help</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="https://secure.plaync.com/cgi-bin/plaync_login.pl" target="_blank"><kw class="krdwrd-tag-1">Account</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://www.ncsoft.com/" target="_blank"><kw class="krdwrd-tag-1">NCsoft.com</kw></a></div></div>
+	<script language="javascript" type="text/javascript" src="/jsfiles/flash_banner.js"></script><div id="flashBanner"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="flash/swflash.cab#version=6,0,29,0" height="212" width="962"><param name="movie" value="/flash/banner.swf"><param name="movie" value="/flash/banner.swf"><param name="FlashVars" value="preViewed=no"><param name="menu" value="false"><param name="quality" value="high"><param name="BGCOLOR" value="#000000"><embed src="/flash/banner.swf" menu="false" quality="high" flashvars="preViewed=no" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#000000" height="212" width="962"></object></div><div id="flashBanner"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" height="212" width="962"><param name="movie" value="/flash/banner.swf"><param name="movie" value="/flash/banner.swf"><param name="FlashVars" value="preViewed=no"><param name="menu" value="false"><param name="quality" value="high"><param name="BGCOLOR" value="#000000"><embed src="/flash/banner.swf" menu="false" quality="high" flashvars="preViewed=no" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#000000" height="212" width="962"></object></div>
+	<div id="mainBody">
+		<div id="leftNotch"><img src="/images/left_notch.jpg" alt="" height="145" width="15"></div>
+		<div id="boxContainer">
+			<div id="fullContentBox"> 
+              <div id="fullSectionTop" style="background-image: url(&quot;images/sh_community_forums.jpg&quot;);">
+                <div id="fullLink"><a href="http://www.cityofheroes.com"><kw class="krdwrd-tag-1">Return to cityofheroes.com</kw></a></div>
+				<div id="fullFlags"><img src="/images/flags.jpg" alt="" usemap="#Map" border="0" height="19" width="188"> </div>
+                <div class="clearBoth"></div>
+              </div>
+			  <div id="fullContentBody">
+<table class="tablesurround" align="center" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr>
+<td>
+<table class="tableborders" cellpadding="3" cellspacing="1" width="100%">
+
+<tbody><tr>
+<td class="menubar" align="left" valign="bottom" width="30%"><kw class="krdwrd-tag-1">
+You are not logged in.
+[</kw><a href="https://boards.cityofheroes.com/login.php?Cat=0"><kw class="krdwrd-tag-1">Login</kw></a><kw class="krdwrd-tag-1">]
+</kw></td>
+<td class="menubar" align="center" width="70%">
+<a href="http://boards.cityofheroes.com/ubbthreads.php?Cat=0"><kw class="krdwrd-tag-1">Main Index</kw></a><kw class="krdwrd-tag-1">
+ · 
+</kw><a href="http://boards.cityofheroes.com/search.php?Cat=0"><kw class="krdwrd-tag-1">Search</kw></a><kw class="krdwrd-tag-1">
+ · 
+</kw><a href="http://boards.cityofheroes.com/dosearch.php?Cat=0&amp;Forum=All_Forums&amp;Words=&amp;daterange=1&amp;newertype=d&amp;newerval=1&amp;Limit=25&amp;topic=1&amp;fromsearch=1"><kw class="krdwrd-tag-1">
+Active Topics
+</kw></a>
+<br>
+<a href="http://boards.cityofheroes.com/newuser.php?Cat=0"><kw class="krdwrd-tag-1">New user</kw></a><kw class="krdwrd-tag-1">
+ · 
+</kw><a href="http://boards.cityofheroes.com/online.php?Cat=0"><kw class="krdwrd-tag-1">Who's Online</kw></a><kw class="krdwrd-tag-1">
+ ·
+</kw><a href="http://boards.cityofheroes.com/faq.php?Cat=0"><kw class="krdwrd-tag-1">FAQ</kw></a><kw class="krdwrd-tag-1">
+ ·
+</kw><a href="http://boards.cityofheroes.com/calendar.php?Cat=0"><kw class="krdwrd-tag-1">Calendar</kw></a>
+
+</td>
+</tr>
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<br>
+<script language="javascript" type="text/javascript">
+
+<!--
+var pattern = /^Re:/;
+
+function quickReply(num) {
+	if (!document.getElementById) {
+		alert("Your browser does not support this javascript function.  Scroll down and fill in the quick reply box or use the normal reply button.");
+	}
+	else if (navigator.userAgent.toLowerCase().indexOf("opera") != -1) {
+		alert("Your browser does not support this javascript function.  Scroll down and fill in the quick reply box or use the normal reply button.");
+	}
+	else {
+		obj = document.replier;
+		obj.Parent.value = document.getElementById('number' + num).innerHTML;
+		subject = document.getElementById('subject' + num).innerHTML;
+		if (!pattern.test(subject)) {
+			subject = 'Re: ' + subject;
+		}
+		obj.Subject.value = subject;
+		insertAtCaret(obj.Body, ' ');
+		obj.Body.focus();
+	}
+}
+
+function insertAtCaret (textEl, text) {
+	if (textEl.createTextRange && textEl.caretPost) {
+		var caretPos = textEl.caretPost;
+		caretPost.text =
+			caretPost.text.charAt(caretPost.text.length - 1) == ' ' ?
+			text + ' ' : text;
+	}
+	else {
+		textEl.value = textEl.value + text;
+	}
+	return true;
+}
+-->
+</script>
+
+
+<table class="tablesurround" align="center" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr>
+<td>
+<table class="tableborders" cellpadding="3" cellspacing="1" width="100%">
+
+<tbody><tr>
+<td class="darktable">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" width="33%">
+<font class="catandforum">
+<a href="http://boards.cityofheroes.com/ubbthreads.php?Cat=0&amp;C=7"><kw class="krdwrd-tag-1">
+For Fun!
+</kw></a><kw class="krdwrd-tag-1">
+&gt;&gt;
+</kw><a href="http://boards.cityofheroes.com/postlist.php?Cat=0&amp;Board=screenshots&amp;page=0"><kw class="krdwrd-tag-1">
+Screenshots and Fan Art
+</kw></a>
+</font>
+</td>
+<td align="right" width="33%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<!-- prevoption is previous.gif or greyprevious.gif -->
+<td class="navigation" nowrap="nowrap">
+<a href="http://boards.cityofheroes.com/grabnext.php?Cat=0&amp;Board=screenshots&amp;mode=showflat&amp;sticky=0&amp;dir=new&amp;posted=1186168758&amp;page=0">
+<img src="/images/previous.gif" alt="Previous topic" style="vertical-align: text-top;" border="0" height="15" width="12"><kw class="krdwrd-tag-1">
+Previous
+</kw></a>
+&nbsp;
+</td>
+
+<td class="navigation" nowrap="nowrap">
+<a href="http://boards.cityofheroes.com/postlist.php?Cat=0&amp;Board=screenshots&amp;page=0">
+<img src="/images/all.gif" alt="View all topics" style="vertical-align: text-top;" border="0" height="15" width="19"><kw class="krdwrd-tag-1">
+Index
+</kw></a>
+&nbsp;
+</td>
+
+<td class="navigation" nowrap="nowrap">
+<a href="http://boards.cityofheroes.com/grabnext.php?Cat=0&amp;Board=screenshots&amp;mode=showflat&amp;sticky=0&amp;dir=old&amp;posted=1186168758&amp;page=0">
+<img src="/images/next.gif" alt="Next topic" style="vertical-align: text-top;" border="0" height="15" width="14"><kw class="krdwrd-tag-1">
+Next
+</kw></a>
+&nbsp;
+</td>
+
+<td class="navigation" nowrap="nowrap">
+<a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8858346&amp;an=&amp;page=0&amp;vc=1">
+<img src="/images/threaded.gif" style="vertical-align: text-top;" alt="Threaded Mode" border="0"><kw class="krdwrd-tag-1">
+Threaded
+</kw></a>
+&nbsp;
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+</td>
+</tr>
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+<br>
+
+
+<table class="tablesurround" align="center" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr>
+<td>
+<table class="tableborders" cellpadding="3" cellspacing="1" width="100%">
+
+<tbody><tr>
+<td class="tdheader" colspan="2" align="right">
+<font class="small"><kw class="krdwrd-tag-1">Pages:  1 | </kw><a href="http://boards.cityofheroes.com/showflat.php?Cat=0&amp;Number=8858346&amp;page=0&amp;fpart=2&amp;vc=1"><kw class="krdwrd-tag-1">2</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://boards.cityofheroes.com/showflat.php?Cat=0&amp;Number=8858346&amp;page=0&amp;fpart=2&amp;vc=1"><kw class="krdwrd-tag-1">&gt;&gt;</kw></a><kw class="krdwrd-tag-1"> (</kw><a href="http://boards.cityofheroes.com/showflat.php?Cat=0&amp;Number=8858346&amp;page=0&amp;fpart=all&amp;vc=1"><kw class="krdwrd-tag-1">show all</kw></a><kw class="krdwrd-tag-1">)</kw></font>
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8858346"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=159666&amp;Number=8858346&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 159666"><kw class="krdwrd-tag-1">Blade_of_Canada</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Cohort
+</kw><br>
+
+<br>
+<img src="http://i104.photobucket.com/albums/m195/Canada-Man/tbocavatar.jpg" alt="" height="80" width="80">
+<br><kw class="krdwrd-tag-1">
+Reged:  07/12/06
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 422
+</kw><br><kw class="krdwrd-tag-1">
+Loc:  Freedom, @Sythius
+</kw></span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/book.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject0"><kw class="krdwrd-tag-2">Calling all writers</kw></span>
+</b>
+ 
+
+<br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8858346"><kw class="krdwrd-tag-1">#</kw><span id="number0"><kw class="krdwrd-tag-1">8858346</kw></span><kw class="krdwrd-tag-1"> - 08/02/07 10:59 PM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(0)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post"><kw class="krdwrd-tag-3">
+I would like some help with my in-game story. I have a general idea, powerset, and concept, however I am not good at expressing it through words in a story. The basic story is a BS/Dark scrapper hero named Sythius, who was a normal man that got possessed by a devil, but being strong willed, took control of the demon and now uses its dark powers to fight on the side of good.</kw><br><br><kw class="krdwrd-tag-3">Could any of you talented writers take that and turn it in to a cool, good sounding story that would fit in the in-game ID box? Or at least gives some tips? I could really use some help. Thanks!
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><a href="http://tinyurl.com/2dspnr" target="_blank"><kw class="krdwrd-tag-1"> The Blade</kw></a> <a href="http://tinyurl.com/yplatx" target="_blank"><kw class="krdwrd-tag-1"> of Canada</kw></a><kw class="krdwrd-tag-1">, BS/Regen Scrapper
+</kw><br>
+<br><kw class="krdwrd-tag-1">"When the power of love overcomes the love of power, the world will know peace." -Jimi Hendrix
+
+</kw></font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8858346&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8858499"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=165224&amp;Number=8858499&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 165224"><kw class="krdwrd-tag-1">Terwyn</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Trainee
+</kw><br>
+
+<br>
+
+<br><kw class="krdwrd-tag-1">
+Reged:  11/11/06
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 173
+</kw><br><kw class="krdwrd-tag-1">
+Loc:  Canada
+</kw></span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/book.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject1"><kw class="krdwrd-tag-2">Re: Calling all writers</kw></span>
+</b><kw class="krdwrd-tag-1">
+ 
+[Re: </kw><a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8858346&amp;page=0&amp;vc=1" target="_new" title="[Re: #8858346]" alt="[Re: #8858346]"><kw class="krdwrd-tag-1"> Blade_of_Canada</kw></a><kw class="krdwrd-tag-1">]
+</kw><br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8858499"><kw class="krdwrd-tag-1">#</kw><span id="number1"><kw class="krdwrd-tag-1">8858499</kw></span><kw class="krdwrd-tag-1"> - 08/02/07 11:22 PM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(1)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post"><kw class="krdwrd-tag-3">
+Sure. Here's my attempt:</kw><br><br><kw class="krdwrd-tag-3">"I don't know how things happened like this. I mean, I didn't even believe devils existed, until it all took place. I'd been a huge member of the Society for Creative Anachronism for years, and when I finally found the *sword,* I was so happy.</kw><br><br><kw class="krdwrd-tag-3">Of course, no one told me that the sword as possessed. The moment I took hold of it and removed it from its sheath, the devil imprisoned inside escaped into my head. He plagued me with nightmares and horrible headaches, until I couldn't take it any more. I told him to shut up, and to stay out of my life.</kw><br><br><kw class="krdwrd-tag-3">Little did I know that standing up for myself like that caused a psychic backlash that killed the devil. He still exists, sort of, as an echo. And now I have full access to its powers. I'd always wanted to be a hero. I guess I get to be one now."
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><kw class="krdwrd-tag-1">Mains:
+</kw><br>
+<br><kw class="krdwrd-tag-1">Xylric Kat/Regen Scrapper - 50 - Pinnacle
+</kw><br><kw class="krdwrd-tag-1">Eldritch Knight NRG/NRG Blaster - 50 - Guardian
+</kw><br>
+<br><kw class="krdwrd-tag-1">Do not meddle in the affairs of Scrappers, for you are squishy, and he is confused.
+
+</kw></font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8858499&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8859410"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=148843&amp;Number=8859410&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 148843"><kw class="krdwrd-tag-1">Almighty_Malachi</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Cohort
+</kw><br>
+
+<br>
+<img src="http://i107.photobucket.com/albums/m298/Psychocalm/MechFace-1.jpg" alt="" height="80" width="80">
+<br><kw class="krdwrd-tag-1">
+Reged:  02/21/06
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 569
+</kw><br><kw class="krdwrd-tag-1">
+Loc:  Berlin
+</kw></span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/book.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject2"><kw class="krdwrd-tag-2">Re: Calling all writers</kw></span>
+</b><kw class="krdwrd-tag-1">
+ 
+[Re: </kw><a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8858499&amp;page=0&amp;vc=1" target="_new" title="[Re: #8858499]" alt="[Re: #8858499]"><kw class="krdwrd-tag-1"> Terwyn</kw></a><kw class="krdwrd-tag-1">]
+</kw><br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8859410"><kw class="krdwrd-tag-1">#</kw><span id="number2"><kw class="krdwrd-tag-1">8859410</kw></span><kw class="krdwrd-tag-1"> - 08/03/07 02:25 AM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(2)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post"><kw class="krdwrd-tag-3">
+I'll give it a go, haven't had much sleep, it might be jumbled:</kw><br><br><kw class="krdwrd-tag-3">"They called it the Sword of the Abyss, an ancient lost relic rumored to have been used against Angels in the War over heaven. If you believe that sort of thing, I never did, until I found it. </kw><br><br><kw class="krdwrd-tag-3">I was slowly digging my way through some Mayan temple Ruins in Guatemala, looking for some glyphs about religious rituals when I stumbled and came crashing through a thin floor into a underground cavern. </kw><br><br><kw class="krdwrd-tag-3">There was a faint red glow coming from the corner, dark red, like phosphorescent blood, it was coming from a crystal box, held high on a pedestal.</kw><br><br><kw class="krdwrd-tag-3">I don't remember much after reaching in that box, only a violent tremor running through my body and then nothing.</kw><br><br><kw class="krdwrd-tag-3">My researh assistants later told me that I was out for three days, with a high fever, and a death grip on the sword.</kw><br><br><kw class="krdwrd-tag-3">When I awoke, I wasn't alone in my head, it felt like almost an echo of my own thoughs were being fouled then sent back to me, they were thoughts, in my head, but they weren't mine.</kw><br><kw class="krdwrd-tag-3">His name was Asb'el, a lower demon from the 6th circle of hell, who had been imprisoned in his own sword when he was defeated in battle. He had been waiting for four thousand years.</kw><br><br><kw class="krdwrd-tag-3">He had hoped to fully posessed me, but had made a mistake, and had underestimated my will and my drive to live. </kw><br><br><kw class="krdwrd-tag-3">Now I hope to use him like he had tried to use me, redeem the both of us with the acursed blade that never leaves my side."</kw><br><br><kw class="krdwrd-tag-3">I know it is a bit long, I got carried away, take what you like.
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><kw class="krdwrd-tag-1">@Almighty Malachi
+</kw><br> <font color="red">  <b><kw class="krdwrd-tag-1">Official Deutchbag of the Pwnz Forum</kw></b>  <!--color--></font> 
+<br><kw class="krdwrd-tag-1">Dr. Funktation (Lvl 50 SR/SB/Psy Defender)
+</kw><br><kw class="krdwrd-tag-1">Red Andrei (SS/Fire)
+</kw><br><kw class="krdwrd-tag-1">Lord Beschatten (Robo/Dark)
+</kw><br><kw class="krdwrd-tag-1">DeciBoost (Sonic/Em)
+
+</kw></font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8859410&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8859769"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=130121&amp;Number=8859769&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 130121"><kw class="krdwrd-tag-1">Empress</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Super-Powered
+</kw><br>
+
+<br>
+<img src="http://hometown.aol.com/bizzishadow/images/bathory.jpg" alt="" height="80" width="80">
+<br><kw class="krdwrd-tag-1">
+Reged:  09/05/05
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 1149
+</kw><br>
+
+</span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/book.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject3"><kw class="krdwrd-tag-2">Re: Calling all writers</kw></span>
+</b><kw class="krdwrd-tag-1">
+ 
+[Re: </kw><a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8859410&amp;page=0&amp;vc=1" target="_new" title="[Re: #8859410]" alt="[Re: #8859410]"><kw class="krdwrd-tag-1"> Almighty_Malachi</kw></a><kw class="krdwrd-tag-1">]
+</kw><br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8859769"><kw class="krdwrd-tag-1">#</kw><span id="number3"><kw class="krdwrd-tag-1">8859769</kw></span><kw class="krdwrd-tag-1"> - 08/03/07 03:59 AM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(3)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post"><kw class="krdwrd-tag-3">
+dont settle yet.. I'll write up a 1023 here in the morning, see what I can come up with.
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><kw class="krdwrd-tag-1">Welcome, welcome to my domain
+</kw><br><kw class="krdwrd-tag-1">here orchards bear the fruit of dreams
+</kw><br>
+<br><a href="http://hometown.aol.com/bizzishadow/Characters.html" target="_blank"><kw class="krdwrd-tag-1"> ~My Characters Page~</kw></a>
+<br><kw class="krdwrd-tag-1">(check back, I'll eventually have something for all of them.)
+
+</kw></font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8859769&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8860005"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=127800&amp;Number=8860005&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 127800"><kw class="krdwrd-tag-1">BlueMetal</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Cohort
+</kw><br>
+
+<br>
+<img src="http://lh6.google.com.au/BlueMetalVictory/R9eMGTIF9yI/AAAAAAAAADc/tMJagkkrpWE/s144/BlueMetal%20gold.jpg" alt="" height="80" width="80">
+<br><kw class="krdwrd-tag-1">
+Reged:  08/07/05
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 401
+</kw><br><kw class="krdwrd-tag-1">
+Loc:  Canberra, Australia
+</kw></span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/blush.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject4"><kw class="krdwrd-tag-2">Re: Calling all writers</kw></span>
+</b><kw class="krdwrd-tag-1">
+ 
+[Re: </kw><a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8858346&amp;page=0&amp;vc=1" target="_new" title="[Re: #8858346]" alt="[Re: #8858346]"><kw class="krdwrd-tag-1"> Blade_of_Canada</kw></a><kw class="krdwrd-tag-1">]
+</kw><br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8860005"><kw class="krdwrd-tag-1">#</kw><span id="number4"><kw class="krdwrd-tag-1">8860005</kw></span><kw class="krdwrd-tag-1"> - 08/03/07 05:27 AM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(4)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post"><kw class="krdwrd-tag-3">
+There may be copyright issues with this one:</kw><br><br><kw class="krdwrd-tag-3">"In red-est day, in magenta night,</kw><br><kw class="krdwrd-tag-3">no evil shall escape my slice!</kw><br><kw class="krdwrd-tag-3">Let those who worship evil's might, no, No, Shut up! I MUST SAY IT!</kw><br><kw class="krdwrd-tag-3">beware my power.. my broadsword's delight! </kw><br><br><kw class="krdwrd-tag-3">Ha! Take that devil!"</kw><br><br><kw class="krdwrd-tag-3">Possibly not what you were looking for...
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><kw class="krdwrd-tag-1">BlueMetal
+
+</kw></font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8860005&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8861038"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=19749&amp;Number=8861038&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 19749"><kw class="krdwrd-tag-1">Ironik</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Forum Cartel
+</kw><br>
+
+<br>
+<img src="http://img403.imageshack.us/img403/3817/spikemug5hc6.jpg" alt="" height="80" width="80">
+<br><kw class="krdwrd-tag-1">
+Reged:  04/07/04
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 10692
+</kw><br><kw class="krdwrd-tag-1">
+Loc:  Loc, Loc.
+</kw></span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/book.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject5"><kw class="krdwrd-tag-2">Re: Calling all writers</kw></span>
+</b><kw class="krdwrd-tag-1">
+ 
+[Re: </kw><a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8860005&amp;page=0&amp;vc=1" target="_new" title="[Re: #8860005]" alt="[Re: #8860005]"><kw class="krdwrd-tag-1"> BlueMetal</kw></a><kw class="krdwrd-tag-1">]
+</kw><br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8861038"><kw class="krdwrd-tag-1">#</kw><span id="number5"><kw class="krdwrd-tag-1">8861038</kw></span><kw class="krdwrd-tag-1"> - 08/03/07 09:46 AM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(5)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post"><kw class="krdwrd-tag-3">
+Are you looking for something like my character  </kw><a href="http://img134.imageshack.us/img134/2761/monsterchild4rm0.jpg" target="_blank"><kw class="krdwrd-tag-3">Monster Child</kw></a><kw class="krdwrd-tag-3"> and the demon inside, named  </kw><a href="http://img444.imageshack.us/img444/8378/monsterchild8hl4.jpg" target="_blank"><kw class="krdwrd-tag-3">Vulgara?</kw></a><kw class="krdwrd-tag-3">  Because I can totally do something like that for you.
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><kw class="krdwrd-tag-1">Avatar: Sandyhook's Perfect Image of K-9 Excellence, aka S.P.I.K.E., the Spiker-mon, everyone's pal.  Rest in peace, good buddy. 
+</kw><br>
+<br><kw class="krdwrd-tag-1">Spike: 5/15/91-1/12/07
+</kw><br>
+<br><a href="http://tinyurl.com/yeewdq" target="_blank"><kw class="krdwrd-tag-1">The Alt Alphabet -- holy canoli, it's a few of my characters!</kw></a>
+
+</font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8861038&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8861086"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=159666&amp;Number=8861086&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 159666"><kw class="krdwrd-tag-1">Blade_of_Canada</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Cohort
+</kw><br>
+
+<br>
+<img src="http://i104.photobucket.com/albums/m195/Canada-Man/tbocavatar.jpg" alt="" height="80" width="80">
+<br><kw class="krdwrd-tag-1">
+Reged:  07/12/06
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 422
+</kw><br><kw class="krdwrd-tag-1">
+Loc:  Freedom, @Sythius
+</kw></span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/book.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject6"><kw class="krdwrd-tag-2">Re: Calling all writers</kw></span>
+</b><kw class="krdwrd-tag-1">
+ 
+[Re: </kw><a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8860005&amp;page=0&amp;vc=1" target="_new" title="[Re: #8860005]" alt="[Re: #8860005]"><kw class="krdwrd-tag-1"> BlueMetal</kw></a><kw class="krdwrd-tag-1">]
+</kw><br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8861086"><kw class="krdwrd-tag-1">#</kw><span id="number6"><kw class="krdwrd-tag-1">8861086</kw></span><kw class="krdwrd-tag-1"> - 08/03/07 09:51 AM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(6)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post"><kw class="krdwrd-tag-3">
+Wow, I just read all of what you all have read, and thats really good. I can't choose which one to use, so I think I might take parts of both and combine it. I'll also wait to see if anyone else has anything to input and maybe add it in too.
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><a href="http://tinyurl.com/2dspnr" target="_blank"><kw class="krdwrd-tag-1"> The Blade</kw></a> <a href="http://tinyurl.com/yplatx" target="_blank"><kw class="krdwrd-tag-1"> of Canada</kw></a><kw class="krdwrd-tag-1">, BS/Regen Scrapper
+</kw><br>
+<br><kw class="krdwrd-tag-1">"When the power of love overcomes the love of power, the world will know peace." -Jimi Hendrix
+
+</kw></font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8861086&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8861304"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=19749&amp;Number=8861304&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 19749"><kw class="krdwrd-tag-1">Ironik</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Forum Cartel
+</kw><br>
+
+<br>
+<img src="http://img403.imageshack.us/img403/3817/spikemug5hc6.jpg" alt="" height="80" width="80">
+<br><kw class="krdwrd-tag-1">
+Reged:  04/07/04
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 10692
+</kw><br><kw class="krdwrd-tag-1">
+Loc:  Loc, Loc.
+</kw></span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/book.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject7"><kw class="krdwrd-tag-2">Re: Calling all writers</kw></span>
+</b><kw class="krdwrd-tag-1">
+ 
+[Re: </kw><a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8858346&amp;page=0&amp;vc=1" target="_new" title="[Re: #8858346]" alt="[Re: #8858346]"><kw class="krdwrd-tag-1"> Blade_of_Canada</kw></a><kw class="krdwrd-tag-1">]
+</kw><br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8861304"><kw class="krdwrd-tag-1">#</kw><span id="number7"><kw class="krdwrd-tag-1">8861304</kw></span><kw class="krdwrd-tag-1"> - 08/03/07 10:14 AM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(7)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post"><kw class="krdwrd-tag-3">
+"Who would've thought a walk in the park could imperil your immortal soul?  Not I.</kw><br><br><kw class="krdwrd-tag-3">"Friday, July 13th, 2007: the day Hell came calling.</kw><br><br><kw class="krdwrd-tag-3">"I went to the corner store for a paper. I crossed the park near my home, never suspecting that the Circle of Thorns were performing dark rituals there. I was overpowered by their sycophants, forced to become a channel to the netherworld. A hero heard my cries and rescued me.</kw><br><br><kw class="krdwrd-tag-3">"Unfortunately, the ritual was complete and a demon had entered my body. Fueled by anger and what Azuria tells me is an indominatable will, I beat the devil back and retook control of myself.</kw><br><br><kw class="krdwrd-tag-3">"Now he obeys my will; his powers are mine to command. Now evildoers will pay."</kw><br><br><kw class="krdwrd-tag-3">This may need to be shorter -- I didn't count the characters.  But there's enough slack in there to do that.
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><kw class="krdwrd-tag-1">Avatar: Sandyhook's Perfect Image of K-9 Excellence, aka S.P.I.K.E., the Spiker-mon, everyone's pal.  Rest in peace, good buddy. 
+</kw><br>
+<br><kw class="krdwrd-tag-1">Spike: 5/15/91-1/12/07
+</kw><br>
+<br><a href="http://tinyurl.com/yeewdq" target="_blank"><kw class="krdwrd-tag-1">The Alt Alphabet -- holy canoli, it's a few of my characters!</kw></a>
+
+</font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8861304&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8862675"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=130121&amp;Number=8862675&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 130121"><kw class="krdwrd-tag-1">Empress</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Super-Powered
+</kw><br>
+
+<br>
+<img src="http://hometown.aol.com/bizzishadow/images/bathory.jpg" alt="" height="80" width="80">
+<br><kw class="krdwrd-tag-1">
+Reged:  09/05/05
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 1149
+</kw><br>
+
+</span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/book.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject8"><kw class="krdwrd-tag-2">Re: Calling all writers</kw></span>
+</b><kw class="krdwrd-tag-1">
+ 
+[Re: </kw><a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8861304&amp;page=0&amp;vc=1" target="_new" title="[Re: #8861304]" alt="[Re: #8861304]"><kw class="krdwrd-tag-1"> Ironik</kw></a><kw class="krdwrd-tag-1">]
+</kw><br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8862675"><kw class="krdwrd-tag-1">#</kw><span id="number8"><kw class="krdwrd-tag-1">8862675</kw></span><kw class="krdwrd-tag-1"> - 08/03/07 12:28 PM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(8)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post"><kw class="krdwrd-tag-3">
+My name is Nimuen. I was once Devil to the First Lord, servant to the Master of Boundless Hell. But my Master bid me enthrall the soul of a young, foolish man, who meddled in the affairs of greater beings; I failed. I misjudged this mortal, the strength of his will and of his soul. A more wicked cut still, for my failure the First Lord imprisoned me inside this mortal, and banished me from his radiance. This man, called Sythius, has stolen knowledge from me, to use against his enemies. But I am a being beyond time, and he does not know ever power at my command. I now use this mortal shell, as he uses me, to enact my revenge. To bring down the plots of my once Lord, and all his agents in this world. </kw><br><br><kw class="krdwrd-tag-3">(I pictured the Devil inside Sythius as a female, something about the dichotomy of having truly twin souls inside one body (good/evil/male/female/mortal/eternal etc) strikes me as </kw><br><kw class="krdwrd-tag-3">“right”. Beyond that it allows a lot more versatility in “roleplaying” the character, if you are into that, as the full range of emotions are possible. That being said, I made sure that nothing in here, apart from the name, sounds even remotely feminine(I hope) as you may have had something different in mind.) </kw><br><kw class="krdwrd-tag-3">(p.s. – The paragraph is only 708 characters, meaning you still have another 315 characters or so to fiddle with.)
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><kw class="krdwrd-tag-1">Welcome, welcome to my domain
+</kw><br><kw class="krdwrd-tag-1">here orchards bear the fruit of dreams
+</kw><br>
+<br><a href="http://hometown.aol.com/bizzishadow/Characters.html" target="_blank"><kw class="krdwrd-tag-1"> ~My Characters Page~</kw></a>
+<br><kw class="krdwrd-tag-1">(check back, I'll eventually have something for all of them.)
+
+</kw></font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8862675&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td rowspan="2" class="darktable" valign="top" width="17%">
+<a name="Post8862997"></a>
+
+<b><a href="http://boards.cityofheroes.com/showprofile.php?Cat=0&amp;User=127800&amp;Number=8862997&amp;Board=screenshots&amp;what=showflat&amp;page=0&amp;fpart=1&amp;vc=1" title="Member # 127800"><kw class="krdwrd-tag-1">BlueMetal</kw></a></b>
+<br>
+<span class="small"><kw class="krdwrd-tag-1">
+Cohort
+</kw><br>
+
+<br>
+<img src="http://lh6.google.com.au/BlueMetalVictory/R9eMGTIF9yI/AAAAAAAAADc/tMJagkkrpWE/s144/BlueMetal%20gold.jpg" alt="" height="80" width="80">
+<br><kw class="krdwrd-tag-1">
+Reged:  08/07/05
+</kw><br><kw class="krdwrd-tag-1">
+Posts: 401
+</kw><br><kw class="krdwrd-tag-1">
+Loc:  Canberra, Australia
+</kw></span>
+</td>
+<td class="subjecttable" width="83%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="70%">
+<img src="/images/icons/book.gif" alt="" style="vertical-align: text-top;" height="15" width="15">
+<b>
+<span id="subject9"><kw class="krdwrd-tag-2">Re: Calling all writers</kw></span>
+</b><kw class="krdwrd-tag-1">
+ 
+[Re: </kw><a href="http://boards.cityofheroes.com/showthreaded.php?Cat=0&amp;Number=8862675&amp;page=0&amp;vc=1" target="_new" title="[Re: #8862675]" alt="[Re: #8862675]"><kw class="krdwrd-tag-1"> Empress</kw></a><kw class="krdwrd-tag-1">]
+</kw><br>
+&nbsp;
+&nbsp;
+&nbsp;
+<font class="small">
+<a name="#8862997"><kw class="krdwrd-tag-1">#</kw><span id="number9"><kw class="krdwrd-tag-1">8862997</kw></span><kw class="krdwrd-tag-1"> - 08/03/07 12:59 PM </kw><i></i> 
+</a></font>
+</td>
+<td align="right" width="30%">
+
+<table class="tablesurround" border="0">
+<tbody><tr>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/edit.gif" alt="Edit post" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Edit
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/reply.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Reply
+
+&nbsp;
+</kw></td>
+<td class="navigation" style="display: none;" nowrap="nowrap">
+
+<img src="/images/quote.gif" alt="Reply to this post" style="vertical-align: text-top;" border="0" height="14" width="27"><kw class="krdwrd-tag-1">
+Quote
+
+&nbsp;
+</kw></td>
+
+<td class="navigation" style="display: none;" nowrap="nowrap">
+<a href="javascript:quickReply(9)">
+<img src="/images/reply.gif" alt="Quick Reply" style="vertical-align: text-top;" border="0" height="14" width="21"><kw class="krdwrd-tag-1">
+Quick Reply
+</kw></a>
+&nbsp;
+</td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="lighttable" width="83%">
+<br>
+<font class="post">
+</font><blockquote><font class="small"><kw class="krdwrd-tag-2">Quote:</kw></font><hr><br><kw class="krdwrd-tag-2">My name is Nimuen. I was once Devil to the First Lord, servant to the Master of Boundless Hell. But my Master bid me enthrall the soul of a young, foolish man, who meddled in the affairs of greater beings; I failed. I misjudged this mortal, the strength of his will and of his soul. A more wicked cut still, for my failure the First Lord imprisoned me inside this mortal, and banished me from his radiance. This man, called Sythius, has stolen knowledge from me, to use against his enemies. But I am a being beyond time, and he does not know ever power at my command. I now use this mortal shell, as he uses me, to enact my revenge. To bring down the plots of my once Lord, and all his agents in this world. </kw><br><br><br><hr></blockquote><font class="post"><br><br><kw class="krdwrd-tag-3">I really like the 'point of view' swap from the hero to the imprisoned devil. I love that the devil is agreeing with being a hero, but for only temporary reasons. Role play here is very rich. Well done!
+
+</kw><br><br><kw class="krdwrd-tag-1">--------------------</kw><br><kw class="krdwrd-tag-1">BlueMetal
+
+</kw></font>
+<br>
+<br>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<font class="small"><kw class="krdwrd-tag-1">
+Post Extras: 
+
+</kw><a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Board=screenshots&amp;main=8862997&amp;type=post">
+<img src="/images/print.gif" alt="Print Post" title="Print Post" border="0"></a>
+
+&nbsp;
+
+
+<img src="/images/addreminder.gif" alt="Remind Me!" title="Remind Me!" border="0">
+
+&nbsp;
+
+
+<img src="/images/notifymod.gif" alt="Notify Moderator" title="Notify Moderator" border="0">
+
+&nbsp;
+
+
+</font>
+</td>
+<td align="right">
+<font class="small">
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr><tr>
+<td colspan="2" class="tdheader" align="right">
+<font class="small"><kw class="krdwrd-tag-1">Pages:  1 | </kw><a href="http://boards.cityofheroes.com/showflat.php?Cat=0&amp;Number=8858346&amp;page=0&amp;fpart=2&amp;vc=1"><kw class="krdwrd-tag-1">2</kw></a><kw class="krdwrd-tag-1"> | </kw><a href="http://boards.cityofheroes.com/showflat.php?Cat=0&amp;Number=8858346&amp;page=0&amp;fpart=2&amp;vc=1"><kw class="krdwrd-tag-1">&gt;&gt;</kw></a><kw class="krdwrd-tag-1"> (</kw><a href="http://boards.cityofheroes.com/showflat.php?Cat=0&amp;Number=8858346&amp;page=0&amp;fpart=all&amp;vc=1"><kw class="krdwrd-tag-1">show all</kw></a><kw class="krdwrd-tag-1">)</kw></font>
+</td>
+</tr>
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+<br>
+
+
+<br>
+
+
+<table class="tablesurround" align="center" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr>
+<td>
+<table class="tableborders" cellpadding="3" cellspacing="1" width="100%">
+
+<tbody><tr>
+<td class="darktable" align="right">
+<table class="tablesurround" border="0">
+<tbody><tr>
+<!-- prevoption is previous.gif or greyprevious.gif -->
+<td class="navigation" nowrap="nowrap">
+<a href="http://boards.cityofheroes.com/grabnext.php?Cat=0&amp;Board=screenshots&amp;mode=showflat&amp;sticky=0&amp;dir=new&amp;posted=1186168758&amp;page=0">
+<img src="/images/previous.gif" alt="Previous topic" style="vertical-align: text-top;" border="0" height="15" width="12"><kw class="krdwrd-tag-1">
+Previous
+</kw></a>
+&nbsp;
+</td>
+
+<td class="navigation" nowrap="nowrap">
+<a href="http://boards.cityofheroes.com/postlist.php?Cat=0&amp;Board=screenshots&amp;page=0">
+<img src="/images/all.gif" alt="View all topics" style="vertical-align: text-top;" border="0" height="15" width="19"><kw class="krdwrd-tag-1">
+Index
+</kw></a>
+&nbsp;
+</td>
+
+<td class="navigation" nowrap="nowrap">
+<a href="http://boards.cityofheroes.com/grabnext.php?Cat=0&amp;Board=screenshots&amp;mode=showflat&amp;sticky=0&amp;dir=old&amp;posted=1186168758&amp;page=0">
+<img src="/images/next.gif" alt="Next topic" style="vertical-align: text-top;" border="0" height="15" width="12"><kw class="krdwrd-tag-1">
+Next
+</kw></a>
+&nbsp;
+</td>
+
+<td class="navigation" nowrap="nowrap">
+<a href="http://boards.cityofheroes.com/showthreaded.php?Number=8858346">
+<img src="/images/threaded.gif" style="vertical-align: text-top;" alt="Threaded Mode" border="0"><kw class="krdwrd-tag-1">
+Threaded
+</kw></a>
+&nbsp;
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+<br>
+
+<table class="tablesurround" align="center" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr>
+<td>
+<table class="tableborders" cellpadding="3" cellspacing="1" width="100%">
+
+<tbody><tr>
+<td colspan="3" class="tdheader"><kw class="krdwrd-tag-1">
+Extra information
+</kw></td>
+</tr>
+<tr>
+<td class="lighttable" valign="top" width="33%">
+<span class="small"><kw class="krdwrd-tag-1">
+1 registered and 2 anonymous users are browsing this forum.
+</kw><br><br><kw class="krdwrd-tag-1">
+Moderator: &nbsp;</kw><a href="http://boards.cityofheroes.com/showprofile.php?User=168799&amp;What=ubbthreads"><kw class="krdwrd-tag-1">Ex Libris</kw></a><kw class="krdwrd-tag-1">, </kw><a href="http://boards.cityofheroes.com/showprofile.php?User=168113&amp;What=ubbthreads"><kw class="krdwrd-tag-1">SuperModerator</kw></a><kw class="krdwrd-tag-1">, </kw><a href="http://boards.cityofheroes.com/showprofile.php?User=186188&amp;What=ubbthreads"><kw class="krdwrd-tag-1">Niviene</kw></a><kw class="krdwrd-tag-1">, </kw><a href="http://boards.cityofheroes.com/showprofile.php?User=186190&amp;What=ubbthreads"><kw class="krdwrd-tag-1">Koschej</kw></a><kw class="krdwrd-tag-1">, </kw><a href="http://boards.cityofheroes.com/showprofile.php?User=186251&amp;What=ubbthreads"><kw class="krdwrd-tag-1">CoH Moderator</kw></a><kw class="krdwrd-tag-1">, </kw><a href="http://boards.cityofheroes.com/showprofile.php?User=164490&amp;What=ubbthreads"><kw class="krdwrd-tag-1">Lighthouse</kw></a>&nbsp;
+<br><br>
+
+<a target="_blank" href="http://boards.cityofheroes.com/printthread.php?Cat=0&amp;Board=screenshots&amp;main=8858346&amp;type=thread"><kw class="krdwrd-tag-1">
+Print Topic
+</kw></a>
+<br>
+<br>
+</span>
+</td>
+<td class="lighttable" align="left" valign="top" width="33%">
+<span class="small">
+<b><kw class="krdwrd-tag-1">Forum Permissions</kw></b>
+<br><kw class="krdwrd-tag-1">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+You cannot start new topics
+</kw><br><kw class="krdwrd-tag-1">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+You cannot reply to topics
+</kw><br><kw class="krdwrd-tag-1">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+HTML is disabled
+</kw><br><kw class="krdwrd-tag-1">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+UBBCode is enabled
+</kw><br>
+<br>
+</span>
+</td>
+<td class="lighttable" align="left" valign="top" width="33%">
+<span class="small"><kw class="krdwrd-tag-1">
+Rating: 
+</kw><br><kw class="krdwrd-tag-1">
+Topic views: 280
+
+</kw><br>
+<br>
+</span>
+</td>
+</tr>
+<tr>
+<td class="lighttable" colspan="3">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" width="50%">
+		<form method="post" action="http://boards.cityofheroes.com/doratethread.php">
+		<input name="Ratee" value="" type="hidden">
+		<input name="Cat" value="0" type="hidden">
+		<input name="Board" value="screenshots" type="hidden">
+		<input name="Number" value="8858346" type="hidden">
+		<input name="Main" value="8858346" type="hidden">
+		<input name="what" value="showflat" type="hidden">
+		<input name="page" value="0" type="hidden"><kw class="krdwrd-tag-1">
+		Rate this topic
+		</kw><select name="rating" class="formboxes">
+		<option class="krdwrd-tag-1" value="0">Choose rating</option>
+		<option class="krdwrd-tag-1" value="1">1 star</option>
+		<option class="krdwrd-tag-1" value="2">2 star</option>
+		<option class="krdwrd-tag-1" value="3">3 star</option>
+		<option class="krdwrd-tag-1" value="4">4 star</option>
+		<option class="krdwrd-tag-1" value="5">5 star</option>
+		</select>
+		<input name="dorate" value="Submit rating" class="buttons" type="submit">
+		</form>
+		<br>
+</td>
+<td align="right" width="50%">
+<form method="post" action="http://boards.cityofheroes.com/jumper.php">
+<input name="Cat" value="0" type="hidden"><kw class="krdwrd-tag-1">
+Jump to
+</kw><select name="board" class="formboxes">
+<option class="krdwrd-tag-1" value="-CATJUMP-11">*News, Events, &amp; Announcements!* -----</option><option class="krdwrd-tag-1" value="info">&nbsp;&nbsp;&nbsp;Announcements!</option><option class="krdwrd-tag-1" value="events">&nbsp;&nbsp;&nbsp;Player Events</option><option class="krdwrd-tag-1" value="supergroups">&nbsp;&nbsp;&nbsp;Supergroup &amp; Villaingroup Recruitment</option><option class="krdwrd-tag-1" value="newsdiscuss">&nbsp;&nbsp;&nbsp;News, Events, &amp; Announcement Discussion</option><option class="krdwrd-tag-1" value="-CATJUMP-1">*Development* -----</option><option class="krdwrd-tag-1" value="Dev">&nbsp;&nbsp;&nbsp;Developers Corner</option><option class="krdwrd-tag-1" value="technical">&nbsp;&nbsp;&nbsp;Technical Issues and Bugs</option><option class="krdwrd-tag-1" value="shibboleth">&nbsp;&nbsp;&nbsp;The Training Room (Test Server)</option><option class="krdwrd-tag-1" value="-CATJUMP-3">*Player Help* -----</option><option class="krdwrd-tag-1" value="questions">&nbsp;&nbsp;&nbsp;Player Questions</option><option class="krdwrd-tag-1" value="hvh">&nbsp;&nbsp;&nbsp;Badges and Gladiators</option><option class="krdwrd-tag-1" value="basecon">&nbsp;&nbsp;&nbsp;Base Construction</option><option class="krdwrd-tag-1" value="Market">&nbsp;&nbsp;&nbsp;The Market</option><option class="krdwrd-tag-1" value="Issue9">&nbsp;&nbsp;&nbsp;Inventions Laboratory</option><option class="krdwrd-tag-1" value="faq">&nbsp;&nbsp;&nbsp;Player Guides</option><option class="krdwrd-tag-1" value="-CATJUMP-4">*Archetypes And Powers* -----</option><option class="krdwrd-tag-1" value="archetypes">&nbsp;&nbsp;&nbsp;Archetypes and Powers General Discussion</option><option class="krdwrd-tag-1" value="Blaster">&nbsp;&nbsp;&nbsp;Blaster</option><option class="krdwrd-tag-1" value="brutes">&nbsp;&nbsp;&nbsp;Brutes</option><option class="krdwrd-tag-1" value="Controller">&nbsp;&nbsp;&nbsp;Controller</option><option class="krdwrd-tag-1" value="corruptor">&nbsp;&nbsp;&nbsp;Corruptor</option><option class="krdwrd-tag-1" value="Defender">&nbsp;&nbsp;&nbsp;Defender</option><option class="krdwrd-tag-1" value="dominator">&nbsp;&nbsp;&nbsp;Dominator</option><option class="krdwrd-tag-1" value="Kheldian">&nbsp;&nbsp;&nbsp;Kheldian</option><option class="krdwrd-tag-1" value="mastermind">&nbsp;&nbsp;&nbsp;Mastermind</option><option class="krdwrd-tag-1" value="Scrapper">&nbsp;&nbsp;&nbsp;Scrapper</option><option class="krdwrd-tag-1" value="Arachnossoldiers">&nbsp;&nbsp;&nbsp;Soldiers of Arachnos</option><option class="krdwrd-tag-1" value="stalker">&nbsp;&nbsp;&nbsp;Stalker</option><option class="krdwrd-tag-1" value="Tanker">&nbsp;&nbsp;&nbsp;Tanker</option><option class="krdwrd-tag-1" value="-CATJUMP-5">*Player vs. Player* -----</option><option class="krdwrd-tag-1" value="pvpguides">&nbsp;&nbsp;&nbsp;PvP  Questions, Guides, &amp; Builds</option><option class="krdwrd-tag-1" value="baseraid">&nbsp;&nbsp;&nbsp;PvP Bases</option><option class="krdwrd-tag-1" value="pvpzones">&nbsp;&nbsp;&nbsp;PvP Zones</option><option class="krdwrd-tag-1" value="pvplvzones">&nbsp;&nbsp;&nbsp;PvP Arena</option><option class="krdwrd-tag-1" value="pvppwnz">&nbsp;&nbsp;&nbsp;PWNZ</option><option class="krdwrd-tag-1" value="-CATJUMP-7">*For Fun!* -----</option><option class="krdwrd-tag-1" value="general">&nbsp;&nbsp;&nbsp;City Life - CoH &amp; CoV General Discussions</option><option class="krdwrd-tag-1" value="Ideas">&nbsp;&nbsp;&nbsp;Suggestions and Ideas</option><option class="krdwrd-tag-1" value="comics">&nbsp;&nbsp;&nbsp;Comic and Hero/Villain Culture</option><option class="krdwrd-tag-1" value="roleplaying">&nbsp;&nbsp;&nbsp;Roleplaying</option><option class="krdwrd-tag-1" value="screenshots" selected="selected">&nbsp;&nbsp;&nbsp;Screenshots and Fan Art</option><option class="krdwrd-tag-1" value="Media">&nbsp;&nbsp;&nbsp;Multi-Media~City of Heroes/Villains</option><option class="krdwrd-tag-1" value="games">&nbsp;&nbsp;&nbsp;Forum Games</option><option class="krdwrd-tag-1" value="-CATJUMP-8">*Servers* -----</option><option class="krdwrd-tag-1" value="Champion">&nbsp;&nbsp;&nbsp;Champion</option><option class="krdwrd-tag-1" value="Freedom">&nbsp;&nbsp;&nbsp;Freedom</option><option class="krdwrd-tag-1" value="Guardian">&nbsp;&nbsp;&nbsp;Guardian</option><option class="krdwrd-tag-1" value="Infinity">&nbsp;&nbsp;&nbsp;Infinity</option><option class="krdwrd-tag-1" value="Justice">&nbsp;&nbsp;&nbsp;Justice</option><option class="krdwrd-tag-1" value="Liberty">&nbsp;&nbsp;&nbsp;Liberty</option><option class="krdwrd-tag-1" value="Pinnacle">&nbsp;&nbsp;&nbsp;Pinnacle</option><option class="krdwrd-tag-1" value="Protector">&nbsp;&nbsp;&nbsp;Protector</option><option class="krdwrd-tag-1" value="Triumph">&nbsp;&nbsp;&nbsp;Triumph</option><option class="krdwrd-tag-1" value="Victory">&nbsp;&nbsp;&nbsp;Victory</option><option class="krdwrd-tag-1" value="Virtue">&nbsp;&nbsp;&nbsp;Virtue</option>
+</select>
+<input name="Jump" value="Jump" class="buttons" type="submit">
+</form>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="lighttable" align="center">
+
+</td>
+</tr>
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<br>
+
+<table class="tablesurround" align="center" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr>
+<td>
+<table class="tableborders" cellpadding="3" cellspacing="1" width="100%">
+
+<tbody><tr>
+<td class="darktable">
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left">
+<a href="mailto:web@ncaustin.com"><kw class="krdwrd-tag-1">Contact Us</kw></a>
+
+</td>
+<td align="right">
+<a href="http://www.cityofheroes.com"><kw class="krdwrd-tag-1">City of Heroes</kw></a>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<p style="font-size: 9px;" align="center"><a href="http://www.groupee.com/landing/goto.php?a=ubb.threads"><kw class="krdwrd-tag-1">Powered by UBB.threads™ </kw></a></p>
+</div>
+
+<div id="fullContentBottom"><img src="/images/full_box_bottom.jpg" alt="" height="17" width="927"></div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<div><img src="/images/bottom_cap.jpg" alt="" height="13" width="962"></div>
+<script language="javascript" type="text/javascript" src="/jsfiles/footer.js"></script><div id="footer"><div id="footerNCsoft"><a href="http://www.ncsoft.com" target="_blank"><img src="/images/ncsoft.gif" alt="NCsoft Corporation" border="0" height="71" width="80"></a></div><div id="footerCryptic"><a href="http://www.crypticstudios.com" target="_blank"><img src="/images/cryptic_logo_main.gif" alt="Cryptic Studios" border="0" height="73" width="53"></a></div><div id="footerWindows"><a href="http://www.microsoft.com/windowsxp/using/games/default.mspx" target="_blank"><img src="/images/logos/logo_windows.gif" alt="Games for Windows" border="0" height="73" width="75"></a></div><div id="footerNvidia"><a href="http://www.nvidia.com" target="_blank"><img src="/images/logos/logo_nvidia.gif" alt="nVidia" border="0" height="73" width="73"></a></div><div id="footerAgeia"><a href="http://www.ageia.com/" target="_blank"><img src="/images/logos/physx_logo.gif" alt="Ageia" border="0" height="49" width="135"></a></div><div id="footerCreative"><a href="http://www.creative.com/" target="_blank"><img src="/images/logos/creative_logo.jpg" alt="Creative" border="0" height="73" width="126"></a></div><div id="footerIntel"><a href="http://www.intel.com" target="_blank"><img src="/images/logos/ppxe_logo.gif" alt="Intel" border="0" height="69" width="108"></a></div><div id="footerESRB"><div id="contentDescriptor1"><a href="http://www.esrb.org" target="_blank"><img src="/images/logos/esrb.gif" alt="Rated T for Teen" border="0" height="73" width="158"></a></div></div><div class="clearBoth"></div><div style="text-align: center; font-size: 10px;"><p><a class="krdwrd-tag-1" href="http://www.plaync.com/us/help/legal.html" target="_blank">Legal Notices</a></p></div></div><div id="footer"><div id="footerNCsoft"><a href="http://www.ncsoft.com" target="_blank"><img src="/images/ncsoft.gif" alt="NCsoft Corporation" border="0" height="71" width="80"></a></div><div id="footerCryptic"><a href="http://www.crypticstudios.com" target="_blank"><img src="/images/cryptic_logo_main.gif" alt="Cryptic Studios" border="0" height="73" width="53"></a></div><div id="footerWindows"><a href="http://www.microsoft.com/windowsxp/using/games/default.mspx" target="_blank"><img src="/images/logos/logo_windows.gif" alt="Games for Windows" border="0" height="73" width="75"></a></div><div id="footerNvidia"><a href="http://www.nvidia.com" target="_blank"><img src="/images/logos/logo_nvidia.gif" alt="nVidia" border="0" height="73" width="73"></a></div><div id="footerAgeia"><a href="http://www.ageia.com/" target="_blank"><img src="/images/logos/physx_logo.gif" alt="Ageia" border="0" height="49" width="135"></a></div><div id="footerCreative"><a href="http://www.creative.com/" target="_blank"><img src="/images/logos/creative_logo.jpg" alt="Creative" border="0" height="73" width="126"></a></div><div id="footerIntel"><a href="http://www.intel.com" target="_blank"><img src="/images/logos/ppxe_logo.gif" alt="Intel" border="0" height="69" width="108"></a></div><div id="footerESRB"><div id="contentDescriptor1"><a href="http://www.esrb.org" target="_blank"><img src="/images/logos/esrb.gif" alt="Rated T for Teen" border="0" height="73" width="158"></a></div></div><div class="clearBoth"></div><div style="text-align: center; font-size: 10px;"><p><a href="http://www.plaync.com/us/help/legal.html" target="_blank"><kw class="krdwrd-tag-1">Legal Notices</kw></a></p></div></div>
+</div>
+<!-- ends centering div -->
+<!-- image map for flags -->
+<map name="Map"><area shape="rect" coords="39,0,79,19" href="http://uk.cityofheroes.com"><area shape="rect" coords="120,0,146,18" href="http://de.cityofheroes.com"><area shape="rect" coords="86,1,112,19" href="http://fr.cityofheroes.com"><area shape="rect" coords="7,1,33,19" href="http://www.cityofheroes.com">
+  
+  
+  
+  
+</map>
+</body>
