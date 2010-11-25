@@ -19,8 +19,8 @@ $ ./agreement.py stats/ plan.canola UIDs
  -weighted: the respective calculations but weighted by the number of tokens
 
 stats/, stats.20100908/ 
-output of an app's merge run with -stats; for all considered pageIDs there are
-two files:
+output of an app's merge run with -stats and plan.appErrsRmvd; for all
+considered pageIDs there are two files:
 pageID and pageID.stats
  - pageID: this is the HTML page after merging the different votes;
  -- the agreement on each tag is ( users-voted-for-the-tag / votes-on-the-tag )
